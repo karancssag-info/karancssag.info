@@ -1,5 +1,7 @@
     {% include navbar.html %}
-	<div class="container marketing">
-		{{ content }}
-		{% include footer.html %}
-	</div>
+	<main role="main" class="container">
+		<div id="maincontent">
+			{{ content }}
+		</div>
+	</main>
+	{% include footer.html %}
