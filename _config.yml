@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+host: 0.0.0.0
+title: karancssag.info
+email: info@karancssag.info
+description: > # this means to ignore newlines until "baseurl:"
+  Karancsság község nem hivatalos honlapja.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://karancssag.info" # the base hostname & protocol for your site
+static_url: "//static.karancssag.info"
+
+# Build settings
+markdown: kramdown
