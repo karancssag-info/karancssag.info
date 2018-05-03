@@ -2,6 +2,7 @@
 layout: page
 title: Letöltések
 permalink: /download/
+comments: true
 ---
 
 Karancsság község önkormányzata képviselő-testületi ülések és közmeghallgatás jegyzőkönyvei 2014-2017, valamint az önkormányzat Szervezeti és Működési Szabályzata.

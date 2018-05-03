@@ -2,6 +2,7 @@
 layout: page
 permalink: /kozsegunk/
 title: Községünk
+comments: true
 ---
 # Karancsság
 
