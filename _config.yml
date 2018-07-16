@@ -12,8 +12,8 @@ email: info@karancssag.info
 description: > # this means to ignore newlines until "baseurl:"
   Karancsság község nem hivatalos honlapja.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://karancssag.info" # the base hostname & protocol for your site
-static_url: "//static.karancssag.info"
+url: "https://karancssag.info" # the base hostname & protocol for your site
+static_url: "http://static.karancssag.info"
 
 # Build settings
 markdown: kramdown
