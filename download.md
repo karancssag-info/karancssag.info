@@ -6,7 +6,7 @@ comments: true
 thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/ft.jpg
 ---
 
-Karancsság község önkormányzata képviselő-testületi ülések és közmeghallgatás jegyzőkönyvei 2014-2017, valamint az önkormányzat Szervezeti és Működési Szabályzata.
+Karancsság község önkormányzata képviselő-testületi ülések és közmeghallgatás jegyzőkönyvei 2014-2018, valamint az önkormányzat Szervezeti és Működési Szabályzata.
 
 + [2014_01_14.pdf][1]{:target="_blank"}
 + [2014_02_11_együttes.pdf][2]{:target="_blank"}
