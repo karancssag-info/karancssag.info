@@ -50,6 +50,17 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 + [2017_11_06.pdf][40]{:target="_blank"}
 + [2017_12_14.pdf][41]{:target="_blank"}
 + [SZMSZ.pdf][42]{:target="_blank"}
++ [Karancssag_2018_01_25_jegyzokonyv_1.pdf][43]{:target="_blank"}
++ [Karancssag_2018_03_06_jegyzokonyv_2.pdf][44]{:target="_blank"}
++ [Karancssag_2018_03_13_jegyzokonyv_3.pdf][45]{:target="_blank"}
++ [Karancssag_2018_04_04_jegyzokonyv_4.pdf][46]{:target="_blank"}
++ [Karancssag_2018_04_12_jegyzokonyv_5.pdf][47]{:target="_blank"}
++ [Karancssag_2018_04_16_jegyzokonyv_6.pdf][48]{:target="_blank"}
++ [Karancssag_2018_05_02_jegyzokonyv_7.pdf][49]{:target="_blank"}
++ [Karancssag_2018_05_23_jegyzokonyv_8.pdf][50]{:target="_blank"}
++ [Karancssag_2018_05_31_jegyzokonyv_9.pdf][51]{:target="_blank"}
++ [Karancssag_2018_07_31_jegyzokonyv_10.pdf][52]{:target="_blank"}
++ [Karancssag_2018_08_28_jegyzokonyv_11.pdf][53]{:target="_blank"}
 
 
 [1]:{{ site.static_url }}/download/2014_01_14.pdf
@@ -94,3 +105,14 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 [40]:{{ site.static_url }}/download/2017_11_06.pdf
 [41]:{{ site.static_url }}/download/2017_12_14.pdf
 [42]:{{ site.static_url }}/download/SZMSZ.pdf
+[43]:{{ site.static_url }}/download/Karancssag_2018_01_25_jegyzokonyv_1.pdf
+[44]:{{ site.static_url }}/download/Karancssag_2018_03_06_jegyzokonyv_2.pdf
+[45]:{{ site.static_url }}/download/Karancssag_2018_03_13_jegyzokonyv_3.pdf
+[46]:{{ site.static_url }}/download/Karancssag_2018_04_04_jegyzokonyv_4.pdf
+[47]:{{ site.static_url }}/download/Karancssag_2018_04_12_jegyzokonyv_5.pdf
+[48]:{{ site.static_url }}/download/Karancssag_2018_04_16_jegyzokonyv_6.pdf
+[49]:{{ site.static_url }}/download/Karancssag_2018_05_02_jegyzokonyv_7.pdf
+[50]:{{ site.static_url }}/download/Karancssag_2018_05_23_jegyzokonyv_8.pdf
+[51]:{{ site.static_url }}/download/Karancssag_2018_05_31_jegyzokonyv_9.pdf
+[52]:{{ site.static_url }}/download/Karancssag_2018_07_31_jegyzokonyv_10.pdf
+[53]:{{ site.static_url }}/download/Karancssag_2018_08_28_jegyzokonyv_11.pdf
