@@ -16,9 +16,9 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 + [SZMSZ][6]{:target="_blank"}
 
 
-[1]:/download/jegyzokonyvek/2014
-[2]:/download/jegyzokonyvek/2015
-[3]:/download/jegyzokonyvek/2016
-[4]:/download/jegyzokonyvek/2017
-[5]:/download/jegyzokonyvek/2018
+[1]:/download/jegyzokonyvek/2014/
+[2]:/download/jegyzokonyvek/2015/
+[3]:/download/jegyzokonyvek/2016/
+[4]:/download/jegyzokonyvek/2017/
+[5]:/download/jegyzokonyvek/2018/
 [6]:{{ site.static_url }}/download/SZMSZ.pdf
