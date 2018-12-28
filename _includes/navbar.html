@@ -5,15 +5,21 @@
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+			{% capture navi %}
 			<ul class="navbar-nav mr-auto">
-				{% for my_page in site.pages %}
-				{% if my_page.title %}
-				<li class="nav-item{% if page.url == my_page.url %} active{% endif %}">
-					<a class="nav-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}{% if
-						page.url == my_page.url %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+				{% assign entries = site.pages | sort: "permalink" %}
+				{% for entry in entries %}
+				{% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+				{% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+				{% if entry.title and current == '/'%}
+				<li class="nav-item{% if page.url == entry.url %} active{% endif %}">
+					<a class="nav-link" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}{% if
+						page.url == entry.url %} <span class="sr-only">(current)</span>{% endif %}</a></li>
 				{% endif %}
 				{% endfor %}
 			</ul>
+			{% endcapture %}
+			{{navi}}
 		</div>
 	</nav>
 </header>
