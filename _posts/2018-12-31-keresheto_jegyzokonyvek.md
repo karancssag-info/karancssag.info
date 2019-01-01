@@ -7,3 +7,7 @@ thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/flud-
 
 Felkerültek a jegyzőkönyvek kereshető (szöveges réteget tartalmazó) változatai.
 Sajnos némely jegyzőkönyv rossz minőségű scannelt változatban volt fellelhető, amivel a karakterfelismerő nem tudott mit kezdeni.
+
+[Testületi ülések jegyzőkönyvei, Szervezeti Működési Szabályzat][1]
+
+[1]:/download/jegyzokonyvek
