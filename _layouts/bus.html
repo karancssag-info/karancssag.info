@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div id="app"></div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+    axios.get('https://thgab.com/nextBus')
+        .then(function (response) {
+            var app = document.getElementById('app');
+            for(var i=0; i<response.data.length; i++){
+                app.innerHTML += response.data[i].nextBus.when + ' : ' + response.data[i].nextBus.to + '<br/>';
+            }
+        })
+        .catch(function (error) {
+            // handle error
+            console.log(error);
+        })
+        .then(function () {
+
+        });
+</script>
