@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign author = site.data.authors[page.author] %}
 <article>
 	{{ content }}
 	{% if page.comments %}
