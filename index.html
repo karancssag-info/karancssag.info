@@ -2,7 +2,8 @@
 layout: default
 thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/ft.jpg
 ---
-<h1>Hírek</h1>
+<h1>{{ site.description| strip_html | strip_newlines }}<h1>
+<h2>Hírek</h2>
 <p>
   <ul class="post-list">
     {% for post in site.posts %}

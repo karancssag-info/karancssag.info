@@ -10,7 +10,9 @@ host: 0.0.0.0
 title: karancssag.info
 email: info@karancssag.info
 description: > # this means to ignore newlines until "baseurl:"
-  Karancsság község nem hivatalos honlapja.
+  Karancsság info
+keywords: > # this means to ignore newlines until "baseurl:"
+  Karancsság, információ, közérdekű, önkormányzat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karancssag.info" # the base hostname & protocol for your site
 static_url: "http://static.karancssag.info"
