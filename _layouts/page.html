@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
-<article>
+<article{% if page.class %} class="{{ page.class }}" {% endif %}>
 	{{ content }}
 	{% if page.comments %}
 	<div id="disqus_thread"></div>

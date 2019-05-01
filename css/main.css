@@ -10,3 +10,13 @@ footer {
 .ais-Hits h3 {
     font-size: 1rem;
 }
+
+article.reader {
+    font-family: 'Roboto Slab', serif;
+}
+
+article.reader p{
+    line-height: 1.9rem;
+    text-align: justify;
+    text-indent: 3rem;
+}

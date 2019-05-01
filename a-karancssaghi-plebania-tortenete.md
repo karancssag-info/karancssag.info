@@ -4,6 +4,7 @@ title: A KARANCSSÁGHI PLÉBÁNIA TÖRTÉNETE.
 permalink: /tortenet/A-karancssaghi-plebania-tortenete/
 comments: false
 thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/magyar_sion.png
+class: reader
 ---
 _**Magyar Sion 1865. (3. évfolyam) 926 - 934**_
 
@@ -40,7 +41,7 @@ néhai dicső emlékű Pázmány Péter bibornok s esztergomi
 érsek alatt tartott megyei zsinatban összejött plébánosok között 1628-ban a nógrádi föesperesi kerülethez
 tartozó sághi
 plébánosokról is szól. Ugyane történész felemliti, hogy Rimaszétsy Márton, sághi plébános a nagyszombati zsinaton
-részt vett. [^2] A sághi plébániát illető előbbi korba vágó adatokra nem akadunk.
+részt vett.[^2] A sághi plébániát illető előbbi korba vágó adatokra nem akadunk.
 
 Ki volt légyen Sághnak ősrégi birtokosa, arra is kevés
 adatunk van. Az itt lévő családi levéltár egy régi okirata
