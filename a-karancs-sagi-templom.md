@@ -17,8 +17,8 @@ _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
  A vidék, melynek néhány emlékéről röviden szólok, nevezetes mint a palóczság középpontja és 
  mint a hajdan dúsgazdag Záchok birtoka. Karancs-Ságon, egy a helységhez közel fekvő réten nagy
  kiterjedésű alapzatok vannak, melyeknek falait részint útkészítésre, részint épületek emelésére
- használták éh melyeket idestova még mai napság is kiaknáznak. A népmonda azt tartja , hogy ezen
- alapzatokon hajdan a szerencsétlen Zách Leliczián kastélya emelkedett. Érdekes volna e helyen
+ használták és melyeket idestova még mai napság is kiaknáznak. A népmonda azt tartja , hogy ezen
+ alapzatokon hajdan a szerencsétlen Zách Feliczián kastélya emelkedett. Érdekes volna e helyen
  ásatásokat tenni.
  
  Magában Karancs-Ságon,[^1] kis dombon áll egy Zách Leliczián koránál régibb, több tekintetben érdekes
