@@ -44,7 +44,7 @@ _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
  áll a karancsságihoz. Mindkét esetben t. i. az átkarzat mélységével vagyis kiterjedésével sokkal felülmúlja
  a varsányi és dárdai épületkék kis karzatát ; ama kettő tehát nagyobb számú embercsoport fogadására
  volt alkalmas, minőt — biztos történelmi adatok alapján tudjuk — képeztek ab. Margit zárdájában összegyűlt
- apáczák. Másrészt szembetűnők a Harczliegység táján (Németországban) levő templomok átkarzatai, melyek
+ apáczák. Másrészt szembetűnők a Harcz-hegység táján (Németországban) levő templomok átkarzatai, melyek
  szintén leginkább a női zárdákban fordulnak elő. De vannak ott kétféle szerzetes községnek szolgáló
  templomok is, vagy is, kettős, férfi- és női zárdatemplomok, melyeknek hosszszentélyében a férfi szerzetesek,
  átkarzatán pedig az ugyanazon rendhez tartozó apáczák foglaltak helyet. Azonban ily tényállást Karáncsságon
