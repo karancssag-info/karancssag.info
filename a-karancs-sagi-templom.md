@@ -21,7 +21,7 @@ _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
  alapzatokon hajdan a szerencsétlen Zách Feliczián kastélya emelkedett. Érdekes volna e helyen
  ásatásokat tenni.
  
- Magában Karancs-Ságon,[^1] kis dombon áll egy Zách Leliczián koránál régibb, több tekintetben érdekes
+ Magában Karancs-Ságon,[^1] kis dombon áll egy Zách Feliczián koránál régibb, több tekintetben érdekes
  templom. Bár eredetére és rendeltetésére nézve semmi okmánynyal sem birunk, alakja és elrendezése
  után következtethetni, hogy itt Árpádkori szerzetes templommal van dolgunk. A félkörű apsis és
  a támnélküli eredeti fal, a fenmaradt nyugati kapu, két jelenleg befalazott ablak és a nyugati
