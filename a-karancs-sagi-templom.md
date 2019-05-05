@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A KARANCSSÁGHI PLÉBÁNIA TÖRTÉNETE.
+title: A karancs-sági templom.
 permalink: /tortenet/A-karancs-sagi-templom/
 comments: false
 thumbnail: https://storage.googleapis.com/static.karancssag.info/images/doc/utijegyzet.png
