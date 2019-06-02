@@ -3,7 +3,7 @@ layout: post
 title:  "A 2019. január 1.-el bevezetett földadóról."
 comments: true
 thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/blue-sky-clouds-crop-388415.jpg
-topImage: https://storage.googleapis.com/static.karancssag.info/images/og/blue-sky-clouds-crop-388415.jpg
+topImage: https://storage.googleapis.com/static.karancssag.info/images/og/cr-blue-sky-clouds-crop-388415.jpg
 author: thgab
 class: reader
 ---
