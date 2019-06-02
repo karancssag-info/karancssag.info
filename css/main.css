@@ -20,3 +20,9 @@ article.reader p{
     text-align: justify;
     text-indent: 3rem;
 }
+
+blockquote{
+    font-style: oblique;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}

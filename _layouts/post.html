@@ -3,6 +3,9 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  {% if page.topImage %}
+    <img src="{{ page.topImage }}" class="img-fluid" alt="Responsive image">
+  {% endif %}
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
