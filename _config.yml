@@ -10,7 +10,7 @@ host: 0.0.0.0
 title: karancssag.info
 email: info@karancssag.info
 description: > # this means to ignore newlines until "baseurl:"
-  Karancsság info. Mindenfélék, az internetre feltöltve.
+  Karancsság info
 keywords: > # this means to ignore newlines until "baseurl:"
   Karancsság, információ, közérdekű, önkormányzat
 baseurl: "" # the subpath of your site, e.g. /blog
