@@ -9,16 +9,16 @@ A képviselő testület összetételét tekintve a 2010-2014-es önkormányzati 
 
 A 2014. október 12.-én lezajlott választások eredményeképpen, a falu polgármestere
 
-Tóth Tihamér Sándor független jelölt lett,
+**Tóth Tihamér Sándor** független jelölt lett,
 
 a képviselő testület tagjai pedig,
 
-* Berki András	független jelölt,	
-* Dr. Brumár Mihály	független jelölt,	
-* Hajdara Roland	FKGP,
-* Horváth Zoltán	független jelölt,	
-* Kászi Richárd	független jelölt,
-* Tőzsér Dezső	független jelölt,
+* **Berki András**	független jelölt,	
+* **Dr. Brumár Mihály**	független jelölt,	
+* **Hajdara Roland**	FKGP,
+* **Horváth Zoltán**	független jelölt,	
+* **Kászi Richárd**	független jelölt,
+* **Tőzsér Dezső**	független jelölt,
 
 lettek.
 
