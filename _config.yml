@@ -19,3 +19,5 @@ static_url: "http://static.karancssag.info"
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
