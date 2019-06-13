@@ -3,7 +3,7 @@ layout: page
 title: A karancs-sági templom.
 permalink: /tortenet/A-karancs-sagi-templom/
 comments: false
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/doc/utijegyzet.png
+thumbnail: https://static.karancssag.info/images/doc/utijegyzet.png
 class: reader
 ---
 _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
@@ -35,7 +35,7 @@ _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
  és részleteit is. A karancs-sági templom eredeti zömén ily alakzások még nem fordulnak elő ; miért is
  ezt az ó-román korszakba és a tatárjárás előtti időkbe kell helyeznünk.
  
- ![alaprajz](https://storage.googleapis.com/static.karancssag.info/images/doc/kt2.png){:class="float-left"}Hogy pedig szerzetes templom volt, azt apsisához csatolt hosszszentélyéből következtetjük, mely nem
+ ![alaprajz](https://static.karancssag.info/images/doc/kt2.png){:class="float-left"}Hogy pedig szerzetes templom volt, azt apsisához csatolt hosszszentélyéből következtetjük, mely nem
  kevesebbet mint a hosszhajó fél szélességét méri ; itt tehát a szerzet tagjainak meglehetős sok stallumai
  állhattak. He ezenkívül a templom nyugati végén emelkedik tizenkét oszlopon egy átkarzat (Querempore),
  mely az épületnek legkiválóbb, legérdekesebb részét teszi. Hasonló átkarzatot ismerünk az igen ódonszerű
@@ -52,7 +52,7 @@ _**ARCHAEOLOGIAI ÉRTESÍTŐ 12. KÖTET (1878)1878 / 9. füzet**_
  miért is hinnünk kell, hogy az átkarzat az alapító Zách, vagy más előkelő család tagjainak szolgált; minélfogva
  itt nyoma sincs oly ajtónak, mely magasabb épületből közvetlen a karzatra vehetett volna.
  
- ![oszlop](https://storage.googleapis.com/static.karancssag.info/images/doc/kt1.png){:class="float-right"}Igen nevezetesek
+ ![oszlop](https://static.karancssag.info/images/doc/kt1.png){:class="float-right"}Igen nevezetesek
  az e karzatot hordozó oszlopok; átmérőjük 0&middot;67 meterével összeegyezik az ugyanennyit mérő körfal vastagsága.
  Hármas sorban állanak és egymásközt egyszerű hevederívvel vannak öszszekötve, melyeken jelenleg csak
  deszkapadozat fekszik ; ámbár e tárnak erőssége és hevederívei donga- vagy keresztbolt hordására voltak rendelve.

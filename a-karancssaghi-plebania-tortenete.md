@@ -3,7 +3,7 @@ layout: page
 title: A KARANCSSÁGHI PLÉBÁNIA TÖRTÉNETE.
 permalink: /tortenet/A-karancssaghi-plebania-tortenete/
 comments: false
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/magyar_sion.png
+thumbnail: https://static.karancssag.info/images/og/magyar_sion.png
 class: reader
 ---
 _**Magyar Sion 1865. (3. évfolyam) 926 - 934**_

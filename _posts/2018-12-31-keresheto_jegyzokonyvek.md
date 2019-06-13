@@ -2,7 +2,7 @@
 layout: post
 title:  "Kereshető jegyzőkönyv PDF-ek"
 comments: true
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/flud-lens-2-1461127.jpg
+thumbnail: https://static.karancssag.info/images/og/flud-lens-2-1461127.jpg
 author: thgab
 ---
 

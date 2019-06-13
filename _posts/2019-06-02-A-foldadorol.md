@@ -2,8 +2,8 @@
 layout: post
 title:  "A 2019. január 1.-el bevezetett földadóról."
 comments: true
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/blue-sky-clouds-crop-388415.jpg
-topImage: https://storage.googleapis.com/static.karancssag.info/images/og/cr-blue-sky-clouds-crop-388415.jpg
+thumbnail: https://static.karancssag.info/images/og/blue-sky-clouds-crop-388415.jpg
+topImage: https://static.karancssag.info/images/og/cr-blue-sky-clouds-crop-388415.jpg
 author: thgab
 class: reader
 ---
@@ -22,11 +22,11 @@ Fontosnak tartom itt kiemelni:
 
 Ez a mondat azt sugallja, hogy a korábbi testületi üléseken napirenden volt a földadó bevezetése, és azt a képviselők megvitatták, stb.
 
-Viszont ha a [https://karancssag.info/kereso/](https://karancssag.info/kereso/) oldalon a keresőmezőbe beírom a "földadó" szót, akkor csak a testületi ülés jegyzőkönyvét találni amikor is [el lett fogadva](https://storage.googleapis.com/static.karancssag.info/download/2018_11_20.pdf), illetve a 2018. 12. 13.-i [közmeghallgatás jegyzőkönyvét](https://storage.googleapis.com/static.karancssag.info/download/2018_12_13.pdf), amikor is a falu "lakosságának" ki lett hirdetve. (A lakosságot azért idézőjeleztem, mert a megjelentek száma ezt indokolja.)
+Viszont ha a [https://karancssag.info/kereso/](https://karancssag.info/kereso/) oldalon a keresőmezőbe beírom a "földadó" szót, akkor csak a testületi ülés jegyzőkönyvét találni amikor is [el lett fogadva](https://static.karancssag.info/download/2018_11_20.pdf), illetve a 2018. 12. 13.-i [közmeghallgatás jegyzőkönyvét](https://static.karancssag.info/download/2018_12_13.pdf), amikor is a falu "lakosságának" ki lett hirdetve. (A lakosságot azért idézőjeleztem, mert a megjelentek száma ezt indokolja.)
 
-Ha a korábbi jegyzőkönyveket nézzük, azokban az önkormányzati tulajdonú földterületek eladásáról van szó. Ezek a területek [fel is lettek értékelve](https://storage.googleapis.com/static.karancssag.info/download/2018_09_25_melleklet.pdf), és az értékesítésükről határozat született 2018. 09. 25.-én. ([2018. 09. 25. Jegyzőkönyv](https://storage.googleapis.com/static.karancssag.info/download/2018_09_25.pdf) 4.pontja)
+Ha a korábbi jegyzőkönyveket nézzük, azokban az önkormányzati tulajdonú földterületek eladásáról van szó. Ezek a területek [fel is lettek értékelve](https://static.karancssag.info/download/2018_09_25_melleklet.pdf), és az értékesítésükről határozat született 2018. 09. 25.-én. ([2018. 09. 25. Jegyzőkönyv](https://static.karancssag.info/download/2018_09_25.pdf) 4.pontja)
 
-A következő testületi ülésen is szó esett a földterületek eladásról ([2018. 10. 02.](https://storage.googleapis.com/static.karancssag.info/download/2018_10_02.pdf)), de már az is felvetődött, hogy esetleg mégsem célszerű az önkormányzati vagyont ily módon felélni. Itt jött elő a mezőőri járulék kivetése.
+A következő testületi ülésen is szó esett a földterületek eladásról ([2018. 10. 02.](https://static.karancssag.info/download/2018_10_02.pdf)), de már az is felvetődött, hogy esetleg mégsem célszerű az önkormányzati vagyont ily módon felélni. Itt jött elő a mezőőri járulék kivetése.
 
 A mezőőri járulék azt a célt szolgálta volna, hogy a mezőőri szolgálat díját abból finanszírozza az önkormányzat.
 

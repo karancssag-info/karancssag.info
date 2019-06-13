@@ -3,7 +3,7 @@ layout: page
 permalink: /kozsegunk/
 title: Községünk
 comments: true
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/ft.jpg
+thumbnail: https://static.karancssag.info/images/og/ft.jpg
 ---
 # Karancsság
 

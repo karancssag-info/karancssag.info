@@ -2,7 +2,7 @@
 layout: post
 title:  "Lemondások, személycserék"
 comments: true
-thumbnail: https://storage.googleapis.com/static.karancssag.info/images/og/chairs-contemporary-designer-416320.jpg
+thumbnail: https://static.karancssag.info/images/og/chairs-contemporary-designer-416320.jpg
 author: thgab
 ---
 A képviselő testület összetételét tekintve a 2010-2014-es önkormányzati ciklus személycserék nélkül telt. A 2010-ben megválasztott képviselők kitöltötték szolgálati idejüket.
@@ -80,7 +80,7 @@ többi képviselő csak rá való tekintettel írta alá.
 >A képviselő—testület rövid megbeszélés után döntést az ügyben nem kívánt hozni.
 (A "határozat" a jegyzőkönyv melléklete.)
 
-A "határozat"-ban megjelölt [testületi ülés jegyzőkönyve](https://storage.googleapis.com/static.karancssag.info/download/2017_11_06.pdf).
+A "határozat"-ban megjelölt [testületi ülés jegyzőkönyve](https://static.karancssag.info/download/2017_11_06.pdf).
 
 ---
 
