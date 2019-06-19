@@ -26,3 +26,6 @@ blockquote{
     margin-bottom: 1rem;
     font-size: 1.25rem;
 }
+
+article table{border-collapse:collapse;}
+article th, article td{border:1px solid black;}
