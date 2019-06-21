@@ -8,6 +8,7 @@ author: thgab
 class: reader
 ---
 A földadó bevezetéséről készült rendeletet a képviselő testület 2018. 11. 20.-i ülésén fogadta el.
+<!--more-->
 Az ülésen ez volt a 3. napirendi pont.
 
 **3\. Karancsság Község Önkormányzata Képviselő-testületének önkormányzati rendelete a földadóról**

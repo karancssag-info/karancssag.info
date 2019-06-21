@@ -8,6 +8,7 @@ author: thgab
 
 Felkerültek a 2018. szeptemberi, és az azt követő 2018-as jegyzőkönyvek a
 Nógrád Megyei Kormányhivatal Hatósági Főosztály jóvoltából.
+<!--more-->
 Az önkormányzat többszöri megkeresésem ellenére sem tett eleget adatigénylésemnek.
 
 [2018-as év][1]

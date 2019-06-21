@@ -7,6 +7,7 @@ author: thgab
 ---
 
 Új dokumentum kereső került az oldalra, amivel a feltöltött pdf-ek tartalmában lehet keresni.
+<!--more-->
 Mivel a jegyzőkönyvek scannelve kerültek fel, így a minőségtől függően változik a felismert szöveg pontossága.
 
 [Dokumentum kereső][1]

@@ -6,7 +6,7 @@
 {% else %}
 <meta property="og:type" content="website" />
 {% endif %}
-
+{% include meta.html property="fb:app_id" content=site.fbappid %}
 {% include meta.html property="og:site_name" content=site.title %}
 {% include meta.html property="og:image" content=page.thumbnail %}
 

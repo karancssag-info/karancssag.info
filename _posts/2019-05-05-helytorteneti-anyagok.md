@@ -7,6 +7,7 @@ author: thgab
 ---
 
 Helytörténeti anyagokkal bővült a honlap.
+<!--more-->
 
 [Történelem][1]
 

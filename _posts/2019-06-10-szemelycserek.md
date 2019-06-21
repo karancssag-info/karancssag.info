@@ -6,7 +6,7 @@ thumbnail: https://static.karancssag.info/images/og/chairs-contemporary-designer
 author: thgab
 ---
 A képviselő testület összetételét tekintve a 2010-2014-es önkormányzati ciklus személycserék nélkül telt. A 2010-ben megválasztott képviselők kitöltötték szolgálati idejüket.
-
+<!--more-->
 A 2014. október 12.-én lezajlott választások eredményeképpen, a falu polgármestere
 
 **Tóth Tihamér Sándor** független jelölt lett,

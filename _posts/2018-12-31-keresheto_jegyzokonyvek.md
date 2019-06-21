@@ -7,6 +7,9 @@ author: thgab
 ---
 
 Felkerültek a jegyzőkönyvek kereshető (szöveges réteget tartalmazó) változatai.
+
+<!--more-->
+
 Sajnos némely jegyzőkönyv rossz minőségű scannelt változatban volt fellelhető, amivel a karakterfelismerő nem tudott mit kezdeni.
 
 [Testületi ülések jegyzőkönyvei, Szervezeti Működési Szabályzat][1]
