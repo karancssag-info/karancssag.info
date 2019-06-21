@@ -35,3 +35,11 @@ article th, article td{border:1px solid black;}
     height: 15vw;
     object-fit: cover;
 }
+
+nav.logo{
+    background-image: url(https://static.karancssag.info/images/og/ft.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    background-size: 100%;
+    background-blend-mode: soft-light;
+}
