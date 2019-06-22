@@ -2,7 +2,8 @@
 layout: post
 title:  "Teljes lett a 2018-as év"
 comments: true
-thumbnail: https://static.karancssag.info/images/og/flud-lens-2-1461127.jpg
+thumbnail: https://static.karancssag.info/images/og/agenda-calendar-dates-273153.jpg
+postthumbnail: https://static.karancssag.info/images/og/w800/agenda-calendar-dates-273153.jpg
 author: thgab
 ---
 

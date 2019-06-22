@@ -3,6 +3,7 @@ layout: post
 title:  "Lemondások, személycserék"
 comments: true
 thumbnail: https://static.karancssag.info/images/og/chairs-contemporary-designer-416320.jpg
+postthumbnail: https://static.karancssag.info/images/og/w800/chairs-contemporary-designer-416320.jpg
 author: thgab
 ---
 A képviselő testület összetételét tekintve a 2010-2014-es önkormányzati ciklus személycserék nélkül telt. A 2010-ben megválasztott képviselők kitöltötték szolgálati idejüket.
