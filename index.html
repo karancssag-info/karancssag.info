@@ -10,13 +10,17 @@ thumbnail: https://static.karancssag.info/images/og/ft.jpg
             {% for post in site.posts %}
             <div class="col-lg-4 col-md-6 mt-3 d-flex align-items-stretch">
                 <div class="card py100">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        <img class="card-img-top post-card-image" src="{{ post.postthumbnail }}" alt="{{ post.title }}">
-                    </a>
+                    <div class="card-header card-head-img" style="background-image:url('{{ post.postthumbnail }}')">
+                    </div>
+                    <div class="card-img-overlay">
+                        <div class="card-title-wrapper">
+                            <a class="text-light" href="{{ post.url | prepend: site.baseurl }}">
+                                <h5 class="card-title">{{ post.title }}</h5>
+                            </a>
+                            <h6>{{ post.date | date: "%Y-%m-%d" }}</h6>
+                        </div>
+                    </div>
                     <div class="card-body">
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <h5 class="card-title">{{ post.title }}</h5></a>
-                        <h6>{{ post.date | date: "%Y-%m-%d" }}</h6>
                         <p class="card-text">{{ post.excerpt }}</p>
                         <a href="{{ post.url | prepend: site.baseurl }}" class="">Olvass tovább ...</a>
                     </div>
