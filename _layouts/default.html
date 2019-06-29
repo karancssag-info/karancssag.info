@@ -2,6 +2,9 @@
 <html lang="hu">
 	{% include head.html %}
 	<body>
+	{% if page.fbchat %}
+	{% include fbchat.html %}
+	{% endif %}
 		{% include container.html %}
 		{% include footerjs.html %}
 	</body>
