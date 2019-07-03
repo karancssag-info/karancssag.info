@@ -72,9 +72,6 @@ nav.logo{
     font-weight: 100;
 }
 
-
-
-
 @media (min-width: 576px) {
     .post-card-image {
         height: 20vw;
