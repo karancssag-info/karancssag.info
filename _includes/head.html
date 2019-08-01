@@ -4,7 +4,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="{% if page.author %}{{site.data.authors[page.author].name}} [{{ page.author | escape }}]{% else %}{{ site.author | escape }}{% endif %}">
-		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description| strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html  | newline_to_br | strip_newlines | replace: '<br />', ' '| truncate: 160 }}{% else %}{{ site.description| strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 		<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | strip_html | strip_newlines}}{% else %}{{ site.keywords| strip_html | strip_newlines }}{% endif %}" />
 		{% include ogp.html %}
 
