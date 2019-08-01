@@ -7,7 +7,7 @@ postthumbnail: https://static.karancssag.info/images/og/w800/agenda-calendar-dat
 author: thgab
 ---
 
-Felkerültek a 2019. márciusi jegyzőkönyvek a
+Felkerültek a 2019. márciusi jegyzőkönyvek a 
 Nógrád Megyei Kormányhivatal Hatósági Főosztály jóvoltából.
 <!--more-->
 
