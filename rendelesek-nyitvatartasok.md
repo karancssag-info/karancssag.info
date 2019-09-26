@@ -16,7 +16,7 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
 | Hétfő | 9:00 - 12:00 | 13:00 - 16:00 ||
 | Kedd | | | 9:00 - 13:00 ||
 | Szerda | 9:00 - 13:00 |||
-| Csütörtök | | 10:00 -13:00 ||
+| Csütörtök | | 10:00 - 13:00 ||
 | Péntek | 9:00 - 13:00 |
 
 ---
