@@ -2,25 +2,25 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post">
   {% if page.topImage %}
     <img src="{{ page.topImage }}" class="img-fluid" alt="Responsive image">
   {% endif %}
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+      <time>{{ page.date | date: "%Y-%m-%d" }}</time>
       {% if author %} •
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ author.name }}</span>
+      <span>
+        <span>{{ author.name }}</span>
       </span>
       {% endif %}
       <div class="sharethis-inline-share-buttons"></div>
     </p>
   </header>
 
-  <p itemprop="articleBody">
+  <p>
     {{ content }}
   </p>
   <div class="sharethis-inline-reaction-buttons"></div>
