@@ -5,40 +5,44 @@
         "@type": "BlogPosting",
         "url": "{{ site.url }}{{ page.url }}",
         "name": {{ page.title | jsonify }},
-    "headline": {{ page.title | jsonify }},
-    "keywords": {{ page.tags | join: ',' | jsonify }},
-    "description": {{ page.excerpt | strip_newlines | strip_html | jsonify }},
-    "articleBody": {{ page.content | strip_html | jsonify }},
-    "datePublished": {{ page.date | jsonify }},
-    "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
-    {% if author %}
-    "author": {
-    "@type": "Person",
-    "name": {{ author.name | jsonify }},
-    "givenName": {{ author.first_name | jsonify }},
-    "familyName": {{ author.last_name | jsonify }},
-    "email": {{ author.email | jsonify }}
-    },
-    {% endif %}
-    "publisher": {
-    "@type": "Organization",
-    "name": {{ site.title | jsonify }},
-    "url": "{{ site.url }}",
-    "logo": {
-    "@type": "ImageObject",
-    "width": 96,
-    "height": 96,
-    "url": "{{ site.url }}/favicon-96x96.png"
-    }
-    },
-    "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-    },
-    "image": {
-    "@type": "ImageObject",
-    "width": 800,
-    "url": {{ page.postthumbnail | jsonify }}
-    }
+        "headline": {{ page.title | jsonify }},
+        "keywords": {{ page.tags | join: ',' | jsonify }},
+        "description": {{ page.excerpt | strip_newlines | strip_html | jsonify }},
+        "articleBody": {{ page.content | markdownify | strip_html | jsonify }},
+        "datePublished": {{ page.date | jsonify }},
+        "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+        {% if author %}
+        "author": {
+            "@type": "Person",
+            "name": {{ author.name | jsonify }},
+            "givenName": {{ author.first_name | jsonify }},
+            "familyName": {{ author.last_name | jsonify }},
+            "email": {{ author.email | jsonify }}
+        },
+        {% endif %}
+        "publisher": {
+            "@type": "Organization",
+            "name": {{ site.title | jsonify }},
+            "url": "{{ site.url }}",
+            "logo": {
+                "@type": "ImageObject",
+                "width": 96,
+                "height": 96,
+                "url": "{{ site.url }}/favicon-96x96.png"
+            }
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ site.url }}{{ page.url }}"
+        },
+        {% if page.postthumbnail or page.thumbnail %}
+        "image": {
+            "@type": "ImageObject",
+            {% if page.postthumbnail %}
+            "width": 800,
+            {% endif %}
+            "url": {% if page.postthumbnail %}{{ page.postthumbnail | jsonify }}{% else %}{{ page.thumbnail | jsonify }}{% endif %}
+        }
+        {% endif %}
     }
 </script>
