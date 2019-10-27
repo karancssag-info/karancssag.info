@@ -34,9 +34,9 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "{{ site.url }}{{ page.url }}"
-        },
+        }
         {% if page.postthumbnail or page.thumbnail %}
-        "image": {
+        ,"image": {
             "@type": "ImageObject",
             {% if page.postthumbnail %}
             "width": 800,
