@@ -38,9 +38,9 @@ Miért van az, hogy a jegyzőkönyvek a Nemzeti Jogszabálytár zárt informatik
 
 A **jegyzőkönyvek késedelmes feltöltése** ügyében a Nógrád Megyei Kormányhivatal 2014 és 2019 között **7 esetben** intézett **törvényességi felhívást** a képviselő-testület, illetve a jegyző ellen. Egy esetben **bírság** kiszabása történt **77 330 Ft** összegben, a felhívások eredménytelensége miatt.
 
-![sss](https://static.karancssag.info/content/foiextract20191025-8889-1c6hgqc-1_1.jpg)
+![NO/TFO/215-4/2019. 1](https://static.karancssag.info/content/foiextract20191025-8889-1c6hgqc-1_1.jpg){: width="100%"}
 
-![sss](https://static.karancssag.info/content/foiextract20191025-8889-1c6hgqc-2_1.jpg)
+![NO/TFO/215-4/2019. 2](https://static.karancssag.info/content/foiextract20191025-8889-1c6hgqc-2_1.jpg){: width="100%"}
 
 Az új jegyzőkönyvekhez jó olvasgatást kívánok!
 A 2020-as évből már több is eltelt mint 15 nap, de a 2019-es év még nem teljes!
