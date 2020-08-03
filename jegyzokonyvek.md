@@ -14,7 +14,8 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 + [2017][4]
 + [2018][5]
 + [2019][6]
-+ [SZMSZ][7]{:target="_blank"}
++ [2020][7]
++ [SZMSZ][8]{:target="_blank"}
 
 
 [1]:/download/jegyzokonyvek/2014/
@@ -23,4 +24,5 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 [4]:/download/jegyzokonyvek/2017/
 [5]:/download/jegyzokonyvek/2018/
 [6]:/download/jegyzokonyvek/2019/
-[7]:{{ site.static_url }}/download/SZMSZ.pdf
+[7]:/download/jegyzokonyvek/2020/
+[8]:{{ site.static_url }}/download/SZMSZ.pdf
