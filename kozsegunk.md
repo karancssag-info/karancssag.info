@@ -3,6 +3,7 @@ layout: page
 permalink: /kozsegunk/
 title: Községünk
 comments: true
+icon: fas fa-map-marked-alt
 thumbnail: https://static.karancssag.info/images/og/ft.jpg
 ---
 # Karancsság

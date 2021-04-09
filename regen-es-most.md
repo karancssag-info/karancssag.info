@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Régen és most
-permalink: /regen-es-most/
+permalink: /tortenet/regen-es-most/
 comments: false
 thumbnail: https://static.karancssag.info/images/og/rem.png
 author: thgab

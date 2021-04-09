@@ -3,6 +3,7 @@ layout: page
 title: Letöltések
 permalink: /download/
 comments: true
+icon: fas fa-download
 thumbnail: https://static.karancssag.info/images/og/ft.jpg
 ---
 

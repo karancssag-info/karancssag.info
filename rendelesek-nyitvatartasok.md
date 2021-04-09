@@ -3,6 +3,7 @@ layout: page
 permalink: /rendelesek-nyitvatartasok/
 title:  "Rendelések, nyitvatartások"
 comments: true
+icon: fas fa-key
 thumbnail: https://static.karancssag.info/images/og/pexels-photo-1537268.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-1537268.jpg
 ---

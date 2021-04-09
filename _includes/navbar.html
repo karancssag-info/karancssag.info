@@ -13,7 +13,7 @@
 				{% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 				{% if entry.title and current == '/'%}
 				<li class="nav-item{% if page.url == entry.url %} active{% endif %}">
-					<a class="nav-link" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}{% if
+					<a class="nav-link" href="{{ entry.url | prepend: site.baseurl }}">{% if entry.icon %}<i class="{{ entry.icon }}"></i> {% endif %}{{ entry.title }}{% if
 						page.url == entry.url %} <span class="sr-only">(current)</span>{% endif %}</a></li>
 				{% endif %}
 				{% endfor %}
