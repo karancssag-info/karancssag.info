@@ -1,0 +1,120 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+<article class="post">
+  {% if page.topImage %}
+    <img src="{{ page.topImage }}" class="img-fluid" alt="Responsive image">
+  {% endif %}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      <time>{{ page.date | date: "%Y-%m-%d" }}</time>
+      {% if author %} •
+      <span>
+        <span>{{ author.name }}</span>
+      </span>
+      {% endif %}
+      <div class="sharethis-inline-share-buttons"></div>
+    </p>
+  </header>
+
+  <p>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/wavesurfer.js"></script>
+    <script src="https://unpkg.com/wavesurfer.js/dist/plugin/wavesurfer.timeline.js"></script>
+  <div style="margin-bottom: 20px;">
+    <div id="audio"></div>
+    <div id="timeline"></div>
+  </div>
+
+  <script>
+    axios.get('{{ page.pcm }}')
+            .then(function (response) {
+              console.log(response.data);
+              wavesurfer.load('{{ page.audio }}', response.data);
+            })
+            .catch(function (error) {
+            })
+            .then(function () {
+            });
+
+    var wavesurfer = WaveSurfer.create({
+      container: '#audio',
+      backend: 'MediaElement',
+      minPxPerSec: 1,
+      scrollParent: true,
+      plugins: [
+        WaveSurfer.timeline.create({
+          container: '#timeline'
+        })
+      ]
+    });
+    wavesurfer.on('seek', function (a) {
+      console.log(a);
+    })
+
+    function getHashParams() {
+
+      var hashParams = {};
+      var e,
+              a = /\+/g,  // Regex for replacing addition symbol with a space
+              r = /([^&;=]+)=?([^&;]*)/g,
+              d = function (s) {
+                return decodeURIComponent(s.replace(a, " "));
+              },
+              q = window.location.hash.substring(1);
+
+      while (e = r.exec(q))
+        hashParams[d(e[1])] = d(e[2]);
+
+      return hashParams;
+    }
+
+    var hash = getHashParams();
+    var ps = 0;
+    var ap = 0;
+    if (typeof hash.ps !== 'undefined') {
+      ps = parseFloat(hash.ps);
+    }
+    if (typeof hash.ap !== 'undefined') {
+      ap = hash.ap;
+    }
+    wavesurfer.on('ready', function () {
+      if (ps) {
+        wavesurfer.seekAndCenter(ps);
+      }
+    });
+  </script>
+  <div class="row">
+    <button onclick="wavesurfer.playPause()" class="btn btn-primary">Play/Pause</button>
+  </div>
+    {{ content }}
+  </p>
+  <div class="sharethis-inline-reaction-buttons"></div>
+  {% if page.comments %}
+  <div id="disqus_thread"></div>
+  <script>
+
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function () { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://karancssaginfo.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+    Disqus.</a></noscript>
+  {% endif %}
+
+</article>
