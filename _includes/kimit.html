@@ -1,0 +1,30 @@
+{% raw %}
+<script defer src="/js/kimit.js"></script>
+<style>
+  a[aria-expanded=true] .cclose {
+    display: none;
+  }
+  a[aria-expanded=false] .copen {
+    display: none;
+  }
+</style>
+
+<div id="app">
+  <ul>
+    <li v-for="item in order" >
+      <a data-toggle="collapse" v-bind:href="'#req'+request[item].info_request.id" role="button" aria-expanded="false" aria-controls="collapseExample" >
+        <i class="fas fa-folder cclose"></i>
+        <i class="fas fa-folder-open copen"></i>
+        Részletek
+      </a> - {{ request[item].info_request.title }} - {{ request[item].info_request.display_status }}
+      <ul class="collapse" v-bind:id="'req'+request[item].info_request.id" >
+        <li>Adatigénylés tárgya: <a v-bind:href="rootUrl + 'request/' + request[item].info_request.id" target="_blank">{{ request[item].info_request.title }}</a></li>
+        <li>Címzett: {{ request[item].public_body.name }}</li>
+        <li v-for="event in request[item].events" >
+          <a  v-bind:href="rootUrl + 'request_event/' + event.id" target="_blank">{{ status[event.event_type] }} {{ new Date(event.created_at) | moment('YYYY-MM-DD HH:mm:ss')}}</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+{% endraw %}
