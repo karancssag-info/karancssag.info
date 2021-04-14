@@ -3,7 +3,7 @@ layout: page
 title: Adatigénylések
 permalink: /kimittud/
 comments: false
-thumbnail: static.karancssag.info/images/og/pexels-lukas-590037.jpg
+thumbnail: https://static.karancssag.info/images/og/pexels-lukas-590037.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-lukas-590037.jpg
 icon: fas fa-question
 author: thgab
