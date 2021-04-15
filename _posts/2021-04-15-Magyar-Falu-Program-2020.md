@@ -20,7 +20,7 @@ Felhívás címe: Közösségi tér ki-/átalakítás és foglalkoztatás
 
 Elnyert támogatás:
 
-_Római Katolikus Plébánia Karancsság_ **14 587 216 Ft**
+_Római Katolikus Plébánia Karancsság_ **14&nbsp;587&nbsp;216&nbsp;Ft**
 
 ---
 
@@ -30,7 +30,7 @@ Felhívás címe: Közterület karbantartását szolgáló eszközbeszerzés
 
 Elnyert támogatás:
 
-_Karancsság Község Önkormányzata_ **2 634 869 Ft**
+_Karancsság Község Önkormányzata_ **2&nbsp;634&nbsp;869&nbsp;Ft**
 
 ---
 
@@ -41,7 +41,7 @@ játszótér fejlesztése
 
 Elnyert támogatás:
 
-_Karancsság Község Önkormányzata_ **4 999 998 Ft**
+_Karancsság Község Önkormányzata_ **4&nbsp;999&nbsp;998&nbsp;Ft**
 
 ---
 
@@ -51,7 +51,7 @@ Felhívás címe: Óvodaépület felújítása
 
 Elnyert támogatás:
 
-_Karancsság Község Önkormányzata_ **29 997 944 Ft**
+_Karancsság Község Önkormányzata_ **29&nbsp;997&nbsp;944&nbsp;Ft**
 
 ---
 
@@ -61,7 +61,7 @@ Felhívás címe: Temetői infrastruktúra fejlesztése
 
 Elnyert támogatás:
 
-_Karancsság Község Önkormányzata_ **4 999 650**
+_Karancsság Község Önkormányzata_ **4&nbsp;999&nbsp;650&nbsp;Ft**
 
 ---
 
@@ -71,7 +71,7 @@ Kiírás címe: Iskolai tornaterem, tornaszoba fejlesztése
 
 Elnyert támogatás:
 
-_Salgótarjáni Tankerületi Központ - Karancsság_ **34 749 866 Ft**
+_Salgótarjáni Tankerületi Központ - Karancsság_ **34&nbsp;749&nbsp;866&nbsp;Ft**
 
 ---
 
