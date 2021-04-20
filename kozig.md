@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Állásajánlatok
-description: Közszféra állásajánlatai a környező településeken
-permalink: /kozig/
+description: Közszféra állásajánlatai a Karancsságon és a környező településeken
+permalink: /allasajanlatok/
 comments: false
 thumbnail: https://static.karancssag.info/images/og/pexels-sora-shimazaki-5668859.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-sora-shimazaki-5668859.jpg
@@ -10,7 +10,7 @@ icon: fas fa-briefcase
 author: thgab
 ---
 
-# Közszféra állásajánlatai a környező településeken 
+# Közszféra állásajánlatai a Karancsságon és a környező településeken 
 
 A [kozigallas.gov.hu](https://kozigallas.gov.hu/){:target="_blank"} oldalról.
 {% include kozig.html %}
