@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Állásajánlatok
+description: Közszféra állásajánlatai a környező településeken
 permalink: /kozig/
 comments: false
 thumbnail: https://static.karancssag.info/images/og/pexels-sora-shimazaki-5668859.jpg

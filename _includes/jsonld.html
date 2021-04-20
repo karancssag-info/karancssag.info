@@ -7,7 +7,7 @@
         "name": {{ page.title | jsonify }},
         "headline": {{ page.title | jsonify }},
         "keywords": {{ page.tags | join: ',' | jsonify }},
-        "description": {{ page.excerpt | strip_newlines | strip_html | jsonify }},
+        "description": {% if page.description %}{{ page.description | jsonify }}{% elsif page.excerpt %}{{ page.excerpt | strip_html  | newline_to_br | strip_newlines | replace: '<br />', ' '| jsonify }}{% else %}{{ site.description| strip_html | strip_newlines | truncate: 160 | jsonify }}{% endif %},
         "articleBody": {{ content | markdownify | strip_html | jsonify }},
         "datePublished": {{ page.date | jsonify }},
         "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
