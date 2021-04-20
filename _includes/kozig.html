@@ -1,0 +1,36 @@
+{% raw %}
+<script defer src="/js/kozig.js"></script>
+<style>
+  a[aria-expanded=true] .cclose {
+    display: none;
+  }
+  a[aria-expanded=false] .copen {
+    display: none;
+  }
+</style>
+
+<div id="app">
+  <ul>
+    <li v-for="(index, city) in jobs" >
+      <a v-if="index.jobs.length" data-toggle="collapse" v-bind:href="'#req'+index.id" role="button" aria-expanded="false" aria-controls="collapseExample" >
+        <i class="fas fa-folder cclose"></i>
+        <i class="fas fa-folder-open copen"></i>
+      </a>
+      <i v-else class="fas fa-folder cclose"></i>
+      -
+      {{ index.name }} <span class="badge badge-light" v-if="index.jobs.length">{{ index.jobs.length }}</span>
+      <span class="sr-only">unread messages</span>
+      <ul class="collapse" v-bind:id="'req'+index.id" >
+        <li v-for="(job, jIndex) in index.jobs">
+          <a v-bind:href="job.link" target="_blank">{{ job.position }}</a><br/>
+          <small class="text-muted">
+            Közzétevő: <b>{{ job.publisher }}</b><br/>
+            Hely: <b>{{ job.place }}</b><br/>
+            Jogviszony: <b>{{ job.type }}</b><br/>
+            Jelentkezési határidő: <b>{{ job.deadline }}</b></small>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+{% endraw %}
