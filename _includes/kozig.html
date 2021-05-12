@@ -8,10 +8,16 @@
     a[aria-expanded=false] .copen {
         display: none;
     }
+
+    ul.loading {
+        background: url(/img/loading.svg) no-repeat top center;
+        display: block;
+        height: 20px;
+    }
 </style>
 
 <div id="app">
-    <ul>
+    <ul v-bind:class="loading?'loading':''" >
         <li v-for="(index, city) in jobs">
             <span v-if="index.jobs.length">
                 <a data-toggle="collapse" v-bind:href="'#req'+index.id" role="button" aria-expanded="false"
