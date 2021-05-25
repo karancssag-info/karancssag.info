@@ -253,7 +253,7 @@
         i = e.data;
         for (var t = 0; t < i.length; t++) a[t] = document.getElementById("app" + t), f(t)
     }, c = function (e) {
-        o.get("https://thgab.com/nextBus").then(e)
+        o.get("https://api.karancssag.info/nextBus").then(e)
     }, f = function (e) {
         var t = Math.floor(Date.now() / 1e3);
         a[e].innerHTML = "";
