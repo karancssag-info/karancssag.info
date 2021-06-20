@@ -27,8 +27,8 @@ blockquote{
     font-size: 1.25rem;
 }
 
-article table{border-collapse:collapse;}
-article th, article td{border:1px solid black;}
+article table.ntable{border-collapse:collapse;}
+article .ntable th, article .ntable td{border:1px solid black;}
 
 .card-head-img {
     background-size:cover;
