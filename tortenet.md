@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Történelem
-permalink: /tortenet/
+permalink: /kozsegunk/tortenelem/
 icon: fas fa-landmark
 comments: true
 ---

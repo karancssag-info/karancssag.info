@@ -1,6 +1,6 @@
 ---
 layout: docsearch
-title: Dokumentum kereső
+title: Dokumentumok
 permalink: /kereso/
 comments: false
 icon: fab fa-searchengin
