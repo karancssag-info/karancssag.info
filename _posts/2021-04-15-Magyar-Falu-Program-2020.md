@@ -77,7 +77,7 @@ _Salgótarjáni Tankerületi Központ - Karancsság_ **34&nbsp;749&nbsp;866&nbsp
 
 Nagyon szép lista! Gratulálunk!
 
-[Forrás][1]
+[Forrás][1]{:target="_blank"}
 
 _Az indexkép [Ivan Samkov](https://www.pexels.com/hu-hu/@karolina-grabowska?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](https://www.pexels.com/hu-hu/foto/okostelefon-asztal-arctalan-kijelzo-4386292/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
 
