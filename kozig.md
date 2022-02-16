@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Állásajánlatok
+title: Állás
 description: Közszféra állásajánlatai Karancsságon és a környező településeken
 permalink: /allasajanlatok/
 comments: false
