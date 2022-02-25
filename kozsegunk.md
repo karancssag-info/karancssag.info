@@ -7,7 +7,9 @@ icon: fas fa-map-marked-alt
 thumbnail: https://static.karancssag.info/images/og/ft.jpg
 ---
 + [Karancsság][1]
-+ [FELÁLDOZHATÓK SE][2]
++ [Történelem][2]
++ [FELÁLDOZHATÓK SE][3]
 
 [1]:/kozsegunk/karancssag
-[2]:/kozsegunk/felaldozhatok-se
+[2]:/kozsegunk/tortenelem
+[3]:/kozsegunk/felaldozhatok-se
