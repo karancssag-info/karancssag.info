@@ -5,13 +5,14 @@ permalink: /tortenet/Karants-Sag/
 comments: false
 thumbnail: https://static.karancssag.info/content/mocsary/res/73bb9785b6074141b254736b4071cdbe-0007.jpg
 class: reader
+excerpt: Nemes Nógrád vármegyének históriái, geographiai és statisztikai esmértetése (Részlet) 
 image_sliders:
 - mocsary
 ---
 _**Nemes Nógrád vármegyének históriái, geographiai és statisztikai esmértetése (Részlet)**_
 
 _Mocsáry, Antal (1826) Nemes Nógrád vármegyének históriái, geographiai és statisztikai esmértetése (1. kötet). Trattner, Pest. [Forrás](http://real-eod.mtak.hu/5579/) _
-
+<!--more-->
 #### 32. Karants-Ság.
 Népes magyar falu, Ság-Újfalu és Szalmaterts között. Innét egy órányira
 fekvő , nevezetes magasságú Karants hegyétől vette hajdan ezen neveztetését.
