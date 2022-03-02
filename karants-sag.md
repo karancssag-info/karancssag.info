@@ -5,7 +5,7 @@ permalink: /tortenet/Karants-Sag/
 comments: false
 thumbnail: https://static.karancssag.info/content/mocsary/res/73bb9785b6074141b254736b4071cdbe-0007.jpg
 class: reader
-excerpt: Nemes Nógrád vármegyének históriái, geographiai és statisztikai esmértetése (Részlet) 
+description: Nemes Nógrád vármegyének históriái, geographiai és statisztikai esmértetése (Részlet) 
 image_sliders:
 - mocsary
 ---

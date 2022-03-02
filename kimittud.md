@@ -2,6 +2,7 @@
 layout: page
 title: Adatigénylések
 permalink: /kimittud/
+description: Az oldalon megtalálható tartalommal kapcsolatos adatigénylések
 comments: false
 thumbnail: https://static.karancssag.info/images/og/pexels-lukas-590037.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-lukas-590037.jpg

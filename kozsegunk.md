@@ -2,6 +2,7 @@
 layout: page
 permalink: /kozsegunk/
 title: Községünk
+description: Községünk jelene, múltja
 comments: true
 icon: fas fa-map-marked-alt
 thumbnail: https://static.karancssag.info/images/og/ft.jpg

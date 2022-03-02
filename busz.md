@@ -2,6 +2,7 @@
 layout: page
 title: Busz
 permalink: /busz/
+description: Buszok indulása Karancsság, Rákóczi út megállóból
 comments: false
 thumbnail: https://static.karancssag.info/images/og/buszka.jpg
 icon: fas fa-bus

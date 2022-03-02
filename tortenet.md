@@ -2,6 +2,7 @@
 layout: page
 title: Történelem
 permalink: /kozsegunk/tortenelem/
+description: Leírások Karancsság múltjából
 icon: fas fa-landmark
 comments: true
 ---

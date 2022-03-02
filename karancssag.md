@@ -2,6 +2,7 @@
 layout: page
 permalink: /kozsegunk/karancssag
 title: Községünk
+description: Karancsság
 comments: true
 icon: fas fa-map-marked-alt
 thumbnail: https://static.karancssag.info/images/og/ft.jpg

@@ -2,6 +2,7 @@
 layout: page
 title: Régen és most
 permalink: /tortenet/regen-es-most/
+description: Ilyen volt, ilyen lett
 comments: false
 thumbnail: https://static.karancssag.info/images/og/rem.png
 author: thgab

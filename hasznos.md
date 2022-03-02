@@ -4,6 +4,7 @@ permalink: /hasznos/
 title: Hasznos
 comments: false
 icon: fas fa-map-marked-alt
+description: Hasznos linkek
 thumbnail: https://static.karancssag.info/images/og/pexels-cottonbro-5095285.jpg
 ---
 

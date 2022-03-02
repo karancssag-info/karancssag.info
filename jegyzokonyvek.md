@@ -2,6 +2,7 @@
 layout: page
 title: Jegyzőkönyvek és SZMSZ
 permalink: /download/jegyzokonyvek/
+description: Karancsság Község Önkormányzata képviselő-testületi ülések jegyzőkönyvei, Szervezeti és Működési Szabályzata
 comments: true
 thumbnail: https://static.karancssag.info/images/og/ft.jpg
 ---
