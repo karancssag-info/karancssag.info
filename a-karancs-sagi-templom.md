@@ -2,7 +2,7 @@
 layout: page
 title: A karancs-sági templom.
 permalink: /tortenet/A-karancs-sagi-templom/
-description: Dr. Henszlmann Imre - Uti jegyzetek: A karancs-sági templom
+description: Dr. Henszlmann Imre - Uti jegyzetek - A karancs-sági templom
 comments: false
 thumbnail: https://static.karancssag.info/images/doc/utijegyzet.png
 class: reader
