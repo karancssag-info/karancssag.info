@@ -6,6 +6,7 @@ thumbnail: https://static.karancssag.info/images/og/pexels-stas-knop-1261578.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-stas-knop-1261578.jpg
 audio: https://static.karancssag.info/content/2019_12_16_kozmeghallgatas.m4a
 pcm: https://static.karancssag.info/content/2019_12_16_kozmeghallgatas_pcm.json
+description: 2019. december 16-i közmeghallgatás rögzített, vágatlan hanganyaga
 comments: true
 ---
 
