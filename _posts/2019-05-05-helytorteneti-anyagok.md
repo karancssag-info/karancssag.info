@@ -12,4 +12,4 @@ Helytörténeti anyagokkal bővült a honlap.
 
 [Történelem][1]
 
-[1]:/tortenet/
+[1]:/kozsegunk/tortenelem/
