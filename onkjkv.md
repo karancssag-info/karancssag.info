@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Az önkormányzat honlapján elérhető jegyzőkönyvek listája
-description: A jegyzőkönyvek elérhetősége, csatolmányok feltöltési listája
+title: Forráslista
+description: Az önkormányzat honlapján elérhető jegyzőkönyvek, csatolmányok feltöltési listája
 permalink: /download/forras
 comments: false
-thumbnail: https://static.karancssag.info/images/og/pexels-sora-shimazaki-5668859.jpg
-postthumbnail: https://static.karancssag.info/images/og/w800/pexels-sora-shimazaki-5668859.jpg
-icon: fas fa-briefcase
+thumbnail: https://static.karancssag.info/images/og/pexels-little-visuals-1964.jpg
+postthumbnail: https://static.karancssag.info/images/og/w800/pexels-little-visuals-1964.jpg
 author: thgab
 ---
 
 ### Az önkormányzat honlapján elérhető jegyzőkönyvek listája
 
-<ul>
+<ol reversed>
 {% assign onkroot = "https://karancssag.asp.lgov.hu"] %}
 {% for article in site.data.aspjkv %}
     <li>
@@ -20,7 +19,7 @@ author: thgab
         <small>
             {{ article.article.text }}
         </small>
-        <ol>
+        <ul>
         {% for item in article.article.items %}
             <li>
                 <a href="{{ item.href }}" target="_blank">{{ item.text }}</a><br/>
@@ -28,10 +27,10 @@ author: thgab
                     <b>{{ item.Last-Modified.local }}</b>
                 </small>
             </li>
-    {% endfor %}
-    </ol>
+        {% endfor %}
+        </ul>
     </li>
 {% endfor %}
-</ul>
+</ol>
 
-_Az indexkép [Sora Shimazaki](https://www.pexels.com/hu-hu/@sora-shimazaki?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](https://www.pexels.com/hu-hu/foto/uzletember-ferfi-no-hordozhato-szamitogep-5668859/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
+_Az indexkép [Little Visuals](https://www.pexels.com/hu-hu/@little-visuals?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](https://www.pexels.com/hu-hu/foto/erdo-folyam-forras-termeszet-1964/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
