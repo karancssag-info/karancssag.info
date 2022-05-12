@@ -1,0 +1,1617 @@
+[
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "Pal\u00f3c \u00fat",
+          "short_name": "Pal\u00f3c \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Pal\u00f3c \u00fat</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Pal\u00f3c \u00fat, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.1193241,
+          "lng": 19.6511068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.12067503029149,
+            "lng": 19.6524045802915
+          },
+          "southwest": {
+            "lat": 48.11797706970849,
+            "lng": 19.6497066197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+      "name": "Vegyesbolt",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1000"
+            },
+            "open": {
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1100"
+            },
+            "open": {
+              "day": 1,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "day": 1,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1100"
+            },
+            "open": {
+              "day": 2,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "day": 2,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1100"
+            },
+            "open": {
+              "day": 3,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "day": 3,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1100"
+            },
+            "open": {
+              "day": 4,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "day": 4,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1100"
+            },
+            "open": {
+              "day": 5,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1700"
+            },
+            "open": {
+              "day": 5,
+              "time": "1500"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1100"
+            },
+            "open": {
+              "day": 6,
+              "time": "0700"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 7:00\u201311:00, 15:00\u201317:00",
+          "kedd: 7:00\u201311:00, 15:00\u201317:00",
+          "szerda: 7:00\u201311:00, 15:00\u201317:00",
+          "cs\u00fct\u00f6rt\u00f6k: 7:00\u201311:00, 15:00\u201317:00",
+          "p\u00e9ntek: 7:00\u201311:00, 15:00\u201317:00",
+          "szombat: 7:00\u201311:00",
+          "vas\u00e1rnap: 8:00\u201310:00"
+        ]
+      },
+      "place_id": "ChIJFZsJ16URQEcRfAv7p1mSELM",
+      "plus_code": {
+        "compound_code": "4M92+PC Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M92+PC"
+      },
+      "reference": "ChIJFZsJ16URQEcRfAv7p1mSELM",
+      "types": [
+        "convenience_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=12902973846184463228",
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Pal\u00f3c \u00fat"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "58",
+          "short_name": "58",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "22114",
+          "short_name": "22114",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">22114 58</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, 22114 58, 3163 Magyarorsz\u00e1g",
+      "formatted_phone_number": "(06 32) 418 474",
+      "geometry": {
+        "location": {
+          "lat": 48.1189417,
+          "lng": 19.6547553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.12021928029149,
+            "lng": 19.6560950802915
+          },
+          "southwest": {
+            "lat": 48.11752131970849,
+            "lng": 19.6533971197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+36 32 418 474",
+      "name": "Kisherceg gumiabroncs szerv\u00edz",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1600"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1600"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1600"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1600"
+            },
+            "open": {
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1600"
+            },
+            "open": {
+              "day": 5,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 8:00\u201316:00",
+          "kedd: 8:00\u201316:00",
+          "szerda: 8:00\u201316:00",
+          "cs\u00fct\u00f6rt\u00f6k: 8:00\u201316:00",
+          "p\u00e9ntek: 8:00\u201316:00",
+          "szombat: Z\u00e1rva",
+          "vas\u00e1rnap: Z\u00e1rva"
+        ]
+      },
+      "place_id": "ChIJ5Su22OsRQEcRAzpKmCHqUlI",
+      "plus_code": {
+        "compound_code": "4M93+HW Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M93+HW"
+      },
+      "reference": "ChIJ5Su22OsRQEcRAzpKmCHqUlI",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=5932061089210186243",
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, 22114 58",
+      "website": "https://www.facebook.com/Kisherceg-T%C5%B1z-%C3%A9s-Munkav%C3%A9delmi-Kft-1394793814182222/"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "110",
+          "short_name": "110",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 110</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 110, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.1167966,
+          "lng": 19.6573067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1181031802915,
+            "lng": 19.6585777802915
+          },
+          "southwest": {
+            "lat": 48.1154052197085,
+            "lng": 19.6558798197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Karancss\u00e1g Z\u00f6lds\u00e9ges",
+      "place_id": "ChIJdw2Bzn0RQEcRLfGC4Leg6E8",
+      "plus_code": {
+        "compound_code": "4M84+PW Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M84+PW"
+      },
+      "rating": 3.7,
+      "reference": "ChIJdw2Bzn0RQEcRLfGC4Leg6E8",
+      "reviews": [
+        {
+          "author_name": "Imre Szab\u00f3",
+          "author_url": "https://www.google.com/maps/contrib/103518473088946409833/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyvIfbX0k7NoKAUrp-Ahn8dWqN1a69H82xGNocE=s128-c0x00000000-cc-rp-mo-ba3",
+          "rating": 5,
+          "relative_time_description": "egy \u00e9ve",
+          "text": "",
+          "time": 1596124081
+        },
+        {
+          "author_name": "Gazsi Ricsko",
+          "author_url": "https://www.google.com/maps/contrib/111025303531468029130/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJyHnBi8zfOn2bFxYSl-FFV5TD1TAUu3BRJ5Ay8N=s128-c0x00000000-cc-rp-mo",
+          "rating": 1,
+          "relative_time_description": "9 h\u00f3napja",
+          "text": "",
+          "time": 1628602413
+        },
+        {
+          "author_name": "G\u00e1bor T\u00f3th",
+          "author_url": "https://www.google.com/maps/contrib/105870220434790862377/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjX1gPEUjr-KQ8ie1J97qxCNUBH4VEsjU-GYzRWPHg=s128-c0x00000000-cc-rp-mo-ba3",
+          "rating": 5,
+          "relative_time_description": "egy \u00e9ve",
+          "text": "",
+          "time": 1590591342
+        }
+      ],
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=5758028835199316269",
+      "user_ratings_total": 3,
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 110"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "118",
+          "short_name": "118",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 118</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 118, 3163 Magyarorsz\u00e1g",
+      "formatted_phone_number": "(06 32) 400 013",
+      "geometry": {
+        "location": {
+          "lat": 48.1166727,
+          "lng": 19.658693
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.11792498029149,
+            "lng": 19.6600343802915
+          },
+          "southwest": {
+            "lat": 48.1152270197085,
+            "lng": 19.6573364197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "international_phone_number": "+36 32 400 013",
+      "name": "Karancss\u00e1g Posta",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1200"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "1230"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1200"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "1230"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1200"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "1230"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1200"
+            },
+            "open": {
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "1230"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1200"
+            },
+            "open": {
+              "day": 5,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "1230"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 8:00\u201312:00, 12:30\u201315:00",
+          "kedd: 8:00\u201312:00, 12:30\u201315:00",
+          "szerda: 8:00\u201312:00, 12:30\u201315:00",
+          "cs\u00fct\u00f6rt\u00f6k: 8:00\u201312:00, 12:30\u201315:00",
+          "p\u00e9ntek: 8:00\u201312:00, 12:30\u201315:00",
+          "szombat: Z\u00e1rva",
+          "vas\u00e1rnap: Z\u00e1rva"
+        ]
+      },
+      "place_id": "ChIJpSwSa6QRQEcR8jTSoD1iIGA",
+      "plus_code": {
+        "compound_code": "4M85+MF Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+MF"
+      },
+      "reference": "ChIJpSwSa6QRQEcR8jTSoD1iIGA",
+      "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=6926644243726480626",
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 118",
+      "website": "http://www.posta.hu/"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "122",
+          "short_name": "122",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 122</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 122, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.11647269999999,
+          "lng": 19.6594352
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.11775943029149,
+            "lng": 19.6607262802915
+          },
+          "southwest": {
+            "lat": 48.11506146970849,
+            "lng": 19.6580283197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "name": "Re\u00e1lPONT Karancss\u00e1g",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1000"
+            },
+            "open": {
+              "day": 0,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1700"
+            },
+            "open": {
+              "day": 1,
+              "time": "0600"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1700"
+            },
+            "open": {
+              "day": 2,
+              "time": "0600"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1700"
+            },
+            "open": {
+              "day": 3,
+              "time": "0600"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1700"
+            },
+            "open": {
+              "day": 4,
+              "time": "0600"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1700"
+            },
+            "open": {
+              "day": 5,
+              "time": "0600"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0600"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 6:00\u201317:00",
+          "kedd: 6:00\u201317:00",
+          "szerda: 6:00\u201317:00",
+          "cs\u00fct\u00f6rt\u00f6k: 6:00\u201317:00",
+          "p\u00e9ntek: 6:00\u201317:00",
+          "szombat: 6:00\u201314:00",
+          "vas\u00e1rnap: 7:00\u201310:00"
+        ]
+      },
+      "place_id": "ChIJsa1M8l8RQEcR436aqppCLog",
+      "plus_code": {
+        "compound_code": "4M85+HQ Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+HQ"
+      },
+      "rating": 1,
+      "reference": "ChIJsa1M8l8RQEcR436aqppCLog",
+      "reviews": [
+        {
+          "author_name": "All Waterslide",
+          "author_url": "https://www.google.com/maps/contrib/113564513974854191103/reviews",
+          "language": "hu",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GiBYlHKRpPPhps8EkVOq6GtP4_wJ_hcu1lzjPkj=s128-c0x00000000-cc-rp-mo",
+          "rating": 1,
+          "relative_time_description": "9 h\u00f3napja",
+          "text": "A KEZEL\u00c9S VICC",
+          "time": 1626823729
+        }
+      ],
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=9812853870141538019",
+      "user_ratings_total": 1,
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 122"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "124",
+          "short_name": "124",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 124</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 124, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.116289,
+          "lng": 19.6599491
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1176781802915,
+            "lng": 19.6612023802915
+          },
+          "southwest": {
+            "lat": 48.1149802197085,
+            "lng": 19.6585044197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Nemzeti Doh\u00e1nybolt",
+      "permanently_closed": true,
+      "place_id": "ChIJCZ242o4RQEcRK-DCS5fLWoY",
+      "plus_code": {
+        "compound_code": "4M85+GX Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+GX"
+      },
+      "reference": "ChIJCZ242o4RQEcRK-DCS5fLWoY",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=9681274199657865259",
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 124"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "4",
+          "short_name": "4",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hunyadi \u00fat",
+          "short_name": "Hunyadi \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Hunyadi \u00fat 4</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Hunyadi \u00fat 4, 3163 Magyarorsz\u00e1g",
+      "formatted_phone_number": "06 20 431 9017",
+      "geometry": {
+        "location": {
+          "lat": 48.1156662,
+          "lng": 19.6590642
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1170868802915,
+            "lng": 19.6602837302915
+          },
+          "southwest": {
+            "lat": 48.1143889197085,
+            "lng": 19.6575857697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+36 20 431 9017",
+      "name": "Th\u00e1lia vir\u00e1gh\u00e1z",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106172111070552576182\">Gacso Benjamin</a>"
+          ],
+          "photo_reference": "Aap_uEDAS07Zu_iqpmljdQWpedMhpHs2749Ny6HxaYydmBCt9Hly6mfwarQyIhWQJDSBGzg2FCcmtiG5s6t0u-9R0efeJTqBnNvu_yoZkxhnmjv8CnQzc1uiqVwpx9hKIkoCwjf7aZg4Tt3ujuxPQ-Wkoh5EiDaGlYgKe1VWeGxLvVCdAiHD",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJx1WtdFARQEcRJ8V638ozHGE",
+      "plus_code": {
+        "compound_code": "4M85+7J Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+7J"
+      },
+      "reference": "ChIJx1WtdFARQEcRJ8V638ozHGE",
+      "types": [
+        "florist",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=6997524867452683559",
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Hunyadi \u00fat 4"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "79",
+          "short_name": "79",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 79</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 79, 3163 Magyarorsz\u00e1g",
+      "formatted_phone_number": "(06 32) 400 003",
+      "geometry": {
+        "location": {
+          "lat": 48.1158645,
+          "lng": 19.6594752
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1172119802915,
+            "lng": 19.6608328302915
+          },
+          "southwest": {
+            "lat": 48.1145140197085,
+            "lng": 19.6581348697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+36 32 400 003",
+      "name": "Pal\u00f3c-Coop Zrt.",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1530"
+            },
+            "open": {
+              "day": 1,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1530"
+            },
+            "open": {
+              "day": 2,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1530"
+            },
+            "open": {
+              "day": 3,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1530"
+            },
+            "open": {
+              "day": 4,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1530"
+            },
+            "open": {
+              "day": 5,
+              "time": "0700"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1200"
+            },
+            "open": {
+              "day": 6,
+              "time": "0630"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 7:00\u201315:30",
+          "kedd: 7:00\u201315:30",
+          "szerda: 7:00\u201315:30",
+          "cs\u00fct\u00f6rt\u00f6k: 7:00\u201315:30",
+          "p\u00e9ntek: 7:00\u201315:30",
+          "szombat: 6:30\u201312:00",
+          "vas\u00e1rnap: Z\u00e1rva"
+        ]
+      },
+      "place_id": "ChIJjdHEC6QRQEcRmzVgavFQcpg",
+      "plus_code": {
+        "compound_code": "4M85+8Q Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+8Q"
+      },
+      "rating": 4.7,
+      "reference": "ChIJjdHEC6QRQEcRmzVgavFQcpg",
+      "reviews": [
+        {
+          "author_name": "G\u00e1bor Dobrosi",
+          "author_url": "https://www.google.com/maps/contrib/106196739785348278311/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxwfdtlgrbykVbLxelwMsOrwrtZ1zrLcYgyBzwX=s128-c0x00000000-cc-rp-mo-ba3",
+          "rating": 4,
+          "relative_time_description": "egy \u00e9ve",
+          "text": "",
+          "time": 1606401752
+        },
+        {
+          "author_name": "Gyula B\u00e1bel",
+          "author_url": "https://www.google.com/maps/contrib/107253661341363030189/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgH1MEvQXk5vcwHhPGHBPvkmluZdSiwysJ_cYbG=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 5,
+          "relative_time_description": "egy \u00e9ve",
+          "text": "",
+          "time": 1614388705
+        },
+        {
+          "author_name": "Kalocsai Ferenc",
+          "author_url": "https://www.google.com/maps/contrib/116663695602736159513/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gi7wtEXsclJiHt6a5MLFk8Nc0dpH2g4FdaKzOCQ7w=s128-c0x00000000-cc-rp-mo-ba3",
+          "rating": 5,
+          "relative_time_description": "10 h\u00f3napja",
+          "text": "",
+          "time": 1624265025
+        }
+      ],
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=10984931438912091547",
+      "user_ratings_total": 3,
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 79"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "93",
+          "short_name": "93",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 93</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 93, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.1149971,
+          "lng": 19.6594643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1163915802915,
+            "lng": 19.6608681802915
+          },
+          "southwest": {
+            "lat": 48.1136936197085,
+            "lng": 19.6581702197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+      "name": "Zsuzsi ABC",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "1500"
+            },
+            "open": {
+              "day": 0,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "1800"
+            },
+            "open": {
+              "day": 1,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1800"
+            },
+            "open": {
+              "day": 2,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1800"
+            },
+            "open": {
+              "day": 3,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1800"
+            },
+            "open": {
+              "day": 4,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1800"
+            },
+            "open": {
+              "day": 5,
+              "time": "0630"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1800"
+            },
+            "open": {
+              "day": 6,
+              "time": "0630"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 6:30\u201318:00",
+          "kedd: 6:30\u201318:00",
+          "szerda: 6:30\u201318:00",
+          "cs\u00fct\u00f6rt\u00f6k: 6:30\u201318:00",
+          "p\u00e9ntek: 6:30\u201318:00",
+          "szombat: 6:30\u201318:00",
+          "vas\u00e1rnap: 6:30\u201315:00"
+        ]
+      },
+      "place_id": "ChIJ0-AV-xsRQEcRpmaWbMcoDSk",
+      "plus_code": {
+        "compound_code": "4M75+XQ Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M75+XQ"
+      },
+      "rating": 5,
+      "reference": "ChIJ0-AV-xsRQEcRpmaWbMcoDSk",
+      "reviews": [
+        {
+          "author_name": "G\u00e1bor Uhrin",
+          "author_url": "https://www.google.com/maps/contrib/107237223603125441235/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy0kkvO1g4wIJrWYdKdzioMJnBkPocHl7cg2TMW=s128-c0x00000000-cc-rp-mo",
+          "rating": 5,
+          "relative_time_description": "4 h\u00f3napja",
+          "text": "",
+          "time": 1641392908
+        },
+        {
+          "author_name": "G\u00e1bor T\u00f3th",
+          "author_url": "https://www.google.com/maps/contrib/105870220434790862377/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjX1gPEUjr-KQ8ie1J97qxCNUBH4VEsjU-GYzRWPHg=s128-c0x00000000-cc-rp-mo-ba3",
+          "rating": 5,
+          "relative_time_description": "4 h\u00f3napja",
+          "text": "",
+          "time": 1640085907
+        }
+      ],
+      "types": [
+        "convenience_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=2958065367237682854",
+      "user_ratings_total": 2,
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 93"
+    },
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "93",
+          "short_name": "93",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Kossuth \u00fat",
+          "short_name": "Kossuth \u00fat",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Karancss\u00e1g",
+          "short_name": "Karancss\u00e1g",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magyarorsz\u00e1g",
+          "short_name": "HU",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "3163",
+          "short_name": "3163",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 93</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Karancss\u00e1g, Kossuth \u00fat 93, 3163 Magyarorsz\u00e1g",
+      "geometry": {
+        "location": {
+          "lat": 48.1150086,
+          "lng": 19.6594706
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.1163745302915,
+            "lng": 19.6609067302915
+          },
+          "southwest": {
+            "lat": 48.1136765697085,
+            "lng": 19.65820876970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Tomy Pub",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "day": 5,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0500"
+            },
+            "open": {
+              "day": 6,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "h\u00e9tf\u0151: 8:00\u201322:00",
+          "kedd: 8:00\u201322:00",
+          "szerda: 8:00\u201322:00",
+          "cs\u00fct\u00f6rt\u00f6k: 8:00\u201322:00",
+          "p\u00e9ntek: 8:00\u201322:00",
+          "szombat: 8:00\u20135:00",
+          "vas\u00e1rnap: 8:00\u201322:00"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106172111070552576182\">Gacso Benjamin</a>"
+          ],
+          "photo_reference": "Aap_uEDycS1VTNoYYwDsr2qL3v_bzR8I3RkDSsHxB7DZyAFx-xQzXS-pK7YTph9XzggN3JW4f7PxI8o-MPW-EwXV42bm12bXJVmQwjvSvXEhJUvEUramuI2SEU8nFlE0Ia7aAUxTr3IcIcWrjNhOsNXVBhhd8PzX1Yrn9G7_yNbkmCq42zaj",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJwSE4P4IRQEcRv2GmzrHBniU",
+      "plus_code": {
+        "compound_code": "4M85+2Q Karancss\u00e1g, Magyarorsz\u00e1g",
+        "global_code": "8FWX4M85+2Q"
+      },
+      "rating": 5,
+      "reference": "ChIJwSE4P4IRQEcRv2GmzrHBniU",
+      "reviews": [
+        {
+          "author_name": "SamsungS9 SamsungS9",
+          "author_url": "https://www.google.com/maps/contrib/108238741934572525905/reviews",
+          "language": "hu",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy75ZXT8uRLJbToud0bEf6jsN3NkL_jv3mAYnyW=s128-c0x00000000-cc-rp-mo",
+          "rating": 5,
+          "relative_time_description": "egy h\u00f3napja",
+          "text": "N\u00f3gr\u00e1d megye legjobb helye,\nItt mindig sz\u00f3l a j\u00f3 zene,\nJ\u00f3bar\u00e1tom te is gyere,\nA rosszkedvet egye fene.\n\nThank you Tomy&Pub",
+          "time": 1647853907
+        },
+        {
+          "author_name": "Zsolti CSONKA",
+          "author_url": "https://www.google.com/maps/contrib/106858208904090879606/reviews",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GiziQQk_NSLHScrLzkmAOxPlZWa94_yYJrsjbZRww=s128-c0x00000000-cc-rp-mo",
+          "rating": 5,
+          "relative_time_description": "3 h\u00f3napja",
+          "text": "",
+          "time": 1642967336
+        }
+      ],
+      "types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=2710816995143999935",
+      "user_ratings_total": 2,
+      "utc_offset": 120,
+      "vicinity": "Karancss\u00e1g, Kossuth \u00fat 93",
+      "website": "https://www.facebook.com/Tomy-Pub-107117271858338"
+    },
+    "status": "OK"
+  }
+]

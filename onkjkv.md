@@ -12,7 +12,7 @@ author: thgab
 ### Az önkormányzat honlapján elérhető jegyzőkönyvek listája
 
 <ol reversed>
-{% assign onkroot = "https://karancssag.asp.lgov.hu"] %}
+{% assign onkroot = "https://karancssag.asp.lgov.hu" %}
 {% for article in site.data.aspjkv %}
     <li>
         <a href="{{ onkroot }}{{ article.link }}" target="_blank" >{{ article.article.header }}</a><br/>
