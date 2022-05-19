@@ -54,31 +54,31 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
     <div class="border-top">
         <div class="row">
             <div class="col-md-12 mb-2 mt-2">
-                <h5 class="mb-1">{{ place.result.name }}</h5>
-                <p class="mb-1">            {{ place.result.adr_address}}
-                    {% if place.result.international_phone_number %}
-                    <br/><a href="tel:{{ place.result.international_phone_number }}">Tel: {{ place.result.international_phone_number }}</a>
+                <h5 class="mb-1">{{ place.name }}</h5>
+                <p class="mb-1">            {{ place.adr_address}}
+                    {% if place.international_phone_number %}
+                    <br/><a href="tel:{{ place.international_phone_number }}">Tel: {{ place.international_phone_number }}</a>
                     {% endif %}
                 </p>
             </div>
         </div>
         <div class="row mb-2">
             <div class="col-md-6">
-            {% if place.result.website %}
-                <small class="text-muted"><a href="{{ place.result.website }}" target="_blank">{{ place.result.website }}</a></small>
+            {% if place.website %}
+                <small class="text-muted"><a href="{{ place.website }}" target="_blank">{{ place.website }}</a></small>
             {% endif %}
-            {% if place.result.opening_hours %}
+            {% if place.opening_hours %}
                 <h6 class="mb-1">Nyitvatartás:</h6>
                 <ul class="list-unstyled">
-                    {% for day in place.result.opening_hours.weekday_text %}
+                    {% for day in place.opening_hours.weekday_text %}
                         <li>{{ day }}</li>
                     {% endfor %}
                 </ul>
             {% endif %}
             </div>
             <div class="col-md-6">
-                <a href="{{ place.result.url }}" target="_blank">
-                    <img class="mx-auto d-block" src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+DD1111({{ place.result.geometry.location.lng }},{{ place.result.geometry.location.lat }})/{{ place.result.geometry.location.lng }},{{ place.result.geometry.location.lat }},16/300x180?access_token=pk.eyJ1IjoidGhnYWIiLCJhIjoiY2wwOWxnbmhxMGJ3ZjNqcnFtbWo3eDY1ZyJ9.e_mWDhGwNgvwDjw4XDf_nQ" />
+                <a href="{{ place.url }}" target="_blank">
+                    <img class="mx-auto d-block" src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+DD1111({{ place.geometry.location.lng }},{{ place.geometry.location.lat }})/{{ place.geometry.location.lng }},{{ place.geometry.location.lat }},16/300x180?access_token=pk.eyJ1IjoidGhnYWIiLCJhIjoiY2wwOWxnbmhxMGJ3ZjNqcnFtbWo3eDY1ZyJ9.e_mWDhGwNgvwDjw4XDf_nQ" />
                 </a>
             </div>
         </div>
