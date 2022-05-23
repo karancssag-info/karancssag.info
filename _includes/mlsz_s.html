@@ -1,0 +1,103 @@
+<style>
+    @media (max-width: 767.98px) {
+        table.tabella{
+            font-size: 3vw;
+        }
+    }
+    table.tabella .fa-smile{
+        color: green;
+    }
+    table.tabella .fa-meh{
+        color: gray;
+    }
+    table.tabella .fa-frown{
+        color: red;
+    }
+</style>
+{% assign mlsz = site.data.felaldozhatok %}
+{% for row in mlsz.tabella %}
+{% if row.teamId == mlsz.team.id %}{% assign next = row['Következő'] %}{% endif %}
+{% endfor %}
+<div id="app">
+    <div>
+        <div class="row">
+            <div class="col-lg-12 header">
+                <h1>
+                    <img src="{{ mlsz.team.logo.src }}" style="height: 1em;"/>
+                    {{ mlsz.team.name }}
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>
+                    Következő mérkőzés:
+                </h2>
+                <p>
+                    {{ next.mi }}<br/>
+                    <small><b>{{ next.hol }}</b> - <i>{{ next.mikor }}</i></small>
+                </p>
+            </div>
+        </div>
+        <div class="row">
+
+            <h3>Tabella</h3>
+            <div class="table-responsive">
+                <table class="table table-sm tabella">
+                    <thead>
+                    <tr>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top" title="Helyezés">H</span>
+                        </th>
+                        <th scope="col"></th>
+                        <th scope="col">Csapat</th>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top"
+                                              title="Mérkőzések száma">M</span></th>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top" title="Pontszám">P</span>
+                        </th>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top" title="Győzelem"><i
+                                class="far fa-smile"></i></span></th>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top" title="Döntetlen"><i
+                                class="far fa-meh"></i></span></th>
+                        <th scope="col"><span data-toggle="tooltip" data-placement="top" title="Vereség"><i
+                                class="far fa-frown"></i></span></th>
+                        <th scope="col" class="d-none d-md-table-cell"><span data-toggle="tooltip" data-placement="top"
+                                                                             title="Lőtt gólok száma">LG</span></th>
+                        <th scope="col" class="d-none d-md-table-cell"><span data-toggle="tooltip" data-placement="top" title="Kapott gólok száma">KG</span>
+                        </th>
+                        <th scope="col" class="d-none d-md-table-cell"><span data-toggle="tooltip" data-placement="top"
+                                                                             title="Gólkülönbség">GK</span></th>
+                        <th scope="col" class="d-none d-md-table-cell">Forma</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for teamRow in mlsz.tabella %}
+                        <tr >
+                            <th scope="row">{{ teamRow['H.'] }}</th>
+                            <td><img src="{{ teamRow.logo.src }}" style="height:1em;"/></td>
+                            <td><a href="{{ teamRow.teamLink }}" target="_blank">{{ teamRow['Csapat'] }}</a></td>
+                            <td>{{ teamRow['M.'] }}</td>
+                            <td>{{ teamRow['P.'] }}</td>
+                            <td>{{ teamRow['Gy.'] }}</td>
+                            <td>{{ teamRow['D.'] }}</td>
+                            <td>{{ teamRow['V.'] }}</td>
+                            <td class="d-xs-none d-none d-md-table-cell">{{ teamRow['LG.'] }}</td>
+                            <td class="d-xs-none d-none d-md-table-cell">{{ teamRow['KG.'] }}</td>
+                            <td class="d-xs-none d-none d-md-table-cell">{{ teamRow['GK.'] }}</td>
+                            <td class="text-nowrap d-none d-md-table-cell">
+                                {% for forma in teamRow.Forma %}
+                                    <i class="far {% case forma.result.res %}
+                                    {% when 'D' %}fa-meh
+                                    {% when 'GY' %}fa-smile
+                                    {% else %}fa-frown
+                                    {% endcase %}" data-toggle="tooltip" data-placement="top" title="{{ forma.result.goals }}">
+                                    </i>
+                                {% endfor %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
