@@ -24,7 +24,7 @@ author: thgab
             <li>
                 <a href="{{ item.href }}" target="_blank">{{ item.text }}</a><br/>
                 <small>Feltöltve:
-                    <b>{{ item.Last-Modified.local }}</b>
+                    <b>{{ item.Last-Modified.local }}{% if item.Last-Modified.delay != 0 %}<br/> ({{ item.Last-Modified.delay | divided_by: 86400 }} nappal később){% endif %}</b>
                 </small>
             </li>
         {% endfor %}
