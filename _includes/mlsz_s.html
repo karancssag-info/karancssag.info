@@ -71,7 +71,7 @@
                     </thead>
                     <tbody>
                     {% for teamRow in mlsz.tabella %}
-                        <tr >
+                        <tr class="{% if teamRow.teamId == mlsz.team.id %}table-info{% endif %}" >
                             <th scope="row">{{ teamRow['H.'] }}</th>
                             <td><img src="{{ teamRow.logo.src }}" style="height:1em;"/></td>
                             <td><a href="{{ teamRow.teamLink }}" target="_blank">{{ teamRow['Csapat'] }}</a></td>
