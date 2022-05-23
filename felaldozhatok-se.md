@@ -9,6 +9,6 @@ postthumbnail: https://nogradifutball.hu/wp-content/uploads/2020/08/118086434_99
 author: thgab
 ---
 
-{% include mlsz.html %}
+{% include mlsz_s.html %}
 
 _Adatok: [MLSZ](https://adatbank.mlsz.hu/), az indexkép: [nogradifutball.hu](https://nogradifutball.hu/)_
