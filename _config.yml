@@ -20,7 +20,7 @@ url: "https://karancssag.info" # the base hostname & protocol for your site
 static_url: "https://static.karancssag.info"
 excerpt_separator: <!--more-->
 # page_gen
-page_gen-dirs: true
+page_gen-dirs: false
 page_gen:
   - data: 'jobs.results.szecseny.results'
     template: 'job'

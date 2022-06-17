@@ -41,7 +41,7 @@
                 <ul class="collapse" id="req-{{cityslug}}">
                     {% for job in jobs %}
                     <li >
-                        <a href="/allas/{{ job.subPage | datapage_url: allas }}">{{ job.position }}</a>
+                        <a href="/allas{{ job.subPage | datapage_url: allas }}">{{ job.position }}</a>
                     </li>
                     {% endfor %}
 
