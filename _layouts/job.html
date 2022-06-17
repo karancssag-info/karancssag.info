@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<h1 id="közszféra-állásajánlatai-karancsságon-és-a-környező-településeken">Közszféra állásajánlatai Karancsságon és a környező településeken</h1>
+
+<p>A <a href="https://kozigallas.gov.hu/" target="_blank">kozigallas.gov.hu</a> oldalról.</p>
+
+<div id="app">
+    <div class="row no-gutters">
+        <div class="col-12 col-sm-6 col-md-8">
+            <div>
+                <strong>{{ page.type }}</strong>
+                <h3 >
+                    <a class="text-dark" href="{{ page.link }}" target="_blank">{{ page.position }}</a>
+                </h3>
+                <div class="text-muted">Határidő: {{ page.deadline }}</div>
+                <p class="">
+                    Közzétevő: <b>{{ page.publisher }}</b><br/>
+                    Munkavégzés helye: <b>{{ page.place }}</b>
+                </p>
+                <a href="https://api.karancssag.info/jump/{{ page.jumpPageData }}" target="_blank">Tovább a jelentkezéshez</a>
+            </div>
+
+        </div>
+        <div class="col-6 col-md-4">
+            <img
+                    class="card-img-right flex-auto d-none d-md-block"
+                    data-src="https://api.karancssag.info{{ page.image }}"
+                    alt="Screenshot" style="width: 100%;"
+                    src="https://api.karancssag.info{{ page.image }}"
+                    data-holder-rendered="true" />
+        </div>
+    </div>
+</div>
+
+<p><em>Az indexkép <a href="https://www.pexels.com/hu-hu/@sora-shimazaki?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Sora Shimazaki</a> fotója a <a href="https://www.pexels.com/hu-hu/foto/uzletember-ferfi-no-hordozhato-szamitogep-5668859/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a> oldaláról.</em></p>

@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-destination: ./build
+
 # Site settings
 host: 0.0.0.0
 title: karancssag.info
@@ -19,8 +19,45 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karancssag.info" # the base hostname & protocol for your site
 static_url: "https://static.karancssag.info"
 excerpt_separator: <!--more-->
-
+# page_gen
+page_gen-dirs: false
+page_gen:
+  - data: 'jobs.results.szecseny.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.endrefalva.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.piliny.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.szalmatercs.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.karancssag.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.sagujfalu.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.kishartyan.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
+  - data: 'jobs.results.salgotarjan.results'
+    template: 'job'
+    name: 'subPage'
+    dir: 'allas'
 # Build settings
 markdown: kramdown
-gems:
+destination: ./build
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
+plugins:
   - jekyll-sitemap
+  - jekyll-datapage-generator
