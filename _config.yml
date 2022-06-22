@@ -19,6 +19,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karancssag.info" # the base hostname & protocol for your site
 static_url: "https://static.karancssag.info"
 excerpt_separator: <!--more-->
+comments:
+  enable: false
+  provider: 'disqus'
 
 # page_gen
 page_gen-dirs: false
