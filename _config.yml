@@ -72,5 +72,6 @@ markdown: kramdown
 destination: ./build
 exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
 plugins:
+  - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-datapage-generator
