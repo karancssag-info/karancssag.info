@@ -21,8 +21,8 @@
         {% assign cities = site.data.jobs.cities %}
         {% for city in cities %}
             {% assign cityslug = city[0] %}
-            {% assign cityname = city[1] %}
-            {% assign jobs = site.data.jobs.results[cityslug].results %}
+            {% assign cityname = city[1].name %}
+            {% assign jobs = city[1].results %}
             <li>
                 {% if jobs.size > 0 %}
                     <span>
