@@ -16,6 +16,9 @@ layout: default
                 <div class="text-muted">Határidő: {{ page.deadline }}</div>
                 <p class="">
                     Közzétevő: <b>{{ page.publisher }}</b><br/>
+                    {% if page.publishedTS %}
+                    <small>Közzétéve: <b>{{ page.publishedTS| date: "%Y-%m-%d" }}</b></small><br/>
+                    {% endif %}
                     Munkavégzés helye: <b>{{ page.place }}</b>
                 </p>
                 <a href="https://api.karancssag.info/jump/{{ page.jumpPageData }}" target="_blank">Tovább a jelentkezéshez</a>
