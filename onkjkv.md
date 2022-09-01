@@ -10,6 +10,8 @@ author: thgab
 ---
 
 ### Az önkormányzat honlapján elérhető jegyzőkönyvek listája
+Az karancssag.info oldalon a jegyzőkönyvek mellékletekkel összevonva, kereshető (szöveges réteget tartalmazó) formában olvashatóak. 
+Ez a lista tartalmazza az önkormányzat ASP oldalára feltöltött jegyzőkönyvek és mellékletek feltöltési idejét, és zárójelben, hogy a képviselő testületi ülés időpontja utáni hányadik napon kerültek feltöltésre.
 
 <ol reversed>
 {% assign onkroot = "https://karancssag.asp.lgov.hu" %}
