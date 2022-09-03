@@ -9,8 +9,8 @@
         "14836",
         "14892",
         "14467",
-        "13968",
         "14139",
+        "13968",
         "13651",
         "13537",
         "13419",
@@ -34,9 +34,9 @@
                 "url_title": "karancssag_kozseg_onkormanyzata_21",
                 "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2022. m\u00e1rcius 3-t\u00f3l",
                 "created_at": "2022-08-19T14:14:46.954+02:00",
-                "updated_at": "2022-08-19T14:14:47.376+02:00",
-                "described_state": "waiting_response",
-                "display_status": "V\u00e1laszra v\u00e1r",
+                "updated_at": "2022-09-02T17:06:20.466+02:00",
+                "described_state": "successful",
+                "display_status": "Sikeres",
                 "awaiting_description": false,
                 "prominence": "normal",
                 "law_used": "foi",
@@ -55,7 +55,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -69,26 +69,26 @@
                 "about_me": ""
             },
             "events": {
-                "85408": {
-                    "id": 85408,
-                    "event_type": "sent",
-                    "created_at": "2022-08-19T14:14:47.174+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2022-08-19T14:14:47.366+02:00",
+                "85910": {
+                    "id": 85910,
+                    "event_type": "followup_sent",
+                    "created_at": "2022-09-02T17:07:12.429+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 28967,
+                    "outgoing_message_id": 29041,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a t\u00e1j\u00e9koztat\u00e1st!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 20914,
                         "url_title": "karancssag_kozseg_onkormanyzata_21",
                         "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2022. m\u00e1rcius 3-t\u00f3l",
                         "created_at": "2022-08-19T14:14:46.954+02:00",
-                        "updated_at": "2022-08-19T14:14:47.376+02:00",
-                        "described_state": "waiting_response",
-                        "display_status": "V\u00e1laszra v\u00e1r",
+                        "updated_at": "2022-09-02T17:06:20.466+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
                         "awaiting_description": false,
                         "prominence": "normal",
                         "law_used": "foi",
@@ -107,7 +107,111 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 4,
+                            "requests_visible_classified_count": 9
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": ""
+                    }
+                },
+                "85903": {
+                    "id": 85903,
+                    "event_type": "response",
+                    "created_at": "2022-09-02T12:26:08.356+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2022-09-02T17:06:20.517+02:00",
+                    "incoming_message_id": 29391,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt C\u00edm!\n\nT\u00e1j\u00e9koztatjuk, hogy az \u00f6nkorm\u00e1nyzat \u00e1ltal k\u00e9sz\u00edtett jegyz\u0151k\u00f6nyvek a \nKarancss\u00e1g telep\u00fcl\u00e9sport\u00e1lra felt\u00f6lt\u00e9sre ker\u00fcltek.\n\nTisztelettel:...",
+                    "info_request": {
+                        "id": 20914,
+                        "url_title": "karancssag_kozseg_onkormanyzata_21",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2022. m\u00e1rcius 3-t\u00f3l",
+                        "created_at": "2022-08-19T14:14:46.954+02:00",
+                        "updated_at": "2022-09-02T17:06:20.466+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2022-01-22T04:55:33.850+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [],
+                        "info": {
+                            "requests_count": 9,
+                            "requests_successful_count": 4,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 4,
+                            "requests_visible_classified_count": 9
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": ""
+                    }
+                },
+                "85408": {
+                    "id": 85408,
+                    "event_type": "sent",
+                    "created_at": "2022-08-19T14:14:47.174+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2022-08-19T14:14:47.366+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 28967,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "info_request": {
+                        "id": 20914,
+                        "url_title": "karancssag_kozseg_onkormanyzata_21",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2022. m\u00e1rcius 3-t\u00f3l",
+                        "created_at": "2022-08-19T14:14:46.954+02:00",
+                        "updated_at": "2022-09-02T17:06:20.466+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2022-01-22T04:55:33.850+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [],
+                        "info": {
+                            "requests_count": 9,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -150,7 +254,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -202,7 +306,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -254,7 +358,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -306,7 +410,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -349,7 +453,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -401,7 +505,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -453,7 +557,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -505,7 +609,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -1262,7 +1366,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -1314,7 +1418,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -1366,7 +1470,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -1418,7 +1522,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -1461,7 +1565,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -1513,7 +1617,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -2067,7 +2171,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -2081,6 +2185,58 @@
                 "about_me": ""
             },
             "events": {
+                "55112": {
+                    "id": 55112,
+                    "event_type": "followup_sent",
+                    "created_at": "2020-02-14T11:30:00.935+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 20542,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nA 2020. febru\u00e1r 11-\u00e9n kelt, Karancss\u00e1g K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat K\u00e9pvisel\u0151-test\u00fclet\u00e9nek 14...",
+                    "info_request": {
+                        "id": 14139,
+                        "url_title": "karancssag_kozseg_onkormanyzata_15",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata 14/2019. jegyz\u0151k\u00f6nyv",
+                        "created_at": "2020-02-11T15:59:38.671+01:00",
+                        "updated_at": "2020-02-14T11:26:27.073+01:00",
+                        "described_state": "user_withdrawn",
+                        "display_status": "Az ig\u00e9nyl\u0151 visszavonta. ",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2022-01-22T04:55:33.850+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [],
+                        "info": {
+                            "requests_count": 9,
+                            "requests_successful_count": 4,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 4,
+                            "requests_visible_classified_count": 9
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": ""
+                    }
+                },
                 "54877": {
                     "id": 54877,
                     "event_type": "sent",
@@ -2119,7 +2275,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -2162,7 +2318,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -2214,7 +2370,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -2695,7 +2851,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -2747,7 +2903,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -3228,7 +3384,7 @@
                 "tags": [],
                 "info": {
                     "requests_count": 9,
-                    "requests_successful_count": 3,
+                    "requests_successful_count": 4,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 4,
                     "requests_visible_classified_count": 9
@@ -3280,7 +3436,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -3332,7 +3488,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -3384,7 +3540,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
@@ -3436,7 +3592,7 @@
                         "tags": [],
                         "info": {
                             "requests_count": 9,
-                            "requests_successful_count": 3,
+                            "requests_successful_count": 4,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 4,
                             "requests_visible_classified_count": 9
