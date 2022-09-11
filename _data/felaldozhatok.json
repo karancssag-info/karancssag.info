@@ -14,82 +14,39 @@
     },
     "tabella": [
         {
-            "teamId": "249621",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249621.html",
-            "H.": "1",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
-                "title": ""
-            },
-            "Csapat": "KARANCSBER\u00c9NYI\u00a0VSFC",
-            "M.": "3",
-            "Gy.": "2",
-            "D.": "1",
-            "V.": "0",
-            "LG.": "19",
-            "KG.": "2",
-            "GK.": "17",
-            "P.": "7",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2022.09.11. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nKARANCSBER\u00c9NYI VSFC",
-                "mikor": "2022.09.11.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - KARANCSBER\u00c9NYI VSFC"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766214.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 1 - 1 RIM\u00d3CI SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766208.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 7 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766200.html",
-                    "result": {
-                        "goals": "B\u00c1TONYTERENYEI TC II. 0 - 11 KARANCSBER\u00c9NYI VSFC",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "249622",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249622.html",
-            "H.": "2",
+            "H.": "1",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "3",
-            "Gy.": "2",
+            "M.": "4",
+            "Gy.": "3",
             "D.": "1",
             "V.": "0",
-            "LG.": "12",
-            "KG.": "3",
-            "GK.": "9",
-            "P.": "7",
+            "LG.": "17",
+            "KG.": "6",
+            "GK.": "11",
+            "P.": "10",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
-                "title": "2022.09.11. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nKARANCSBER\u00c9NYI VSFC",
-                "mikor": "2022.09.11.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - KARANCSBER\u00c9NYI VSFC"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2022.09.18. \r\nCeredv\u00f6lgye SE sportp\u00e1lya \r\nCEREDV\u00d6LGYE SE - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2022.09.18.",
+                "hol": "Ceredv\u00f6lgye SE sportp\u00e1lya",
+                "mi": "CEREDV\u00d6LGYE SE - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766215.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 5 - 3 KARANCSBER\u00c9NYI VSFC",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766209.html",
                     "result": {
@@ -109,6 +66,63 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 2 VIZSL\u00c1SI SE ",
                         "res": "D"
+                    }
+                }
+            ]
+        },
+        {
+            "teamId": "249621",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249621.html",
+            "H.": "2",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
+                "title": ""
+            },
+            "Csapat": "KARANCSBER\u00c9NYI\u00a0VSFC",
+            "M.": "4",
+            "Gy.": "2",
+            "D.": "1",
+            "V.": "1",
+            "LG.": "22",
+            "KG.": "7",
+            "GK.": "15",
+            "P.": "7",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
+                "title": "2022.09.18. \r\nKarancsber\u00e9ny sportp\u00e1lya \r\nKARANCSBER\u00c9NYI VSFC - \r\nSOMOS-MTSE II.",
+                "mikor": "2022.09.18.",
+                "hol": "Karancsber\u00e9ny sportp\u00e1lya",
+                "mi": "KARANCSBER\u00c9NYI VSFC - SOMOS-MTSE II."
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766215.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 5 - 3 KARANCSBER\u00c9NYI VSFC",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766214.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 1 - 1 RIM\u00d3CI SE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766208.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 7 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766200.html",
+                    "result": {
+                        "goals": "B\u00c1TONYTERENYEI TC II. 0 - 11 KARANCSBER\u00c9NYI VSFC",
+                        "res": "GY"
                     }
                 }
             ]
