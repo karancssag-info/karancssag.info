@@ -242,9 +242,59 @@
             ]
         },
         {
+            "teamId": "249611",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249611.html",
+            "H.": "5",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
+                "title": ""
+            },
+            "Csapat": "NAGYL\u00d3C\u00a0SE",
+            "M.": "3",
+            "Gy.": "2",
+            "D.": "1",
+            "V.": "0",
+            "LG.": "9",
+            "KG.": "4",
+            "GK.": "5",
+            "P.": "7",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
+                "title": "2022.09.18. \r\nNagyl\u00f3c sportp\u00e1lya \r\nNAGYL\u00d3C SE - \r\nRIM\u00d3CI SE",
+                "mikor": "2022.09.18.",
+                "hol": "Nagyl\u00f3c sportp\u00e1lya",
+                "mi": "NAGYL\u00d3C SE - RIM\u00d3CI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766217.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 3 - 0 B\u00c1TONYTERENYEI TC II.",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766204.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 4 - 2 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766199.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 2 NAGYL\u00d3C SE",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249620",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249620.html",
-            "H.": "5",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
                 "title": ""
@@ -294,7 +344,7 @@
         {
             "teamId": "249610",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249610.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
                 "title": ""
@@ -351,7 +401,7 @@
         {
             "teamId": "249617",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
                 "title": ""
@@ -400,49 +450,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766201.html",
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 2 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249611",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249611.html",
-            "H.": "8",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
-                "title": ""
-            },
-            "Csapat": "NAGYL\u00d3C\u00a0SE",
-            "M.": "2",
-            "Gy.": "1",
-            "D.": "1",
-            "V.": "0",
-            "LG.": "6",
-            "KG.": "4",
-            "GK.": "2",
-            "P.": "4",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
-                "title": "2022.09.18. \r\nNagyl\u00f3c sportp\u00e1lya \r\nNAGYL\u00d3C SE - \r\nRIM\u00d3CI SE",
-                "mikor": "2022.09.18.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "NAGYL\u00d3C SE - RIM\u00d3CI SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766204.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 4 - 2 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766199.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 2 NAGYL\u00d3C SE",
                         "res": "D"
                     }
                 }
@@ -569,8 +576,8 @@
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2022.09.17. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2022.09.17.",
+                "title": "2022.09.18. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2022.09.18.",
                 "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
                 "mi": "N\u00d3GR\u00c1DMEGYER BSE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
@@ -606,59 +613,9 @@
             ]
         },
         {
-            "teamId": "249609",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249609.html",
-            "H.": "12",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/12/11912.jpg",
-                "title": ""
-            },
-            "Csapat": "B\u00c1TONYTERENYEI\u00a0TC\u00a0II.",
-            "M.": "3",
-            "Gy.": "0",
-            "D.": "0",
-            "V.": "3",
-            "LG.": "3",
-            "KG.": "23",
-            "GK.": "-20",
-            "P.": "0",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2022.09.17. \r\nB\u00e1tonyterenyei TC sportp\u00e1lya \r\nB\u00c1TONYTERENYEI TC II. - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2022.09.17.",
-                "hol": "B\u00e1tonyterenyei TC sportp\u00e1lya",
-                "mi": "B\u00c1TONYTERENYEI TC II. - FEL\u00c1LDOZHAT\u00d3K SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766212.html",
-                    "result": {
-                        "goals": "B\u00c1TONYTERENYEI TC II. 1 - 8 SOMOS-MTSE II.",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766207.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 4 - 2 B\u00c1TONYTERENYEI TC II.",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766200.html",
-                    "result": {
-                        "goals": "B\u00c1TONYTERENYEI TC II. 0 - 11 KARANCSBER\u00c9NYI VSFC",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "249612",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249612.html",
-            "H.": "13",
+            "H.": "12",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
                 "title": ""
@@ -676,8 +633,8 @@
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2022.09.17. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2022.09.17.",
+                "title": "2022.09.18. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2022.09.18.",
                 "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
                 "mi": "N\u00d3GR\u00c1DMEGYER BSE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
@@ -707,6 +664,63 @@
                     "link": "https://adatbank.mlsz.hu/match/1766202.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 3 ECSEG SE",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
+            "teamId": "249609",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249609.html",
+            "H.": "13",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/12/11912.jpg",
+                "title": ""
+            },
+            "Csapat": "B\u00c1TONYTERENYEI\u00a0TC\u00a0II.",
+            "M.": "4",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "4",
+            "LG.": "3",
+            "KG.": "26",
+            "GK.": "-23",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2022.09.17. \r\nB\u00e1tonyterenyei TC sportp\u00e1lya \r\nB\u00c1TONYTERENYEI TC II. - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2022.09.17.",
+                "hol": "B\u00e1tonyterenyei TC sportp\u00e1lya",
+                "mi": "B\u00c1TONYTERENYEI TC II. - FEL\u00c1LDOZHAT\u00d3K SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766217.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 3 - 0 B\u00c1TONYTERENYEI TC II.",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766212.html",
+                    "result": {
+                        "goals": "B\u00c1TONYTERENYEI TC II. 1 - 8 SOMOS-MTSE II.",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766207.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 4 - 2 B\u00c1TONYTERENYEI TC II.",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766200.html",
+                    "result": {
+                        "goals": "B\u00c1TONYTERENYEI TC II. 0 - 11 KARANCSBER\u00c9NYI VSFC",
                         "res": "V"
                     }
                 }
