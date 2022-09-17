@@ -1,22 +1,10 @@
 {
     "cities": {
         "szecseny": {
-            "name": "Sz\u00e9cs\u00e9ny",
-            "results": [
-                {
-                    "subPage": "ij3j4zjyj9-kozig-2-ovodapedagogus",
-                    "position": "\u00f3vodapedag\u00f3gus"
-                }
-            ]
+            "name": "Sz\u00e9cs\u00e9ny"
         },
         "endrefalva": {
-            "name": "Endrefalva",
-            "results": [
-                {
-                    "subPage": "ij5f0ukmg7-kozig-2-apolo",
-                    "position": "\u00e1pol\u00f3"
-                }
-            ]
+            "name": "Endrefalva"
         },
         "piliny": {
             "name": "Piliny"
@@ -104,40 +92,6 @@
         }
     },
     "results": [
-        {
-            "deadline": "2022. szeptember 16.",
-            "position": "\u00f3vodapedag\u00f3gus",
-            "publisher": "Sz\u00e9cs\u00e9nyfelfalui M\u00e9hecsk\u00e9k \u00d3vod\u00e1ja",
-            "place": "N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9nyfelfalu",
-            "type": "K\u00f6zalkalmazott",
-            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pajNqNHpqeWo5",
-            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ij3j4zjyj9",
-            "id": "ij3j4zjyj9",
-            "rType": "kozig_2",
-            "title": "\u00f3vodapedag\u00f3gus - N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9nyfelfalu",
-            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pajNqNHpqeWo5",
-            "subPage": "ij3j4zjyj9-kozig-2-ovodapedagogus",
-            "jumpPageData": "dU5LDoIwEL1K07UhfAwJXsHoRpcmZqBD6QdKaDGhxrvbUreuZuZ9500ZAtNiQnqiZV6WGbEeZ4djiwsp6owe6GyscMJMQfFY87yvXobBjAx4Ovlqo2pttbADLkF285HBprNpTluPuge9CnJJyICdVWlVJE4WU3egkBDjNHTxp-uvY0kcIyPyDcmB_O0IZrfN0XvevbUHrUCP4I1zgRQsUEJW8ujlJpuALPekV8YL_izp5ws",
-            "publishedTS": 1660370400,
-            "last_modified_at": "2022-08-13T08:00:00+02:00"
-        },
-        {
-            "deadline": "2022. szeptember 16.",
-            "position": "\u00e1pol\u00f3",
-            "publisher": "Endrefalva K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
-            "place": "N\u00f3gr\u00e1d megye , Endrefalva",
-            "type": "K\u00f6zalkalmazott",
-            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pajVmMHVrbWc3",
-            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ij5f0ukmg7",
-            "id": "ij5f0ukmg7",
-            "rType": "kozig_2",
-            "title": "\u00e1pol\u00f3 - N\u00f3gr\u00e1d megye , Endrefalva",
-            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pajVmMHVrbWc3",
-            "subPage": "ij5f0ukmg7-kozig-2-apolo",
-            "jumpPageData": "RY3LCsIwEAB_JeRcSluxondPgiePgmzNNsY8SVOhEf_dpEE8ZcnMzr4pQ2BKGKQH2jVdV5MpoguoB_Sk7WtaUWcnEYQ1ybjOTYOtsyoP4ybDeVBieqBP9GiYxxHUC8hpFfo4rRt7TvLLeiOt1yVilggBckHBPV8_lyb3hTOikS9IKvLPJjssLsu_PigJSkO0ISQoWELiuR2bWWq-Sz_-Unxpo-C3jn6-",
-            "publishedTS": 1661234400,
-            "last_modified_at": "2022-08-23T08:00:00+02:00"
-        },
         {
             "deadline": "2022. szeptember 30.",
             "position": "Feln\u0151tt h\u00e1ziorvos",
