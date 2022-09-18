@@ -292,9 +292,66 @@
             ]
         },
         {
+            "teamId": "249618",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
+            "H.": "6",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "4",
+            "Gy.": "2",
+            "D.": "1",
+            "V.": "1",
+            "LG.": "12",
+            "KG.": "9",
+            "GK.": "3",
+            "P.": "7",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
+                "title": "2022.09.25. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nRIM\u00d3CI SE",
+                "mikor": "2022.09.25.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - RIM\u00d3CI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766221.html",
+                    "result": {
+                        "goals": "B\u00c1TONYTERENYEI TC II. 1 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766211.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 4 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766205.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 2 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766201.html",
+                    "result": {
+                        "goals": "CEREDV\u00d6LGYE SE 2 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249620",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249620.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
                 "title": ""
@@ -344,7 +401,7 @@
         {
             "teamId": "249610",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249610.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
                 "title": ""
@@ -401,7 +458,7 @@
         {
             "teamId": "249617",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
-            "H.": "8",
+            "H.": "9",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
                 "title": ""
@@ -444,56 +501,6 @@
                     "result": {
                         "goals": "VIZSL\u00c1SI SE  3 - 3 CEREDV\u00d6LGYE SE",
                         "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766201.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 2 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249618",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "9",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": ""
-            },
-            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "3",
-            "Gy.": "1",
-            "D.": "1",
-            "V.": "1",
-            "LG.": "8",
-            "KG.": "8",
-            "GK.": "0",
-            "P.": "4",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/12/11912.jpg",
-                "title": "2022.09.17. \r\nB\u00e1tonyterenyei TC sportp\u00e1lya \r\nB\u00c1TONYTERENYEI TC II. - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2022.09.17.",
-                "hol": "B\u00e1tonyterenyei TC sportp\u00e1lya",
-                "mi": "B\u00c1TONYTERENYEI TC II. - FEL\u00c1LDOZHAT\u00d3K SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766211.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 4 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766205.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 2 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "GY"
                     }
                 },
                 {
@@ -678,24 +685,31 @@
                 "title": ""
             },
             "Csapat": "B\u00c1TONYTERENYEI\u00a0TC\u00a0II.",
-            "M.": "4",
+            "M.": "5",
             "Gy.": "0",
             "D.": "0",
-            "V.": "4",
-            "LG.": "3",
-            "KG.": "26",
-            "GK.": "-23",
+            "V.": "5",
+            "LG.": "4",
+            "KG.": "30",
+            "GK.": "-26",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2022.09.17. \r\nB\u00e1tonyterenyei TC sportp\u00e1lya \r\nB\u00c1TONYTERENYEI TC II. - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2022.09.17.",
-                "hol": "B\u00e1tonyterenyei TC sportp\u00e1lya",
-                "mi": "B\u00c1TONYTERENYEI TC II. - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": "2022.09.24. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nB\u00c1TONYTERENYEI TC II.",
+                "mikor": "2022.09.24.",
+                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
+                "mi": "VIZSL\u00c1SI SE  - B\u00c1TONYTERENYEI TC II."
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766221.html",
+                    "result": {
+                        "goals": "B\u00c1TONYTERENYEI TC II. 1 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766217.html",
                     "result": {
