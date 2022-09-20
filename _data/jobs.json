@@ -91,6 +91,14 @@
                 {
                     "subPage": "ikyj9qfci9-kozig-1-hatosagi-allatorvos",
                     "position": "hat\u00f3s\u00e1gi \u00e1llatorvos"
+                },
+                {
+                    "subPage": "ikvb0os5e4-kozig-2-szakorvos-egeszsegugyi-szolgalati-jogviszony-627545",
+                    "position": "szakorvos (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) 627545."
+                },
+                {
+                    "subPage": "ikvd9e1cd9-kozig-2-altalanos-orvos-rezidens-egeszsegugyi-szolgalati-jogviszony",
+                    "position": "\u00e1ltal\u00e1nos orvos (rezidens) (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony)"
                 }
             ]
         }
@@ -384,6 +392,40 @@
             "jumpPageData": "bYxRD4IgFEb_CuPZOdHVZn_B1Us9tjWUK15FMUA3bf33IHrsibvvnMOLCuBC4QT0RPMsz1MioIGxBkMKltKEztqiQz153nF3X7KsLWx4gEkk8VCKO21WbYO_1AptB8YHl6hLEzVBziA3QFJpM8Zp2jpcueMqlIo38K8aQ0UScuVKRua46X8f-NBtc-iqLzvuDu3uVrSg_MAOzBsoPMdh68tn22DpF3OL0aB3lA9G3x8",
             "publishedTS": 1662703200,
             "last_modified_at": "2022-09-09T08:00:00+02:00"
+        },
+        {
+            "deadline": "2022. december 31.",
+            "position": "szakorvos (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) 627545.",
+            "publisher": "Szent L\u00e1z\u00e1r Megyei K\u00f3rh\u00e1z",
+            "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "type": "K\u00f6zalkalmazott",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pa3ZiMG9zNWU0",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ikvb0os5e4",
+            "id": "ikvb0os5e4",
+            "rType": "kozig_2",
+            "title": "szakorvos (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) 627545. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pa3ZiMG9zNWU0",
+            "subPage": "ikvb0os5e4-kozig-2-szakorvos-egeszsegugyi-szolgalati-jogviszony-627545",
+            "jumpPageData": "LY5NbsIwEEavMvIKJISCQ6joFdqyoctKlRMPZohjI9tEihF3r5Ppan7evE_zFBqVtuRQvAtZSbkFjR0OLQaod1uxEXcfKZF3hceseh9GH2GF5udRVXiMOXKzzJfOTAQxe8t4Z1UiuHkzUlm6aQ0H-dbsmyX30VqKVwwl-JzRJfhkJ3MJ8IVmQoKPJbkO1388u1Z188MnRiYw0jDMCmzgrPiDS51UuDF1RUzTffY48pCV7ZUdVPYpFUi6IOrHtvKxwX3ZhG--730m8yvF6w8",
+            "publishedTS": 1663653600,
+            "last_modified_at": "2022-09-20T08:00:00+02:00"
+        },
+        {
+            "deadline": "2022. december 31.",
+            "position": "\u00e1ltal\u00e1nos orvos (rezidens) (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony)",
+            "publisher": "Szent L\u00e1z\u00e1r Megyei K\u00f3rh\u00e1z",
+            "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "type": "K\u00f6zalkalmazott",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pa3ZkOWUxY2Q5",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ikvd9e1cd9",
+            "id": "ikvd9e1cd9",
+            "rType": "kozig_2",
+            "title": "\u00e1ltal\u00e1nos orvos (rezidens) (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pa3ZkOWUxY2Q5",
+            "subPage": "ikvd9e1cd9-kozig-2-altalanos-orvos-rezidens-egeszsegugyi-szolgalati-jogviszony",
+            "jumpPageData": "LY_digIxDIVfJfRKQWR-QBhfQXdv3MsFqdNY43RaSevAVPbdt53OTZvkyzmHfIRCqQxZFEfRVE2zB4U9jjdkaOu92ImX8xTI2cR_31WFtQnSlMo6D46n9G4YIym0fgsb1AvtfPSlWPp7r2cCH53Rq40MBE-nJ0pDO29z1PtmyD-QU9Ylog1wLruxfAxfqGckOC2OLT9WnLVG9vmG74I0F6RgzBLYwUWW5HsbJD_XA5IwzK-sK5aHKM0gzSijCyFBUgnRMKkO6151acI_ZX9wkfS1EX__",
+            "publishedTS": 1663653600,
+            "last_modified_at": "2022-09-20T08:00:00+02:00"
         }
     ]
 }
