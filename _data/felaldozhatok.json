@@ -22,24 +22,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "5",
-            "Gy.": "3",
+            "M.": "6",
+            "Gy.": "4",
             "D.": "1",
             "V.": "1",
-            "LG.": "18",
-            "KG.": "9",
-            "GK.": "9",
-            "P.": "10",
+            "LG.": "24",
+            "KG.": "10",
+            "GK.": "14",
+            "P.": "13",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2022.09.25. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2022.09.25.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2022.10.02. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2022.10.02.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766229.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 6 - 1 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766224.html",
                     "result": {
@@ -66,13 +73,6 @@
                     "result": {
                         "goals": "ECSEG SE 0 - 2 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766198.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 2 VIZSL\u00c1SI SE ",
-                        "res": "D"
                     }
                 }
             ]
@@ -641,24 +641,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "5",
+            "M.": "6",
             "Gy.": "1",
             "D.": "1",
-            "V.": "3",
-            "LG.": "15",
-            "KG.": "17",
-            "GK.": "-2",
+            "V.": "4",
+            "LG.": "16",
+            "KG.": "23",
+            "GK.": "-7",
             "P.": "4",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2022.09.25. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2022.09.25.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2022.10.01. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nCEREDV\u00d6LGYE SE",
+                "mikor": "2022.10.01.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - CEREDV\u00d6LGYE SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766229.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 6 - 1 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766222.html",
                     "result": {
@@ -685,13 +692,6 @@
                     "result": {
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 2 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766199.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 2 NAGYL\u00d3C SE",
-                        "res": "D"
                     }
                 }
             ]
