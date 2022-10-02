@@ -86,24 +86,31 @@
                 "title": ""
             },
             "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "6",
+            "M.": "7",
             "Gy.": "3",
             "D.": "3",
-            "V.": "0",
-            "LG.": "18",
-            "KG.": "9",
-            "GK.": "9",
+            "V.": "1",
+            "LG.": "22",
+            "KG.": "15",
+            "GK.": "7",
             "P.": "12",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2022.10.01. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2022.10.01.",
-                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - CEREDV\u00d6LGYE SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2022.10.09. \r\nCeredv\u00f6lgye SE sportp\u00e1lya \r\nCEREDV\u00d6LGYE SE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2022.10.09.",
+                "hol": "Ceredv\u00f6lgye SE sportp\u00e1lya",
+                "mi": "CEREDV\u00d6LGYE SE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766416.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 4 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766410.html",
                     "result": {
@@ -129,13 +136,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766213.html",
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 1 - 1 ECSEG SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766203.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  3 - 3 CEREDV\u00d6LGYE SE",
                         "res": "D"
                     }
                 }
@@ -662,24 +662,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "6",
-            "Gy.": "1",
+            "M.": "7",
+            "Gy.": "2",
             "D.": "1",
             "V.": "4",
-            "LG.": "16",
-            "KG.": "23",
-            "GK.": "-7",
-            "P.": "4",
+            "LG.": "22",
+            "KG.": "27",
+            "GK.": "-5",
+            "P.": "7",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
-                "title": "2022.10.01. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2022.10.01.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
+                "title": "2022.10.08. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nKARANCSBER\u00c9NYI VSFC",
+                "mikor": "2022.10.08.",
                 "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - CEREDV\u00d6LGYE SE"
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - KARANCSBER\u00c9NYI VSFC"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766416.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 4 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766229.html",
                     "result": {
@@ -705,13 +712,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766210.html",
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 3 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766205.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 2 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
                     }
                 }
