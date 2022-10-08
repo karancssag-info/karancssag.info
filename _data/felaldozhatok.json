@@ -78,9 +78,73 @@
             ]
         },
         {
+            "teamId": "249613",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249613.html",
+            "H.": "2",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": ""
+            },
+            "Csapat": "VIZSL\u00c1SI\u00a0SE\u00a0",
+            "M.": "7",
+            "Gy.": "4",
+            "D.": "2",
+            "V.": "1",
+            "LG.": "20",
+            "KG.": "16",
+            "GK.": "4",
+            "P.": "14",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
+                "title": "2022.10.15. \r\nNagyl\u00f3c sportp\u00e1lya \r\nNAGYL\u00d3C SE - \r\nVIZSL\u00c1SI SE",
+                "mikor": "2022.10.15.",
+                "hol": "Nagyl\u00f3c sportp\u00e1lya",
+                "mi": "NAGYL\u00d3C SE - VIZSL\u00c1SI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766422.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  5 - 4 SOMOS-MTSE II.",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766420.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 1 VIZSL\u00c1SI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766227.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  3 - 0 B\u00c1TONYTERENYEI TC II.",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766216.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  3 - 2 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766210.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 3 VIZSL\u00c1SI SE ",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249619",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249619.html",
-            "H.": "2",
+            "H.": "3",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
                 "title": ""
@@ -144,7 +208,7 @@
         {
             "teamId": "249611",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249611.html",
-            "H.": "3",
+            "H.": "4",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
                 "title": ""
@@ -208,30 +272,37 @@
         {
             "teamId": "249620",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249620.html",
-            "H.": "4",
+            "H.": "5",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
                 "title": ""
             },
             "Csapat": "SOMOS-MTSE\u00a0II.",
-            "M.": "6",
+            "M.": "7",
             "Gy.": "4",
             "D.": "0",
-            "V.": "2",
-            "LG.": "22",
-            "KG.": "10",
-            "GK.": "12",
+            "V.": "3",
+            "LG.": "26",
+            "KG.": "15",
+            "GK.": "11",
             "P.": "12",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
-                "title": "2022.10.08. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nSOMOS-MTSE II.",
-                "mikor": "2022.10.08.",
-                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
-                "mi": "VIZSL\u00c1SI SE  - SOMOS-MTSE II."
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": "2022.10.16. \r\nSomosk\u0151\u00fajfalu sportp\u00e1lya \r\nSOMOS-MTSE II. - \r\nECSEG SE",
+                "mikor": "2022.10.16.",
+                "hol": "Somosk\u0151\u00fajfalu sportp\u00e1lya",
+                "mi": "SOMOS-MTSE II. - ECSEG SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766422.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  5 - 4 SOMOS-MTSE II.",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766419.html",
                     "result": {
@@ -259,20 +330,13 @@
                         "goals": "SOMOS-MTSE II. 5 - 1 RIM\u00d3CI SE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766212.html",
-                    "result": {
-                        "goals": "B\u00c1TONYTERENYEI TC II. 1 - 8 SOMOS-MTSE II.",
-                        "res": "GY"
-                    }
                 }
             ]
         },
         {
             "teamId": "249617",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
-            "H.": "5",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
                 "title": ""
@@ -328,70 +392,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766213.html",
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 1 - 1 ECSEG SE",
-                        "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249613",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249613.html",
-            "H.": "6",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
-                "title": ""
-            },
-            "Csapat": "VIZSL\u00c1SI\u00a0SE\u00a0",
-            "M.": "6",
-            "Gy.": "3",
-            "D.": "2",
-            "V.": "1",
-            "LG.": "15",
-            "KG.": "12",
-            "GK.": "3",
-            "P.": "11",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
-                "title": "2022.10.08. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nSOMOS-MTSE II.",
-                "mikor": "2022.10.08.",
-                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
-                "mi": "VIZSL\u00c1SI SE  - SOMOS-MTSE II."
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766420.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 3 - 1 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766227.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  3 - 0 B\u00c1TONYTERENYEI TC II.",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766216.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  3 - 2 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766210.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 2 - 3 VIZSL\u00c1SI SE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766203.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  3 - 3 CEREDV\u00d6LGYE SE",
                         "res": "D"
                     }
                 }
