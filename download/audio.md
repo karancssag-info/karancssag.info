@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hanganyagok
-permalink: /download/audio
 description: Hanganyagok
 thumbnail: https://static.karancssag.info/images/og/pexels-stas-knop-1261578.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-stas-knop-1261578.jpg
