@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /kozsegunk/karancssag
 title: Községünk
 description: Karancsság
 comments: true

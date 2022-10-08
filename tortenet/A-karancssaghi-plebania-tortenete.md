@@ -1,7 +1,6 @@
 ---
 layout: page
 title: A KARANCSSÁGHI PLÉBÁNIA TÖRTÉNETE.
-permalink: /tortenet/A-karancssaghi-plebania-tortenete/
 description: Maszlaghy Xavér - A karancssághi plébánia története
 comments: false
 thumbnail: https://static.karancssag.info/images/og/magyar_sion.png

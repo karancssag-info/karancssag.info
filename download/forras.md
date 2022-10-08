@@ -2,7 +2,6 @@
 layout: page
 title: Forráslista
 description: Az önkormányzat honlapján elérhető jegyzőkönyvek, csatolmányok feltöltési listája
-permalink: /download/forras
 comments: false
 thumbnail: https://static.karancssag.info/images/og/pexels-little-visuals-1964.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-little-visuals-1964.jpg
