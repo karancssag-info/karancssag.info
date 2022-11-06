@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "ECSEG\u00a0SE",
-            "M.": "8",
+            "M.": "9",
             "Gy.": "5",
-            "D.": "1",
+            "D.": "2",
             "V.": "2",
-            "LG.": "27",
-            "KG.": "15",
+            "LG.": "31",
+            "KG.": "19",
             "GK.": "12",
-            "P.": "16",
+            "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2022.11.06. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nECSEG SE",
-                "mikor": "2022.11.06.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - ECSEG SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": "2022.11.13. \r\nEcseg SE sportp\u00e1lya \r\nECSEG SE - \r\nVIZSL\u00c1SI SE",
+                "mikor": "2022.11.13.",
+                "hol": "Ecseg SE sportp\u00e1lya",
+                "mi": "ECSEG SE - VIZSL\u00c1SI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766431.html",
                     "result": {
@@ -321,13 +328,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766223.html",
                     "result": {
                         "goals": "KAZ\u00c1R KSE 2 - 3 ECSEG SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766219.html",
-                    "result": {
-                        "goals": "ECSEG SE 6 - 2 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
                     }
                 }
@@ -398,9 +398,73 @@
             ]
         },
         {
+            "teamId": "249618",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
+            "H.": "7",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "10",
+            "Gy.": "4",
+            "D.": "3",
+            "V.": "3",
+            "LG.": "28",
+            "KG.": "27",
+            "GK.": "1",
+            "P.": "15",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2022.11.13. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2022.11.13.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - FEL\u00c1LDOZHAT\u00d3K SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766433.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766419.html",
+                    "result": {
+                        "goals": "SOMOS-MTSE II. 5 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249621",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249621.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
                 "title": ""
@@ -457,70 +521,6 @@
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 2 - 1 KARANCSBER\u00c9NYI VSFC",
                         "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249618",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "8",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": ""
-            },
-            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "9",
-            "Gy.": "4",
-            "D.": "2",
-            "V.": "3",
-            "LG.": "24",
-            "KG.": "23",
-            "GK.": "1",
-            "P.": "14",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": "2022.11.06. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nECSEG SE",
-                "mikor": "2022.11.06.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - ECSEG SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766433.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766419.html",
-                    "result": {
-                        "goals": "SOMOS-MTSE II. 5 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766230.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 RIM\u00d3CI SE",
-                        "res": "GY"
                     }
                 }
             ]
