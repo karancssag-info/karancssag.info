@@ -462,9 +462,73 @@
             ]
         },
         {
+            "teamId": "249611",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249611.html",
+            "H.": "8",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
+                "title": ""
+            },
+            "Csapat": "NAGYL\u00d3C\u00a0SE",
+            "M.": "9",
+            "Gy.": "5",
+            "D.": "1",
+            "V.": "3",
+            "LG.": "23",
+            "KG.": "16",
+            "GK.": "7",
+            "P.": "16",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
+                "title": "2022.11.13. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nNAGYL\u00d3C SE",
+                "mikor": "2022.11.13.",
+                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DSIPEKI SE - NAGYL\u00d3C SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766441.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 6 - 4 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766428.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766421.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 1 - 3 NAGYL\u00d3C SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766228.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 3 - 0 SOMOS-MTSE II.",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249618",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "8",
+            "H.": "9",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
                 "title": ""
@@ -520,70 +584,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766419.html",
                     "result": {
                         "goals": "SOMOS-MTSE II. 5 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249611",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249611.html",
-            "H.": "9",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
-                "title": ""
-            },
-            "Csapat": "NAGYL\u00d3C\u00a0SE",
-            "M.": "8",
-            "Gy.": "4",
-            "D.": "1",
-            "V.": "3",
-            "LG.": "17",
-            "KG.": "12",
-            "GK.": "5",
-            "P.": "13",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2022.11.13. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nNAGYL\u00d3C SE",
-                "mikor": "2022.11.13.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - NAGYL\u00d3C SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766428.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766421.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 1 - 3 NAGYL\u00d3C SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766228.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 3 - 0 SOMOS-MTSE II.",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766225.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 1 - 3 RIM\u00d3CI SE",
                         "res": "V"
                     }
                 }
@@ -790,13 +790,13 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "9",
+            "M.": "10",
             "Gy.": "0",
             "D.": "0",
-            "V.": "9",
-            "LG.": "9",
-            "KG.": "49",
-            "GK.": "-40",
+            "V.": "10",
+            "LG.": "13",
+            "KG.": "55",
+            "GK.": "-42",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -808,6 +808,13 @@
                 "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766441.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 6 - 4 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766438.html",
                     "result": {
@@ -833,13 +840,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766414.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 3 KAZ\u00c1R KSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766222.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 7 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "V"
                     }
                 }
