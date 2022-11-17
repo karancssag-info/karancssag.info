@@ -78,9 +78,67 @@
             ]
         },
         {
+            "teamId": "249613",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249613.html",
+            "H.": "2",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": ""
+            },
+            "Csapat": "VIZSL\u00c1SI\u00a0SE\u00a0",
+            "M.": "12",
+            "Gy.": "7",
+            "D.": "2",
+            "V.": "3",
+            "LG.": "29",
+            "KG.": "26",
+            "GK.": "3",
+            "P.": "23",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766452.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766451.html",
+                    "result": {
+                        "goals": "ECSEG SE 6 - 0 VIZSL\u00c1SI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766440.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 1 VIZSL\u00c1SI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766428.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249622",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249622.html",
-            "H.": "2",
+            "H.": "3",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
@@ -144,7 +202,7 @@
         {
             "teamId": "249619",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249619.html",
-            "H.": "3",
+            "H.": "4",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
                 "title": ""
@@ -200,70 +258,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766418.html",
                     "result": {
                         "goals": "B\u00c1TONYTERENYEI TC II. 1 - 5 ECSEG SE",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249613",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249613.html",
-            "H.": "4",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
-                "title": ""
-            },
-            "Csapat": "VIZSL\u00c1SI\u00a0SE\u00a0",
-            "M.": "11",
-            "Gy.": "6",
-            "D.": "2",
-            "V.": "3",
-            "LG.": "26",
-            "KG.": "26",
-            "GK.": "0",
-            "P.": "20",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2022.11.19. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2022.11.19.",
-                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
-                "mi": "VIZSL\u00c1SI SE  - FELS\u0150TOLDI CSERH\u00c1T TSE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766451.html",
-                    "result": {
-                        "goals": "ECSEG SE 6 - 0 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766440.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 1 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766428.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766422.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  5 - 4 SOMOS-MTSE II.",
                         "res": "GY"
                     }
                 }
@@ -784,24 +778,25 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "10",
+            "M.": "11",
             "Gy.": "0",
             "D.": "0",
-            "V.": "10",
+            "V.": "11",
             "LG.": "13",
-            "KG.": "55",
-            "GK.": "-42",
+            "KG.": "58",
+            "GK.": "-45",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
-                "title": "2022.11.19. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2022.11.19.",
-                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
-                "mi": "VIZSL\u00c1SI SE  - FELS\u0150TOLDI CSERH\u00c1T TSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766452.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766441.html",
                     "result": {
@@ -827,13 +822,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766425.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 7 B\u00c1TONYTERENYEI TC II.",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766414.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 3 KAZ\u00c1R KSE",
                         "res": "V"
                     }
                 }
