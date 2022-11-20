@@ -266,24 +266,25 @@
                 "title": ""
             },
             "Csapat": "RIM\u00d3CI\u00a0SE",
-            "M.": "11",
+            "M.": "12",
             "Gy.": "6",
             "D.": "1",
-            "V.": "4",
-            "LG.": "20",
-            "KG.": "25",
-            "GK.": "-5",
+            "V.": "5",
+            "LG.": "23",
+            "KG.": "29",
+            "GK.": "-6",
             "P.": "19",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": "2022.11.20. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2022.11.20.",
-                "hol": "Rim\u00f3ci SE sportp\u00e1lya",
-                "mi": "RIM\u00d3CI SE - KAZ\u00c1R KSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766456.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 4 KAZ\u00c1R KSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766446.html",
                     "result": {
@@ -310,13 +311,6 @@
                     "result": {
                         "goals": "RIM\u00d3CI SE 3 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766427.html",
-                    "result": {
-                        "goals": "ECSEG SE 6 - 0 RIM\u00d3CI SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -560,9 +554,67 @@
             ]
         },
         {
+            "teamId": "249610",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249610.html",
+            "H.": "10",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": ""
+            },
+            "Csapat": "KAZ\u00c1R\u00a0KSE",
+            "M.": "12",
+            "Gy.": "5",
+            "D.": "0",
+            "V.": "7",
+            "LG.": "28",
+            "KG.": "31",
+            "GK.": "-3",
+            "P.": "15",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766456.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 4 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766447.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 3 - 0 B\u00c1TONYTERENYEI TC II.",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766435.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 2 - 3 KARANCSBER\u00c9NYI VSFC",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766429.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766426.html",
+                    "result": {
+                        "goals": "CEREDV\u00d6LGYE SE 5 - 0 KAZ\u00c1R KSE",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249615",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249615.html",
-            "H.": "10",
+            "H.": "11",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
                 "title": ""
@@ -619,70 +671,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 4 CEREDV\u00d6LGYE SE",
                         "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249610",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249610.html",
-            "H.": "11",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": ""
-            },
-            "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "11",
-            "Gy.": "4",
-            "D.": "0",
-            "V.": "7",
-            "LG.": "24",
-            "KG.": "28",
-            "GK.": "-4",
-            "P.": "12",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
-                "title": "2022.11.20. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2022.11.20.",
-                "hol": "Rim\u00f3ci SE sportp\u00e1lya",
-                "mi": "RIM\u00d3CI SE - KAZ\u00c1R KSE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766447.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 3 - 0 B\u00c1TONYTERENYEI TC II.",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766435.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 3 KARANCSBER\u00c9NYI VSFC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766429.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766426.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 5 - 0 KAZ\u00c1R KSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766417.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
                     }
                 }
             ]
