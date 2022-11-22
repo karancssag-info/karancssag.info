@@ -80,14 +80,14 @@
                 "title": ""
             },
             "Csapat": "ECSEG\u00a0SE",
-            "M.": "11",
-            "Gy.": "7",
+            "M.": "12",
+            "Gy.": "8",
             "D.": "2",
             "V.": "2",
-            "LG.": "40",
+            "LG.": "43",
             "KG.": "20",
-            "GK.": "20",
-            "P.": "23",
+            "GK.": "23",
+            "P.": "26",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": "",
@@ -114,17 +114,17 @@
                     }
                 },
                 {
+                    "link": "https://adatbank.mlsz.hu/match/1766439.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 0 NAGYL\u00d3C SE",
+                        "res": "GY"
+                    }
+                },
+                {
                     "link": "https://adatbank.mlsz.hu/match/1766431.html",
                     "result": {
                         "goals": "SOMOS-MTSE II. 7 - 3 ECSEG SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766427.html",
-                    "result": {
-                        "goals": "ECSEG SE 6 - 0 RIM\u00d3CI SE",
-                        "res": "GY"
                     }
                 }
             ]
@@ -304,9 +304,67 @@
             ]
         },
         {
+            "teamId": "249618",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
+            "H.": "6",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "12",
+            "Gy.": "6",
+            "D.": "3",
+            "V.": "3",
+            "LG.": "34",
+            "KG.": "28",
+            "GK.": "6",
+            "P.": "21",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766454.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766450.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766433.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249617",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
                 "title": ""
@@ -357,64 +415,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 4 CEREDV\u00d6LGYE SE",
                         "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249618",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "7",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": ""
-            },
-            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "11",
-            "Gy.": "5",
-            "D.": "3",
-            "V.": "3",
-            "LG.": "30",
-            "KG.": "28",
-            "GK.": "2",
-            "P.": "18",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": "",
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766454.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766433.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
-                        "res": "GY"
                     }
                 }
             ]
@@ -486,13 +486,13 @@
                 "title": ""
             },
             "Csapat": "NAGYL\u00d3C\u00a0SE",
-            "M.": "10",
+            "M.": "11",
             "Gy.": "5",
             "D.": "1",
-            "V.": "4",
+            "V.": "5",
             "LG.": "23",
-            "KG.": "17",
-            "GK.": "6",
+            "KG.": "20",
+            "GK.": "3",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -513,6 +513,13 @@
                     }
                 },
                 {
+                    "link": "https://adatbank.mlsz.hu/match/1766439.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 0 NAGYL\u00d3C SE",
+                        "res": "V"
+                    }
+                },
+                {
                     "link": "https://adatbank.mlsz.hu/match/1766428.html",
                     "result": {
                         "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
@@ -524,13 +531,6 @@
                     "result": {
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766421.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 1 - 3 NAGYL\u00d3C SE",
-                        "res": "GY"
                     }
                 }
             ]
@@ -718,13 +718,13 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "11",
+            "M.": "12",
             "Gy.": "0",
             "D.": "0",
-            "V.": "11",
+            "V.": "12",
             "LG.": "13",
-            "KG.": "58",
-            "GK.": "-45",
+            "KG.": "62",
+            "GK.": "-49",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -734,6 +734,13 @@
                     "link": "https://adatbank.mlsz.hu/match/1766452.html",
                     "result": {
                         "goals": "VIZSL\u00c1SI SE  3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766450.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "V"
                     }
                 },
@@ -755,13 +762,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766432.html",
                     "result": {
                         "goals": "RIM\u00d3CI SE 3 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766425.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 7 B\u00c1TONYTERENYEI TC II.",
                         "res": "V"
                     }
                 }
