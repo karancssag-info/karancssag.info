@@ -304,9 +304,67 @@
             ]
         },
         {
+            "teamId": "249617",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
+            "H.": "6",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": ""
+            },
+            "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
+            "M.": "12",
+            "Gy.": "6",
+            "D.": "3",
+            "V.": "3",
+            "LG.": "39",
+            "KG.": "23",
+            "GK.": "16",
+            "P.": "21",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766453.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 1 - 5 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766448.html",
+                    "result": {
+                        "goals": "CEREDV\u00d6LGYE SE 1 - 3 SOMOS-MTSE II.",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766445.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 2 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766436.html",
+                    "result": {
+                        "goals": "CEREDV\u00d6LGYE SE 4 - 1 B\u00c1TONYTERENYEI TC II.",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766426.html",
+                    "result": {
+                        "goals": "CEREDV\u00d6LGYE SE 5 - 0 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249618",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
                 "title": ""
@@ -357,64 +415,6 @@
                     "result": {
                         "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249617",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249617.html",
-            "H.": "7",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
-                "title": ""
-            },
-            "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "11",
-            "Gy.": "5",
-            "D.": "3",
-            "V.": "3",
-            "LG.": "34",
-            "KG.": "22",
-            "GK.": "12",
-            "P.": "18",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": "",
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766448.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 1 - 3 SOMOS-MTSE II.",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766445.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 3 - 2 CEREDV\u00d6LGYE SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766436.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 4 - 1 B\u00c1TONYTERENYEI TC II.",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766426.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 5 - 0 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766416.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 4 CEREDV\u00d6LGYE SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -486,18 +486,25 @@
                 "title": ""
             },
             "Csapat": "NAGYL\u00d3C\u00a0SE",
-            "M.": "11",
+            "M.": "12",
             "Gy.": "5",
             "D.": "1",
-            "V.": "5",
-            "LG.": "23",
-            "KG.": "20",
-            "GK.": "3",
+            "V.": "6",
+            "LG.": "24",
+            "KG.": "25",
+            "GK.": "-1",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766453.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 1 - 5 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766449.html",
                     "result": {
@@ -523,13 +530,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766428.html",
                     "result": {
                         "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766424.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 1 NAGYL\u00d3C SE",
                         "res": "V"
                     }
                 }
