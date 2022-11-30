@@ -97,12 +97,20 @@
                     "position": "M\u0171t\u00e9ti szakasszisztens (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) 629564."
                 },
                 {
-                    "subPage": "ilcc3r17g6-kozig-1-foldmuvelesugyi-szakugyintezo",
-                    "position": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151"
+                    "subPage": "ilci4zf5e6-kozig-2-cukrasz-egeszsegugyi-szolgalati-jogviszony",
+                    "position": "cukr\u00e1sz (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony)"
                 },
                 {
-                    "subPage": "ilcf1uk5g4-kozig-1-hatosagi-szakugyintezo-635165",
-                    "position": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151 635165."
+                    "subPage": "ilcc3r17g6-kozig-1-foldmuvelesugyi-szakugyintezo-634903",
+                    "position": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151 634903."
+                },
+                {
+                    "subPage": "ilcf1uk5g4-kozig-1-hatosagi-szakugyintezo",
+                    "position": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151"
+                },
+                {
+                    "subPage": "ilch1uf5g2-kozig-2-pszichologus-635327",
+                    "position": "PSZICHOL\u00d3GUS 635327."
                 },
                 {
                     "subPage": "ilce2of3b2-kozig-1-csvsz-vedono",
@@ -419,8 +427,25 @@
             "last_modified_at": "2022-10-07T08:00:00+02:00"
         },
         {
+            "deadline": "2022. december 31.",
+            "position": "cukr\u00e1sz (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony)",
+            "publisher": "Szent L\u00e1z\u00e1r Megyei K\u00f3rh\u00e1z",
+            "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "type": "K\u00f6zalkalmazott",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNpNHpmNWU2",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilci4zf5e6",
+            "id": "ilci4zf5e6",
+            "rType": "kozig_2",
+            "title": "cukr\u00e1sz (eg\u00e9szs\u00e9g\u00fcgyi szolg\u00e1lati jogviszony) - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNpNHpmNWU2",
+            "subPage": "ilci4zf5e6-kozig-2-cukrasz-egeszsegugyi-szolgalati-jogviszony",
+            "jumpPageData": "LY5NbgIxDIWvYmXVSgjND0Vqr0DbDV1WQiHxBDOZBCWZSpOKu5OMWfnZn9-z_4VGqS05FB-ia7puCxoVTmcM0LdbsRE3HymRd4WreQy_c9NgGzO8oFn1e8yRxdoPyiwEMXvLuLUyEVy9-aMydMtrjZzPluIFQ8k8ZnQJPnk3cwnwhWZBgsOa2IfLE1evlar--s3IPB_SMFULbOAo-fLQJxmuTF0xpuVWfRy5z9KO0k4y-5QKJF0QWUW7PLzhvkzCD--PPpM5deL-AA",
+            "publishedTS": 1669791600,
+            "last_modified_at": "2022-11-30T08:00:00+01:00"
+        },
+        {
             "deadline": "2023. janu\u00e1r 5.",
-            "position": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151",
+            "position": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151 634903.",
             "publisher": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
             "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "type": "K\u00f6ztisztvisel\u0151",
@@ -428,16 +453,16 @@
             "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilcc3r17g6",
             "id": "ilcc3r17g6",
             "rType": "kozig_1",
-            "title": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151 - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "title": "F\u00f6ldm\u0171vel\u00e9s\u00fcgyi szak\u00fcgyint\u00e9z\u0151 634903. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNjM3IxN2c2",
-            "subPage": "ilcc3r17g6-kozig-1-foldmuvelesugyi-szakugyintezo",
-            "jumpPageData": "bY7BDoIwEER_penZEAoBoh_ghehFjyam0loWSiFtIaHGf7elxpO33Z15s_PCjFMmQXF8wFma5QnqqJpvc5pyolGR4B2eRgMWRuUdxyA8S8kGP5CKLFxu1r3ZhEasgIyj_W9TNuou-AsS0uaHBNNy7ePOmy8XOv5j6MTFygHVox7iSa0tLNRSGUhJG_6PGgKFduhCpYiapbr7BnjQrlPg6ljeWTDOLmC27rEUMK-DbJpck0qU_qKvEepHB-JO8PsD",
+            "subPage": "ilcc3r17g6-kozig-1-foldmuvelesugyi-szakugyintezo-634903",
+            "jumpPageData": "bY_LDsIgEEV_hbA2TRFbox_gptGNLk0MFsRRShugTYrx3-VhXLmDuedcmBfmgnEFWuAtXpZLWqAH0-N5LEtBDKoKvMBDb8FBrwOxi8GtVrwLB7Imk1AJ3dgUtHIGZD17_m7a5dxHviKopqtNSVPreFVg78KE2kPiqTT5XY72Qs4CUNObLo_0fIeJOaaiqVgr_lldtNACHZmSOXPMPL4FQXTzEL0mL-EdWO8msGmH8LlAAA85qLalhqxlHSbmlKVn70FeCH5_AA",
             "publishedTS": 1669705200,
             "last_modified_at": "2022-11-29T08:00:00+01:00"
         },
         {
             "deadline": "2023. janu\u00e1r 5.",
-            "position": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151 635165.",
+            "position": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151",
             "publisher": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
             "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "type": "K\u00f6ztisztvisel\u0151",
@@ -445,12 +470,29 @@
             "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilcf1uk5g4",
             "id": "ilcf1uk5g4",
             "rType": "kozig_1",
-            "title": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151 635165. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "title": "Hat\u00f3s\u00e1gi szak\u00fcgyint\u00e9z\u0151 - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNmMXVrNWc0",
-            "subPage": "ilcf1uk5g4-kozig-1-hatosagi-szakugyintezo-635165",
-            "jumpPageData": "bY5BDoIwEEWv0nRtCBUh0ROYGN3o0sSMMJSRUkhbSKjx7hbq0tUk___3Mm9eIVSKNPID36bbLGEv0ON9TFMUhuUJ3_Cht-So12FxBLdUdWbjQhKzHto1K-VMeq1x78MRuWBFlosiSsanItugCZZLdEgTJRU7o5yR2Kk3XYz03NAEDtRCKijxH9UtFNuwKygZOwfm9RME0M3Dwp3WrvCOrHcTWVTxubCgKvSkylqMbS53ITG3CLW9J_kQ_PMF",
+            "subPage": "ilcf1uk5g4-kozig-1-hatosagi-szakugyintezo",
+            "jumpPageData": "bc7BCsIwDAbgVyk9i6ybE_QJBNGLHgWJW6zZum60nbCK7267iidPgf_PF_LiNUKtSCPf8jzLiyVrQI-XMctQGFYu-YIPvSVHvQ4bO3Cxuhc2bUhi1kM7Z5WcSM81bnwYohQRjzdF9oEm6GOy0iRcswPKCYnte9OlSE8PeoIDFaWCCv-pLiq2YCdQMnUOTPM9EKCbhuj2c7f2jqx3T7Kofk9RHXpS1V2MbSlXITHnhNrek7wK_v4A",
             "publishedTS": 1669705200,
             "last_modified_at": "2022-11-29T08:00:00+01:00"
+        },
+        {
+            "deadline": "2023. janu\u00e1r 12.",
+            "position": "PSZICHOL\u00d3GUS 635327.",
+            "publisher": "Orsz\u00e1gos Gyermekv\u00e9delmi Szakszolg\u00e1lat",
+            "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "type": "K\u00f6zalkalmazott",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNoMXVmNWcy",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilch1uf5g2",
+            "id": "ilch1uf5g2",
+            "rType": "kozig_2",
+            "title": "PSZICHOL\u00d3GUS 635327. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNoMXVmNWcy",
+            "subPage": "ilch1uf5g2-kozig-2-pszichologus-635327",
+            "jumpPageData": "JY7BasMwEER_Regcgi0Rl-TaQ1pa6oLbSymEbbRWFK-tIMkFK_TfK1nXeW-GuXOFoMhMyA9cVEJu2RWm-XuuKqwdq8WWb_jNehOMnZLy3n09Pz61r1lQ8vjZsUbupHhYtfmHjL-gS17rfCwj2np2XNCNOPyuyV4hjYZ1EQYfLemiEYQ8QXDOT95y2EvtClRsRL0g27AOSqGXAdy10CkVw3LLvZeVNRFoABoh2pBXjUrI0PlSz_1Oi5S4j-IPNhp9EvzvHw",
+            "publishedTS": 1669791600,
+            "last_modified_at": "2022-11-30T08:00:00+01:00"
         },
         {
             "deadline": "2023. janu\u00e1r 15.",
