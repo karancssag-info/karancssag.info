@@ -1,7 +1,13 @@
 {
     "cities": {
         "szecseny": {
-            "name": "Sz\u00e9cs\u00e9ny"
+            "name": "Sz\u00e9cs\u00e9ny",
+            "results": [
+                {
+                    "subPage": "ilbj6ol3f5-kozig-2-esetmenedzser",
+                    "position": "Esetmenedzser"
+                }
+            ]
         },
         "endrefalva": {
             "name": "Endrefalva"
@@ -112,6 +118,23 @@
         }
     },
     "results": [
+        {
+            "deadline": "2023. janu\u00e1r 12.",
+            "position": "Esetmenedzser",
+            "publisher": "Sz\u00e9cs\u00e9ny \u00e9s T\u00e9rs\u00e9ge Hum\u00e1nszolg\u00e1ltat\u00f3 K\u00f6zpont",
+            "place": "N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9ny j\u00e1r\u00e1s telep\u00fcl\u00e9sei",
+            "type": "K\u00f6zalkalmazott",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGJqNm9sM2Y1",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilbj6ol3f5",
+            "id": "ilbj6ol3f5",
+            "rType": "kozig_2",
+            "title": "Esetmenedzser - N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9ny j\u00e1r\u00e1s telep\u00fcl\u00e9sei",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGJqNm9sM2Y1",
+            "subPage": "ilbj6ol3f5-kozig-2-esetmenedzser",
+            "jumpPageData": "bY_BasMwEER_ZdE5BMcmhuReKBRyaY6FIFsbVc5aMpJ8sEL-PZLXvfU0g2Zn3-opFEpFxqI4i7qqmz0M0s4_c1XhwcOh3oudmFww0TibRz4CxhEtqhTQl2juyITf7M_iO621Ux9Y7QJsAlzZ-C3RCJ_zyBAbkiPNnqKMxd0b-Fq1TZOzsXBI9uXEC8fac0HBiHpB2ME_8GH7BUuAiITT2u9pOwxN3h2Xqaz-I0p6SBplcrGAjcqRoW5oHTX3Y37xV55_uGT0rRavNw",
+            "publishedTS": 1672038000,
+            "last_modified_at": "2022-12-26T08:00:00+01:00"
+        },
         {
             "deadline": "2022. december 31.",
             "position": "hat\u00f3s\u00e1gi \u00e1llatorvos",
