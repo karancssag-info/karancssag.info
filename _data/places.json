@@ -442,6 +442,89 @@
             }
         },
         "name": "Karancss\u00e1g Z\u00f6lds\u00e9ges",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 7:00\u201315:00",
+                "kedd: 7:00\u201315:00",
+                "szerda: 7:00\u201315:00",
+                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201315:00",
+                "p\u00e9ntek: 7:00\u201315:00",
+                "szombat: 7:00\u201315:00",
+                "vas\u00e1rnap: 7:00\u201312:00"
+            ]
+        },
         "url": "https://maps.google.com/?cid=5758028835199316269"
     },
     {
