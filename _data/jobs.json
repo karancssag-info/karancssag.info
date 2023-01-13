@@ -1,13 +1,7 @@
 {
     "cities": {
         "szecseny": {
-            "name": "Sz\u00e9cs\u00e9ny",
-            "results": [
-                {
-                    "subPage": "ilbj6ol3f5-kozig-2-esetmenedzser",
-                    "position": "Esetmenedzser"
-                }
-            ]
+            "name": "Sz\u00e9cs\u00e9ny"
         },
         "endrefalva": {
             "name": "Endrefalva"
@@ -31,62 +25,24 @@
             "name": "Salg\u00f3tarj\u00e1n",
             "results": [
                 {
-                    "subPage": "ilch1uf5g2-kozig-2-pszichologus",
-                    "position": "PSZICHOL\u00d3GUS"
-                },
-                {
-                    "subPage": "ilcd7wl5f9-kozig-1-orvosszakerto-bizottsagi-elnok-634950",
-                    "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634950."
-                },
-                {
-                    "subPage": "ilcd6qhxj2-kozig-1-orvosszakerto-bizottsagi-elnok",
+                    "subPage": "ilcd7wl5f9-kozig-1-orvosszakerto-bizottsagi-elnok",
                     "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k"
                 },
                 {
-                    "subPage": "ilce2of3b2-kozig-1-csvsz-vedono-635077",
-                    "position": "CSVSZ V\u00c9D\u0150N\u0150 635077."
+                    "subPage": "ilcd6qhxj2-kozig-1-orvosszakerto-bizottsagi-elnok-634957",
+                    "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634957."
+                },
+                {
+                    "subPage": "ilce2of3b2-kozig-1-csvsz-vedono",
+                    "position": "CSVSZ V\u00c9D\u0150N\u0150"
                 }
             ]
         }
     },
     "results": [
         {
-            "deadline": "2023. janu\u00e1r 12.",
-            "position": "Esetmenedzser",
-            "publisher": "Sz\u00e9cs\u00e9ny \u00e9s T\u00e9rs\u00e9ge Hum\u00e1nszolg\u00e1ltat\u00f3 K\u00f6zpont",
-            "place": "N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9ny j\u00e1r\u00e1s telep\u00fcl\u00e9sei",
-            "type": "K\u00f6zalkalmazott",
-            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGJqNm9sM2Y1",
-            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilbj6ol3f5",
-            "id": "ilbj6ol3f5",
-            "rType": "kozig_2",
-            "title": "Esetmenedzser - N\u00f3gr\u00e1d megye , Sz\u00e9cs\u00e9ny j\u00e1r\u00e1s telep\u00fcl\u00e9sei",
-            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGJqNm9sM2Y1",
-            "subPage": "ilbj6ol3f5-kozig-2-esetmenedzser",
-            "jumpPageData": "bY_BasMwEER_ZdE5BMcmhuReKBRyaY6FIFsbVc5aMpJ8sEL-PZLXvfU0g2Zn3-opFEpFxqI4i7qqmz0M0s4_c1XhwcOh3oudmFww0TibRz4CxhEtqhTQl2juyITf7M_iO621Ux9Y7QJsAlzZ-C3RCJ_zyBAbkiPNnqKMxd0b-Fq1TZOzsXBI9uXEC8fac0HBiHpB2ME_8GH7BUuAiITT2u9pOwxN3h2Xqaz-I0p6SBplcrGAjcqRoW5oHTX3Y37xV55_uGT0rRavNw",
-            "publishedTS": 1672038000,
-            "last_modified_at": "2022-12-26T08:00:00+01:00"
-        },
-        {
-            "deadline": "2023. janu\u00e1r 12.",
-            "position": "PSZICHOL\u00d3GUS",
-            "publisher": "Orsz\u00e1gos Gyermekv\u00e9delmi Szakszolg\u00e1lat",
-            "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
-            "type": "K\u00f6zalkalmazott",
-            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNoMXVmNWcy",
-            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilch1uf5g2",
-            "id": "ilch1uf5g2",
-            "rType": "kozig_2",
-            "title": "PSZICHOL\u00d3GUS - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
-            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNoMXVmNWcy",
-            "subPage": "ilch1uf5g2-kozig-2-pszichologus",
-            "jumpPageData": "JY5Bi8IwEEb_SshZSpuisHv1oLKLFbp7EUFGM42x00aSdKGR_e8m5vq994Z5cokgSY_IP7koRV2wO4zTaSpLrCyrRMEX_GGc9tqMUTm0x91623wnQdab3zbh6ULa3dBG3lgXcqyMY5sZ7YD933v5kEiDZm2A3gVDKmsEPp0guKYP9mnsamUzlGxANSNbsBZy0NUe7D3TMYZ-fqTu681WAagHGiAYn65qGZGm662auqUScbE_2e9N0Oos-P8L",
-            "publishedTS": 1669791600,
-            "last_modified_at": "2022-11-30T08:00:00+01:00"
-        },
-        {
             "deadline": "2023. janu\u00e1r 15.",
-            "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634950.",
+            "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k",
             "publisher": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
             "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "type": "K\u00f6ztisztvisel\u0151",
@@ -94,16 +50,16 @@
             "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilcd7wl5f9",
             "id": "ilcd7wl5f9",
             "rType": "kozig_1",
-            "title": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634950. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "title": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNkN3dsNWY5",
-            "subPage": "ilcd7wl5f9-kozig-1-orvosszakerto-bizottsagi-elnok-634950",
-            "jumpPageData": "bY7BbsIwEER_xfIZ0ZgQqvQXEL2UIxIyeDFLFhvZm6C44t9x4h572tXMvNH8SgPaEDqQX3JVreqluGnXH_qqAhWEapZyIR8-IqN3OeLD4GNMupsTbeB8VaMOHydMnjkW0KIActN_2XRiU6_bppqL-hNhvELITd-zXdtQECN2YEdAsfXhXiQ3XnHQrGkiSZ_hP-o-UWIhfjTZ4rEOt7-CDPL4mLhtGZMYY-IBI1AZnhNoso90Np9Pai5tVsK-QJ1PaI9Kvt4",
+            "subPage": "ilcd7wl5f9-kozig-1-orvosszakerto-bizottsagi-elnok",
+            "jumpPageData": "bY7BbsIwEER_xfIZ0ZgoVPQXEL2UYyRk8GKWLDayN0Ex4t9r4x572tXMvNE8pQFtCB3IL7lqVu1SXLUb-7FpQAWhuqVcyLuPyOhdjvgw-RiTHt6JTeB8Vaf6jyMmzxwraFEAufKf10MpGI-E8QIhN3y_5daGGjViB3YGFFsfblVy8wUnzZoKSfoE_1G3QomF-NFkq8c6XP8KMsjzvXDbOiIxxsQTRqA6OCfQZB_pZD4f1J03WQn7Cg0-oT0o-foF",
             "publishedTS": 1669878000,
             "last_modified_at": "2022-12-01T08:00:00+01:00"
         },
         {
             "deadline": "2023. janu\u00e1r 15.",
-            "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k",
+            "position": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634957.",
             "publisher": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
             "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "type": "K\u00f6ztisztvisel\u0151",
@@ -111,16 +67,16 @@
             "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilcd6qhxj2",
             "id": "ilcd6qhxj2",
             "rType": "kozig_1",
-            "title": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "title": "orvosszak\u00e9rt\u0151/bizotts\u00e1gi eln\u00f6k 634957. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNkNnFoeGoy",
-            "subPage": "ilcd6qhxj2-kozig-1-orvosszakerto-bizottsagi-elnok",
-            "jumpPageData": "bY7BDsIgEER_hXA2Wmo00V8wetGjiUFZ6bYICtvGYvx3QTx62s3MvMm8uAKpDFrga15X9XzKWmn7Y19VIDwTiymf8LsLSOhsijg_uBCi7L6Jlad0xUIcZ2eMjigUUCMDY_N_XXa5oD8bDA341LD7ynPtS1SxLegRkG2cvxXJjg0OkqTJpJEX-EfdMsUmbC-NLh5J3_4KEkjjPXObMiIShkgDBjBlcEqgSj6ai1o-mmdbJ8UfCtS5iPok-PsD",
+            "subPage": "ilcd6qhxj2-kozig-1-orvosszakerto-bizottsagi-elnok-634957",
+            "jumpPageData": "bY7BbsIwEER_xfIZ0TghqeAXEL3AEakyeHE2MTa1NxFx1X_HiTn2tKuZeaP55QqkMmiB73hZlNWaddIO56EoQHgm6jVf8YcLSOhsijg_uhCi7JfE1lO6ohbnjwtGRxQyqJGBsfN_a3rWVJtt_bkUDReDoQWfmr4Wu9I-I4odQE-AbO_8PUt2anGUJM1MGnmF_6j7TLEVO0qjs0fSd--CBNL0mLl9HhMJQ6QRA5g8PCVQJR_NVTU_7bMrk-JPGepdRP0t-N8L",
             "publishedTS": 1669878000,
             "last_modified_at": "2022-12-01T08:00:00+01:00"
         },
         {
             "deadline": "2023. janu\u00e1r 15.",
-            "position": "CSVSZ V\u00c9D\u0150N\u0150 635077.",
+            "position": "CSVSZ V\u00c9D\u0150N\u0150",
             "publisher": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
             "place": "N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "type": "K\u00f6ztisztvisel\u0151",
@@ -128,10 +84,10 @@
             "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilce2of3b2",
             "id": "ilce2of3b2",
             "rType": "kozig_1",
-            "title": "CSVSZ V\u00c9D\u0150N\u0150 635077. - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
+            "title": "CSVSZ V\u00c9D\u0150N\u0150 - N\u00f3gr\u00e1d megye , Salg\u00f3tarj\u00e1n",
             "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbGNlMm9mM2Iy",
-            "subPage": "ilce2of3b2-kozig-1-csvsz-vedono-635077",
-            "jumpPageData": "bY7BCsIwEER_JeRcJGmpole9iV4qPYggsdm2q7GRJC204r-bNB49LcybN-ybShBSYQd0Q1OWZgtyF11_6RkDbgjPFzShL23Roe58ZVuUxZmUgVfrnT88Z8d4yDLL2Wo1C_1NoW3BeCNQVmeNiZuSHKAZAclem2eMurHFQTihgqlEBf-sZ7BIQgqhmsicMPffgBfd-ArefmbLyaGd3IAW1Pwc9w2UnqOqINV1dkt9Yk5ReugJmyunny8",
+            "subPage": "ilce2of3b2-kozig-1-csvsz-vedono",
+            "jumpPageData": "bY7BCoMwEER_JeRcJFEstNf2Ju3F4qEUStRV10YjMQpa-u9NTI89Lcy8N-ybliBKiT3QIw1ZGAWkFf30mBgDrgmPA7qjgxrRoOotckqz9E4y1xeHsz08Zld_HDjlEscGtCVdyqqo1n6rJBeoF0CSKN35qF8anIUR0plSFPDP6pxFdiQVsvadEbr9DVjRLIPzkq3brwbH1cw4gtye4pbA0vYoCwhVFeWhTfTNSy-1Yv3k9PMF",
             "publishedTS": 1669618800,
             "last_modified_at": "2022-11-28T08:00:00+01:00"
         }
