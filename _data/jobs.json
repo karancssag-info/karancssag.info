@@ -13,7 +13,13 @@
             "name": "Szalmatercs"
         },
         "karancssag": {
-            "name": "Karancss\u00e1g"
+            "name": "Karancss\u00e1g",
+            "results": [
+                {
+                    "subPage": "ilmc4tkni7-kozig-1-szocialis-es-gyamugyi-ugyintezo",
+                    "position": "Szoci\u00e1lis \u00e9s gy\u00e1m\u00fcgyi \u00fcgyint\u00e9z\u0151"
+                }
+            ]
         },
         "sagujfalu": {
             "name": "S\u00e1g\u00fajfalu"
@@ -36,6 +42,23 @@
         }
     },
     "results": [
+        {
+            "deadline": "2023. janu\u00e1r 30.",
+            "position": "Szoci\u00e1lis \u00e9s gy\u00e1m\u00fcgyi \u00fcgyint\u00e9z\u0151",
+            "publisher": "S\u00e1g\u00fajfalui K\u00f6z\u00f6s \u00d6nkorm\u00e1nyzati Hivatal",
+            "place": "N\u00f3gr\u00e1d megye , Karancss\u00e1g",
+            "type": "K\u00f6ztisztvisel\u0151",
+            "image": "/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbG1jNHRrbmk3",
+            "link": "https://kozigallas.gov.hu/pages/jobviewer.aspx?ID=ilmc4tkni7",
+            "id": "ilmc4tkni7",
+            "rType": "kozig_1",
+            "title": "Szoci\u00e1lis \u00e9s gy\u00e1m\u00fcgyi \u00fcgyint\u00e9z\u0151 - N\u00f3gr\u00e1d megye , Karancss\u00e1g",
+            "thumbnail": "https://api.karancssag.info/capture/aHR0cHM6Ly9rb3ppZ2FsbGFzLmdvdi5odS9wYWdlcy9qb2J2aWV3ZXIuYXNweD9JRD1pbG1jNHRrbmk3",
+            "subPage": "ilmc4tkni7-kozig-1-szocialis-es-gyamugyi-ugyintezo",
+            "jumpPageData": "PY9BbgMhDEWvYrGOoplMmqo9QaVI3TTLSJELhDrDQARMJKhy98C4zcrG_u9_8yuURmXJafEuNt1mWMMF3Xycu073AYZuLVbi6iMl8q5KvoqXxFtLEZbuLYLJPJtaOUuTCZ6dS6wqtfQvffObvyv8o0MzZNAscryc0c4E--W1K1w4Ru3c6MPEcpcLJoIPumFC2ywtyvaFzwUZTGCdgkmbrGEFewzoZIx_cRVJ-dqI_6xEsaQbRW2fd5Kqe7KT3KbR0WudhANDoy9kTr24PwA",
+            "publishedTS": 1674198000,
+            "last_modified_at": "2023-01-20T08:00:00+01:00"
+        },
         {
             "deadline": "2023. janu\u00e1r 27.",
             "position": "K\u00f6vetel\u00e9skezel\u00e9si referens I/B",
