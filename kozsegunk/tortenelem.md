@@ -12,6 +12,6 @@ comments: true
 + [Karants-Ság][4]
 
 [1]:/tortenet/A-karancssaghi-plebania-tortenete
-[2]:/tortenet/A-karancs-sagi-templom
+[2]:/tortenet/a-karancs-sagi-templom
 [3]:/tortenet/regen-es-most
 [4]:/tortenet/Karants-Sag
