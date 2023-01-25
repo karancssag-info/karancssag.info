@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 comments:
   enable: false
   provider: 'disqus'
-
+permalink: /:categories/:year/:month/:day/:title/
 # page_gen
 page_gen-dirs: false
 page_gen:
