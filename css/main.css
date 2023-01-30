@@ -71,6 +71,9 @@ nav.logo{
 .card-title-wrapper h6{
     font-weight: 100;
 }
+article + article {
+    margin-top: 10em;
+}
 
 @media (min-width: 576px) {
     .post-card-image {
@@ -90,4 +93,6 @@ nav.logo{
         height: 15vw;
     }
 }
+
+
 
