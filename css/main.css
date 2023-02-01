@@ -71,7 +71,7 @@ nav.logo{
 .card-title-wrapper h6{
     font-weight: 100;
 }
-article + div + article {
+article + div + article, article + article {
     padding-top: 5em;
     margin-top: 5em;
     border-top: 2px solid;
