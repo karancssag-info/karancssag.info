@@ -71,9 +71,14 @@ nav.logo{
 .card-title-wrapper h6{
     font-weight: 100;
 }
+
 article + article {
-    margin-top: 10em;
+    padding-top: 5em;
+    margin-top: 5em;
+    border-top: 2px solid;
+    border-image: linear-gradient(to left,#f1f5f7,#495057) 1 0 0 0;
 }
+
 
 @media (min-width: 576px) {
     .post-card-image {
