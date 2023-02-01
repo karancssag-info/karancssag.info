@@ -71,11 +71,11 @@ nav.logo{
 .card-title-wrapper h6{
     font-weight: 100;
 }
-
-article + article {
+article + div + article {
     padding-top: 5em;
     margin-top: 5em;
     border-top: 2px solid;
+    /* border-top: 3px solid; */
     border-image: linear-gradient(to left,#f1f5f7,#495057) 1 0 0 0;
 }
 
