@@ -54,7 +54,7 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
     <div class="border-top">
         <div class="row">
             <div class="col-md-12 mb-2 mt-2">
-                <h5 class="mb-1">{{ place.name }}</h5>
+                <h5 class="mb-1" id="{{ place.place_id }}">{{ place.name }}</h5>
                 <p class="mb-1">            {{ place.adr_address}}
                     {% if place.international_phone_number %}
                     <br/><a href="tel:{{ place.international_phone_number }}">Tel: {{ place.international_phone_number }}</a>
