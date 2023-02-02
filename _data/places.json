@@ -534,6 +534,93 @@
         "url": "https://maps.google.com/?cid=5758028835199316269"
     },
     {
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 112</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "geometry": {
+            "location": {
+                "lat": 48.1167624,
+                "lng": 19.6575071
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1181113802915,
+                    "lng": 19.6588560802915
+                },
+                "southwest": {
+                    "lat": 48.1154134197085,
+                    "lng": 19.6561581197085
+                }
+            }
+        },
+        "international_phone_number": "+36 20 218 8311",
+        "name": "FORM\u00c1L-LAK Jelenl\u00e9th\u00e1z",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1600"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 8:00\u201316:00",
+                "kedd: 8:00\u201316:00",
+                "szerda: 8:00\u201316:00",
+                "cs\u00fct\u00f6rt\u00f6k: 8:00\u201316:00",
+                "p\u00e9ntek: 8:00\u201316:00",
+                "szombat: Z\u00e1rva",
+                "vas\u00e1rnap: Z\u00e1rva"
+            ]
+        },
+        "place_id": "ChIJjfBqxa8RQEcREAigFcu_8CY",
+        "url": "https://maps.google.com/?cid=2805953446813894672",
+        "website": "https://www.facebook.com/groups/1738991556232111/"
+    },
+    {
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 118</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
