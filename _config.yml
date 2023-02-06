@@ -31,7 +31,10 @@ page_gen:
     name: 'subPage'
     title: 'title'
     dir: 'allas'
-
+  - data: 'kimit.request'
+    template: 'kimit'
+    name_expr: record['info_request']['url_title']
+    dir: 'kimittud'
 # Build settings
 markdown: kramdown
 destination: ./build

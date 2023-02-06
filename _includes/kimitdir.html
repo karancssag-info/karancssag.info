@@ -1,0 +1,24 @@
+<style>
+  a[aria-expanded=true] .cclose {
+    display: none;
+  }
+  a[aria-expanded=false] .copen {
+    display: none;
+  }
+</style>
+
+<div id="app">
+  <ul>
+    {% assign kimitroot = "https://kimittud.hu/" %}
+    {% assign statuses = site.data.kimitStatuses %}
+    {% assign order = site.data.kimit.order %}
+    {% assign reqst = site.data.kimit.request %}
+    {% for item in order %}
+    <li>
+      <a href="/kimittud{{ reqst[item]['info_request']['url_title'] | datapage_url: kimittud }}"  >
+        Részletek
+      </a> <time>{{ reqst[item].info_request.created_at | date: "%Y-%m-%d" }}</time> • {{ reqst[item].info_request.title }} - <span class="text-muted">{{ reqst[item].info_request.display_status }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

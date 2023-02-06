@@ -1,0 +1,55 @@
+---
+layout: default
+permalink: /:path/:basename:output_ext
+---
+
+{% assign kimitroot = "https://kimittud.hu/" %}
+{% assign statuses = site.data.kimitStatuses %}
+<article class="post">
+    {% if page.topImage %}
+    <img src="{{ page.topImage }}" class="img-fluid" alt="Responsive image">
+    {% endif %}
+
+    <header class="post-header">
+        <h1 class="post-title">{{ page.info_request.title }} <span class="text-muted">{{ page.info_request.display_status }}</span>
+        </h1>
+        <p class="post-meta">
+            <time>{{ page.info_request.created_at | date: "%Y-%m-%d" }}</time>
+            •
+            <span>
+                <span>{{ page.user.name }}</span>
+            </span>
+        <div class="sharethis-inline-share-buttons"></div>
+        </p>
+    </header>
+    {% for event in page.events %}
+    {% if event[1].event_type == 'sent' %}
+    {% assign body = event[1].snippet %}
+    {% endif %}
+    {% endfor %}
+    <p>
+        {{ body }}
+        <br/>
+        <a href="{{ kimitroot }}request/{{page.info_request.id}}" target="_blank" class="btn btn-primary">Tovább</a>
+    </p>
+    <div class="media row">
+        <div class="media-body">
+            <h3>Események:</h3>
+            {% for event in page.events %}
+            {% assign status = event[1].event_type %}
+            <div class="card w-100 mt-3">
+                <div class="card-header">
+                    <h6>{{ statuses[status] }}</h6><span class="text-muted">{{ event[1].created_at | date: "%Y-%m-%d %H:%M:%S" }}</span>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{ event[1].display_status}}</h5>
+                    <p class="card-text">{{ event[1].snippet }}</p>
+                    <a href="{{ kimitroot }}request_event/{{ event[1].id }}" target="_blank" class="btn btn-primary">Megtekintés</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="sharethis-inline-reaction-buttons"></div>
+        {% include comments.html %}
+    </div>
+</article>
