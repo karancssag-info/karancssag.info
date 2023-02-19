@@ -71,18 +71,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "93366": {
-                    "id": 93366,
-                    "event_type": "followup_sent",
-                    "created_at": "2023-01-25T09:44:27.284+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "92650": {
+                    "id": 92650,
+                    "event_type": "sent",
+                    "created_at": "2023-01-18T13:01:02.170+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2023-01-18T13:01:02.346+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 30053,
+                    "outgoing_message_id": 30004,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a v\u00e1laszt!\r\n\n\u00dcdv\u00f6zlettel: \r\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 21682,
                         "url_title": "kobor_allatokkal_kapcsolatos_bej",
@@ -175,18 +175,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "92650": {
-                    "id": 92650,
-                    "event_type": "sent",
-                    "created_at": "2023-01-18T13:01:02.170+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2023-01-18T13:01:02.346+01:00",
+                "93366": {
+                    "id": 93366,
+                    "event_type": "followup_sent",
+                    "created_at": "2023-01-25T09:44:27.284+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 30004,
+                    "outgoing_message_id": 30053,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a v\u00e1laszt!\r\n\n\u00dcdv\u00f6zlettel: \r\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 21682,
                         "url_title": "kobor_allatokkal_kapcsolatos_bej",
@@ -270,18 +270,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "89905": {
-                    "id": 89905,
-                    "event_type": "followup_sent",
-                    "created_at": "2022-11-25T10:06:26.522+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "89497": {
+                    "id": 89497,
+                    "event_type": "sent",
+                    "created_at": "2022-11-15T14:28:49.581+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2022-11-15T14:28:49.735+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 29603,
+                    "outgoing_message_id": 29522,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a t\u00e1j\u00e9koztat\u00e1st!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 21321,
                         "url_title": "karancssag_kozseg_onkormanyzata_22",
@@ -374,18 +374,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "89497": {
-                    "id": 89497,
-                    "event_type": "sent",
-                    "created_at": "2022-11-15T14:28:49.581+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2022-11-15T14:28:49.735+01:00",
+                "89905": {
+                    "id": 89905,
+                    "event_type": "followup_sent",
+                    "created_at": "2022-11-25T10:06:26.522+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 29522,
+                    "outgoing_message_id": 29603,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a t\u00e1j\u00e9koztat\u00e1st!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 21321,
                         "url_title": "karancssag_kozseg_onkormanyzata_22",
@@ -469,18 +469,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "85910": {
-                    "id": 85910,
-                    "event_type": "followup_sent",
-                    "created_at": "2022-09-02T17:07:12.429+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "85408": {
+                    "id": 85408,
+                    "event_type": "sent",
+                    "created_at": "2022-08-19T14:14:47.174+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2022-08-19T14:14:47.366+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 29041,
+                    "outgoing_message_id": 28967,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a t\u00e1j\u00e9koztat\u00e1st!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 20914,
                         "url_title": "karancssag_kozseg_onkormanyzata_21",
@@ -573,18 +573,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "85408": {
-                    "id": 85408,
-                    "event_type": "sent",
-                    "created_at": "2022-08-19T14:14:47.174+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2022-08-19T14:14:47.366+02:00",
+                "85910": {
+                    "id": 85910,
+                    "event_type": "followup_sent",
+                    "created_at": "2022-09-02T17:07:12.429+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 28967,
+                    "outgoing_message_id": 29041,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a t\u00e1j\u00e9koztat\u00e1st!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 20914,
                         "url_title": "karancssag_kozseg_onkormanyzata_21",
@@ -668,18 +668,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "79526": {
-                    "id": 79526,
-                    "event_type": "followup_sent",
-                    "created_at": "2022-04-28T13:08:33.008+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "79164": {
+                    "id": 79164,
+                    "event_type": "sent",
+                    "created_at": "2022-04-21T08:10:05.207+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2022-04-21T08:10:05.467+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 27835,
+                    "outgoing_message_id": 27793,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m az inform\u00e1ci\u00f3t! Adatig\u00e9nyl\u00e9sem id\u0151pontj\u00e1ban m\u00e9g nem \u00e1lltak rendelkez\u00e9sre az ig\u00e9nyelt jegyz\u0151k\u00f6nyve...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 20040,
                         "url_title": "karancssag_kozseg_onkormanyzata_20",
@@ -772,18 +772,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "79164": {
-                    "id": 79164,
-                    "event_type": "sent",
-                    "created_at": "2022-04-21T08:10:05.207+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2022-04-21T08:10:05.467+02:00",
+                "79526": {
+                    "id": 79526,
+                    "event_type": "followup_sent",
+                    "created_at": "2022-04-28T13:08:33.008+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 27793,
+                    "outgoing_message_id": 27835,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m az inform\u00e1ci\u00f3t! Adatig\u00e9nyl\u00e9sem id\u0151pontj\u00e1ban m\u00e9g nem \u00e1lltak rendelkez\u00e9sre az ig\u00e9nyelt jegyz\u0151k\u00f6nyve...",
                     "info_request": {
                         "id": 20040,
                         "url_title": "karancssag_kozseg_onkormanyzata_20",
@@ -867,18 +867,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "72952": {
-                    "id": 72952,
-                    "event_type": "response",
-                    "created_at": "2021-10-07T12:19:35.943+02:00",
-                    "described_state": null,
-                    "calculated_state": "partially_successful",
-                    "last_described_at": "2021-10-18T07:45:42.095+02:00",
-                    "incoming_message_id": 26979,
-                    "outgoing_message_id": null,
+                "71622": {
+                    "id": 71622,
+                    "event_type": "sent",
+                    "created_at": "2021-08-03T09:14:27.931+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2021-08-03T09:14:27.980+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 26042,
                     "comment_id": null,
-                    "display_status": "R\u00e9szben teljes\u00edtette",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nK\u00f6z\u00e9rdek\u0171 adatig\u00e9nyl\u00e9s\u00e9nek teljes\u00edt\u00e9se a jegyz\u0151k\u00f6nyvek telep\u00fcl\u00e9si \nport\u00e1lra t\u00f6rt\u00e9n\u0151 felt\u00f6lt\u00e9s\u00e9vel folyamatban van.\n\nTisztelettel:...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt S\u00e1g\u00fajfalui K\u00f6z\u00f6s \u00d6nkorm\u00e1nyzati hivatal Karancss\u00e1gi Kirendelts\u00e9ge!\r\nTisztelt Jegyz\u0151 \u00dar!\r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3...",
                     "info_request": {
                         "id": 18625,
                         "url_title": "karancssag_kozseg_onkormanyzata_19",
@@ -971,18 +971,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "71622": {
-                    "id": 71622,
-                    "event_type": "sent",
-                    "created_at": "2021-08-03T09:14:27.931+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2021-08-03T09:14:27.980+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 26042,
+                "72952": {
+                    "id": 72952,
+                    "event_type": "response",
+                    "created_at": "2021-10-07T12:19:35.943+02:00",
+                    "described_state": null,
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2021-10-18T07:45:42.095+02:00",
+                    "incoming_message_id": 26979,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt S\u00e1g\u00fajfalui K\u00f6z\u00f6s \u00d6nkorm\u00e1nyzati hivatal Karancss\u00e1gi Kirendelts\u00e9ge!\r\nTisztelt Jegyz\u0151 \u00dar!\r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3...",
+                    "display_status": "R\u00e9szben teljes\u00edtette",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nK\u00f6z\u00e9rdek\u0171 adatig\u00e9nyl\u00e9s\u00e9nek teljes\u00edt\u00e9se a jegyz\u0151k\u00f6nyvek telep\u00fcl\u00e9si \nport\u00e1lra t\u00f6rt\u00e9n\u0151 felt\u00f6lt\u00e9s\u00e9vel folyamatban van.\n\nTisztelettel:...",
                     "info_request": {
                         "id": 18625,
                         "url_title": "karancssag_kozseg_onkormanyzata_19",
@@ -1071,75 +1071,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "69202": {
-                    "id": 69202,
-                    "event_type": "followup_sent",
-                    "created_at": "2021-05-04T16:56:23.556+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "68323": {
+                    "id": 68323,
+                    "event_type": "sent",
+                    "created_at": "2021-04-15T18:04:49.583+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2021-04-15T18:04:49.618+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 25400,
+                    "outgoing_message_id": 25145,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\nKelt: 2021. m\u00e1jus  4.\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
-                    "info_request": {
-                        "id": 17927,
-                        "url_title": "nograd_megye_maszkviseles_2",
-                        "title": "N\u00f3gr\u00e1d megye, maszkvisel\u00e9s",
-                        "created_at": "2021-04-15T18:04:49.489+02:00",
-                        "updated_at": "2021-05-04T16:53:12.736+02:00",
-                        "described_state": "successful",
-                        "display_status": "Sikeres",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 22593,
-                        "url_name": "nograd_megyei_rendor_fokapitanysag",
-                        "name": "N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g",
-                        "short_name": null,
-                        "created_at": "2012-06-07T08:49:04.969+02:00",
-                        "updated_at": "2021-05-04T16:53:12.749+02:00",
-                        "home_page": "http://www.police.hu/nograd",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [
-                            [
-                                "rend",
-                                null
-                            ]
-                        ],
-                        "info": {
-                            "requests_count": 6,
-                            "requests_successful_count": 6,
-                            "requests_not_held_count": 0,
-                            "requests_overdue_count": 0,
-                            "requests_visible_classified_count": 6
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "69196": {
-                    "id": 69196,
-                    "event_type": "response",
-                    "created_at": "2021-05-04T15:57:11.414+02:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2021-05-04T16:53:12.767+02:00",
-                    "incoming_message_id": 25516,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "Tisztelt C\u00edmzett!\nA(z) N\u00f3gr\u00e1d Megyei Rend\u0151r-F\u0151kapit\u00e1nys\u00e1g a mell\u00e9kelt k\u00fcldem\u00e9nyt adta fel az \u00d6n r\u00e9sz\u00e9re.\n\nN\u00d3GR\u00c1D MEGYEI REND\u0150R-F\u0150KAPIT\u00c1NYS\u00c1G\nSz\u00e1m: 1200...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1...",
                     "info_request": {
                         "id": 17927,
                         "url_title": "nograd_megye_maszkviseles_2",
@@ -1242,18 +1185,75 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "68323": {
-                    "id": 68323,
-                    "event_type": "sent",
-                    "created_at": "2021-04-15T18:04:49.583+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2021-04-15T18:04:49.618+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 25145,
+                "69196": {
+                    "id": 69196,
+                    "event_type": "response",
+                    "created_at": "2021-05-04T15:57:11.414+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2021-05-04T16:53:12.767+02:00",
+                    "incoming_message_id": 25516,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1...",
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt C\u00edmzett!\nA(z) N\u00f3gr\u00e1d Megyei Rend\u0151r-F\u0151kapit\u00e1nys\u00e1g a mell\u00e9kelt k\u00fcldem\u00e9nyt adta fel az \u00d6n r\u00e9sz\u00e9re.\n\nN\u00d3GR\u00c1D MEGYEI REND\u0150R-F\u0150KAPIT\u00c1NYS\u00c1G\nSz\u00e1m: 1200...",
+                    "info_request": {
+                        "id": 17927,
+                        "url_title": "nograd_megye_maszkviseles_2",
+                        "title": "N\u00f3gr\u00e1d megye, maszkvisel\u00e9s",
+                        "created_at": "2021-04-15T18:04:49.489+02:00",
+                        "updated_at": "2021-05-04T16:53:12.736+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 22593,
+                        "url_name": "nograd_megyei_rendor_fokapitanysag",
+                        "name": "N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g",
+                        "short_name": null,
+                        "created_at": "2012-06-07T08:49:04.969+02:00",
+                        "updated_at": "2021-05-04T16:53:12.749+02:00",
+                        "home_page": "http://www.police.hu/nograd",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "rend",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 6,
+                            "requests_successful_count": 6,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 0,
+                            "requests_visible_classified_count": 6
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "69202": {
+                    "id": 69202,
+                    "event_type": "followup_sent",
+                    "created_at": "2021-05-04T16:56:23.556+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 25400,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Rend\u0151r-f\u0151kapit\u00e1nys\u00e1g! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\nKelt: 2021. m\u00e1jus  4.\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 17927,
                         "url_title": "nograd_megye_maszkviseles_2",
@@ -1347,18 +1347,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "57463": {
-                    "id": 57463,
-                    "event_type": "response",
-                    "created_at": "2020-05-12T16:13:11.816+02:00",
-                    "described_state": null,
-                    "calculated_state": "user_withdrawn",
-                    "last_described_at": "2021-04-14T09:31:07.747+02:00",
-                    "incoming_message_id": 21445,
-                    "outgoing_message_id": null,
+                "57332": {
+                    "id": 57332,
+                    "event_type": "sent",
+                    "created_at": "2020-05-04T12:27:20.457+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2020-05-04T12:27:20.492+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 21298,
                     "comment_id": null,
-                    "display_status": "Az ig\u00e9nyl\u0151 visszavonta. ",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 14836,
                         "url_title": "karancssag_kozseg_onkormanyzata_16",
@@ -1461,18 +1461,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "57332": {
-                    "id": 57332,
-                    "event_type": "sent",
-                    "created_at": "2020-05-04T12:27:20.457+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2020-05-04T12:27:20.492+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 21298,
+                "57463": {
+                    "id": 57463,
+                    "event_type": "response",
+                    "created_at": "2020-05-12T16:13:11.816+02:00",
+                    "described_state": null,
+                    "calculated_state": "user_withdrawn",
+                    "last_described_at": "2021-04-14T09:31:07.747+02:00",
+                    "incoming_message_id": 21445,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "Az ig\u00e9nyl\u0151 visszavonta. ",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
                     "info_request": {
                         "id": 14836,
                         "url_title": "karancssag_kozseg_onkormanyzata_16",
@@ -1566,18 +1566,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "68256": {
-                    "id": 68256,
-                    "event_type": "followup_sent",
-                    "created_at": "2021-04-13T19:26:14.938+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "67593": {
+                    "id": 67593,
+                    "event_type": "sent",
+                    "created_at": "2021-03-29T15:57:25.082+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2021-03-29T15:57:25.119+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 25129,
+                    "outgoing_message_id": 24961,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt VOL\u00c1NBUSZ K\u00f6zadat! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakban...",
                     "info_request": {
                         "id": 17799,
                         "url_title": "nograd_megye_maszkviseles",
@@ -1680,18 +1680,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "67593": {
-                    "id": 67593,
-                    "event_type": "sent",
-                    "created_at": "2021-03-29T15:57:25.082+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2021-03-29T15:57:25.119+02:00",
+                "68256": {
+                    "id": 68256,
+                    "event_type": "followup_sent",
+                    "created_at": "2021-04-13T19:26:14.938+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 24961,
+                    "outgoing_message_id": 25129,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakban...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt VOL\u00c1NBUSZ K\u00f6zadat! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 17799,
                         "url_title": "nograd_megye_maszkviseles",
@@ -1780,18 +1780,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "68209": {
-                    "id": 68209,
-                    "event_type": "response",
-                    "created_at": "2021-04-13T08:35:08.649+02:00",
-                    "described_state": null,
+                "67173": {
+                    "id": 67173,
+                    "event_type": "sent",
+                    "created_at": "2021-03-25T14:28:17.462+01:00",
+                    "described_state": "waiting_response",
                     "calculated_state": "waiting_response",
-                    "last_described_at": "2021-04-13T10:03:24.677+02:00",
-                    "incoming_message_id": 25134,
-                    "outgoing_message_id": null,
+                    "last_described_at": "2021-03-25T14:28:17.501+01:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 24688,
                     "comment_id": null,
-                    "display_status": "V\u00e1laszra v\u00e1r",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00far!\n\nT\u00e1j\u00e9koztatom, hogy Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151-test\u00fclete \n\u00fcl\u00e9seinek jegyz\u0151k\u00f6nyvei a karancssag.asp.lgov.hu oldal...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Jegyz\u0151 \u00dar! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakban: Infotv.) 28. \u00a7...",
                     "info_request": {
                         "id": 17541,
                         "url_title": "karancssag_kozseg_onkormanyzata_18",
@@ -1884,18 +1884,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "67173": {
-                    "id": 67173,
-                    "event_type": "sent",
-                    "created_at": "2021-03-25T14:28:17.462+01:00",
-                    "described_state": "waiting_response",
+                "68209": {
+                    "id": 68209,
+                    "event_type": "response",
+                    "created_at": "2021-04-13T08:35:08.649+02:00",
+                    "described_state": null,
                     "calculated_state": "waiting_response",
-                    "last_described_at": "2021-03-25T14:28:17.501+01:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 24688,
+                    "last_described_at": "2021-04-13T10:03:24.677+02:00",
+                    "incoming_message_id": 25134,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Jegyz\u0151 \u00dar! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakban: Infotv.) 28. \u00a7...",
+                    "display_status": "V\u00e1laszra v\u00e1r",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00far!\n\nT\u00e1j\u00e9koztatom, hogy Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151-test\u00fclete \n\u00fcl\u00e9seinek jegyz\u0151k\u00f6nyvei a karancssag.asp.lgov.hu oldal...",
                     "info_request": {
                         "id": 17541,
                         "url_title": "karancssag_kozseg_onkormanyzata_18",
@@ -2083,18 +2083,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "56312": {
-                    "id": 56312,
-                    "event_type": "response",
-                    "created_at": "2020-03-11T17:03:10.965+01:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2020-03-11T20:41:25.544+01:00",
-                    "incoming_message_id": 21012,
-                    "outgoing_message_id": null,
+                "55713": {
+                    "id": 55713,
+                    "event_type": "sent",
+                    "created_at": "2020-02-25T09:55:55.921+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2020-02-25T09:55:55.960+01:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 20812,
                     "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\n \u00a0\n\n Megkeres\u00e9s\u00e9ben foglaltakra tekintettel az al\u00e1bbi t\u00e1bl\u00e1zatban foglaltuk\n \u00f6ssze a k\u00e9rt adatokat:\n\n \u00a0\n\n Kisz\u00e1ml\u00e1zott\n mennyis\u00e9g...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9...",
                     "info_request": {
                         "id": 14467,
                         "url_title": "karancssag_kozseg_kozkutjainak_2",
@@ -2205,18 +2205,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "55713": {
-                    "id": 55713,
-                    "event_type": "sent",
-                    "created_at": "2020-02-25T09:55:55.921+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2020-02-25T09:55:55.960+01:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 20812,
+                "56312": {
+                    "id": 56312,
+                    "event_type": "response",
+                    "created_at": "2020-03-11T17:03:10.965+01:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2020-03-11T20:41:25.544+01:00",
+                    "incoming_message_id": 21012,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9...",
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\n \u00a0\n\n Megkeres\u00e9s\u00e9ben foglaltakra tekintettel az al\u00e1bbi t\u00e1bl\u00e1zatban foglaltuk\n \u00f6ssze a k\u00e9rt adatokat:\n\n \u00a0\n\n Kisz\u00e1ml\u00e1zott\n mennyis\u00e9g...",
                     "info_request": {
                         "id": 14467,
                         "url_title": "karancssag_kozseg_kozkutjainak_2",
@@ -2314,75 +2314,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "55073": {
-                    "id": 55073,
-                    "event_type": "response",
-                    "created_at": "2020-02-13T15:03:10.410+01:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2020-02-24T08:09:28.933+01:00",
-                    "incoming_message_id": 20589,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735\n\n\n\n\n\n\n\n\n Nap...",
-                    "info_request": {
-                        "id": 13968,
-                        "url_title": "karancssag_kozseg_onkormanyzata_14",
-                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019. augusztus 28-t\u00f3l",
-                        "created_at": "2020-01-24T12:21:03.995+01:00",
-                        "updated_at": "2020-02-24T08:09:28.903+01:00",
-                        "described_state": "successful",
-                        "display_status": "Sikeres",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 4823,
-                        "url_name": "nograd_megyei_kormanyhivatal",
-                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
-                        "short_name": null,
-                        "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2022-01-22T04:55:17.491+01:00",
-                        "home_page": "http://nmkh.gov.hu",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [
-                            [
-                                "k\u00f6zponti",
-                                null
-                            ]
-                        ],
-                        "info": {
-                            "requests_count": 33,
-                            "requests_successful_count": 24,
-                            "requests_not_held_count": 3,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 30
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "54730": {
-                    "id": 54730,
-                    "event_type": "followup_sent",
-                    "created_at": "2020-02-06T12:55:42.549+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "54311": {
+                    "id": 54311,
+                    "event_type": "sent",
+                    "created_at": "2020-01-24T12:21:04.094+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2020-01-24T12:21:04.129+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 20400,
+                    "outgoing_message_id": 20223,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nK\u00f6sz\u00f6n\u00f6m az adatszolg\u00e1ltat\u00e1st! Tisztelettel \u00e9rdekl\u0151d\u00f6m, hogy van-e valamilyen inform\u00e1ci\u00f3 arr\u00f3l, hogy a 2019.10.01.-\u00e9n...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 13968,
                         "url_title": "karancssag_kozseg_onkormanyzata_14",
@@ -2485,18 +2428,75 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "54311": {
-                    "id": 54311,
-                    "event_type": "sent",
-                    "created_at": "2020-01-24T12:21:04.094+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2020-01-24T12:21:04.129+01:00",
+                "54730": {
+                    "id": 54730,
+                    "event_type": "followup_sent",
+                    "created_at": "2020-02-06T12:55:42.549+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 20223,
+                    "outgoing_message_id": 20400,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nK\u00f6sz\u00f6n\u00f6m az adatszolg\u00e1ltat\u00e1st! Tisztelettel \u00e9rdekl\u0151d\u00f6m, hogy van-e valamilyen inform\u00e1ci\u00f3 arr\u00f3l, hogy a 2019.10.01.-\u00e9n...",
+                    "info_request": {
+                        "id": 13968,
+                        "url_title": "karancssag_kozseg_onkormanyzata_14",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019. augusztus 28-t\u00f3l",
+                        "created_at": "2020-01-24T12:21:03.995+01:00",
+                        "updated_at": "2020-02-24T08:09:28.903+01:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 4823,
+                        "url_name": "nograd_megyei_kormanyhivatal",
+                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-26T03:07:00.042+02:00",
+                        "updated_at": "2022-01-22T04:55:17.491+01:00",
+                        "home_page": "http://nmkh.gov.hu",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "k\u00f6zponti",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 33,
+                            "requests_successful_count": 24,
+                            "requests_not_held_count": 3,
+                            "requests_overdue_count": 2,
+                            "requests_visible_classified_count": 30
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "55073": {
+                    "id": 55073,
+                    "event_type": "response",
+                    "created_at": "2020-02-13T15:03:10.410+01:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2020-02-24T08:09:28.933+01:00",
+                    "incoming_message_id": 20589,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Sikeres",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735\n\n\n\n\n\n\n\n\n Nap...",
                     "info_request": {
                         "id": 13968,
                         "url_title": "karancssag_kozseg_onkormanyzata_14",
@@ -2585,18 +2585,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "55112": {
-                    "id": 55112,
-                    "event_type": "followup_sent",
-                    "created_at": "2020-02-14T11:30:00.935+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "54877": {
+                    "id": 54877,
+                    "event_type": "sent",
+                    "created_at": "2020-02-11T15:59:38.773+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2020-02-11T15:59:38.809+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 20542,
+                    "outgoing_message_id": 20446,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nA 2020. febru\u00e1r 11-\u00e9n kelt, Karancss\u00e1g K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat K\u00e9pvisel\u0151-test\u00fclet\u00e9nek 14...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 14139,
                         "url_title": "karancssag_kozseg_onkormanyzata_15",
@@ -2637,18 +2637,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "54877": {
-                    "id": 54877,
-                    "event_type": "sent",
-                    "created_at": "2020-02-11T15:59:38.773+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2020-02-11T15:59:38.809+01:00",
+                "55112": {
+                    "id": 55112,
+                    "event_type": "followup_sent",
+                    "created_at": "2020-02-14T11:30:00.935+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 20446,
+                    "outgoing_message_id": 20542,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nA 2020. febru\u00e1r 11-\u00e9n kelt, Karancss\u00e1g K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat K\u00e9pvisel\u0151-test\u00fclet\u00e9nek 14...",
                     "info_request": {
                         "id": 14139,
                         "url_title": "karancssag_kozseg_onkormanyzata_15",
@@ -2832,18 +2832,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "52657": {
-                    "id": 52657,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-11-19T17:14:03.506+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "52425": {
+                    "id": 52425,
+                    "event_type": "sent",
+                    "created_at": "2019-11-08T09:57:48.557+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-11-08T09:57:48.597+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 19716,
+                    "outgoing_message_id": 19617,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nMegtisztel\u0151 v\u00e1laszukat k\u00f6sz\u00f6n\u00f6m! \r\nMeg\u00e9rt\u00e9s\u00fcket k\u00e9rem, hogy adatig\u00e9nyl\u00e9seimmel \u00d6n\u00f6kh\u00f6z fordultam. A test\u00fcleti \u00fcl\u00e9sek j...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 13537,
                         "url_title": "karancssag_kozseg_onkormanyzata_12",
@@ -2946,18 +2946,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "52425": {
-                    "id": 52425,
-                    "event_type": "sent",
-                    "created_at": "2019-11-08T09:57:48.557+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-11-08T09:57:48.597+01:00",
+                "52657": {
+                    "id": 52657,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-11-19T17:14:03.506+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 19617,
+                    "outgoing_message_id": 19716,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nMegtisztel\u0151 v\u00e1laszukat k\u00f6sz\u00f6n\u00f6m! \r\nMeg\u00e9rt\u00e9s\u00fcket k\u00e9rem, hogy adatig\u00e9nyl\u00e9seimmel \u00d6n\u00f6kh\u00f6z fordultam. A test\u00fcleti \u00fcl\u00e9sek j...",
                     "info_request": {
                         "id": 13537,
                         "url_title": "karancssag_kozseg_onkormanyzata_12",
@@ -3051,18 +3051,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "52227": {
-                    "id": 52227,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-10-25T15:08:29.396+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "52019": {
+                    "id": 52019,
+                    "event_type": "sent",
+                    "created_at": "2019-10-11T11:27:56.500+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-10-11T11:27:56.537+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 19538,
+                    "outgoing_message_id": 19470,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 13419,
                         "url_title": "torvenyessegi_felugyeleti_eljara_2",
@@ -3165,18 +3165,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "52019": {
-                    "id": 52019,
-                    "event_type": "sent",
-                    "created_at": "2019-10-11T11:27:56.500+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-10-11T11:27:56.537+02:00",
+                "52227": {
+                    "id": 52227,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-10-25T15:08:29.396+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 19470,
+                    "outgoing_message_id": 19538,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 13419,
                         "url_title": "torvenyessegi_felugyeleti_eljara_2",
@@ -3365,18 +3365,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "51562": {
-                    "id": 51562,
-                    "event_type": "response",
-                    "created_at": "2019-09-09T10:29:46.049+02:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2019-09-10T11:56:01.308+02:00",
-                    "incoming_message_id": 19331,
-                    "outgoing_message_id": null,
+                "51456": {
+                    "id": 51456,
+                    "event_type": "sent",
+                    "created_at": "2019-09-02T11:14:10.569+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-09-02T11:14:10.603+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 19290,
                     "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 13291,
                         "url_title": "karancssag_kozseg_onkormanyzata_10",
@@ -3479,18 +3479,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "51456": {
-                    "id": 51456,
-                    "event_type": "sent",
-                    "created_at": "2019-09-02T11:14:10.569+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-09-02T11:14:10.603+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 19290,
+                "51562": {
+                    "id": 51562,
+                    "event_type": "response",
+                    "created_at": "2019-09-09T10:29:46.049+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2019-09-10T11:56:01.308+02:00",
+                    "incoming_message_id": 19331,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "Sikeres",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
                     "info_request": {
                         "id": 13291,
                         "url_title": "karancssag_kozseg_onkormanyzata_10",
@@ -3584,18 +3584,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "50852": {
-                    "id": 50852,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-08-01T13:24:16.750+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "50394": {
+                    "id": 50394,
+                    "event_type": "sent",
+                    "created_at": "2019-07-08T15:49:43.628+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-07-08T15:49:43.666+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 19088,
+                    "outgoing_message_id": 18910,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt Krek\u00e1cs Judit! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 13031,
                         "url_title": "karancssag_kozseg_onkormanyzata_9",
@@ -3698,18 +3698,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "50394": {
-                    "id": 50394,
-                    "event_type": "sent",
-                    "created_at": "2019-07-08T15:49:43.628+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-07-08T15:49:43.666+02:00",
+                "50852": {
+                    "id": 50852,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-08-01T13:24:16.750+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18910,
+                    "outgoing_message_id": 19088,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Krek\u00e1cs Judit! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 13031,
                         "url_title": "karancssag_kozseg_onkormanyzata_9",
@@ -3798,70 +3798,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "50717": {
-                    "id": 50717,
-                    "event_type": "response",
-                    "created_at": "2019-07-25T16:06:11.728+02:00",
-                    "described_state": null,
-                    "calculated_state": "partially_successful",
-                    "last_described_at": "2019-07-25T16:19:59.682+02:00",
-                    "incoming_message_id": 19028,
-                    "outgoing_message_id": null,
+                "49700": {
+                    "id": 49700,
+                    "event_type": "sent",
+                    "created_at": "2019-06-04T10:20:40.736+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-06-04T10:20:40.771+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 18655,
                     "comment_id": null,
-                    "display_status": "R\u00e9szben teljes\u00edtette",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n\nT\u00e1j\u00e9koztatom, hogy a Szervezeti- \u00e9s M\u0171k\u00f6d\u00e9si Szab\u00e1lyzatnak \u00e9s \nm\u00f3dos\u00edt\u00e1sainak hat\u00e1lyos \u00e1llapota tal\u00e1lhat\u00f3 a Nemzeti Jogszab\u00e1ly...",
-                    "info_request": {
-                        "id": 12859,
-                        "url_title": "karancssag_kozseg_onkormanyzata_7",
-                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata k\u00e9pvisel\u0151-test\u00fclet, bizotts\u00e1gok, SZMSZ",
-                        "created_at": "2019-06-04T10:20:40.634+02:00",
-                        "updated_at": "2019-07-25T16:19:59.652+02:00",
-                        "described_state": "partially_successful",
-                        "display_status": "R\u00e9szben teljes\u00edtette",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 15669,
-                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
-                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
-                        "short_name": null,
-                        "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2022-01-22T04:55:33.850+01:00",
-                        "home_page": "http://www.karancssag.hu/",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [],
-                        "info": {
-                            "requests_count": 11,
-                            "requests_successful_count": 6,
-                            "requests_not_held_count": 0,
-                            "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 11
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "50015": {
-                    "id": 50015,
-                    "event_type": "response",
-                    "created_at": "2019-06-20T19:10:39.874+02:00",
-                    "described_state": null,
-                    "calculated_state": "partially_successful",
-                    "last_described_at": "2019-06-21T10:42:09.362+02:00",
-                    "incoming_message_id": 18791,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "R\u00e9szben teljes\u00edtette",
-                    "snippet": "Tisztelt Uram!\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151-test\u00fclete jelenlegi tagjainak n\u00e9vsora:\n\nT\u00f3th Tiham\u00e9r S\u00e1ndor\t\tpolg\u00e1rmester\t\t\nT\u0151zs\u00e9r Dezs\u0151\t\t\tal...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
                     "info_request": {
                         "id": 12859,
                         "url_title": "karancssag_kozseg_onkormanyzata_7",
@@ -3954,18 +3902,70 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "49700": {
-                    "id": 49700,
-                    "event_type": "sent",
-                    "created_at": "2019-06-04T10:20:40.736+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-06-04T10:20:40.771+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 18655,
+                "50015": {
+                    "id": 50015,
+                    "event_type": "response",
+                    "created_at": "2019-06-20T19:10:39.874+02:00",
+                    "described_state": null,
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2019-06-21T10:42:09.362+02:00",
+                    "incoming_message_id": 18791,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "display_status": "R\u00e9szben teljes\u00edtette",
+                    "snippet": "Tisztelt Uram!\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151-test\u00fclete jelenlegi tagjainak n\u00e9vsora:\n\nT\u00f3th Tiham\u00e9r S\u00e1ndor\t\tpolg\u00e1rmester\t\t\nT\u0151zs\u00e9r Dezs\u0151\t\t\tal...",
+                    "info_request": {
+                        "id": 12859,
+                        "url_title": "karancssag_kozseg_onkormanyzata_7",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata k\u00e9pvisel\u0151-test\u00fclet, bizotts\u00e1gok, SZMSZ",
+                        "created_at": "2019-06-04T10:20:40.634+02:00",
+                        "updated_at": "2019-07-25T16:19:59.652+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "R\u00e9szben teljes\u00edtette",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2022-01-22T04:55:33.850+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [],
+                        "info": {
+                            "requests_count": 11,
+                            "requests_successful_count": 6,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 4,
+                            "requests_visible_classified_count": 11
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "50717": {
+                    "id": 50717,
+                    "event_type": "response",
+                    "created_at": "2019-07-25T16:06:11.728+02:00",
+                    "described_state": null,
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2019-07-25T16:19:59.682+02:00",
+                    "incoming_message_id": 19028,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "R\u00e9szben teljes\u00edtette",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n\nT\u00e1j\u00e9koztatom, hogy a Szervezeti- \u00e9s M\u0171k\u00f6d\u00e9si Szab\u00e1lyzatnak \u00e9s \nm\u00f3dos\u00edt\u00e1sainak hat\u00e1lyos \u00e1llapota tal\u00e1lhat\u00f3 a Nemzeti Jogszab\u00e1ly...",
                     "info_request": {
                         "id": 12859,
                         "url_title": "karancssag_kozseg_onkormanyzata_7",
@@ -4058,18 +4058,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "50495": {
-                    "id": 50495,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-07-12T11:56:59.363+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "50231": {
+                    "id": 50231,
+                    "event_type": "sent",
+                    "created_at": "2019-06-28T10:03:01.423+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-06-28T10:03:01.459+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18936,
+                    "outgoing_message_id": 18861,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9...",
                     "info_request": {
                         "id": 12996,
                         "url_title": "karancssag_kozseg_kozkutjainak_f",
@@ -4180,18 +4180,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "50231": {
-                    "id": 50231,
-                    "event_type": "sent",
-                    "created_at": "2019-06-28T10:03:01.423+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-06-28T10:03:01.459+02:00",
+                "50495": {
+                    "id": 50495,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-07-12T11:56:59.363+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18861,
+                    "outgoing_message_id": 18936,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt \u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 12996,
                         "url_title": "karancssag_kozseg_kozkutjainak_f",
@@ -4289,18 +4289,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "50322": {
-                    "id": 50322,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-07-03T11:00:26.823+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "49965": {
+                    "id": 49965,
+                    "event_type": "sent",
+                    "created_at": "2019-06-19T19:31:08.767+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-06-19T19:31:08.803+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18892,
+                    "outgoing_message_id": 18760,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 12932,
                         "url_title": "karancssag_kozseg_onkormanyzata_8",
@@ -4403,18 +4403,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "49965": {
-                    "id": 49965,
-                    "event_type": "sent",
-                    "created_at": "2019-06-19T19:31:08.767+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-06-19T19:31:08.803+02:00",
+                "50322": {
+                    "id": 50322,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-07-03T11:00:26.823+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18760,
+                    "outgoing_message_id": 18892,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly! \r\n\nV\u00e1laszukat k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 12932,
                         "url_title": "karancssag_kozseg_onkormanyzata_8",
@@ -4508,189 +4508,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "49765": {
-                    "id": 49765,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-06-06T10:00:37.048+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "49558": {
+                    "id": 49558,
+                    "event_type": "sent",
+                    "created_at": "2019-05-28T12:28:50.488+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-05-28T12:28:50.523+02:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18686,
+                    "outgoing_message_id": 18615,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nSeg\u00edts\u00e9g\u00fcket k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
-                    "info_request": {
-                        "id": 12828,
-                        "url_title": "karancssag_kozseg_onkormanyzata_6",
-                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
-                        "created_at": "2019-05-28T12:28:50.386+02:00",
-                        "updated_at": "2019-06-06T09:59:55.901+02:00",
-                        "described_state": "successful",
-                        "display_status": "Sikeres",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 4823,
-                        "url_name": "nograd_megyei_kormanyhivatal",
-                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
-                        "short_name": null,
-                        "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2022-01-22T04:55:17.491+01:00",
-                        "home_page": "http://nmkh.gov.hu",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [
-                            [
-                                "k\u00f6zponti",
-                                null
-                            ]
-                        ],
-                        "info": {
-                            "requests_count": 33,
-                            "requests_successful_count": 24,
-                            "requests_not_held_count": 3,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 30
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "49763": {
-                    "id": 49763,
-                    "event_type": "response",
-                    "created_at": "2019-06-06T09:57:32.071+02:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2019-06-06T09:59:55.930+02:00",
-                    "incoming_message_id": 18685,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735...",
-                    "info_request": {
-                        "id": 12828,
-                        "url_title": "karancssag_kozseg_onkormanyzata_6",
-                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
-                        "created_at": "2019-05-28T12:28:50.386+02:00",
-                        "updated_at": "2019-06-06T09:59:55.901+02:00",
-                        "described_state": "successful",
-                        "display_status": "Sikeres",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 4823,
-                        "url_name": "nograd_megyei_kormanyhivatal",
-                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
-                        "short_name": null,
-                        "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2022-01-22T04:55:17.491+01:00",
-                        "home_page": "http://nmkh.gov.hu",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [
-                            [
-                                "k\u00f6zponti",
-                                null
-                            ]
-                        ],
-                        "info": {
-                            "requests_count": 33,
-                            "requests_successful_count": 24,
-                            "requests_not_held_count": 3,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 30
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "49762": {
-                    "id": 49762,
-                    "event_type": "response",
-                    "created_at": "2019-06-06T09:55:37.558+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
-                    "incoming_message_id": 18684,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "V\u00e1lasz",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
-                    "info_request": {
-                        "id": 12828,
-                        "url_title": "karancssag_kozseg_onkormanyzata_6",
-                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
-                        "created_at": "2019-05-28T12:28:50.386+02:00",
-                        "updated_at": "2019-06-06T09:59:55.901+02:00",
-                        "described_state": "successful",
-                        "display_status": "Sikeres",
-                        "awaiting_description": false,
-                        "prominence": "normal",
-                        "law_used": "foi",
-                        "tags": []
-                    },
-                    "public_body": {
-                        "id": 4823,
-                        "url_name": "nograd_megyei_kormanyhivatal",
-                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
-                        "short_name": null,
-                        "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2022-01-22T04:55:17.491+01:00",
-                        "home_page": "http://nmkh.gov.hu",
-                        "notes": "",
-                        "publication_scheme": "",
-                        "tags": [
-                            [
-                                "k\u00f6zponti",
-                                null
-                            ]
-                        ],
-                        "info": {
-                            "requests_count": 33,
-                            "requests_successful_count": 24,
-                            "requests_not_held_count": 3,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 30
-                        }
-                    },
-                    "user": {
-                        "id": 2848,
-                        "url_name": "toth_gabor_3",
-                        "name": "T\u00f3th G\u00e1bor",
-                        "ban_text": "",
-                        "about_me": "https://karancssag.info/"
-                    }
-                },
-                "49761": {
-                    "id": 49761,
-                    "event_type": "response",
-                    "created_at": "2019-06-06T09:50:58.270+02:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
-                    "incoming_message_id": 18683,
-                    "outgoing_message_id": null,
-                    "comment_id": null,
-                    "display_status": "V\u00e1lasz",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 12828,
                         "url_title": "karancssag_kozseg_onkormanyzata_6",
@@ -4793,18 +4622,189 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "49558": {
-                    "id": 49558,
-                    "event_type": "sent",
-                    "created_at": "2019-05-28T12:28:50.488+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-05-28T12:28:50.523+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 18615,
+                "49761": {
+                    "id": 49761,
+                    "event_type": "response",
+                    "created_at": "2019-06-06T09:50:58.270+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": 18683,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "V\u00e1lasz",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "info_request": {
+                        "id": 12828,
+                        "url_title": "karancssag_kozseg_onkormanyzata_6",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
+                        "created_at": "2019-05-28T12:28:50.386+02:00",
+                        "updated_at": "2019-06-06T09:59:55.901+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 4823,
+                        "url_name": "nograd_megyei_kormanyhivatal",
+                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-26T03:07:00.042+02:00",
+                        "updated_at": "2022-01-22T04:55:17.491+01:00",
+                        "home_page": "http://nmkh.gov.hu",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "k\u00f6zponti",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 33,
+                            "requests_successful_count": 24,
+                            "requests_not_held_count": 3,
+                            "requests_overdue_count": 2,
+                            "requests_visible_classified_count": 30
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "49762": {
+                    "id": 49762,
+                    "event_type": "response",
+                    "created_at": "2019-06-06T09:55:37.558+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": 18684,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "V\u00e1lasz",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "info_request": {
+                        "id": 12828,
+                        "url_title": "karancssag_kozseg_onkormanyzata_6",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
+                        "created_at": "2019-05-28T12:28:50.386+02:00",
+                        "updated_at": "2019-06-06T09:59:55.901+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 4823,
+                        "url_name": "nograd_megyei_kormanyhivatal",
+                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-26T03:07:00.042+02:00",
+                        "updated_at": "2022-01-22T04:55:17.491+01:00",
+                        "home_page": "http://nmkh.gov.hu",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "k\u00f6zponti",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 33,
+                            "requests_successful_count": 24,
+                            "requests_not_held_count": 3,
+                            "requests_overdue_count": 2,
+                            "requests_visible_classified_count": 30
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "49763": {
+                    "id": 49763,
+                    "event_type": "response",
+                    "created_at": "2019-06-06T09:57:32.071+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2019-06-06T09:59:55.930+02:00",
+                    "incoming_message_id": 18685,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Sikeres",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735...",
+                    "info_request": {
+                        "id": 12828,
+                        "url_title": "karancssag_kozseg_onkormanyzata_6",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2019",
+                        "created_at": "2019-05-28T12:28:50.386+02:00",
+                        "updated_at": "2019-06-06T09:59:55.901+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 4823,
+                        "url_name": "nograd_megyei_kormanyhivatal",
+                        "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-26T03:07:00.042+02:00",
+                        "updated_at": "2022-01-22T04:55:17.491+01:00",
+                        "home_page": "http://nmkh.gov.hu",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "k\u00f6zponti",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 33,
+                            "requests_successful_count": 24,
+                            "requests_not_held_count": 3,
+                            "requests_overdue_count": 2,
+                            "requests_visible_classified_count": 30
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "49765": {
+                    "id": 49765,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-06-06T10:00:37.048+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 18686,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nSeg\u00edts\u00e9g\u00fcket k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 12828,
                         "url_title": "karancssag_kozseg_onkormanyzata_6",
@@ -4898,18 +4898,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "48058": {
-                    "id": 48058,
-                    "event_type": "followup_sent",
-                    "created_at": "2019-03-12T16:31:57.147+01:00",
-                    "described_state": null,
-                    "calculated_state": null,
-                    "last_described_at": null,
+                "47679": {
+                    "id": 47679,
+                    "event_type": "sent",
+                    "created_at": "2019-02-21T11:26:12.552+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-02-21T11:26:12.581+01:00",
                     "incoming_message_id": null,
-                    "outgoing_message_id": 18117,
+                    "outgoing_message_id": 17980,
                     "comment_id": null,
-                    "display_status": "K\u00f6vet\u00e9s",
-                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nSeg\u00edts\u00e9g\u00fcket k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 12366,
                         "url_title": "karancssag_kozseg_onkormanyzata_5",
@@ -5012,18 +5012,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "47679": {
-                    "id": 47679,
-                    "event_type": "sent",
-                    "created_at": "2019-02-21T11:26:12.552+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-02-21T11:26:12.581+01:00",
+                "48058": {
+                    "id": 48058,
+                    "event_type": "followup_sent",
+                    "created_at": "2019-03-12T16:31:57.147+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
                     "incoming_message_id": null,
-                    "outgoing_message_id": 17980,
+                    "outgoing_message_id": 18117,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt T\u00f6rv\u00e9nyess\u00e9g N\u00f3gr\u00e1d! \r\n\nSeg\u00edts\u00e9g\u00fcket k\u00f6sz\u00f6n\u00f6m!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
                     "info_request": {
                         "id": 12366,
                         "url_title": "karancssag_kozseg_onkormanyzata_5",
@@ -5117,18 +5117,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "47190": {
-                    "id": 47190,
-                    "event_type": "response",
-                    "created_at": "2019-01-24T12:03:03.457+01:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2019-01-24T13:16:33.768+01:00",
-                    "incoming_message_id": 17781,
-                    "outgoing_message_id": null,
+                "46849": {
+                    "id": 46849,
+                    "event_type": "sent",
+                    "created_at": "2019-01-07T13:56:11.431+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2019-01-07T13:56:11.460+01:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 17653,
                     "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 12096,
                         "url_title": "karancssag_kozseg_onkormanyzata_4",
@@ -5231,18 +5231,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "46849": {
-                    "id": 46849,
-                    "event_type": "sent",
-                    "created_at": "2019-01-07T13:56:11.431+01:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2019-01-07T13:56:11.460+01:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 17653,
+                "47190": {
+                    "id": 47190,
+                    "event_type": "response",
+                    "created_at": "2019-01-24T12:03:03.457+01:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2019-01-24T13:16:33.768+01:00",
+                    "incoming_message_id": 17781,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "Sikeres",
+                    "snippet": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal\n Hat\u00f3s\u00e1gi F\u0151oszt\u00e1ly\n T\u00f6rv\u00e9nyess\u00e9gi Fel\u00fcgyeleti Oszt\u00e1ly\n Salg\u00f3tarj\u00e1n, R\u00e1k\u00f3czi \u00fat 36.\n Telefon: 32/620-735",
                     "info_request": {
                         "id": 12096,
                         "url_title": "karancssag_kozseg_onkormanyzata_4",
@@ -5336,18 +5336,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "46254": {
-                    "id": 46254,
-                    "event_type": "response",
-                    "created_at": "2018-11-29T13:33:17.927+01:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2018-12-03T10:21:27.131+01:00",
-                    "incoming_message_id": 17456,
-                    "outgoing_message_id": null,
+                "45223": {
+                    "id": 45223,
+                    "event_type": "sent",
+                    "created_at": "2018-09-26T15:38:13.570+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2018-09-26T15:38:13.607+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 17085,
                     "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n Az al\u00e1bbi linkre kattintva\u00a0megnyithat\u00f3ak a jegyz\u0151k\u00f6nyvek. Let\u00f6lt\u00e9sre k\u00e9t\n h\u00e9t \u00e1ll rendelkez\u00e9sre.\n [1]https://filr.kh.gov.hu/ss...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 11687,
                         "url_title": "karancssag_kozseg_onkormanyzata_3",
@@ -5393,18 +5393,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "45223": {
-                    "id": 45223,
-                    "event_type": "sent",
-                    "created_at": "2018-09-26T15:38:13.570+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2018-09-26T15:38:13.607+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 17085,
+                "46254": {
+                    "id": 46254,
+                    "event_type": "response",
+                    "created_at": "2018-11-29T13:33:17.927+01:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2018-12-03T10:21:27.131+01:00",
+                    "incoming_message_id": 17456,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n Az al\u00e1bbi linkre kattintva\u00a0megnyithat\u00f3ak a jegyz\u0151k\u00f6nyvek. Let\u00f6lt\u00e9sre k\u00e9t\n h\u00e9t \u00e1ll rendelkez\u00e9sre.\n [1]https://filr.kh.gov.hu/ss...",
                     "info_request": {
                         "id": 11687,
                         "url_title": "karancssag_kozseg_onkormanyzata_3",
@@ -5603,18 +5603,18 @@
                 "about_me": "https://karancssag.info/"
             },
             "events": {
-                "42036": {
-                    "id": 42036,
-                    "event_type": "response",
-                    "created_at": "2018-04-26T15:28:45.851+02:00",
-                    "described_state": null,
-                    "calculated_state": "successful",
-                    "last_described_at": "2018-04-27T12:50:52.408+02:00",
-                    "incoming_message_id": 16018,
-                    "outgoing_message_id": null,
+                "41668": {
+                    "id": 41668,
+                    "event_type": "sent",
+                    "created_at": "2018-04-11T09:32:00.771+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2018-04-11T09:32:00.808+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 15745,
                     "comment_id": null,
-                    "display_status": "Sikeres",
-                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n A k\u00eds\u00e9r\u0151 levelet mell\u00e9kelten csatolom, illetve\u00a0az al\u00e1bbi\u00a0linkre kattintva\n megnyithat\u00f3k a dokumentumok.\n [1]https://filr.kh.go...",
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
                     "info_request": {
                         "id": 10779,
                         "url_title": "karancssag_kozseg_onkormanyzata",
@@ -5660,18 +5660,18 @@
                         "about_me": "https://karancssag.info/"
                     }
                 },
-                "41668": {
-                    "id": 41668,
-                    "event_type": "sent",
-                    "created_at": "2018-04-11T09:32:00.771+02:00",
-                    "described_state": "waiting_response",
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2018-04-11T09:32:00.808+02:00",
-                    "incoming_message_id": null,
-                    "outgoing_message_id": 15745,
+                "42036": {
+                    "id": 42036,
+                    "event_type": "response",
+                    "created_at": "2018-04-26T15:28:45.851+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2018-04-27T12:50:52.408+02:00",
+                    "incoming_message_id": 16018,
+                    "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "Pontos\u00edt\u00e1s",
-                    "snippet": "Tisztelt N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXII. t\u00f6rv\u00e9ny (a tov\u00e1bbiakb...",
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor \u00dar!\n A k\u00eds\u00e9r\u0151 levelet mell\u00e9kelten csatolom, illetve\u00a0az al\u00e1bbi\u00a0linkre kattintva\n megnyithat\u00f3k a dokumentumok.\n [1]https://filr.kh.go...",
                     "info_request": {
                         "id": 10779,
                         "url_title": "karancssag_kozseg_onkormanyzata",
