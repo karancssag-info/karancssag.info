@@ -534,24 +534,31 @@
                 "title": ""
             },
             "Csapat": "NAGYL\u00d3C\u00a0SE",
-            "M.": "12",
+            "M.": "13",
             "Gy.": "5",
-            "D.": "1",
+            "D.": "2",
             "V.": "6",
-            "LG.": "24",
-            "KG.": "25",
+            "LG.": "26",
+            "KG.": "27",
             "GK.": "-1",
-            "P.": "16",
+            "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2023.03.11. \r\nNagyl\u00f3c sportp\u00e1lya \r\nNAGYL\u00d3C SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2023.03.11.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "NAGYL\u00d3C SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2023.03.19. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nNAGYL\u00d3C SE",
+                "mikor": "2023.03.19.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - NAGYL\u00d3C SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826433.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 2 - 2 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766453.html",
                     "result": {
@@ -579,13 +586,6 @@
                         "goals": "ECSEG SE 3 - 0 NAGYL\u00d3C SE",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766428.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 0 - 1 VIZSL\u00c1SI SE ",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -598,24 +598,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "12",
+            "M.": "13",
             "Gy.": "4",
-            "D.": "1",
+            "D.": "2",
             "V.": "7",
-            "LG.": "35",
-            "KG.": "45",
+            "LG.": "37",
+            "KG.": "47",
             "GK.": "-10",
-            "P.": "13",
+            "P.": "14",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13519.jpg",
-                "title": "2023.03.11. \r\nNagyl\u00f3c sportp\u00e1lya \r\nNAGYL\u00d3C SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2023.03.11.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "NAGYL\u00d3C SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2023.03.18. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2023.03.18.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826433.html",
+                    "result": {
+                        "goals": "NAGYL\u00d3C SE 2 - 2 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766455.html",
                     "result": {
@@ -642,13 +649,6 @@
                     "result": {
                         "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766423.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 4 - 5 KARANCSBER\u00c9NYI VSFC",
-                        "res": "V"
                     }
                 }
             ]
