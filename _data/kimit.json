@@ -1648,10 +1648,10 @@
                 ],
                 "info": {
                     "requests_count": 45,
-                    "requests_successful_count": 31,
+                    "requests_successful_count": 32,
                     "requests_not_held_count": 2,
                     "requests_overdue_count": 4,
-                    "requests_visible_classified_count": 41
+                    "requests_visible_classified_count": 42
                 }
             },
             "user": {
@@ -1705,10 +1705,10 @@
                         ],
                         "info": {
                             "requests_count": 45,
-                            "requests_successful_count": 31,
+                            "requests_successful_count": 32,
                             "requests_not_held_count": 2,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 41
+                            "requests_visible_classified_count": 42
                         }
                     },
                     "user": {
@@ -1762,10 +1762,10 @@
                         ],
                         "info": {
                             "requests_count": 45,
-                            "requests_successful_count": 31,
+                            "requests_successful_count": 32,
                             "requests_not_held_count": 2,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 41
+                            "requests_visible_classified_count": 42
                         }
                     },
                     "user": {
@@ -1819,10 +1819,10 @@
                         ],
                         "info": {
                             "requests_count": 45,
-                            "requests_successful_count": 31,
+                            "requests_successful_count": 32,
                             "requests_not_held_count": 2,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 41
+                            "requests_visible_classified_count": 42
                         }
                     },
                     "user": {
