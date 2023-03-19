@@ -142,9 +142,73 @@
             ]
         },
         {
+            "teamId": "249618",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
+            "H.": "3",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "14",
+            "Gy.": "8",
+            "D.": "3",
+            "V.": "3",
+            "LG.": "37",
+            "KG.": "29",
+            "GK.": "8",
+            "P.": "27",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2023.03.26. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2023.03.26.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - KAZ\u00c1R KSE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826440.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 1 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826437.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 1 - 0 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766454.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766450.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249613",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249613.html",
-            "H.": "3",
+            "H.": "4",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
                 "title": ""
@@ -201,70 +265,6 @@
                     "result": {
                         "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249618",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "4",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": ""
-            },
-            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "13",
-            "Gy.": "7",
-            "D.": "3",
-            "V.": "3",
-            "LG.": "35",
-            "KG.": "28",
-            "GK.": "7",
-            "P.": "24",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2023.03.18. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2023.03.18.",
-                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - FEL\u00c1LDOZHAT\u00d3K SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826437.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 1 - 0 CEREDV\u00d6LGYE SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766454.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766450.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766434.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  4 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -598,24 +598,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "4",
             "D.": "2",
-            "V.": "7",
-            "LG.": "37",
-            "KG.": "47",
-            "GK.": "-10",
+            "V.": "8",
+            "LG.": "38",
+            "KG.": "49",
+            "GK.": "-11",
             "P.": "14",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2023.03.18. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2023.03.18.",
-                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": "2023.03.25. \r\nVizsl\u00e1s SE sportp\u00e1lya \r\nVIZSL\u00c1SI SE  - \r\nN\u00d3GR\u00c1DMEGYER BSE",
+                "mikor": "2023.03.25.",
+                "hol": "Vizsl\u00e1s SE sportp\u00e1lya",
+                "mi": "VIZSL\u00c1SI SE  - N\u00d3GR\u00c1DMEGYER BSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826440.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 1 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826433.html",
                     "result": {
@@ -642,13 +649,6 @@
                     "result": {
                         "goals": "B\u00c1TONYTERENYEI TC II. 2 - 1 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766429.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "GY"
                     }
                 }
             ]
