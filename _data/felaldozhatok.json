@@ -22,24 +22,31 @@
                 "title": ""
             },
             "Csapat": "ECSEG\u00a0SE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "9",
             "D.": "2",
-            "V.": "2",
-            "LG.": "52",
-            "KG.": "19",
-            "GK.": "33",
+            "V.": "3",
+            "LG.": "55",
+            "KG.": "24",
+            "GK.": "31",
             "P.": "29",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
-                "title": "2023.03.26. \r\nEcseg SE sportp\u00e1lya \r\nECSEG SE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2023.03.26.",
-                "hol": "Ecseg SE sportp\u00e1lya",
-                "mi": "ECSEG SE - CEREDV\u00d6LGYE SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
+                "title": "2023.04.01. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nECSEG SE",
+                "mikor": "2023.04.01.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - ECSEG SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826454.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 5 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826444.html",
                     "result": {
@@ -66,13 +73,6 @@
                     "result": {
                         "goals": "ECSEG SE 6 - 0 VIZSL\u00c1SI SE ",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
-                        "res": "D"
                     }
                 }
             ]
@@ -214,24 +214,31 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "7",
-            "D.": "3",
+            "D.": "4",
             "V.": "3",
-            "LG.": "33",
-            "KG.": "28",
+            "LG.": "36",
+            "KG.": "31",
             "GK.": "5",
-            "P.": "24",
+            "P.": "25",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": "2023.03.26. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2023.03.26.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - KAZ\u00c1R KSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
+                "title": "2023.04.16. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2023.04.16.",
+                "hol": "Rim\u00f3ci SE sportp\u00e1lya",
+                "mi": "RIM\u00d3CI SE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826450.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 3 KAZ\u00c1R KSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826440.html",
                     "result": {
@@ -259,13 +266,6 @@
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766442.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 4 ECSEG SE",
-                        "res": "D"
-                    }
                 }
             ]
         },
@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "13",
-            "Gy.": "6",
+            "M.": "14",
+            "Gy.": "7",
             "D.": "1",
             "V.": "6",
-            "LG.": "31",
-            "KG.": "24",
-            "GK.": "7",
-            "P.": "19",
+            "LG.": "34",
+            "KG.": "26",
+            "GK.": "8",
+            "P.": "22",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2023.03.26. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2023.03.26.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - N\u00d3GR\u00c1DSIPEKI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
+                "title": "2023.04.01. \r\nKarancsber\u00e9ny sportp\u00e1lya \r\nKARANCSBER\u00c9NYI VSFC - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2023.04.01.",
+                "hol": "Karancsber\u00e9ny sportp\u00e1lya",
+                "mi": "KARANCSBER\u00c9NYI VSFC - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826452.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 3 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826444.html",
                     "result": {
@@ -323,13 +330,6 @@
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 0 NAGYL\u00d3C SE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766444.html",
-                    "result": {
-                        "goals": "SOMOS-MTSE II. 4 - 1 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -342,24 +342,31 @@
                 "title": ""
             },
             "Csapat": "RIM\u00d3CI\u00a0SE",
-            "M.": "11",
-            "Gy.": "6",
+            "M.": "12",
+            "Gy.": "7",
             "D.": "1",
             "V.": "4",
-            "LG.": "20",
-            "KG.": "25",
-            "GK.": "-5",
-            "P.": "19",
+            "LG.": "23",
+            "KG.": "26",
+            "GK.": "-3",
+            "P.": "22",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
-                "title": "2023.03.26. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nKARANCSBER\u00c9NYI VSFC",
-                "mikor": "2023.03.26.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
+                "title": "2023.04.02. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nSOMOS-MTSE II.",
+                "mikor": "2023.04.02.",
                 "hol": "Rim\u00f3ci SE sportp\u00e1lya",
-                "mi": "RIM\u00d3CI SE - KARANCSBER\u00c9NYI VSFC"
+                "mi": "RIM\u00d3CI SE - SOMOS-MTSE II."
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826456.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 1 KARANCSBER\u00c9NYI VSFC",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1766456.html",
                     "result": {
@@ -387,13 +394,6 @@
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 0 - 1 RIM\u00d3CI SE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766432.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 3 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "GY"
-                    }
                 }
             ]
         },
@@ -406,24 +406,31 @@
                 "title": ""
             },
             "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "13",
-            "Gy.": "5",
+            "M.": "14",
+            "Gy.": "6",
             "D.": "3",
             "V.": "5",
-            "LG.": "36",
-            "KG.": "26",
-            "GK.": "10",
-            "P.": "18",
+            "LG.": "41",
+            "KG.": "29",
+            "GK.": "12",
+            "P.": "21",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": "2023.03.26. \r\nEcseg SE sportp\u00e1lya \r\nECSEG SE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2023.03.26.",
-                "hol": "Ecseg SE sportp\u00e1lya",
-                "mi": "ECSEG SE - CEREDV\u00d6LGYE SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2023.04.02. \r\nCeredv\u00f6lgye SE sportp\u00e1lya \r\nCEREDV\u00d6LGYE SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2023.04.02.",
+                "hol": "Ceredv\u00f6lgye SE sportp\u00e1lya",
+                "mi": "CEREDV\u00d6LGYE SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826454.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 5 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826443.html",
                     "result": {
@@ -451,13 +458,6 @@
                         "goals": "CEREDV\u00d6LGYE SE 1 - 3 SOMOS-MTSE II.",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766445.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 3 - 2 CEREDV\u00d6LGYE SE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -470,24 +470,31 @@
                 "title": ""
             },
             "Csapat": "KARANCSBER\u00c9NYI\u00a0VSFC",
-            "M.": "12",
+            "M.": "13",
             "Gy.": "5",
             "D.": "2",
-            "V.": "5",
-            "LG.": "34",
-            "KG.": "30",
-            "GK.": "4",
+            "V.": "6",
+            "LG.": "35",
+            "KG.": "33",
+            "GK.": "2",
             "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
-                "title": "2023.03.26. \r\nRim\u00f3ci SE sportp\u00e1lya \r\nRIM\u00d3CI SE - \r\nKARANCSBER\u00c9NYI VSFC",
-                "mikor": "2023.03.26.",
-                "hol": "Rim\u00f3ci SE sportp\u00e1lya",
-                "mi": "RIM\u00d3CI SE - KARANCSBER\u00c9NYI VSFC"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
+                "title": "2023.04.01. \r\nKarancsber\u00e9ny sportp\u00e1lya \r\nKARANCSBER\u00c9NYI VSFC - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2023.04.01.",
+                "hol": "Karancsber\u00e9ny sportp\u00e1lya",
+                "mi": "KARANCSBER\u00c9NYI VSFC - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826456.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 3 - 1 KARANCSBER\u00c9NYI VSFC",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826447.html",
                     "result": {
@@ -514,13 +521,6 @@
                     "result": {
                         "goals": "KAZ\u00c1R KSE 2 - 3 KARANCSBER\u00c9NYI VSFC",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766433.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
                     }
                 }
             ]
@@ -662,24 +662,31 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "3",
-            "D.": "0",
+            "D.": "1",
             "V.": "10",
-            "LG.": "24",
-            "KG.": "44",
+            "LG.": "27",
+            "KG.": "47",
             "GK.": "-20",
-            "P.": "8",
+            "P.": "9",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2023.03.26. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2023.03.26.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - KAZ\u00c1R KSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13117.jpg",
+                "title": "2023.04.02. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nVIZSL\u00c1SI SE",
+                "mikor": "2023.04.02.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - VIZSL\u00c1SI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826450.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 3 KAZ\u00c1R KSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826441.html",
                     "result": {
@@ -707,13 +714,6 @@
                         "goals": "KAZ\u00c1R KSE 2 - 3 KARANCSBER\u00c9NYI VSFC",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766429.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 3 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -726,24 +726,31 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "0",
             "D.": "0",
-            "V.": "13",
-            "LG.": "14",
-            "KG.": "71",
-            "GK.": "-57",
+            "V.": "14",
+            "LG.": "16",
+            "KG.": "74",
+            "GK.": "-58",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2023.03.26. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2023.03.26.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - N\u00d3GR\u00c1DSIPEKI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2023.04.02. \r\nCeredv\u00f6lgye SE sportp\u00e1lya \r\nCEREDV\u00d6LGYE SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2023.04.02.",
+                "hol": "Ceredv\u00f6lgye SE sportp\u00e1lya",
+                "mi": "CEREDV\u00d6LGYE SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826452.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 3 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826447.html",
                     "result": {
@@ -769,13 +776,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1766450.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1766441.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 6 - 4 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "V"
                     }
                 }
