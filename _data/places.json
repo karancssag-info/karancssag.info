@@ -881,6 +881,89 @@
             }
         },
         "name": "Nemzeti Doh\u00e1nybolt",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 7:00\u201317:00",
+                "kedd: 7:00\u201317:00",
+                "szerda: 7:00\u201317:00",
+                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201317:00",
+                "p\u00e9ntek: 7:00\u201317:00",
+                "szombat: 7:00\u201314:00",
+                "vas\u00e1rnap: 7:00\u201310:00"
+            ]
+        },
         "place_id": "ChIJCZ242o4RQEcRK-DCS5fLWoY",
         "url": "https://maps.google.com/?cid=9681274199657865259"
     },
