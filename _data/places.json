@@ -758,6 +758,30 @@
         "website": "http://www.posta.hu/"
     },
     {
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 120/A</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "geometry": {
+            "location": {
+                "lat": 48.1166563,
+                "lng": 19.6590288
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1179024802915,
+                    "lng": 19.6603399802915
+                },
+                "southwest": {
+                    "lat": 48.1152045197085,
+                    "lng": 19.6576420197085
+                }
+            }
+        },
+        "international_phone_number": "+36 30 297 9717",
+        "name": "Pet\u00fania Vir\u00e1gbolt",
+        "place_id": "ChIJyZsYhUURQEcRBN5OzYST0Z0",
+        "url": "https://maps.google.com/?cid=11372032732676677124",
+        "website": "https://www.facebook.com/profile.php?id=100090024912148"
+    },
+    {
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 122</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
