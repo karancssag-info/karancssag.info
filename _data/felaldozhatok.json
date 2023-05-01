@@ -78,86 +78,22 @@
             ]
         },
         {
-            "teamId": "249619",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249619.html",
-            "H.": "2",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": ""
-            },
-            "Csapat": "ECSEG\u00a0SE",
-            "M.": "16",
-            "Gy.": "10",
-            "D.": "3",
-            "V.": "3",
-            "LG.": "63",
-            "KG.": "29",
-            "GK.": "34",
-            "P.": "33",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
-                "title": "2023.05.07. \r\nEcseg SE sportp\u00e1lya \r\nECSEG SE - \r\nSOMOS-MTSE II.",
-                "mikor": "2023.05.07.",
-                "hol": "Ecseg SE sportp\u00e1lya",
-                "mi": "ECSEG SE - SOMOS-MTSE II."
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826473.html",
-                    "result": {
-                        "goals": "ECSEG SE 5 - 2 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826458.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 3 ECSEG SE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826454.html",
-                    "result": {
-                        "goals": "ECSEG SE 3 - 5 CEREDV\u00d6LGYE SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826444.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 0 - 3 ECSEG SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826438.html",
-                    "result": {
-                        "goals": "ECSEG SE 11 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "249614",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249614.html",
-            "H.": "3",
+            "H.": "2",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5600.jpg",
                 "title": ""
             },
             "Csapat": "RIM\u00d3CI\u00a0SE",
-            "M.": "16",
-            "Gy.": "10",
+            "M.": "17",
+            "Gy.": "11",
             "D.": "1",
             "V.": "5",
-            "LG.": "32",
-            "KG.": "31",
-            "GK.": "1",
-            "P.": "31",
+            "LG.": "34",
+            "KG.": "32",
+            "GK.": "2",
+            "P.": "34",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -168,6 +104,13 @@
                 "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - RIM\u00d3CI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826503.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 2 - 1 ECSEG SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826489.html",
                     "result": {
@@ -195,11 +138,68 @@
                         "goals": "RIM\u00d3CI SE 0 - 2 SOMOS-MTSE II.",
                         "res": "V"
                     }
+                }
+            ]
+        },
+        {
+            "teamId": "249619",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249619.html",
+            "H.": "3",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": ""
+            },
+            "Csapat": "ECSEG\u00a0SE",
+            "M.": "17",
+            "Gy.": "10",
+            "D.": "3",
+            "V.": "4",
+            "LG.": "64",
+            "KG.": "31",
+            "GK.": "33",
+            "P.": "33",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12735.jpg",
+                "title": "2023.05.07. \r\nEcseg SE sportp\u00e1lya \r\nECSEG SE - \r\nSOMOS-MTSE II.",
+                "mikor": "2023.05.07.",
+                "hol": "Ecseg SE sportp\u00e1lya",
+                "mi": "ECSEG SE - SOMOS-MTSE II."
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826503.html",
+                    "result": {
+                        "goals": "RIM\u00d3CI SE 2 - 1 ECSEG SE",
+                        "res": "V"
+                    }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1826456.html",
+                    "link": "https://adatbank.mlsz.hu/match/1826473.html",
                     "result": {
-                        "goals": "RIM\u00d3CI SE 3 - 1 KARANCSBER\u00c9NYI VSFC",
+                        "goals": "ECSEG SE 5 - 2 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826458.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 3 ECSEG SE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826454.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 5 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826444.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 0 - 3 ECSEG SE",
                         "res": "GY"
                     }
                 }
