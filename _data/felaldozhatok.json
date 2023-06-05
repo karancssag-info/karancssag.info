@@ -80,18 +80,25 @@
                 "title": ""
             },
             "Csapat": "ECSEG\u00a0SE",
-            "M.": "21",
-            "Gy.": "14",
+            "M.": "22",
+            "Gy.": "15",
             "D.": "3",
             "V.": "4",
-            "LG.": "86",
+            "LG.": "89",
             "KG.": "38",
-            "GK.": "48",
-            "P.": "45",
+            "GK.": "51",
+            "P.": "48",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826548.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 0 KARANCSBER\u00c9NYI VSFC",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826534.html",
                     "result": {
@@ -118,13 +125,6 @@
                     "result": {
                         "goals": "ECSEG SE 4 - 2 SOMOS-MTSE II.",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826503.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 2 - 1 ECSEG SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -420,9 +420,67 @@
             ]
         },
         {
+            "teamId": "249621",
+            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249621.html",
+            "H.": "8",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
+                "title": ""
+            },
+            "Csapat": "KARANCSBER\u00c9NYI\u00a0VSFC",
+            "M.": "22",
+            "Gy.": "8",
+            "D.": "5",
+            "V.": "9",
+            "LG.": "59",
+            "KG.": "59",
+            "GK.": "0",
+            "P.": "29",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826548.html",
+                    "result": {
+                        "goals": "ECSEG SE 3 - 0 KARANCSBER\u00c9NYI VSFC",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826527.html",
+                    "result": {
+                        "goals": "VIZSL\u00c1SI SE  3 - 3 KARANCSBER\u00c9NYI VSFC",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826523.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 7 - 1 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826517.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 2 KARANCSBER\u00c9NYI VSFC",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1837042.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 0 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "249618",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249618.html",
-            "H.": "8",
+            "H.": "9",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
                 "title": ""
@@ -480,19 +538,19 @@
         {
             "teamId": "249615",
             "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249615.html",
-            "H.": "9",
+            "H.": "10",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "21",
+            "M.": "22",
             "Gy.": "8",
             "D.": "3",
-            "V.": "10",
+            "V.": "11",
             "LG.": "65",
-            "KG.": "69",
-            "GK.": "-4",
+            "KG.": "72",
+            "GK.": "-7",
             "P.": "27",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -520,75 +578,17 @@
                     }
                 },
                 {
+                    "link": "https://adatbank.mlsz.hu/match/1837042.html",
+                    "result": {
+                        "goals": "KARANCSBER\u00c9NYI VSFC 3 - 0 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
+                {
                     "link": "https://adatbank.mlsz.hu/match/1826495.html",
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 3 - 1 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826481.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 5 - 3 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "249621",
-            "teamLink": "https://adatbank.mlsz.hu/club/59/13/25692/30/249621.html",
-            "H.": "10",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13526.jpg",
-                "title": ""
-            },
-            "Csapat": "KARANCSBER\u00c9NYI\u00a0VSFC",
-            "M.": "20",
-            "Gy.": "7",
-            "D.": "5",
-            "V.": "8",
-            "LG.": "56",
-            "KG.": "56",
-            "GK.": "0",
-            "P.": "26",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": "",
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826527.html",
-                    "result": {
-                        "goals": "VIZSL\u00c1SI SE  3 - 3 KARANCSBER\u00c9NYI VSFC",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826523.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 7 - 1 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826517.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 2 KARANCSBER\u00c9NYI VSFC",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826490.html",
-                    "result": {
-                        "goals": "NAGYL\u00d3C SE 4 - 3 KARANCSBER\u00c9NYI VSFC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826488.html",
-                    "result": {
-                        "goals": "KARANCSBER\u00c9NYI VSFC 2 - 1 CEREDV\u00d6LGYE SE",
-                        "res": "GY"
                     }
                 }
             ]
