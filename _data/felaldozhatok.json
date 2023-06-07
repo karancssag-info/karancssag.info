@@ -138,18 +138,25 @@
                 "title": ""
             },
             "Csapat": "RIM\u00d3CI\u00a0SE",
-            "M.": "21",
-            "Gy.": "14",
+            "M.": "22",
+            "Gy.": "15",
             "D.": "2",
             "V.": "5",
-            "LG.": "46",
+            "LG.": "49",
             "KG.": "38",
-            "GK.": "8",
-            "P.": "44",
+            "GK.": "11",
+            "P.": "47",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826546.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 0 - 3 RIM\u00d3CI SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826536.html",
                     "result": {
@@ -175,13 +182,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1826516.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 4 RIM\u00d3CI SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826503.html",
-                    "result": {
-                        "goals": "RIM\u00d3CI SE 2 - 1 ECSEG SE",
                         "res": "GY"
                     }
                 }
@@ -602,18 +602,25 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "21",
+            "M.": "22",
             "Gy.": "4",
             "D.": "2",
-            "V.": "15",
+            "V.": "16",
             "LG.": "38",
-            "KG.": "81",
-            "GK.": "-43",
-            "P.": "13",
+            "KG.": "84",
+            "GK.": "-46",
+            "P.": "9",
             "BR.*": "",
-            "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
+            "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -5",
             "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1826546.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 0 - 3 RIM\u00d3CI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1826523.html",
                     "result": {
@@ -640,13 +647,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 3 KAZ\u00c1R KSE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1826482.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 1 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "V"
                     }
                 }
             ]
