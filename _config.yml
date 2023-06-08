@@ -38,7 +38,7 @@ page_gen:
 # Build settings
 markdown: kramdown
 destination: ./build
-exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile', 'allas.md', 'busz.md']
 plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
