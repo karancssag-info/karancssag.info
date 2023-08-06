@@ -1,1 +1,241 @@
-[]
+{
+    "team": {
+        "id": "268126",
+        "name": "FEL\u00c1LDOZHAT\u00d3K SE",
+        "logo": {
+            "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+            "title": ""
+        },
+        "address": "3163 Karancss\u00e1g, Kossuth \u00fat 52 ",
+        "email": "saginorbi05@gmail.com",
+        "phone": "36203707958",
+        "fax": "",
+        "link": "https://adatbank.mlsz.hu/club/61/13/27492/14/268126.html"
+    },
+    "tabella": [
+        {
+            "teamId": "268125",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268125.html",
+            "H.": "1",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": ""
+            },
+            "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2023.08.13. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nCEREDV\u00d6LGYE SE",
+                "mikor": "2023.08.13.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - CEREDV\u00d6LGYE SE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268124",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268124.html",
+            "H.": "2",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": ""
+            },
+            "Csapat": "ECSEGI\u00a0SE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2023.08.12. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nECSEGI SE",
+                "mikor": "2023.08.12.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE - ECSEGI SE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268126",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268126.html",
+            "H.": "3",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2023.08.13. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nCEREDV\u00d6LGYE SE",
+                "mikor": "2023.08.13.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - CEREDV\u00d6LGYE SE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268127",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268127.html",
+            "H.": "4",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": ""
+            },
+            "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
+                "title": "2023.08.13. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
+                "mikor": "2023.08.13.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - N\u00d3GR\u00c1DMEGYER BSE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268121",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268121.html",
+            "H.": "5",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": ""
+            },
+            "Csapat": "KAZ\u00c1R\u00a0KSE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
+                "title": "2023.08.13. \r\nSomosk\u0151\u00fajfalu sportp\u00e1lya \r\nSOMOS VSE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2023.08.13.",
+                "hol": "Somosk\u0151\u00fajfalu sportp\u00e1lya",
+                "mi": "SOMOS VSE - KAZ\u00c1R KSE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268128",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268128.html",
+            "H.": "6",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
+                "title": ""
+            },
+            "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2023.08.13. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
+                "mikor": "2023.08.13.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - N\u00d3GR\u00c1DMEGYER BSE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268122",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268122.html",
+            "H.": "7",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
+                "title": ""
+            },
+            "Csapat": "SOMOS\u00a0VSE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2023.08.13. \r\nSomosk\u0151\u00fajfalu sportp\u00e1lya \r\nSOMOS VSE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2023.08.13.",
+                "hol": "Somosk\u0151\u00fajfalu sportp\u00e1lya",
+                "mi": "SOMOS VSE - KAZ\u00c1R KSE"
+            },
+            "Forma": []
+        },
+        {
+            "teamId": "268123",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268123.html",
+            "H.": "8",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": ""
+            },
+            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": "2023.08.12. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nECSEGI SE",
+                "mikor": "2023.08.12.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE - ECSEGI SE"
+            },
+            "Forma": []
+        }
+    ]
+}
