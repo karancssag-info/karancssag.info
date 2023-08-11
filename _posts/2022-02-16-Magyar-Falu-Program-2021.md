@@ -47,7 +47,7 @@ Gratulálunk a 2021-es pályázatokhoz!
 
 [Forrás][1]{:target="_blank"}
 
-_Az indexkép [John Guccione](https://www.pexels.com/hu-hu/@john-guccione-www-advergroup-com-1874301?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](@john-guccione-www-advergroup-com-1874301?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
+_Az indexkép [John Guccione](https://www.pexels.com/hu-hu/@john-guccione-www-advergroup-com-1874301?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](https://www.pexels.com/hu-hu/@john-guccione-www-advergroup-com-1874301?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
 
 
 [1]:https://kormany.hu/miniszterelnokseg/magyar-falu-program-2021
