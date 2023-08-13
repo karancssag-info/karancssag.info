@@ -14,9 +14,45 @@
     },
     "tabella": [
         {
+            "teamId": "268124",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268124.html",
+            "H.": "1",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": ""
+            },
+            "Csapat": "ECSEGI\u00a0SE",
+            "M.": "1",
+            "Gy.": "1",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "6",
+            "KG.": "2",
+            "GK.": "4",
+            "P.": "3",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2023.08.27. \r\nEcseg SE sportp\u00e1lya \r\nECSEGI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2023.08.27.",
+                "hol": "Ecseg SE sportp\u00e1lya",
+                "mi": "ECSEGI SE - FEL\u00c1LDOZHAT\u00d3K SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863078.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 6 ECSEGI SE",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "268125",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268125.html",
-            "H.": "1",
+            "H.": "2",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
                 "title": ""
@@ -38,34 +74,6 @@
                 "mikor": "2023.08.13.",
                 "hol": "Karancss\u00e1g sportp\u00e1lya",
                 "mi": "FEL\u00c1LDOZHAT\u00d3K SE - CEREDV\u00d6LGYE SE"
-            },
-            "Forma": []
-        },
-        {
-            "teamId": "268124",
-            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268124.html",
-            "H.": "2",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": ""
-            },
-            "Csapat": "ECSEGI\u00a0SE",
-            "M.": "0",
-            "Gy.": "0",
-            "D.": "0",
-            "V.": "0",
-            "LG.": "0",
-            "KG.": "0",
-            "GK.": "0",
-            "P.": "0",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2023.08.12. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nECSEGI SE",
-                "mikor": "2023.08.12.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - ECSEGI SE"
             },
             "Forma": []
         },
@@ -218,24 +226,32 @@
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "0",
+            "M.": "1",
             "Gy.": "0",
             "D.": "0",
-            "V.": "0",
-            "LG.": "0",
-            "KG.": "0",
-            "GK.": "0",
+            "V.": "1",
+            "LG.": "2",
+            "KG.": "6",
+            "GK.": "-4",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": "2023.08.12. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nECSEGI SE",
-                "mikor": "2023.08.12.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - ECSEGI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
+                "title": "2023.08.27. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2023.08.27.",
+                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
+                "mi": "SOMOS VSE - ZAGYVAR\u00d3NAI SE"
             },
-            "Forma": []
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863078.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 6 ECSEGI SE",
+                        "res": "V"
+                    }
+                }
+            ]
         }
     ]
 }
