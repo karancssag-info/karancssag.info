@@ -85,8 +85,15 @@ layout: default
     }
     wavesurfer.on('ready', function () {
       if (ps) {
-        wavesurfer.seekAndCenter(ps);
+        wavesurfer.seekAndCenter(ps/wavesurfer.getDuration());
+        ps = 0;
       }
+      window.addEventListener("hashchange", function(){
+        hash = getHashParams();
+        if (typeof hash.ps !== 'undefined') {
+          wavesurfer.seekAndCenter(hash.ps/wavesurfer.getDuration());
+        }
+      });
     });
   </script>
   <!--div class="row">
