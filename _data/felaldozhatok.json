@@ -14,9 +14,52 @@
     },
     "tabella": [
         {
+            "teamId": "268128",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268128.html",
+            "H.": "1",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
+                "title": ""
+            },
+            "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
+            "M.": "2",
+            "Gy.": "2",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "13",
+            "KG.": "3",
+            "GK.": "10",
+            "P.": "6",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2023.09.02. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nCEREDV\u00d6LGYE SE",
+                "mikor": "2023.09.02.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - CEREDV\u00d6LGYE SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863082.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 1 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863080.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 7 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "268122",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268122.html",
-            "H.": "1",
+            "H.": "2",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
                 "title": ""
@@ -44,42 +87,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1863079.html",
                     "result": {
                         "goals": "SOMOS VSE 8 - 0 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "268128",
-            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268128.html",
-            "H.": "2",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": ""
-            },
-            "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "1",
-            "Gy.": "1",
-            "D.": "0",
-            "V.": "0",
-            "LG.": "7",
-            "KG.": "2",
-            "GK.": "5",
-            "P.": "3",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": "2023.08.26. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2023.08.26.",
-                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - KAZ\u00c1R KSE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863080.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 7 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
                     }
                 }
@@ -274,24 +281,31 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "1",
+            "M.": "2",
             "Gy.": "0",
             "D.": "0",
-            "V.": "1",
-            "LG.": "0",
-            "KG.": "8",
-            "GK.": "-8",
+            "V.": "2",
+            "LG.": "1",
+            "KG.": "14",
+            "GK.": "-13",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2023.08.26. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2023.08.26.",
-                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - KAZ\u00c1R KSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2023.09.02. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2023.09.02.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863082.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 1 KAZ\u00c1R KSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1863079.html",
                     "result": {
