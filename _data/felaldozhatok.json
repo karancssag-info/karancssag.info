@@ -398,96 +398,39 @@
             ]
         },
         {
-            "teamId": "268123",
-            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268123.html",
-            "H.": "7",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": ""
-            },
-            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "5",
-            "Gy.": "0",
-            "D.": "0",
-            "V.": "5",
-            "LG.": "9",
-            "KG.": "30",
-            "GK.": "-21",
-            "P.": "0",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2023.09.23. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2023.09.23.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863097.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 1 - 0 ZAGYVAR\u00d3NAI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863091.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 4 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863087.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 3 - 6 KAZ\u00c1R KSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863083.html",
-                    "result": {
-                        "goals": "SOMOS VSE 13 - 2 ZAGYVAR\u00d3NAI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863078.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 6 ECSEGI SE",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "268127",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268127.html",
-            "H.": "8",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "5",
-            "Gy.": "0",
+            "M.": "6",
+            "Gy.": "1",
             "D.": "0",
             "V.": "5",
-            "LG.": "5",
-            "KG.": "32",
-            "GK.": "-27",
-            "P.": "0",
+            "LG.": "10",
+            "KG.": "34",
+            "GK.": "-24",
+            "P.": "3",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2023.09.23. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2023.09.23.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2023.10.01. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2023.10.01.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863100.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 5 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1863096.html",
                     "result": {
@@ -515,11 +458,68 @@
                         "goals": "CEREDV\u00d6LGYE SE 6 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "V"
                     }
+                }
+            ]
+        },
+        {
+            "teamId": "268123",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/14/268123.html",
+            "H.": "8",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": ""
+            },
+            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
+            "M.": "6",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "6",
+            "LG.": "11",
+            "KG.": "35",
+            "GK.": "-24",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": "2023.10.01. \r\nCeredv\u00f6lgye SE sportp\u00e1lya \r\nCEREDV\u00d6LGYE SE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2023.10.01.",
+                "hol": "Ceredv\u00f6lgye SE sportp\u00e1lya",
+                "mi": "CEREDV\u00d6LGYE SE - ZAGYVAR\u00d3NAI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863100.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 5 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1863080.html",
+                    "link": "https://adatbank.mlsz.hu/match/1863097.html",
                     "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 2 - 7 N\u00d3GR\u00c1DMEGYER BSE",
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 1 - 0 ZAGYVAR\u00d3NAI SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863091.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 4 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863087.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 3 - 6 KAZ\u00c1R KSE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863083.html",
+                    "result": {
+                        "goals": "SOMOS VSE 13 - 2 ZAGYVAR\u00d3NAI SE",
                         "res": "V"
                     }
                 }
