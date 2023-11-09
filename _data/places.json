@@ -313,89 +313,6 @@
             }
         },
         "name": "Karancss\u00e1g Z\u00f6lds\u00e9ges",
-        "opening_hours": {
-            "periods": [
-                {
-                    "close": {
-                        "day": 0,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 0,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 6,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 6,
-                        "time": "0800"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "h\u00e9tf\u0151: 7:00\u201315:00",
-                "kedd: 7:00\u201315:00",
-                "szerda: 7:00\u201315:00",
-                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201315:00",
-                "p\u00e9ntek: 7:00\u201315:00",
-                "szombat: 8:00\u201315:00",
-                "vas\u00e1rnap: 8:00\u201312:00"
-            ]
-        },
         "place_id": "ChIJdw2Bzn0RQEcRLfGC4Leg6E8",
         "url": "https://maps.google.com/?cid=5758028835199316269"
     },
@@ -656,12 +573,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.11783258029149,
-                    "lng": 19.6607940802915
+                    "lat": 48.11776493029151,
+                    "lng": 19.6607311302915
                 },
                 "southwest": {
-                    "lat": 48.11513461970849,
-                    "lng": 19.6580961197085
+                    "lat": 48.11506696970851,
+                    "lng": 19.6580331697085
                 }
             }
         },
@@ -771,89 +688,6 @@
             }
         },
         "name": "Nemzeti Doh\u00e1nybolt",
-        "opening_hours": {
-            "periods": [
-                {
-                    "close": {
-                        "day": 0,
-                        "time": "1000"
-                    },
-                    "open": {
-                        "day": 0,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 6,
-                        "time": "1400"
-                    },
-                    "open": {
-                        "day": 6,
-                        "time": "0700"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "h\u00e9tf\u0151: 7:00\u201317:00",
-                "kedd: 7:00\u201317:00",
-                "szerda: 7:00\u201317:00",
-                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201317:00",
-                "p\u00e9ntek: 7:00\u201317:00",
-                "szombat: 7:00\u201314:00",
-                "vas\u00e1rnap: 7:00\u201310:00"
-            ]
-        },
         "place_id": "ChIJCZ242o4RQEcRK-DCS5fLWoY",
         "url": "https://maps.google.com/?cid=9681274199657865259"
     },
@@ -972,89 +806,6 @@
             }
         },
         "name": "Zsuzsi ABC",
-        "opening_hours": {
-            "periods": [
-                {
-                    "close": {
-                        "day": 0,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 0,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 6,
-                        "time": "1800"
-                    },
-                    "open": {
-                        "day": 6,
-                        "time": "0630"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "h\u00e9tf\u0151: 6:30\u201318:00",
-                "kedd: 6:30\u201318:00",
-                "szerda: 6:30\u201318:00",
-                "cs\u00fct\u00f6rt\u00f6k: 6:30\u201318:00",
-                "p\u00e9ntek: 6:30\u201318:00",
-                "szombat: 6:30\u201318:00",
-                "vas\u00e1rnap: 6:30\u201315:00"
-            ]
-        },
         "place_id": "ChIJ0-AV-xsRQEcRpmaWbMcoDSk",
         "url": "https://maps.google.com/?cid=2958065367237682854"
     },
