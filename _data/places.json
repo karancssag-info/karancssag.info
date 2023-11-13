@@ -233,7 +233,7 @@
                 {
                     "close": {
                         "day": 1,
-                        "time": "1700"
+                        "time": "1800"
                     },
                     "open": {
                         "day": 1,
@@ -243,7 +243,7 @@
                 {
                     "close": {
                         "day": 2,
-                        "time": "1700"
+                        "time": "1800"
                     },
                     "open": {
                         "day": 2,
@@ -253,7 +253,7 @@
                 {
                     "close": {
                         "day": 3,
-                        "time": "1700"
+                        "time": "1800"
                     },
                     "open": {
                         "day": 3,
@@ -263,7 +263,7 @@
                 {
                     "close": {
                         "day": 4,
-                        "time": "1700"
+                        "time": "1800"
                     },
                     "open": {
                         "day": 4,
@@ -273,7 +273,7 @@
                 {
                     "close": {
                         "day": 5,
-                        "time": "1700"
+                        "time": "1800"
                     },
                     "open": {
                         "day": 5,
@@ -282,17 +282,18 @@
                 }
             ],
             "weekday_text": [
-                "h\u00e9tf\u0151: 7:00\u201317:00",
-                "kedd: 7:00\u201317:00",
-                "szerda: 7:00\u201317:00",
-                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201317:00",
-                "p\u00e9ntek: 7:00\u201317:00",
+                "h\u00e9tf\u0151: 7:00\u201318:00",
+                "kedd: 7:00\u201318:00",
+                "szerda: 7:00\u201318:00",
+                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201318:00",
+                "p\u00e9ntek: 7:00\u201318:00",
                 "szombat: Z\u00e1rva",
                 "vas\u00e1rnap: Z\u00e1rva"
             ]
         },
         "place_id": "ChIJY9e_dqURQEcRTvVT1YZhHsY",
-        "url": "https://maps.google.com/?cid=14275955100543612238"
+        "url": "https://maps.google.com/?cid=14275955100543612238",
+        "website": "https://www.sagsuli.hu/"
     },
     {
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 110</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
