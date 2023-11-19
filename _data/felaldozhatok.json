@@ -272,14 +272,14 @@
                 "title": ""
             },
             "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "12",
-            "Gy.": "4",
+            "M.": "13",
+            "Gy.": "5",
             "D.": "1",
             "V.": "7",
-            "LG.": "29",
+            "LG.": "31",
             "KG.": "38",
-            "GK.": "-9",
-            "P.": "13",
+            "GK.": "-7",
+            "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -290,6 +290,13 @@
                 "mi": "CEREDV\u00d6LGYE SE - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863223.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 0 - 2 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1863220.html",
                     "result": {
@@ -317,13 +324,6 @@
                         "goals": "CEREDV\u00d6LGYE SE 1 - 2 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863205.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 1 CEREDV\u00d6LGYE SE",
-                        "res": "D"
-                    }
                 }
             ]
         },
@@ -336,13 +336,13 @@
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "12",
+            "M.": "13",
             "Gy.": "2",
             "D.": "0",
-            "V.": "10",
+            "V.": "11",
             "LG.": "31",
-            "KG.": "54",
-            "GK.": "-23",
+            "KG.": "56",
+            "GK.": "-25",
             "P.": "6",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -354,6 +354,13 @@
                 "mi": "CEREDV\u00d6LGYE SE - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1863223.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 0 - 2 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1863219.html",
                     "result": {
@@ -379,13 +386,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1863206.html",
                     "result": {
                         "goals": "KAZ\u00c1R KSE 6 - 5 ZAGYVAR\u00d3NAI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863203.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 1 - 8 SOMOS VSE",
                         "res": "V"
                     }
                 }
