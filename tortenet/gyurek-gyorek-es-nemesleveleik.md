@@ -40,6 +40,6 @@ Az 1830-as években a Gyüre családnevet Cegléden, a korábban már honos Gyö
 
 ***
 
-_A cikket a szerző engedélyével jelentetjük meg_
+_A cikket a szerző engedélyével közöljük._
 
 [^1]: [Illésy-féle családtörténeti adatbázis](https://adatbazisokonline.mnl.gov.hu/adatbazis/a-131-illesy-fele-csaladtorteneti-adatbazis/adatlap/17965)
