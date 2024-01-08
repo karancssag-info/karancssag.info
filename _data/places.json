@@ -542,20 +542,20 @@
         "website": "http://www.posta.hu/"
     },
     {
-        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 120/A</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Pal\u00f3c \u00fat 39</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.1166563,
-                "lng": 19.6590288
+                "lat": 48.12111249999999,
+                "lng": 19.6547984
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.1179024802915,
-                    "lng": 19.6603399802915
+                    "lat": 48.12246148029148,
+                    "lng": 19.6561473802915
                 },
                 "southwest": {
-                    "lat": 48.1152045197085,
-                    "lng": 19.6576420197085
+                    "lat": 48.11976351970848,
+                    "lng": 19.6534494197085
                 }
             }
         },
