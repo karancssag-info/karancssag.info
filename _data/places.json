@@ -940,6 +940,89 @@
             }
         },
         "name": "Zsuzsi ABC",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0630"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 6:30\u201318:00",
+                "kedd: 6:30\u201318:00",
+                "szerda: 6:30\u201318:00",
+                "cs\u00fct\u00f6rt\u00f6k: 6:30\u201318:00",
+                "p\u00e9ntek: 6:30\u201318:00",
+                "szombat: 6:30\u201318:00",
+                "vas\u00e1rnap: 6:30\u201315:00"
+            ]
+        },
         "place_id": "ChIJ0-AV-xsRQEcRpmaWbMcoDSk",
         "url": "https://maps.google.com/?cid=2958065367237682854"
     },
