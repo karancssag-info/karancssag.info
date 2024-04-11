@@ -22,14 +22,14 @@
                 "title": ""
             },
             "Csapat": "SOMOS\u00a0VSE",
-            "M.": "18",
-            "Gy.": "18",
+            "M.": "19",
+            "Gy.": "19",
             "D.": "0",
             "V.": "0",
-            "LG.": "129",
+            "LG.": "132",
             "KG.": "20",
-            "GK.": "109",
-            "P.": "54",
+            "GK.": "112",
+            "P.": "57",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -40,6 +40,13 @@
                 "mi": "ECSEGI SE - SOMOS VSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937211.html",
+                    "result": {
+                        "goals": "SOMOS VSE 3 - 0 CEREDV\u00d6LGYE SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937204.html",
                     "result": {
@@ -65,13 +72,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937189.html",
                     "result": {
                         "goals": "KAZ\u00c1R KSE 1 - 5 SOMOS VSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863225.html",
-                    "result": {
-                        "goals": "SOMOS VSE 6 - 4 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
                     }
                 }
@@ -278,13 +278,13 @@
                 "title": ""
             },
             "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "18",
+            "M.": "19",
             "Gy.": "6",
             "D.": "1",
-            "V.": "11",
+            "V.": "12",
             "LG.": "34",
-            "KG.": "52",
-            "GK.": "-18",
+            "KG.": "55",
+            "GK.": "-21",
             "P.": "19",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -296,6 +296,13 @@
                 "mi": "CEREDV\u00d6LGYE SE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937211.html",
+                    "result": {
+                        "goals": "SOMOS VSE 3 - 0 CEREDV\u00d6LGYE SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937205.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "CEREDV\u00d6LGYE SE 0 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1863223.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 0 - 2 CEREDV\u00d6LGYE SE",
-                        "res": "GY"
                     }
                 }
             ]
