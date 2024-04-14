@@ -150,14 +150,14 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "19",
-            "Gy.": "13",
+            "M.": "20",
+            "Gy.": "14",
             "D.": "0",
             "V.": "6",
-            "LG.": "72",
-            "KG.": "36",
-            "GK.": "36",
-            "P.": "39",
+            "LG.": "75",
+            "KG.": "37",
+            "GK.": "38",
+            "P.": "42",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -168,6 +168,13 @@
                 "mi": "SOMOS VSE - N\u00d3GR\u00c1DMEGYER BSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937212.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937209.html",
                     "result": {
@@ -193,13 +200,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937194.html",
                     "result": {
                         "goals": "KAZ\u00c1R KSE 3 - 6 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937190.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "GY"
                     }
                 }
@@ -342,13 +342,13 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "19",
+            "M.": "20",
             "Gy.": "5",
             "D.": "1",
-            "V.": "13",
-            "LG.": "26",
-            "KG.": "99",
-            "GK.": "-73",
+            "V.": "14",
+            "LG.": "27",
+            "KG.": "102",
+            "GK.": "-75",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -360,6 +360,13 @@
                 "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937212.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937208.html",
                     "result": {
@@ -386,13 +393,6 @@
                     "result": {
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 4 ECSEGI SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937191.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
                     }
                 }
             ]
