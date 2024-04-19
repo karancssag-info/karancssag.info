@@ -22,14 +22,14 @@
                 "title": ""
             },
             "Csapat": "SOMOS\u00a0VSE",
-            "M.": "20",
-            "Gy.": "19",
+            "M.": "17",
+            "Gy.": "16",
             "D.": "0",
             "V.": "1",
-            "LG.": "134",
-            "KG.": "23",
-            "GK.": "111",
-            "P.": "57",
+            "LG.": "117",
+            "KG.": "22",
+            "GK.": "95",
+            "P.": "48",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -45,13 +45,6 @@
                     "result": {
                         "goals": "ECSEGI SE 3 - 2 SOMOS VSE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937211.html",
-                    "result": {
-                        "goals": "SOMOS VSE 3 - 0 CEREDV\u00d6LGYE SE",
-                        "res": "GY"
                     }
                 },
                 {
@@ -74,6 +67,13 @@
                         "goals": "ZAGYVAR\u00d3NAI SE 0 - 5 SOMOS VSE",
                         "res": "GY"
                     }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937189.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 1 - 5 SOMOS VSE",
+                        "res": "GY"
+                    }
                 }
             ]
         },
@@ -86,14 +86,14 @@
                 "title": ""
             },
             "Csapat": "ECSEGI\u00a0SE",
-            "M.": "20",
-            "Gy.": "17",
+            "M.": "17",
+            "Gy.": "14",
             "D.": "1",
             "V.": "2",
-            "LG.": "89",
-            "KG.": "30",
-            "GK.": "59",
-            "P.": "52",
+            "LG.": "75",
+            "KG.": "26",
+            "GK.": "49",
+            "P.": "43",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -119,13 +119,6 @@
                     }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1937205.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 3 ECSEGI SE",
-                        "res": "GY"
-                    }
-                },
-                {
                     "link": "https://adatbank.mlsz.hu/match/1937201.html",
                     "result": {
                         "goals": "ECSEGI SE 3 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
@@ -136,6 +129,13 @@
                     "link": "https://adatbank.mlsz.hu/match/1937196.html",
                     "result": {
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 4 ECSEGI SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937192.html",
+                    "result": {
+                        "goals": "ECSEGI SE 8 - 1 ZAGYVAR\u00d3NAI SE",
                         "res": "GY"
                     }
                 }
@@ -150,14 +150,14 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "20",
-            "Gy.": "14",
+            "M.": "17",
+            "Gy.": "11",
             "D.": "0",
             "V.": "6",
-            "LG.": "75",
-            "KG.": "37",
-            "GK.": "38",
-            "P.": "42",
+            "LG.": "68",
+            "KG.": "36",
+            "GK.": "32",
+            "P.": "33",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -190,16 +190,16 @@
                     }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1937199.html",
+                    "link": "https://adatbank.mlsz.hu/match/1937194.html",
                     "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 4 N\u00d3GR\u00c1DMEGYER BSE",
+                        "goals": "KAZ\u00c1R KSE 3 - 6 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
                     }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1937194.html",
+                    "link": "https://adatbank.mlsz.hu/match/1937190.html",
                     "result": {
-                        "goals": "KAZ\u00c1R KSE 3 - 6 N\u00d3GR\u00c1DMEGYER BSE",
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "GY"
                     }
                 }
@@ -214,14 +214,14 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "19",
-            "Gy.": "9",
+            "M.": "17",
+            "Gy.": "8",
             "D.": "2",
-            "V.": "8",
-            "LG.": "60",
-            "KG.": "65",
-            "GK.": "-5",
-            "P.": "29",
+            "V.": "7",
+            "LG.": "54",
+            "KG.": "57",
+            "GK.": "-3",
+            "P.": "26",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -270,86 +270,22 @@
             ]
         },
         {
-            "teamId": "268125",
-            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/28/268125.html",
-            "H.": "5",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
-                "title": ""
-            },
-            "Csapat": "CEREDV\u00d6LGYE\u00a0SE",
-            "M.": "19",
-            "Gy.": "6",
-            "D.": "1",
-            "V.": "12",
-            "LG.": "34",
-            "KG.": "55",
-            "GK.": "-21",
-            "P.": "19",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2024.04.20. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2024.04.20.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - CEREDV\u00d6LGYE SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937211.html",
-                    "result": {
-                        "goals": "SOMOS VSE 3 - 0 CEREDV\u00d6LGYE SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937205.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 3 ECSEGI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937199.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 4 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937197.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 5 - 1 CEREDV\u00d6LGYE SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937191.html",
-                    "result": {
-                        "goals": "CEREDV\u00d6LGYE SE 0 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "268126",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/28/268126.html",
-            "H.": "6",
+            "H.": "5",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "20",
-            "Gy.": "5",
+            "M.": "17",
+            "Gy.": "4",
             "D.": "1",
-            "V.": "14",
-            "LG.": "27",
-            "KG.": "102",
-            "GK.": "-75",
-            "P.": "16",
+            "V.": "12",
+            "LG.": "24",
+            "KG.": "94",
+            "GK.": "-70",
+            "P.": "13",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -400,20 +336,20 @@
         {
             "teamId": "268127",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/28/268127.html",
-            "H.": "7",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "20",
-            "Gy.": "4",
-            "D.": "1",
-            "V.": "15",
-            "LG.": "29",
-            "KG.": "89",
-            "GK.": "-60",
-            "P.": "13",
+            "M.": "17",
+            "Gy.": "3",
+            "D.": "0",
+            "V.": "14",
+            "LG.": "22",
+            "KG.": "81",
+            "GK.": "-59",
+            "P.": "9",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -453,10 +389,10 @@
                     }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1937197.html",
+                    "link": "https://adatbank.mlsz.hu/match/1937190.html",
                     "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 5 - 1 CEREDV\u00d6LGYE SE",
-                        "res": "GY"
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 6 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
                     }
                 }
             ]
@@ -464,28 +400,28 @@
         {
             "teamId": "268123",
             "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/28/268123.html",
-            "H.": "8",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "20",
+            "M.": "18",
             "Gy.": "2",
             "D.": "0",
-            "V.": "18",
-            "LG.": "39",
-            "KG.": "86",
-            "GK.": "-47",
+            "V.": "16",
+            "LG.": "38",
+            "KG.": "82",
+            "GK.": "-44",
             "P.": "6",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
-                "title": "2024.04.20. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nCEREDV\u00d6LGYE SE",
-                "mikor": "2024.04.20.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": "2024.04.27. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nECSEGI SE",
+                "mikor": "2024.04.27.",
                 "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - CEREDV\u00d6LGYE SE"
+                "mi": "ZAGYVAR\u00d3NAI SE - ECSEGI SE"
             },
             "Forma": [
                 {
@@ -524,6 +460,28 @@
                     }
                 }
             ]
+        },
+        {
+            "teamId": "268125",
+            "teamLink": "https://adatbank.mlsz.hu/club/61/13/27492/28/268125.html",
+            "H.": "8",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/6/5710.jpg",
+                "title": ""
+            },
+            "Csapat": "CEREDV\u00d6LGYE\u00a0SE\u00a0(Kiz\u00e1rva)",
+            "M.": "0",
+            "Gy.": "0",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "0",
+            "KG.": "0",
+            "GK.": "0",
+            "P.": "0",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": "",
+            "Forma": []
         }
     ]
 }
