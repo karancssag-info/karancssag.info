@@ -1,193 +1,193 @@
 {
-  "jeloltek": [
-    {
-      "name": "Polg\u00e1rmester-v\u00e1laszt\u00e1s",
-      "code": "1",
-      "result": [
+    "jeloltek": [
         {
-          "ej_id": 87375,
-          "valaltip": "1",
-          "kpn_id": 3786888,
-          "maz": "13",
-          "taz": "052",
-          "neve": "J\u00d3N\u00c1SN\u00c9 GYURCS\u00d3 M\u00c1RTA",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-20T00:00:00+02:00",
-          "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+            "name": "Polg\u00e1rmester-v\u00e1laszt\u00e1s",
+            "code": "1",
+            "result": [
+                {
+                    "ej_id": 87375,
+                    "valaltip": "1",
+                    "kpn_id": 3786888,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "J\u00d3N\u00c1SN\u00c9 GYURCS\u00d3 M\u00c1RTA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-20T00:00:00+02:00",
+                    "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 91491,
+                    "valaltip": "1",
+                    "kpn_id": 6209476,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "OL\u00c1H KATALIN",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-20T00:00:00+02:00",
+                    "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 100240,
+                    "valaltip": "1",
+                    "kpn_id": 7825674,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "OL\u00c1H N\u00c1NDORN\u00c9",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                }
+            ]
         },
         {
-          "ej_id": 91491,
-          "valaltip": "1",
-          "kpn_id": 6209476,
-          "maz": "13",
-          "taz": "052",
-          "neve": "OL\u00c1H KATALIN",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-20T00:00:00+02:00",
-          "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-        },
-        {
-          "ej_id": 100240,
-          "valaltip": "1",
-          "kpn_id": 7825674,
-          "maz": "13",
-          "taz": "052",
-          "neve": "OL\u00c1H N\u00c1NDORN\u00c9",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+            "name": "Egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+            "code": "3",
+            "result": [
+                {
+                    "ej_id": 100344,
+                    "valaltip": "3",
+                    "kpn_id": 1048051,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "BERKI ANDR\u00c1S",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 104350,
+                    "valaltip": "3",
+                    "kpn_id": 1363270,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "FARKAS M\u00c1RTA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 100532,
+                    "valaltip": "3",
+                    "kpn_id": 2237536,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "GY\u0150RI ORSOLYA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 100435,
+                    "valaltip": "3",
+                    "kpn_id": 4642587,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "R\u00c1CZN\u00c9 KUTKA ANNAM\u00c1RIA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 100099,
+                    "valaltip": "3",
+                    "kpn_id": 1062019,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "SZILV\u00c1SI ISTV\u00c1N",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 106044,
+                    "valaltip": "3",
+                    "kpn_id": 3707521,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "VID\u00c9KI ATTILA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-      "code": "3",
-      "result": [
-        {
-          "ej_id": 100344,
-          "valaltip": "3",
-          "kpn_id": 1048051,
-          "maz": "13",
-          "taz": "052",
-          "neve": "BERKI ANDR\u00c1S",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+    ],
+    "adatok": {
+        "letszam": {
+            "onkAtjelBelf": 1,
+            "onkLakcSzavkorSzavaz": 924,
+            "onkVpSzumma": 925,
+            "onkMagyarAllampolgMagyarCim": 920,
+            "onkMasEuAllampolg": 4,
+            "onkBevLetMen": 1,
+            "onkInduloVpSzumma": 931,
+            "onkInduloMagyarAllampolgMagyarCim": 926,
+            "onkInduloMasEuAllampolg": 4,
+            "onkInduloBevLetMen": 1,
+            "epVpSzumma": 920,
+            "epMagyarAllampolgMagyarCim": 919,
+            "epMasEuAllampolg": 1,
+            "epInduloMagyarAllampolgMagyarCim": 926,
+            "epInduloMasEuAllampolg": 1,
+            "epInduloVpSzumma": 927
         },
-        {
-          "ej_id": 104350,
-          "valaltip": "3",
-          "kpn_id": 1363270,
-          "maz": "13",
-          "taz": "052",
-          "neve": "FARKAS M\u00c1RTA",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-        },
-        {
-          "ej_id": 100532,
-          "valaltip": "3",
-          "kpn_id": 2237536,
-          "maz": "13",
-          "taz": "052",
-          "neve": "GY\u0150RI ORSOLYA",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-        },
-        {
-          "ej_id": 100435,
-          "valaltip": "3",
-          "kpn_id": 4642587,
-          "maz": "13",
-          "taz": "052",
-          "neve": "R\u00c1CZN\u00c9 KUTKA ANNAM\u00c1RIA",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-        },
-        {
-          "ej_id": 100099,
-          "valaltip": "3",
-          "kpn_id": 1062019,
-          "maz": "13",
-          "taz": "052",
-          "neve": "SZILV\u00c1SI ISTV\u00c1N",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-        },
-        {
-          "ej_id": 106044,
-          "valaltip": "3",
-          "kpn_id": 3707521,
-          "maz": "13",
-          "taz": "052",
-          "neve": "VID\u00c9KI ATTILA",
-          "jlcs_kod": 0,
-          "jelolo_szervezetek": [
-            0
-          ],
-          "jlcs_nev": "F\u00fcggetlen",
-          "allapot": "12",
-          "allapot_valt": "2024-04-22T00:00:00+02:00",
-          "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-          "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+        "mandatumok": {
+            "egyeniListas": 6,
+            "osszesen": 7
         }
-      ]
     }
-  ],
-  "adatok": {
-    "letszam": {
-      "onkAtjelBelf": 1,
-      "onkLakcSzavkorSzavaz": 924,
-      "onkVpSzumma": 925,
-      "onkMagyarAllampolgMagyarCim": 920,
-      "onkMasEuAllampolg": 4,
-      "onkBevLetMen": 1,
-      "onkInduloVpSzumma": 931,
-      "onkInduloMagyarAllampolgMagyarCim": 926,
-      "onkInduloMasEuAllampolg": 4,
-      "onkInduloBevLetMen": 1,
-      "epVpSzumma": 920,
-      "epMagyarAllampolgMagyarCim": 919,
-      "epMasEuAllampolg": 1,
-      "epInduloMagyarAllampolgMagyarCim": 926,
-      "epInduloMasEuAllampolg": 1,
-      "epInduloVpSzumma": 927
-    },
-    "mandatumok": {
-      "egyeniListas": 6,
-      "osszesen": 7
-    }
-  }
 }
