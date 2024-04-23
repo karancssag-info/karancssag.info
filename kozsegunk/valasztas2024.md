@@ -101,7 +101,7 @@ author: thgab
     </div>
 </div>
 _Az
-indexkép [Little Visuals](https://www.pexels.com/hu-hu/@element5/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)
+indexkép [Element 5](https://www.pexels.com/hu-hu/@element5/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)
 fotója
 a [Pexels](https://www.pexels.com/hu-hu/foto/1550337/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)
 oldaláról._
