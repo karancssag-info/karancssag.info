@@ -10,7 +10,9 @@ thumbnail: https://static.karancssag.info/images/og/ft.jpg
 + [Karancsság][1]
 + [Történelem][2]
 + [FELÁLDOZHATÓK SE][3]
++ [Helyi önkormányzati választások][4]
 
 [1]:/kozsegunk/karancssag
 [2]:/kozsegunk/tortenelem
 [3]:/kozsegunk/felaldozhatok-se
+[4]:/kozsegunk/valasztas2024
