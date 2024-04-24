@@ -113,6 +113,23 @@
                     "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                 },
                 {
+                    "ej_id": 115407,
+                    "valaltip": "3",
+                    "kpn_id": 6664520,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "KISS R\u00d3BERT",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-24T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
                     "ej_id": 100435,
                     "valaltip": "3",
                     "kpn_id": 4642587,
@@ -143,6 +160,23 @@
                     "jlcs_nev": "F\u00fcggetlen",
                     "allapot": "12",
                     "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
+                    "ej_id": 115450,
+                    "valaltip": "3",
+                    "kpn_id": 2644243,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "T\u00d3TH TIBOR",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-24T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
                     "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                 },
