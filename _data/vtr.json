@@ -79,6 +79,23 @@
                     "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                 },
                 {
+                    "ej_id": 120713,
+                    "valaltip": "3",
+                    "kpn_id": 5864661,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "CSONKA ZSOLTN\u00c9",
+                    "jlcs_kod": 2547,
+                    "jelolo_szervezetek": [
+                        1016
+                    ],
+                    "jlcs_nev": "RFDSZ",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-26T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
                     "ej_id": 104350,
                     "valaltip": "3",
                     "kpn_id": 1363270,
