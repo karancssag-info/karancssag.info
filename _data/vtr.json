@@ -244,6 +244,14 @@
     "nemzJeloltek": [
         {
             "nemzetiseg": "Roma",
+            "mandatum": {
+                "nemzkod": "7",
+                "induloVp": 172,
+                "vp": 177,
+                "mandatum": 5,
+                "kituzott": "I",
+                "megtarthato": "I"
+            },
             "result": [
                 {
                     "name": "Telep\u00fcl\u00e9si Roma nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
