@@ -243,120 +243,123 @@
     },
     "nemzJeloltek": [
         {
-            "8": {
-                "name": "Telep\u00fcl\u00e9si Roma nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                "code": "8",
-                "result": [
-                    {
-                        "ej_id": 107848,
-                        "valaltip": "8",
-                        "kpn_id": 7866949,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "BADA ALAD\u00c1R",
-                        "jlcs_kod": 2701,
-                        "jelolo_szervezetek": [
-                            1156
-                        ],
-                        "jlcs_nev": "CiK\u00f6Sz",
-                        "allapot": "5",
-                        "allapot_valt": "2024-04-26T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9ve (nem joger\u0151s)"
-                    },
-                    {
-                        "ej_id": 118225,
-                        "valaltip": "8",
-                        "kpn_id": 5056071,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "BERKI DEZS\u0150",
-                        "jlcs_kod": 2701,
-                        "jelolo_szervezetek": [
-                            1156
-                        ],
-                        "jlcs_nev": "CiK\u00f6Sz",
-                        "allapot": "12",
-                        "allapot_valt": "2024-04-25T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-                    },
-                    {
-                        "ej_id": 107753,
-                        "valaltip": "8",
-                        "kpn_id": 6045538,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "CSONKA G\u00c9ZA ATTILA",
-                        "jlcs_kod": 2701,
-                        "jelolo_szervezetek": [
-                            1156
-                        ],
-                        "jlcs_nev": "CiK\u00f6Sz",
-                        "allapot": "5",
-                        "allapot_valt": "2024-04-26T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9ve (nem joger\u0151s)"
-                    },
-                    {
-                        "ej_id": 121016,
-                        "valaltip": "8",
-                        "kpn_id": 5864661,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "CSONKA ZSOLTN\u00c9",
-                        "jlcs_kod": 2550,
-                        "jelolo_szervezetek": [
-                            1018
-                        ],
-                        "jlcs_nev": "Romaj\u00f3 Egyes\u00fclet",
-                        "allapot": "12",
-                        "allapot_valt": "2024-04-26T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-                    },
-                    {
-                        "ej_id": 118402,
-                        "valaltip": "8",
-                        "kpn_id": 9557392,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "SERES M\u00c1RK ANDR\u00c1S",
-                        "jlcs_kod": 2610,
-                        "jelolo_szervezetek": [
-                            1073
-                        ],
-                        "jlcs_nev": "PHRALIPE",
-                        "allapot": "12",
-                        "allapot_valt": "2024-04-25T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
-                    },
-                    {
-                        "ej_id": 107708,
-                        "valaltip": "8",
-                        "kpn_id": 1062019,
-                        "maz": "13",
-                        "taz": "052",
-                        "nemzkod": "7",
-                        "neve": "SZILV\u00c1SI ISTV\u00c1N",
-                        "jlcs_kod": 2701,
-                        "jelolo_szervezetek": [
-                            1156
-                        ],
-                        "jlcs_nev": "CiK\u00f6Sz",
-                        "allapot": "2",
-                        "allapot_valt": "2024-04-26T00:00:00+02:00",
-                        "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                        "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9tel visszautas\u00edtva (nem joger\u0151s)"
-                    }
-                ]
-            }
+            "nemzetiseg": "Roma",
+            "result": [
+                {
+                    "name": "Telep\u00fcl\u00e9si Roma nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                    "code": "8",
+                    "result": [
+                        {
+                            "ej_id": 107848,
+                            "valaltip": "8",
+                            "kpn_id": 7866949,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "BADA ALAD\u00c1R",
+                            "jlcs_kod": 2701,
+                            "jelolo_szervezetek": [
+                                1156
+                            ],
+                            "jlcs_nev": "CiK\u00f6Sz",
+                            "allapot": "5",
+                            "allapot_valt": "2024-04-26T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9ve (nem joger\u0151s)"
+                        },
+                        {
+                            "ej_id": 118225,
+                            "valaltip": "8",
+                            "kpn_id": 5056071,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "BERKI DEZS\u0150",
+                            "jlcs_kod": 2701,
+                            "jelolo_szervezetek": [
+                                1156
+                            ],
+                            "jlcs_nev": "CiK\u00f6Sz",
+                            "allapot": "12",
+                            "allapot_valt": "2024-04-25T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                        },
+                        {
+                            "ej_id": 107753,
+                            "valaltip": "8",
+                            "kpn_id": 6045538,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "CSONKA G\u00c9ZA ATTILA",
+                            "jlcs_kod": 2701,
+                            "jelolo_szervezetek": [
+                                1156
+                            ],
+                            "jlcs_nev": "CiK\u00f6Sz",
+                            "allapot": "5",
+                            "allapot_valt": "2024-04-26T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9ve (nem joger\u0151s)"
+                        },
+                        {
+                            "ej_id": 121016,
+                            "valaltip": "8",
+                            "kpn_id": 5864661,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "CSONKA ZSOLTN\u00c9",
+                            "jlcs_kod": 2550,
+                            "jelolo_szervezetek": [
+                                1018
+                            ],
+                            "jlcs_nev": "Romaj\u00f3 Egyes\u00fclet",
+                            "allapot": "12",
+                            "allapot_valt": "2024-04-26T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                        },
+                        {
+                            "ej_id": 118402,
+                            "valaltip": "8",
+                            "kpn_id": 9557392,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "SERES M\u00c1RK ANDR\u00c1S",
+                            "jlcs_kod": 2610,
+                            "jelolo_szervezetek": [
+                                1073
+                            ],
+                            "jlcs_nev": "PHRALIPE",
+                            "allapot": "12",
+                            "allapot_valt": "2024-04-25T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                        },
+                        {
+                            "ej_id": 107708,
+                            "valaltip": "8",
+                            "kpn_id": 1062019,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "SZILV\u00c1SI ISTV\u00c1N",
+                            "jlcs_kod": 2701,
+                            "jelolo_szervezetek": [
+                                1156
+                            ],
+                            "jlcs_nev": "CiK\u00f6Sz",
+                            "allapot": "2",
+                            "allapot_valt": "2024-04-26T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Nyilv\u00e1ntart\u00e1sba v\u00e9tel visszautas\u00edtva (nem joger\u0151s)"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "nemzAdatok": {
@@ -383,7 +386,6 @@
                     "vp": 2
                 }
             ]
-        },
-        "mandatumok": null
+        }
     }
 }
