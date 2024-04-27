@@ -376,6 +376,11 @@
             "nemzInduloVpSzumma": 175,
             "nemzLetszamok": [
                 {
+                    "nemzkod": "13",
+                    "induloVp": 2,
+                    "vp": 2
+                },
+                {
                     "nemzkod": "7",
                     "induloVp": 172,
                     "vp": 177,
@@ -387,11 +392,6 @@
                     "nemzkod": "11",
                     "induloVp": 1,
                     "vp": 1
-                },
-                {
-                    "nemzkod": "13",
-                    "induloVp": 2,
-                    "vp": 2
                 }
             ]
         }
