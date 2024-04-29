@@ -50,10 +50,10 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 }
             ]
         },
@@ -73,8 +73,25 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Bejelentve"
+                },
+                {
+                    "ej_id": 125970,
+                    "valaltip": "3",
+                    "kpn_id": 2845793,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "CSONKA MELINDA",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
                     "allapot": "12",
-                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
                     "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                 },
@@ -90,10 +107,10 @@
                         1016
                     ],
                     "jlcs_nev": "RFDSZ",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-26T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 },
                 {
                     "ej_id": 104350,
@@ -141,10 +158,10 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 },
                 {
                     "ej_id": 115407,
@@ -175,10 +192,10 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 },
                 {
                     "ej_id": 100099,
@@ -341,8 +358,26 @@
                                 1018
                             ],
                             "jlcs_nev": "Romaj\u00f3 Egyes\u00fclet",
+                            "allapot": "0",
+                            "allapot_valt": "2024-04-29T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Bejelentve"
+                        },
+                        {
+                            "ej_id": 125642,
+                            "valaltip": "8",
+                            "kpn_id": 9435360,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "HORV\u00c1TH KRIST\u00d3F \u00c1RON",
+                            "jlcs_kod": 2583,
+                            "jelolo_szervezetek": [
+                                1047
+                            ],
+                            "jlcs_nev": "ORCT",
                             "allapot": "12",
-                            "allapot_valt": "2024-04-26T00:00:00+02:00",
+                            "allapot_valt": "2024-04-29T00:00:00+02:00",
                             "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
                             "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                         },
