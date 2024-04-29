@@ -113,6 +113,23 @@
                     "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                 },
                 {
+                    "ej_id": 124714,
+                    "valaltip": "3",
+                    "kpn_id": 4353182,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "FEH\u00c9R L\u00c1SZL\u00d3",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "12",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                },
+                {
                     "ej_id": 100532,
                     "valaltip": "3",
                     "kpn_id": 2237536,
@@ -209,10 +226,10 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-22T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-04-29T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 }
             ]
         }
@@ -247,7 +264,7 @@
             "mandatum": {
                 "nemzkod": "7",
                 "induloVp": 172,
-                "vp": 177,
+                "vp": 178,
                 "mandatum": 5,
                 "kituzott": "I",
                 "megtarthato": "I"
@@ -330,6 +347,24 @@
                             "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
                         },
                         {
+                            "ej_id": 125138,
+                            "valaltip": "8",
+                            "kpn_id": 9323731,
+                            "maz": "13",
+                            "taz": "052",
+                            "nemzkod": "7",
+                            "neve": "HORV\u00c1THN\u00c9 OL\u00c1H \u00c1GNES",
+                            "jlcs_kod": 2550,
+                            "jelolo_szervezetek": [
+                                1018
+                            ],
+                            "jlcs_nev": "Romaj\u00f3 Egyes\u00fclet",
+                            "allapot": "12",
+                            "allapot_valt": "2024-04-29T00:00:00+02:00",
+                            "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
+                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                        },
+                        {
                             "ej_id": 118402,
                             "valaltip": "8",
                             "kpn_id": 9557392,
@@ -372,13 +407,13 @@
     ],
     "nemzAdatok": {
         "letszam": {
-            "nemzVpSzumma": 180,
+            "nemzVpSzumma": 181,
             "nemzInduloVpSzumma": 175,
             "nemzLetszamok": [
                 {
                     "nemzkod": "7",
                     "induloVp": 172,
-                    "vp": 177,
+                    "vp": 178,
                     "mandatum": 5,
                     "kituzott": "I",
                     "megtarthato": "I"
