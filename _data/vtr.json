@@ -322,10 +322,10 @@
                                 1156
                             ],
                             "jlcs_nev": "CiK\u00f6Sz",
-                            "allapot": "12",
-                            "allapot_valt": "2024-04-25T00:00:00+02:00",
+                            "allapot": "0",
+                            "allapot_valt": "2024-04-30T00:00:00+02:00",
                             "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                            "allapot_parsed": "Bejelentve"
                         },
                         {
                             "ej_id": 129537,
@@ -466,10 +466,10 @@
                                 1156
                             ],
                             "jlcs_nev": "CiK\u00f6Sz",
-                            "allapot": "12",
-                            "allapot_valt": "2024-04-29T00:00:00+02:00",
+                            "allapot": "23",
+                            "allapot_valt": "2024-04-30T00:00:00+02:00",
                             "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                            "allapot_parsed": "Ism\u00e9telten bejelentve"
                         }
                     ]
                 }
@@ -482,6 +482,11 @@
             "nemzInduloVpSzumma": 175,
             "nemzLetszamok": [
                 {
+                    "nemzkod": "13",
+                    "induloVp": 2,
+                    "vp": 2
+                },
+                {
                     "nemzkod": "7",
                     "induloVp": 172,
                     "vp": 179,
@@ -493,11 +498,6 @@
                     "nemzkod": "11",
                     "induloVp": 1,
                     "vp": 1
-                },
-                {
-                    "nemzkod": "13",
-                    "induloVp": 2,
-                    "vp": 2
                 }
             ]
         }
