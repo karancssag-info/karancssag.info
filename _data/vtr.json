@@ -271,17 +271,17 @@
     "adatok": {
         "letszam": {
             "onkAtjelBelf": 1,
-            "onkLakcSzavkorSzavaz": 922,
-            "onkVpSzumma": 923,
-            "onkMagyarAllampolgMagyarCim": 918,
+            "onkLakcSzavkorSzavaz": 921,
+            "onkVpSzumma": 922,
+            "onkMagyarAllampolgMagyarCim": 917,
             "onkMasEuAllampolg": 4,
             "onkBevLetMen": 1,
             "onkInduloVpSzumma": 931,
             "onkInduloMagyarAllampolgMagyarCim": 926,
             "onkInduloMasEuAllampolg": 4,
             "onkInduloBevLetMen": 1,
-            "epVpSzumma": 918,
-            "epMagyarAllampolgMagyarCim": 917,
+            "epVpSzumma": 917,
+            "epMagyarAllampolgMagyarCim": 916,
             "epMasEuAllampolg": 1,
             "epInduloMagyarAllampolgMagyarCim": 926,
             "epInduloMasEuAllampolg": 1,
@@ -553,6 +553,11 @@
             "nemzInduloVpSzumma": 175,
             "nemzLetszamok": [
                 {
+                    "nemzkod": "13",
+                    "induloVp": 2,
+                    "vp": 2
+                },
+                {
                     "nemzkod": "7",
                     "induloVp": 172,
                     "vp": 205,
@@ -564,11 +569,6 @@
                     "nemzkod": "11",
                     "induloVp": 1,
                     "vp": 1
-                },
-                {
-                    "nemzkod": "13",
-                    "induloVp": 2,
-                    "vp": 2
                 }
             ]
         }
