@@ -16,10 +16,10 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-04-20T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-05-03T00:00:00+02:00",
                     "valaltip_parsed": "polg\u00e1rmester-v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
                 },
                 {
                     "ej_id": 91491,
@@ -90,10 +90,27 @@
                         0
                     ],
                     "jlcs_nev": "F\u00fcggetlen",
-                    "allapot": "12",
-                    "allapot_valt": "2024-05-02T00:00:00+02:00",
+                    "allapot": "0",
+                    "allapot_valt": "2024-05-03T00:00:00+02:00",
                     "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
-                    "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                    "allapot_parsed": "Bejelentve"
+                },
+                {
+                    "ej_id": 134734,
+                    "valaltip": "3",
+                    "kpn_id": 7899163,
+                    "maz": "13",
+                    "taz": "052",
+                    "neve": "BERKI R\u00d3ME\u00d3",
+                    "jlcs_kod": 0,
+                    "jelolo_szervezetek": [
+                        0
+                    ],
+                    "jlcs_nev": "F\u00fcggetlen",
+                    "allapot": "0",
+                    "allapot_valt": "2024-05-03T00:00:00+02:00",
+                    "valaltip_parsed": "egy\u00e9ni list\u00e1s v\u00e1laszt\u00e1s",
+                    "allapot_parsed": "Bejelentve"
                 },
                 {
                     "ej_id": 125970,
@@ -357,10 +374,10 @@
                                 1018
                             ],
                             "jlcs_nev": "Romaj\u00f3 Egyes\u00fclet",
-                            "allapot": "12",
-                            "allapot_valt": "2024-05-02T00:00:00+02:00",
+                            "allapot": "0",
+                            "allapot_valt": "2024-05-03T00:00:00+02:00",
                             "valaltip_parsed": "telep\u00fcl\u00e9si nemzetis\u00e9gi \u00f6nkorm\u00e1nyzati k\u00e9pvisel\u0151 v\u00e1laszt\u00e1sa",
-                            "allapot_parsed": "Aj\u00e1nl\u00f3\u00edveket \u00e1tvette"
+                            "allapot_parsed": "Bejelentve"
                         },
                         {
                             "ej_id": 133068,
