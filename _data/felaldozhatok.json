@@ -33,11 +33,11 @@
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2024.05.05. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nZAGYVAR\u00d3NAI SE",
-                "mikor": "2024.05.05.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - ZAGYVAR\u00d3NAI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2024.05.12. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nSOMOS VSE",
+                "mikor": "2024.05.12.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - SOMOS VSE"
             },
             "Forma": [
                 {
@@ -86,24 +86,31 @@
                 "title": ""
             },
             "Csapat": "ECSEGI\u00a0SE",
-            "M.": "19",
+            "M.": "20",
             "Gy.": "16",
-            "D.": "1",
+            "D.": "2",
             "V.": "2",
             "LG.": "85",
             "KG.": "27",
             "GK.": "58",
-            "P.": "49",
+            "P.": "50",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2024.05.05. \r\nEcseg SE sportp\u00e1lya \r\nECSEGI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.05.05.",
-                "hol": "Ecseg SE sportp\u00e1lya",
-                "mi": "ECSEGI SE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2024.05.12. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nECSEGI SE",
+                "mikor": "2024.05.12.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - ECSEGI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937225.html",
+                    "result": {
+                        "goals": "ECSEGI SE  -  FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937220.html",
                     "result": {
@@ -129,13 +136,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937209.html",
                     "result": {
                         "goals": "ECSEGI SE 2 - 1 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937201.html",
-                    "result": {
-                        "goals": "ECSEGI SE 3 - 2 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "GY"
                     }
                 }
@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "18",
+            "M.": "19",
             "Gy.": "5",
-            "D.": "1",
+            "D.": "2",
             "V.": "12",
             "LG.": "28",
             "KG.": "97",
             "GK.": "-69",
-            "P.": "16",
+            "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": "2024.05.05. \r\nEcseg SE sportp\u00e1lya \r\nECSEGI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.05.05.",
-                "hol": "Ecseg SE sportp\u00e1lya",
-                "mi": "ECSEGI SE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
+                "title": "2024.05.12. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nSOMOS VSE",
+                "mikor": "2024.05.12.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - SOMOS VSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937225.html",
+                    "result": {
+                        "goals": "ECSEGI SE  -  FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937218.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 3 KAZ\u00c1R KSE",
                         "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937200.html",
-                    "result": {
-                        "goals": "SOMOS VSE 12 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -417,11 +417,11 @@
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
-                "title": "2024.05.05. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nZAGYVAR\u00d3NAI SE",
-                "mikor": "2024.05.05.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - ZAGYVAR\u00d3NAI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2024.05.11. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2024.05.11.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE - KAZ\u00c1R KSE"
             },
             "Forma": [
                 {
