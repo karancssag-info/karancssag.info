@@ -22,14 +22,14 @@
                 "title": ""
             },
             "Csapat": "SOMOS\u00a0VSE",
-            "M.": "19",
-            "Gy.": "18",
+            "M.": "20",
+            "Gy.": "19",
             "D.": "0",
             "V.": "1",
-            "LG.": "133",
-            "KG.": "28",
-            "GK.": "105",
-            "P.": "54",
+            "LG.": "138",
+            "KG.": "29",
+            "GK.": "109",
+            "P.": "57",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -40,6 +40,13 @@
                 "mi": "FEL\u00c1LDOZHAT\u00d3K SE - SOMOS VSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937227.html",
+                    "result": {
+                        "goals": "SOMOS VSE 5 - 1 ZAGYVAR\u00d3NAI SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937223.html",
                     "result": {
@@ -67,13 +74,6 @@
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 3 SOMOS VSE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937200.html",
-                    "result": {
-                        "goals": "SOMOS VSE 12 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
-                    }
                 }
             ]
         },
@@ -87,13 +87,13 @@
             },
             "Csapat": "ECSEGI\u00a0SE",
             "M.": "20",
-            "Gy.": "16",
-            "D.": "2",
+            "Gy.": "17",
+            "D.": "1",
             "V.": "2",
-            "LG.": "85",
-            "KG.": "27",
-            "GK.": "58",
-            "P.": "50",
+            "LG.": "96",
+            "KG.": "28",
+            "GK.": "68",
+            "P.": "52",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -107,8 +107,8 @@
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937225.html",
                     "result": {
-                        "goals": "ECSEGI SE  -  FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
+                        "goals": "ECSEGI SE 11 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
                     }
                 },
                 {
@@ -280,12 +280,12 @@
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
             "M.": "19",
             "Gy.": "5",
-            "D.": "2",
-            "V.": "12",
-            "LG.": "28",
-            "KG.": "97",
-            "GK.": "-69",
-            "P.": "17",
+            "D.": "1",
+            "V.": "13",
+            "LG.": "29",
+            "KG.": "108",
+            "GK.": "-79",
+            "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
@@ -299,8 +299,8 @@
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937225.html",
                     "result": {
-                        "goals": "ECSEGI SE  -  FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "D"
+                        "goals": "ECSEGI SE 11 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
                     }
                 },
                 {
@@ -406,13 +406,13 @@
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "19",
+            "M.": "20",
             "Gy.": "2",
             "D.": "0",
-            "V.": "17",
-            "LG.": "38",
-            "KG.": "87",
-            "GK.": "-49",
+            "V.": "18",
+            "LG.": "39",
+            "KG.": "92",
+            "GK.": "-53",
             "P.": "6",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -424,6 +424,13 @@
                 "mi": "ZAGYVAR\u00d3NAI SE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937227.html",
+                    "result": {
+                        "goals": "SOMOS VSE 5 - 1 ZAGYVAR\u00d3NAI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937220.html",
                     "result": {
@@ -449,13 +456,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937202.html",
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 5 - 1 ZAGYVAR\u00d3NAI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937198.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 1 ZAGYVAR\u00d3NAI SE",
                         "res": "V"
                     }
                 }
