@@ -1,5 +1,8 @@
 {
     "order": [
+        "24625",
+        "23469",
+        "22969",
         "22511",
         "21899",
         "21682",
@@ -32,6 +35,1005 @@
         "10779"
     ],
     "request": {
+        "24625": {
+            "info_request": {
+                "id": 24625,
+                "url_title": "karancssag_kozseg_onkormanyzata_27",
+                "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                "created_at": "2024-04-02T10:46:24.238+02:00",
+                "updated_at": "2024-04-29T16:17:50.852+02:00",
+                "described_state": "partially_successful",
+                "display_status": "Besorol\u00e1sra v\u00e1r",
+                "awaiting_description": true,
+                "prominence": "normal",
+                "law_used": "foi",
+                "tags": []
+            },
+            "public_body": {
+                "id": 15669,
+                "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                "short_name": null,
+                "created_at": "2012-05-31T21:43:20.065+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
+                "home_page": "http://www.karancssag.hu/",
+                "notes": "",
+                "publication_scheme": "",
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
+                "info": {
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
+                    "requests_not_held_count": 0,
+                    "requests_overdue_count": 5,
+                    "requests_visible_classified_count": 15
+                }
+            },
+            "user": {
+                "id": 2848,
+                "url_name": "toth_gabor_3",
+                "name": "T\u00f3th G\u00e1bor",
+                "ban_text": "",
+                "about_me": "https://karancssag.info/"
+            },
+            "events": {
+                "137795": {
+                    "id": 137795,
+                    "event_type": "sent",
+                    "created_at": "2024-04-02T10:46:24.435+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2024-04-02T10:46:24.619+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 34754,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "139626": {
+                    "id": 139626,
+                    "event_type": "response",
+                    "created_at": "2024-04-16T15:47:08.471+02:00",
+                    "described_state": null,
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2024-04-16T16:04:04.829+02:00",
+                    "incoming_message_id": 34923,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "V\u00e1laszra v\u00e1r",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n \nAz \u00d6n \u00e1ltal k\u00e9rt jegyz\u0151k\u00f6nyvek felt\u00f6lt\u00e9sre ker\u00fcltek. \n\nTisztelettel: \n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "139628": {
+                    "id": 139628,
+                    "event_type": "followup_sent",
+                    "created_at": "2024-04-16T16:08:00.067+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 34947,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata! \r\n\nPontosan hov\u00e1 ker\u00fcltek felt\u00f6lt\u00e9sre a jegyz\u0151k\u00f6nyvek?\r\nA https://karancssag.asp.lgov.hu/kepviselotestuleti-j...",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "139712": {
+                    "id": 139712,
+                    "event_type": "response",
+                    "created_at": "2024-04-17T10:41:07.691+02:00",
+                    "described_state": null,
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2024-04-29T09:00:08.605+02:00",
+                    "incoming_message_id": 34936,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "R\u00e9szben teljes\u00edtette",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor! \n\nA jegyz\u0151k\u00f6nyvek felt\u00f6lt\u00e9se helyre lett \u00e1ll\u00edtva, m\u00e1r az eml\u00edtett oldalon is l\u00e1that\u00f3. \n\nTisztelttel: \n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1ny...",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "141024": {
+                    "id": 141024,
+                    "event_type": "followup_sent",
+                    "created_at": "2024-04-29T09:08:12.737+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 35054,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata! \r\n\nK\u00f6sz\u00f6n\u00f6m a v\u00e1laszt!\r\nAbban k\u00e9rem m\u00e9g a seg\u00edts\u00e9get, hogy a 2024/4-es jegyz\u0151k\u00f6nyv, \u00e9s a 2023/4-es jegyz\u0151k\u00f6ny...",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "141059": {
+                    "id": 141059,
+                    "event_type": "response",
+                    "created_at": "2024-04-29T16:17:50.845+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": 35068,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "V\u00e1lasz",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor! \n\nAz eml\u00edtett jegyz\u0151k\u00f6nyvek felt\u00f6lt\u00e9sre ker\u00fcltek. \n\nTisztelettel: \n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+                    "info_request": {
+                        "id": 24625,
+                        "url_title": "karancssag_kozseg_onkormanyzata_27",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. december 15-t\u0151l",
+                        "created_at": "2024-04-02T10:46:24.238+02:00",
+                        "updated_at": "2024-04-29T16:17:50.852+02:00",
+                        "described_state": "partially_successful",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                }
+            }
+        },
+        "23469": {
+            "info_request": {
+                "id": 23469,
+                "url_title": "karancssag_kozseg_onkormanyzata_26",
+                "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. augusztus 9-t\u0151l",
+                "created_at": "2023-11-14T10:08:31.466+01:00",
+                "updated_at": "2023-12-05T08:25:07.859+01:00",
+                "described_state": "successful",
+                "display_status": "Sikeres",
+                "awaiting_description": false,
+                "prominence": "normal",
+                "law_used": "foi",
+                "tags": []
+            },
+            "public_body": {
+                "id": 15669,
+                "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                "short_name": null,
+                "created_at": "2012-05-31T21:43:20.065+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
+                "home_page": "http://www.karancssag.hu/",
+                "notes": "",
+                "publication_scheme": "",
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
+                "info": {
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
+                    "requests_not_held_count": 0,
+                    "requests_overdue_count": 5,
+                    "requests_visible_classified_count": 15
+                }
+            },
+            "user": {
+                "id": 2848,
+                "url_name": "toth_gabor_3",
+                "name": "T\u00f3th G\u00e1bor",
+                "ban_text": "",
+                "about_me": "https://karancssag.info/"
+            },
+            "events": {
+                "121945": {
+                    "id": 121945,
+                    "event_type": "sent",
+                    "created_at": "2023-11-14T10:08:31.586+01:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2023-11-14T10:08:31.725+01:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 32878,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "info_request": {
+                        "id": 23469,
+                        "url_title": "karancssag_kozseg_onkormanyzata_26",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. augusztus 9-t\u0151l",
+                        "created_at": "2023-11-14T10:08:31.466+01:00",
+                        "updated_at": "2023-12-05T08:25:07.859+01:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "122295": {
+                    "id": 122295,
+                    "event_type": "response",
+                    "created_at": "2023-11-16T15:38:24.807+01:00",
+                    "described_state": null,
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2023-11-22T15:41:20.797+01:00",
+                    "incoming_message_id": 33153,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "R\u00e9szben teljes\u00edtette",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nAz elmarad\u00e1st p\u00f3toltuk, a november 7-i \u00fcl\u00e9s jegyz\u0151k\u00f6nyve is hamarosan \nfelt\u00f6lt\u00e9sre ker\u00fcl.\n\nTisztelettel:\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkor...",
+                    "info_request": {
+                        "id": 23469,
+                        "url_title": "karancssag_kozseg_onkormanyzata_26",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. augusztus 9-t\u0151l",
+                        "created_at": "2023-11-14T10:08:31.466+01:00",
+                        "updated_at": "2023-12-05T08:25:07.859+01:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "122886": {
+                    "id": 122886,
+                    "event_type": "followup_sent",
+                    "created_at": "2023-11-22T15:42:46.442+01:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 33027,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m! V\u00e1rom a novemberi 7-i jegyz\u0151k\u00f6nyv felt\u00f6lt\u00e9st is.\r\n\n\u00dcdv\u00f6zlettel: \r\nT\u00f3th G\u00e1bor",
+                    "info_request": {
+                        "id": 23469,
+                        "url_title": "karancssag_kozseg_onkormanyzata_26",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. augusztus 9-t\u0151l",
+                        "created_at": "2023-11-14T10:08:31.466+01:00",
+                        "updated_at": "2023-12-05T08:25:07.859+01:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "123914": {
+                    "id": 123914,
+                    "event_type": "response",
+                    "created_at": "2023-12-01T11:28:49.828+01:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2023-12-05T08:25:07.943+01:00",
+                    "incoming_message_id": 33300,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztel T\u00f3th G\u00e1bor! \n\nA Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151- test\u00fclet\u00e9nek 2023. november 7-i jegyz\u0151k\u00f6nyve felt\u00f6lt\u00e9sre ker\u00fclt a telep\u00fcl\u00e9sport\u00e1lra....",
+                    "info_request": {
+                        "id": 23469,
+                        "url_title": "karancssag_kozseg_onkormanyzata_26",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. augusztus 9-t\u0151l",
+                        "created_at": "2023-11-14T10:08:31.466+01:00",
+                        "updated_at": "2023-12-05T08:25:07.859+01:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                }
+            }
+        },
+        "22969": {
+            "info_request": {
+                "id": 22969,
+                "url_title": "karancssag_kozseg_onkormanyzata_25",
+                "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                "created_at": "2023-08-11T09:05:39.783+02:00",
+                "updated_at": "2023-09-05T14:23:08.316+02:00",
+                "described_state": "successful",
+                "display_status": "Sikeres",
+                "awaiting_description": false,
+                "prominence": "normal",
+                "law_used": "foi",
+                "tags": []
+            },
+            "public_body": {
+                "id": 15669,
+                "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                "short_name": null,
+                "created_at": "2012-05-31T21:43:20.065+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
+                "home_page": "http://www.karancssag.hu/",
+                "notes": "",
+                "publication_scheme": "",
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
+                "info": {
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
+                    "requests_not_held_count": 0,
+                    "requests_overdue_count": 5,
+                    "requests_visible_classified_count": 15
+                }
+            },
+            "user": {
+                "id": 2848,
+                "url_name": "toth_gabor_3",
+                "name": "T\u00f3th G\u00e1bor",
+                "ban_text": "",
+                "about_me": "https://karancssag.info/"
+            },
+            "events": {
+                "112900": {
+                    "id": 112900,
+                    "event_type": "sent",
+                    "created_at": "2023-08-11T09:05:39.970+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2023-08-11T09:05:40.115+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 32022,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal! \r\n\nAz inform\u00e1ci\u00f3s \u00f6nrendelkez\u00e9si jogr\u00f3l \u00e9s az inform\u00e1ci\u00f3szabads\u00e1gr\u00f3l sz\u00f3l\u00f3 2011. \u00e9vi CXI...",
+                    "info_request": {
+                        "id": 22969,
+                        "url_title": "karancssag_kozseg_onkormanyzata_25",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                        "created_at": "2023-08-11T09:05:39.783+02:00",
+                        "updated_at": "2023-09-05T14:23:08.316+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "113290": {
+                    "id": 113290,
+                    "event_type": "response",
+                    "created_at": "2023-08-16T14:31:52.709+02:00",
+                    "described_state": null,
+                    "calculated_state": "waiting_clarification",
+                    "last_described_at": "2023-08-21T10:07:21.172+02:00",
+                    "incoming_message_id": 32422,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1sra v\u00e1r.",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat K\u00e9pvisel\u0151-test\u00fclet\u00e9nek \nk\u00e9pvisel\u0151-test\u00fcleti \u00fcl\u00e9s jegyz\u0151k\u00f6nyvei 2023. \u00e1prilis 18-t\u00f3l 2023. \nauguszt...",
+                    "info_request": {
+                        "id": 22969,
+                        "url_title": "karancssag_kozseg_onkormanyzata_25",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                        "created_at": "2023-08-11T09:05:39.783+02:00",
+                        "updated_at": "2023-09-05T14:23:08.316+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "113639": {
+                    "id": 113639,
+                    "event_type": "followup_sent",
+                    "created_at": "2023-08-21T10:20:53.659+02:00",
+                    "described_state": "waiting_response",
+                    "calculated_state": "waiting_response",
+                    "last_described_at": "2023-08-21T10:20:53.783+02:00",
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 32089,
+                    "comment_id": null,
+                    "display_status": "Pontos\u00edt\u00e1s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m a v\u00e1laszt!\r\nAz utols\u00f3 (12.), 2023. j\u00fanius 23. d\u00e1tum\u00fa, felt\u00f6lt\u00f6tt jegyz\u0151k\u00f6nyv. 2023. j\u00fanius 23. \u00e9s...",
+                    "info_request": {
+                        "id": 22969,
+                        "url_title": "karancssag_kozseg_onkormanyzata_25",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                        "created_at": "2023-08-11T09:05:39.783+02:00",
+                        "updated_at": "2023-09-05T14:23:08.316+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "114781": {
+                    "id": 114781,
+                    "event_type": "response",
+                    "created_at": "2023-09-05T14:14:33.119+02:00",
+                    "described_state": null,
+                    "calculated_state": "successful",
+                    "last_described_at": "2023-09-05T14:23:08.438+02:00",
+                    "incoming_message_id": 32542,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "Sikeres",
+                    "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nAz augusztus 8-i test\u00fcleti \u00fcl\u00e9s jegyz\u0151k\u00f6nyve a telep\u00fcl\u00e9si port\u00e1lra \nfelt\u00f6lt\u00e9sre ker\u00fclt.\n\nTisztelettel:\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1...",
+                    "info_request": {
+                        "id": 22969,
+                        "url_title": "karancssag_kozseg_onkormanyzata_25",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                        "created_at": "2023-08-11T09:05:39.783+02:00",
+                        "updated_at": "2023-09-05T14:23:08.316+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "114783": {
+                    "id": 114783,
+                    "event_type": "followup_sent",
+                    "created_at": "2023-09-05T14:23:39.597+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": null,
+                    "outgoing_message_id": 32180,
+                    "comment_id": null,
+                    "display_status": "K\u00f6vet\u00e9s",
+                    "snippet": "Tisztelt K\u00f6zs\u00e9gi \u00d6nkorm\u00e1nyzat Karancss\u00e1g! \r\n\nK\u00f6sz\u00f6n\u00f6m az inform\u00e1ci\u00f3t!\r\n\n\u00dcdv\u00f6zlettel: \r\n\nT\u00f3th G\u00e1bor",
+                    "info_request": {
+                        "id": 22969,
+                        "url_title": "karancssag_kozseg_onkormanyzata_25",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2023. \u00e1prilis 18-t\u00f3l",
+                        "created_at": "2023-08-11T09:05:39.783+02:00",
+                        "updated_at": "2023-09-05T14:23:08.316+02:00",
+                        "described_state": "successful",
+                        "display_status": "Sikeres",
+                        "awaiting_description": false,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 15
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                }
+            }
+        },
         "22511": {
             "info_request": {
                 "id": 22511,
@@ -52,17 +1054,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -104,17 +1111,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -156,17 +1168,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -208,17 +1225,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -260,17 +1282,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -312,17 +1339,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -355,17 +1387,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -407,17 +1444,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -450,17 +1492,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -502,17 +1549,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -554,17 +1606,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -606,17 +1663,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -649,17 +1711,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -701,17 +1768,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -753,17 +1825,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -805,17 +1882,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -848,17 +1930,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -900,17 +1987,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -952,17 +2044,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1004,17 +2101,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1047,17 +2149,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -1099,17 +2206,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1151,17 +2263,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1203,17 +2320,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1246,17 +2368,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -1298,17 +2425,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1350,17 +2482,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1402,17 +2539,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -1721,7 +2863,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -1732,11 +2874,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -1778,7 +2920,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -1789,11 +2931,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -1835,7 +2977,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -1846,11 +2988,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -1892,7 +3034,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -1903,11 +3045,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -1940,7 +3082,7 @@
                 "name": "VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.",
                 "short_name": "VOL\u00c1NBUSZ",
                 "created_at": "2012-10-23T22:04:09.521+02:00",
-                "updated_at": "2023-03-03T04:56:05.324+01:00",
+                "updated_at": "2024-05-08T04:56:16.954+02:00",
                 "home_page": "http://www.volanbusz.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -1951,11 +3093,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 47,
-                    "requests_successful_count": 34,
-                    "requests_not_held_count": 2,
+                    "requests_count": 70,
+                    "requests_successful_count": 58,
+                    "requests_not_held_count": 3,
                     "requests_overdue_count": 4,
-                    "requests_visible_classified_count": 44
+                    "requests_visible_classified_count": 69
                 }
             },
             "user": {
@@ -1997,7 +3139,7 @@
                         "name": "VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.",
                         "short_name": "VOL\u00c1NBUSZ",
                         "created_at": "2012-10-23T22:04:09.521+02:00",
-                        "updated_at": "2023-03-03T04:56:05.324+01:00",
+                        "updated_at": "2024-05-08T04:56:16.954+02:00",
                         "home_page": "http://www.volanbusz.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2008,11 +3150,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 47,
-                            "requests_successful_count": 34,
-                            "requests_not_held_count": 2,
+                            "requests_count": 70,
+                            "requests_successful_count": 58,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 44
+                            "requests_visible_classified_count": 69
                         }
                     },
                     "user": {
@@ -2054,7 +3196,7 @@
                         "name": "VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.",
                         "short_name": "VOL\u00c1NBUSZ",
                         "created_at": "2012-10-23T22:04:09.521+02:00",
-                        "updated_at": "2023-03-03T04:56:05.324+01:00",
+                        "updated_at": "2024-05-08T04:56:16.954+02:00",
                         "home_page": "http://www.volanbusz.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2065,11 +3207,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 47,
-                            "requests_successful_count": 34,
-                            "requests_not_held_count": 2,
+                            "requests_count": 70,
+                            "requests_successful_count": 58,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 44
+                            "requests_visible_classified_count": 69
                         }
                     },
                     "user": {
@@ -2111,7 +3253,7 @@
                         "name": "VOL\u00c1NBUSZ K\u00f6zleked\u00e9si Zrt.",
                         "short_name": "VOL\u00c1NBUSZ",
                         "created_at": "2012-10-23T22:04:09.521+02:00",
-                        "updated_at": "2023-03-03T04:56:05.324+01:00",
+                        "updated_at": "2024-05-08T04:56:16.954+02:00",
                         "home_page": "http://www.volanbusz.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2122,11 +3264,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 47,
-                            "requests_successful_count": 34,
-                            "requests_not_held_count": 2,
+                            "requests_count": 70,
+                            "requests_successful_count": 58,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 44
+                            "requests_visible_classified_count": 69
                         }
                     },
                     "user": {
@@ -2159,17 +3301,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -2211,17 +3358,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -2263,17 +3415,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -2315,17 +3472,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -2358,17 +3520,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -2410,17 +3577,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -2453,7 +3625,7 @@
                 "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                 "short_name": null,
                 "created_at": "2012-06-09T20:16:56.511+02:00",
-                "updated_at": "2020-03-11T20:41:25.529+01:00",
+                "updated_at": "2023-08-19T04:56:09.526+02:00",
                 "home_page": "http://www.ervrt.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2468,11 +3640,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 23,
+                    "requests_count": 25,
                     "requests_successful_count": 12,
-                    "requests_not_held_count": 2,
+                    "requests_not_held_count": 3,
                     "requests_overdue_count": 4,
-                    "requests_visible_classified_count": 23
+                    "requests_visible_classified_count": 25
                 }
             },
             "user": {
@@ -2514,7 +3686,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2529,11 +3701,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -2575,7 +3747,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2590,11 +3762,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -2636,7 +3808,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2651,11 +3823,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -2688,7 +3860,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -2699,11 +3871,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -2745,7 +3917,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2756,11 +3928,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -2802,7 +3974,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2813,11 +3985,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -2859,7 +4031,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2870,11 +4042,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -2916,7 +4088,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -2927,11 +4099,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -2964,17 +4136,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -3016,17 +4193,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -3068,17 +4250,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -3111,17 +4298,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -3163,17 +4355,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -3206,7 +4403,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -3217,11 +4414,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -3263,7 +4460,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3274,11 +4471,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3320,7 +4517,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3331,11 +4528,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3377,7 +4574,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3388,11 +4585,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3425,7 +4622,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -3436,11 +4633,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -3482,7 +4679,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3493,11 +4690,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3539,7 +4736,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3550,11 +4747,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3596,7 +4793,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3607,11 +4804,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3644,17 +4841,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -3696,17 +4898,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -3739,7 +4946,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -3750,11 +4957,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -3796,7 +5003,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3807,11 +5014,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3853,7 +5060,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3864,11 +5071,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3910,7 +5117,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -3921,11 +5128,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -3958,7 +5165,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -3969,11 +5176,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -4015,7 +5222,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4026,11 +5233,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4072,7 +5279,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4083,11 +5290,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4129,7 +5336,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4140,11 +5347,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4177,17 +5384,22 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2023-06-07T04:55:43.026+02:00",
+                "updated_at": "2024-03-26T08:54:31.754+01:00",
                 "home_page": "http://www.karancssag.hu/",
                 "notes": "",
                 "publication_scheme": "",
-                "tags": [],
+                "tags": [
+                    [
+                        "\u00f6nkorm\u00e1nyzat",
+                        null
+                    ]
+                ],
                 "info": {
-                    "requests_count": 13,
-                    "requests_successful_count": 7,
+                    "requests_count": 16,
+                    "requests_successful_count": 9,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 13
+                    "requests_visible_classified_count": 15
                 }
             },
             "user": {
@@ -4229,17 +5441,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -4281,17 +5498,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -4333,17 +5555,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -4385,17 +5612,22 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2023-06-07T04:55:43.026+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
                         "home_page": "http://www.karancssag.hu/",
                         "notes": "",
                         "publication_scheme": "",
-                        "tags": [],
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
                         "info": {
-                            "requests_count": 13,
-                            "requests_successful_count": 7,
+                            "requests_count": 16,
+                            "requests_successful_count": 9,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 13
+                            "requests_visible_classified_count": 15
                         }
                     },
                     "user": {
@@ -4428,7 +5660,7 @@
                 "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                 "short_name": null,
                 "created_at": "2012-06-09T20:16:56.511+02:00",
-                "updated_at": "2020-03-11T20:41:25.529+01:00",
+                "updated_at": "2023-08-19T04:56:09.526+02:00",
                 "home_page": "http://www.ervrt.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -4443,11 +5675,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 23,
+                    "requests_count": 25,
                     "requests_successful_count": 12,
-                    "requests_not_held_count": 2,
+                    "requests_not_held_count": 3,
                     "requests_overdue_count": 4,
-                    "requests_visible_classified_count": 23
+                    "requests_visible_classified_count": 25
                 }
             },
             "user": {
@@ -4489,7 +5721,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4504,11 +5736,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -4550,7 +5782,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4565,11 +5797,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -4611,7 +5843,7 @@
                         "name": "\u00c9szak-magyarorsz\u00e1gi Region\u00e1lis V\u00edzm\u0171vek Zrt.",
                         "short_name": null,
                         "created_at": "2012-06-09T20:16:56.511+02:00",
-                        "updated_at": "2020-03-11T20:41:25.529+01:00",
+                        "updated_at": "2023-08-19T04:56:09.526+02:00",
                         "home_page": "http://www.ervrt.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4626,11 +5858,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 23,
+                            "requests_count": 25,
                             "requests_successful_count": 12,
-                            "requests_not_held_count": 2,
+                            "requests_not_held_count": 3,
                             "requests_overdue_count": 4,
-                            "requests_visible_classified_count": 23
+                            "requests_visible_classified_count": 25
                         }
                     },
                     "user": {
@@ -4663,7 +5895,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -4674,11 +5906,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -4720,7 +5952,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4731,11 +5963,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4777,7 +6009,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4788,11 +6020,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4834,7 +6066,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4845,11 +6077,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4882,7 +6114,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -4893,11 +6125,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -4939,7 +6171,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -4950,11 +6182,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -4996,7 +6228,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5007,11 +6239,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5053,7 +6285,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5064,11 +6296,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5110,7 +6342,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5121,11 +6353,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5167,7 +6399,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5178,11 +6410,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5224,7 +6456,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5235,11 +6467,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5272,7 +6504,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -5283,11 +6515,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -5329,7 +6561,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5340,11 +6572,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5386,7 +6618,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5397,11 +6629,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5443,7 +6675,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5454,11 +6686,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5491,7 +6723,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -5502,11 +6734,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -5548,7 +6780,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5559,11 +6791,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5605,7 +6837,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5616,11 +6848,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5662,7 +6894,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5673,11 +6905,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5710,7 +6942,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -5721,11 +6953,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -5767,7 +6999,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5778,11 +7010,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5824,7 +7056,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5835,11 +7067,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5872,7 +7104,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -5883,11 +7115,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -5929,7 +7161,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -5940,11 +7172,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -5977,7 +7209,7 @@
                 "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                 "short_name": null,
                 "created_at": "2012-05-26T03:07:00.042+02:00",
-                "updated_at": "2023-06-09T04:55:22.425+02:00",
+                "updated_at": "2024-01-20T04:55:26.799+01:00",
                 "home_page": "http://nmkh.gov.hu",
                 "notes": "",
                 "publication_scheme": "",
@@ -5988,11 +7220,11 @@
                     ]
                 ],
                 "info": {
-                    "requests_count": 39,
-                    "requests_successful_count": 28,
-                    "requests_not_held_count": 4,
-                    "requests_overdue_count": 2,
-                    "requests_visible_classified_count": 36
+                    "requests_count": 50,
+                    "requests_successful_count": 38,
+                    "requests_not_held_count": 5,
+                    "requests_overdue_count": 3,
+                    "requests_visible_classified_count": 48
                 }
             },
             "user": {
@@ -6034,7 +7266,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -6045,11 +7277,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
@@ -6091,7 +7323,7 @@
                         "name": "N\u00f3gr\u00e1d Megyei Korm\u00e1nyhivatal",
                         "short_name": null,
                         "created_at": "2012-05-26T03:07:00.042+02:00",
-                        "updated_at": "2023-06-09T04:55:22.425+02:00",
+                        "updated_at": "2024-01-20T04:55:26.799+01:00",
                         "home_page": "http://nmkh.gov.hu",
                         "notes": "",
                         "publication_scheme": "",
@@ -6102,11 +7334,11 @@
                             ]
                         ],
                         "info": {
-                            "requests_count": 39,
-                            "requests_successful_count": 28,
-                            "requests_not_held_count": 4,
-                            "requests_overdue_count": 2,
-                            "requests_visible_classified_count": 36
+                            "requests_count": 50,
+                            "requests_successful_count": 38,
+                            "requests_not_held_count": 5,
+                            "requests_overdue_count": 3,
+                            "requests_visible_classified_count": 48
                         }
                     },
                     "user": {
