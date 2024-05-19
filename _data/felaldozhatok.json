@@ -150,24 +150,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "20",
-            "Gy.": "13",
+            "M.": "21",
+            "Gy.": "14",
             "D.": "0",
             "V.": "7",
-            "LG.": "83",
-            "KG.": "51",
-            "GK.": "32",
-            "P.": "39",
+            "LG.": "88",
+            "KG.": "54",
+            "GK.": "34",
+            "P.": "42",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2024.05.18. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2024.05.18.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": "2024.05.25. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nECSEGI SE",
+                "mikor": "2024.05.25.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - ECSEGI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937232.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 3 - 5 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937224.html",
                     "result": {
@@ -194,13 +201,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937209.html",
-                    "result": {
-                        "goals": "ECSEGI SE 2 - 1 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
                     }
                 }
             ]
@@ -342,24 +342,31 @@
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE",
-            "M.": "21",
+            "M.": "22",
             "Gy.": "3",
             "D.": "0",
-            "V.": "18",
-            "LG.": "45",
-            "KG.": "93",
-            "GK.": "-48",
+            "V.": "19",
+            "LG.": "48",
+            "KG.": "98",
+            "GK.": "-50",
             "P.": "9",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2024.05.18. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2024.05.18.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2024.05.26. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2024.05.26.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937232.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE 3 - 5 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937228.html",
                     "result": {
@@ -385,13 +392,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937215.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 2 ZAGYVAR\u00d3NAI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937208.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "V"
                     }
                 }
