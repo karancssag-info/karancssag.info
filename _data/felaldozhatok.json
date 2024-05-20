@@ -33,11 +33,11 @@
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2024.05.19. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2024.05.19.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
+                "title": "2024.06.02. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nECSEGI SE",
+                "mikor": "2024.06.02.",
                 "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - FELS\u0150TOLDI CSERH\u00c1T TSE"
+                "mi": "SOMOS VSE - ECSEGI SE"
             },
             "Forma": [
                 {
@@ -214,24 +214,31 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "21",
-            "Gy.": "8",
+            "M.": "22",
+            "Gy.": "9",
             "D.": "2",
             "V.": "11",
-            "LG.": "58",
-            "KG.": "79",
-            "GK.": "-21",
-            "P.": "26",
+            "LG.": "62",
+            "KG.": "81",
+            "GK.": "-19",
+            "P.": "29",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2024.05.19. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.05.19.",
-                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
-                "mi": "KAZ\u00c1R KSE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2024.05.26. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2024.05.26.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937233.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 4 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937228.html",
                     "result": {
@@ -259,13 +266,6 @@
                         "goals": "KAZ\u00c1R KSE 1 - 5 ECSEGI SE",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937206.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 2 - 4 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "20",
+            "M.": "21",
             "Gy.": "5",
             "D.": "1",
-            "V.": "14",
-            "LG.": "31",
-            "KG.": "116",
-            "GK.": "-85",
+            "V.": "15",
+            "LG.": "33",
+            "KG.": "120",
+            "GK.": "-87",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": "2024.05.19. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.05.19.",
-                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
-                "mi": "KAZ\u00c1R KSE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2024.05.26. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2024.05.26.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937233.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 4 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937231.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 3 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937208.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE 2 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
                     }
                 }
             ]
@@ -417,11 +417,11 @@
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
-                "title": "2024.05.19. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2024.05.19.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - FELS\u0150TOLDI CSERH\u00c1T TSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2024.05.26. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2024.05.26.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - KAZ\u00c1R KSE"
             },
             "Forma": [
                 {
