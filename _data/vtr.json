@@ -348,8 +348,8 @@
             "onkInduloMagyarAllampolgMagyarCim": 926,
             "onkInduloMasEuAllampolg": 4,
             "onkInduloBevLetMen": 1,
-            "epVpSzumma": 915,
-            "epMagyarAllampolgMagyarCim": 914,
+            "epVpSzumma": 913,
+            "epMagyarAllampolgMagyarCim": 912,
             "epMasEuAllampolg": 1,
             "epInduloMagyarAllampolgMagyarCim": 926,
             "epInduloMasEuAllampolg": 1,
@@ -366,7 +366,7 @@
             "mandatum": {
                 "nemzkod": "7",
                 "induloVp": 172,
-                "vp": 216,
+                "vp": 215,
                 "mandatum": 5,
                 "kituzott": "I",
                 "megtarthato": "I"
@@ -695,13 +695,13 @@
     ],
     "nemzAdatok": {
         "letszam": {
-            "nemzVpSzumma": 219,
+            "nemzVpSzumma": 218,
             "nemzInduloVpSzumma": 175,
             "nemzLetszamok": [
                 {
                     "nemzkod": "7",
                     "induloVp": 172,
-                    "vp": 216,
+                    "vp": 215,
                     "mandatum": 5,
                     "kituzott": "I",
                     "megtarthato": "I"
