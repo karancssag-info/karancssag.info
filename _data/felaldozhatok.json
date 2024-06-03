@@ -22,24 +22,31 @@
                 "title": ""
             },
             "Csapat": "SOMOS\u00a0VSE",
-            "M.": "22",
-            "Gy.": "21",
+            "M.": "23",
+            "Gy.": "22",
             "D.": "0",
             "V.": "1",
-            "LG.": "149",
-            "KG.": "31",
-            "GK.": "118",
-            "P.": "63",
+            "LG.": "154",
+            "KG.": "34",
+            "GK.": "120",
+            "P.": "66",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6340.jpg",
-                "title": "2024.06.02. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nECSEGI SE",
-                "mikor": "2024.06.02.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - ECSEGI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
+                "title": "2024.06.09. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nSOMOS VSE",
+                "mikor": "2024.06.09.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - SOMOS VSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937242.html",
+                    "result": {
+                        "goals": "SOMOS VSE 5 - 3 ECSEGI SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937234.html",
                     "result": {
@@ -67,13 +74,6 @@
                         "goals": "SOMOS VSE 7 - 0 KAZ\u00c1R KSE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937219.html",
-                    "result": {
-                        "goals": "SOMOS VSE 9 - 6 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "GY"
-                    }
                 }
             ]
         },
@@ -86,24 +86,31 @@
                 "title": ""
             },
             "Csapat": "ECSEGI\u00a0SE",
-            "M.": "22",
+            "M.": "23",
             "Gy.": "18",
             "D.": "1",
-            "V.": "3",
-            "LG.": "108",
-            "KG.": "31",
-            "GK.": "77",
+            "V.": "4",
+            "LG.": "111",
+            "KG.": "36",
+            "GK.": "75",
             "P.": "55",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
-                "title": "2024.06.02. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nSOMOS VSE - \r\nECSEGI SE",
-                "mikor": "2024.06.02.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "SOMOS VSE - ECSEGI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2024.06.09. \r\nEcseg SE sportp\u00e1lya \r\nECSEGI SE - \r\nKAZ\u00c1R KSE",
+                "mikor": "2024.06.09.",
+                "hol": "Ecseg SE sportp\u00e1lya",
+                "mi": "ECSEGI SE - KAZ\u00c1R KSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937242.html",
+                    "result": {
+                        "goals": "SOMOS VSE 5 - 3 ECSEGI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937236.html",
                     "result": {
@@ -131,13 +138,6 @@
                         "goals": "ZAGYVAR\u00d3NAI SE 0 - 5 ECSEGI SE",
                         "res": "GY"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937216.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 1 - 5 ECSEGI SE",
-                        "res": "GY"
-                    }
                 }
             ]
         },
@@ -150,24 +150,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "22",
-            "Gy.": "15",
+            "M.": "23",
+            "Gy.": "16",
             "D.": "0",
             "V.": "7",
-            "LG.": "91",
-            "KG.": "54",
-            "GK.": "37",
-            "P.": "45",
+            "LG.": "100",
+            "KG.": "56",
+            "GK.": "44",
+            "P.": "48",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2024.06.02. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2024.06.02.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
+                "title": "2024.06.09. \r\nN\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nSOMOS VSE",
+                "mikor": "2024.06.09.",
+                "hol": "N\u00f3gr\u00e1dmegyeri Bar\u00e1ti SE sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DMEGYER BSE - SOMOS VSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937243.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 9 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937236.html",
                     "result": {
@@ -194,13 +201,6 @@
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 5 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937219.html",
-                    "result": {
-                        "goals": "SOMOS VSE 9 - 6 N\u00d3GR\u00c1DMEGYER BSE",
-                        "res": "V"
                     }
                 }
             ]
@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "22",
+            "M.": "23",
             "Gy.": "6",
             "D.": "1",
-            "V.": "15",
-            "LG.": "36",
-            "KG.": "122",
-            "GK.": "-86",
+            "V.": "16",
+            "LG.": "38",
+            "KG.": "131",
+            "GK.": "-93",
             "P.": "19",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2024.06.02. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nN\u00d3GR\u00c1DMEGYER BSE",
-                "mikor": "2024.06.02.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2024.06.09. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2024.06.09.",
                 "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - N\u00d3GR\u00c1DMEGYER BSE"
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937243.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 9 N\u00d3GR\u00c1DMEGYER BSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937237.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "ECSEGI SE 11 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937218.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 3 - 4 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "GY"
                     }
                 }
             ]
