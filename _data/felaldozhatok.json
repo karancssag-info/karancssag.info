@@ -22,24 +22,25 @@
                 "title": ""
             },
             "Csapat": "SOMOS\u00a0VSE",
-            "M.": "23",
-            "Gy.": "22",
+            "M.": "24",
+            "Gy.": "23",
             "D.": "0",
             "V.": "1",
-            "LG.": "154",
-            "KG.": "34",
-            "GK.": "120",
-            "P.": "66",
+            "LG.": "162",
+            "KG.": "38",
+            "GK.": "124",
+            "P.": "69",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13119.jpg",
-                "title": "2024.06.08. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nSOMOS VSE",
-                "mikor": "2024.06.08.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - SOMOS VSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937247.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 4 - 8 SOMOS VSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937242.html",
                     "result": {
@@ -65,13 +66,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937227.html",
                     "result": {
                         "goals": "SOMOS VSE 5 - 1 ZAGYVAR\u00d3NAI SE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937223.html",
-                    "result": {
-                        "goals": "SOMOS VSE 7 - 0 KAZ\u00c1R KSE",
                         "res": "GY"
                     }
                 }
@@ -144,24 +138,25 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DMEGYER\u00a0BSE",
-            "M.": "23",
+            "M.": "24",
             "Gy.": "16",
             "D.": "0",
-            "V.": "7",
-            "LG.": "100",
-            "KG.": "56",
-            "GK.": "44",
+            "V.": "8",
+            "LG.": "104",
+            "KG.": "64",
+            "GK.": "40",
             "P.": "48",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13187.jpg",
-                "title": "2024.06.08. \r\nSomosk\u0151\u00fajfalui Sporttelep \r\nN\u00d3GR\u00c1DMEGYER BSE - \r\nSOMOS VSE",
-                "mikor": "2024.06.08.",
-                "hol": "Somosk\u0151\u00fajfalui Sporttelep",
-                "mi": "N\u00d3GR\u00c1DMEGYER BSE - SOMOS VSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937247.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DMEGYER BSE 4 - 8 SOMOS VSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937243.html",
                     "result": {
@@ -187,13 +182,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937224.html",
                     "result": {
                         "goals": "N\u00d3GR\u00c1DMEGYER BSE 4 - 2 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937222.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 5 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "GY"
                     }
                 }
