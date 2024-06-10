@@ -254,24 +254,25 @@
                 "title": ""
             },
             "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "23",
+            "M.": "24",
             "Gy.": "6",
-            "D.": "1",
+            "D.": "2",
             "V.": "16",
-            "LG.": "38",
-            "KG.": "131",
+            "LG.": "41",
+            "KG.": "134",
             "GK.": "-93",
-            "P.": "19",
+            "P.": "20",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2024.06.09. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2024.06.09.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937246.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937243.html",
                     "result": {
@@ -299,13 +300,6 @@
                         "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 8 SOMOS VSE",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937225.html",
-                    "result": {
-                        "goals": "ECSEGI SE 11 - 1 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -318,24 +312,25 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "23",
+            "M.": "24",
             "Gy.": "4",
-            "D.": "1",
+            "D.": "2",
             "V.": "18",
-            "LG.": "34",
-            "KG.": "108",
+            "LG.": "37",
+            "KG.": "111",
             "GK.": "-74",
-            "P.": "13",
+            "P.": "14",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2024.06.09. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
-                "mikor": "2024.06.09.",
-                "hol": "Karancss\u00e1g sportp\u00e1lya",
-                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
-            },
+            "K\u00f6vetkez\u0151": "",
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1937246.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "D"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1937240.html",
                     "result": {
@@ -361,13 +356,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1937230.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 12 ECSEGI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1937222.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 5 N\u00d3GR\u00c1DMEGYER BSE",
                         "res": "V"
                     }
                 }
