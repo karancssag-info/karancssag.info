@@ -42,10 +42,10 @@
                 "url_title": "karancssag_kozseg_onkormanyzata_28",
                 "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. m\u00e1rcius 19-t\u0151l, SZMSZ",
                 "created_at": "2024-07-03T12:31:27.000+02:00",
-                "updated_at": "2024-07-03T12:31:27.233+02:00",
+                "updated_at": "2024-07-08T12:48:54.820+02:00",
                 "described_state": "waiting_response",
-                "display_status": "V\u00e1laszra v\u00e1r",
-                "awaiting_description": false,
+                "display_status": "Besorol\u00e1sra v\u00e1r",
+                "awaiting_description": true,
                 "prominence": "normal",
                 "law_used": "foi",
                 "tags": []
@@ -72,7 +72,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -100,10 +100,10 @@
                         "url_title": "karancssag_kozseg_onkormanyzata_28",
                         "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. m\u00e1rcius 19-t\u0151l, SZMSZ",
                         "created_at": "2024-07-03T12:31:27.000+02:00",
-                        "updated_at": "2024-07-03T12:31:27.233+02:00",
+                        "updated_at": "2024-07-08T12:48:54.820+02:00",
                         "described_state": "waiting_response",
-                        "display_status": "V\u00e1laszra v\u00e1r",
-                        "awaiting_description": false,
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
                         "prominence": "normal",
                         "law_used": "foi",
                         "tags": []
@@ -130,7 +130,65 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
+                        }
+                    },
+                    "user": {
+                        "id": 2848,
+                        "url_name": "toth_gabor_3",
+                        "name": "T\u00f3th G\u00e1bor",
+                        "ban_text": "",
+                        "about_me": "https://karancssag.info/"
+                    }
+                },
+                "145927": {
+                    "id": 145927,
+                    "event_type": "response",
+                    "created_at": "2024-07-08T12:48:54.813+02:00",
+                    "described_state": null,
+                    "calculated_state": null,
+                    "last_described_at": null,
+                    "incoming_message_id": 35526,
+                    "outgoing_message_id": null,
+                    "comment_id": null,
+                    "display_status": "V\u00e1lasz",
+                    "snippet": "This is the mail system at host smtp.kimittud.hu.\n\nI'm sorry to have to inform you that your message could not\nbe delivered to one or more recipients....",
+                    "info_request": {
+                        "id": 25097,
+                        "url_title": "karancssag_kozseg_onkormanyzata_28",
+                        "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. m\u00e1rcius 19-t\u0151l, SZMSZ",
+                        "created_at": "2024-07-03T12:31:27.000+02:00",
+                        "updated_at": "2024-07-08T12:48:54.820+02:00",
+                        "described_state": "waiting_response",
+                        "display_status": "Besorol\u00e1sra v\u00e1r",
+                        "awaiting_description": true,
+                        "prominence": "normal",
+                        "law_used": "foi",
+                        "tags": []
+                    },
+                    "public_body": {
+                        "id": 15669,
+                        "url_name": "karancssag_kozseg_onkormanyzat_polgarmesteri_hivatal",
+                        "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
+                        "short_name": null,
+                        "created_at": "2012-05-31T21:43:20.065+02:00",
+                        "updated_at": "2024-03-26T08:54:31.754+01:00",
+                        "home_page": "http://www.karancssag.hu/",
+                        "notes": "",
+                        "publication_scheme": "",
+                        "disclosure_log": "",
+                        "tags": [
+                            [
+                                "\u00f6nkorm\u00e1nyzat",
+                                null
+                            ]
+                        ],
+                        "info": {
+                            "requests_count": 17,
+                            "requests_successful_count": 10,
+                            "requests_not_held_count": 0,
+                            "requests_overdue_count": 5,
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -179,7 +237,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -237,7 +295,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -295,7 +353,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -353,7 +411,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -411,7 +469,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -469,7 +527,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -527,7 +585,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -585,7 +643,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -643,7 +701,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -701,7 +759,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -750,7 +808,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -808,7 +866,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -866,7 +924,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -924,7 +982,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -982,7 +1040,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1031,7 +1089,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -1089,7 +1147,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1147,7 +1205,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1205,7 +1263,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1263,7 +1321,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1321,7 +1379,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1370,7 +1428,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -1428,7 +1486,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1486,7 +1544,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1544,7 +1602,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1602,7 +1660,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1660,7 +1718,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1709,7 +1767,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -1767,7 +1825,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1816,7 +1874,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -1874,7 +1932,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1932,7 +1990,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -1990,7 +2048,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2039,7 +2097,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -2097,7 +2155,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2155,7 +2213,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2213,7 +2271,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2262,7 +2320,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -2320,7 +2378,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2378,7 +2436,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2436,7 +2494,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2485,7 +2543,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -2543,7 +2601,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2601,7 +2659,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2659,7 +2717,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2708,7 +2766,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -2766,7 +2824,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2824,7 +2882,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -2882,7 +2940,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -3658,7 +3716,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -3716,7 +3774,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -3774,7 +3832,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -3832,7 +3890,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -3881,7 +3939,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -3939,7 +3997,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -4508,7 +4566,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -4566,7 +4624,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -4624,7 +4682,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -4673,7 +4731,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -4731,7 +4789,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -5226,7 +5284,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -5284,7 +5342,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -5779,7 +5837,7 @@
                     "requests_successful_count": 10,
                     "requests_not_held_count": 0,
                     "requests_overdue_count": 5,
-                    "requests_visible_classified_count": 17
+                    "requests_visible_classified_count": 16
                 }
             },
             "user": {
@@ -5837,7 +5895,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -5895,7 +5953,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -5953,7 +6011,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
@@ -6011,7 +6069,7 @@
                             "requests_successful_count": 10,
                             "requests_not_held_count": 0,
                             "requests_overdue_count": 5,
-                            "requests_visible_classified_count": 17
+                            "requests_visible_classified_count": 16
                         }
                     },
                     "user": {
