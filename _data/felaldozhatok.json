@@ -14,9 +14,95 @@
     },
     "tabella": [
         {
+            "teamId": "289495",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289495.html",
+            "H.": "1",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": ""
+            },
+            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
+            "M.": "2",
+            "Gy.": "2",
+            "D.": "0",
+            "V.": "0",
+            "LG.": "8",
+            "KG.": "3",
+            "GK.": "5",
+            "P.": "6",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2024.09.08. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2024.09.08.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - FELS\u0150TOLDI CSERH\u00c1T TSE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970230.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 1 - 5 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970213.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 2 H\u00c9HALOM II. - VANYARC",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
+            "teamId": "289498",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289498.html",
+            "H.": "2",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
+                "title": ""
+            },
+            "Csapat": "ZICCER\u00a0SZSE\u00a0NAGYL\u00d3C",
+            "M.": "2",
+            "Gy.": "1",
+            "D.": "1",
+            "V.": "0",
+            "LG.": "5",
+            "KG.": "1",
+            "GK.": "4",
+            "P.": "4",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2024.09.08. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nZICCER SZSE NAGYL\u00d3C",
+                "mikor": "2024.09.08.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE  - ZICCER SZSE NAGYL\u00d3C"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970229.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970226.html",
+                    "result": {
+                        "goals": "PALOT\u00c1SI SZSE  1 - 1 ZICCER SZSE NAGYL\u00d3C",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289491",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289491.html",
-            "H.": "1",
+            "H.": "3",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12463.jpg",
                 "title": ""
@@ -50,68 +136,39 @@
             ]
         },
         {
-            "teamId": "289495",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289495.html",
-            "H.": "2",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": ""
-            },
-            "Csapat": "FEL\u00c1LDOZHAT\u00d3K\u00a0SE",
-            "M.": "1",
-            "Gy.": "1",
-            "D.": "0",
-            "V.": "0",
-            "LG.": "3",
-            "KG.": "2",
-            "GK.": "1",
-            "P.": "3",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
-                "title": "2024.08.31. \r\nM\u00e1tramindszent sportp\u00e1lya \r\nM\u00c1TRAMINDSZENTI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.08.31.",
-                "hol": "M\u00e1tramindszent sportp\u00e1lya",
-                "mi": "M\u00c1TRAMINDSZENTI SE - FEL\u00c1LDOZHAT\u00d3K SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970213.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 2 H\u00c9HALOM II. - VANYARC",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "289492",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
-            "H.": "3",
+            "H.": "4",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
                 "title": ""
             },
             "Csapat": "M\u00c1TRAMINDSZENTI\u00a0SE",
-            "M.": "1",
+            "M.": "2",
             "Gy.": "1",
             "D.": "0",
-            "V.": "0",
-            "LG.": "2",
-            "KG.": "1",
-            "GK.": "1",
+            "V.": "1",
+            "LG.": "3",
+            "KG.": "6",
+            "GK.": "-3",
             "P.": "3",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
-                "title": "2024.08.31. \r\nM\u00e1tramindszent sportp\u00e1lya \r\nM\u00c1TRAMINDSZENTI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
-                "mikor": "2024.08.31.",
-                "hol": "M\u00e1tramindszent sportp\u00e1lya",
-                "mi": "M\u00c1TRAMINDSZENTI SE - FEL\u00c1LDOZHAT\u00d3K SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": "2024.09.08. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nM\u00c1TRAMINDSZENTI SE",
+                "mikor": "2024.09.08.",
+                "hol": "Vanyarc KSE sportp\u00e1lya",
+                "mi": "H\u00c9HALOM II. - VANYARC - M\u00c1TRAMINDSZENTI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970230.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 1 - 5 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970223.html",
                     "result": {
@@ -124,30 +181,37 @@
         {
             "teamId": "289488",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
-            "H.": "4",
+            "H.": "5",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "1",
+            "M.": "2",
             "Gy.": "1",
             "D.": "0",
-            "V.": "0",
+            "V.": "1",
             "LG.": "2",
-            "KG.": "1",
-            "GK.": "1",
+            "KG.": "5",
+            "GK.": "-3",
             "P.": "3",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
-                "title": "2024.08.31. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2024.08.31.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "ZICCER SZSE NAGYL\u00d3C - N\u00d3GR\u00c1DSIPEKI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12463.jpg",
+                "title": "2024.09.15. \r\nBercel KSK sportp\u00e1lya \r\nBERCEL KSK - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2024.09.15.",
+                "hol": "Bercel KSK sportp\u00e1lya",
+                "mi": "BERCEL KSK - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970229.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970212.html",
                     "result": {
@@ -160,7 +224,7 @@
         {
             "teamId": "289490",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289490.html",
-            "H.": "5",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
                 "title": ""
@@ -182,42 +246,6 @@
                 "mikor": "2024.09.08.",
                 "hol": "Palot\u00e1si SE sportp\u00e1lya",
                 "mi": "PALOT\u00c1SI SZSE  - BERCEL KSK"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970226.html",
-                    "result": {
-                        "goals": "PALOT\u00c1SI SZSE  1 - 1 ZICCER SZSE NAGYL\u00d3C",
-                        "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289498",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289498.html",
-            "H.": "6",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
-                "title": ""
-            },
-            "Csapat": "ZICCER\u00a0SZSE\u00a0NAGYL\u00d3C",
-            "M.": "1",
-            "Gy.": "0",
-            "D.": "1",
-            "V.": "0",
-            "LG.": "1",
-            "KG.": "1",
-            "GK.": "0",
-            "P.": "1",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2024.08.31. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2024.08.31.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "ZICCER SZSE NAGYL\u00d3C - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
                 {
