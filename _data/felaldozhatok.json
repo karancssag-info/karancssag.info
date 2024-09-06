@@ -143,9 +143,52 @@
             ]
         },
         {
+            "teamId": "289494",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
+            "H.": "4",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": ""
+            },
+            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
+            "M.": "2",
+            "Gy.": "1",
+            "D.": "0",
+            "V.": "1",
+            "LG.": "5",
+            "KG.": "3",
+            "GK.": "2",
+            "P.": "3",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
+                "title": "2024.09.08. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nM\u00c1TRAMINDSZENTI SE",
+                "mikor": "2024.09.08.",
+                "hol": "Vanyarc KSE sportp\u00e1lya",
+                "mi": "H\u00c9HALOM II. - VANYARC - M\u00c1TRAMINDSZENTI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970231.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970213.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 2 H\u00c9HALOM II. - VANYARC",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289497",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289497.html",
-            "H.": "4",
+            "H.": "5",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
                 "title": ""
@@ -188,7 +231,7 @@
         {
             "teamId": "289492",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
-            "H.": "5",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
                 "title": ""
@@ -231,7 +274,7 @@
         {
             "teamId": "289488",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
@@ -274,7 +317,7 @@
         {
             "teamId": "289490",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289490.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
                 "title": ""
@@ -303,42 +346,6 @@
                     "result": {
                         "goals": "PALOT\u00c1SI SZSE  1 - 1 ZICCER SZSE NAGYL\u00d3C",
                         "res": "D"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289494",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
-            "H.": "8",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
-                "title": ""
-            },
-            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
-            "M.": "1",
-            "Gy.": "0",
-            "D.": "0",
-            "V.": "1",
-            "LG.": "2",
-            "KG.": "3",
-            "GK.": "-1",
-            "P.": "0",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
-                "title": "2024.09.08. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nM\u00c1TRAMINDSZENTI SE",
-                "mikor": "2024.09.08.",
-                "hol": "Vanyarc KSE sportp\u00e1lya",
-                "mi": "H\u00c9HALOM II. - VANYARC - M\u00c1TRAMINDSZENTI SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970213.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 3 - 2 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
                     }
                 }
             ]
@@ -431,13 +438,13 @@
                 "title": ""
             },
             "Csapat": "EGYH\u00c1ZASDENGELEG\u00a0FE",
-            "M.": "1",
+            "M.": "2",
             "Gy.": "0",
             "D.": "0",
-            "V.": "1",
+            "V.": "2",
             "LG.": "0",
-            "KG.": "11",
-            "GK.": "-11",
+            "KG.": "14",
+            "GK.": "-14",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -449,6 +456,13 @@
                 "mi": "KAZ\u00c1R KSE - EGYH\u00c1ZASDENGELEG FE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970231.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970214.html",
                     "result": {
