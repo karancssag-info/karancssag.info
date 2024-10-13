@@ -334,32 +334,103 @@
             ]
         },
         {
+            "teamId": "289494",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
+            "H.": "6",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": ""
+            },
+            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
+            "M.": "8",
+            "Gy.": "3",
+            "D.": "1",
+            "V.": "4",
+            "LG.": "13",
+            "KG.": "14",
+            "GK.": "-1",
+            "P.": "10",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2024.10.27. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2024.10.27.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE  - H\u00c9HALOM II. - VANYARC"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970315.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 2 H\u00c9HALOM II. - VANYARC",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970314.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 ZICCER SZSE NAGYL\u00d3C",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970307.html",
+                    "result": {
+                        "goals": "PALOT\u00c1SI SZSE  2 - 0 H\u00c9HALOM II. - VANYARC",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970304.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 1 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "D"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970240.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 5 - 1 H\u00c9HALOM II. - VANYARC",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289488",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
-            "H.": "6",
+            "H.": "7",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "6",
+            "M.": "7",
             "Gy.": "3",
             "D.": "0",
-            "V.": "3",
-            "LG.": "15",
-            "KG.": "16",
-            "GK.": "-1",
+            "V.": "4",
+            "LG.": "16",
+            "KG.": "18",
+            "GK.": "-2",
             "P.": "9",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
-                "title": "2024.10.12. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nH\u00c9HALOM II. - VANYARC",
-                "mikor": "2024.10.12.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - H\u00c9HALOM II. - VANYARC"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2024.10.20. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2024.10.20.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE  - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970315.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 2 H\u00c9HALOM II. - VANYARC",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970310.html",
                     "result": {
@@ -387,20 +458,13 @@
                         "goals": "BERCEL KSK 3 - 1 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970229.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
-                    }
                 }
             ]
         },
         {
             "teamId": "289492",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
                 "title": ""
@@ -464,7 +528,7 @@
         {
             "teamId": "289496",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289496.html",
-            "H.": "8",
+            "H.": "9",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
                 "title": ""
@@ -520,70 +584,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970233.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 1 - 0 ZAGYVAR\u00d3NAI SE ",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289494",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
-            "H.": "9",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
-                "title": ""
-            },
-            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
-            "M.": "7",
-            "Gy.": "2",
-            "D.": "1",
-            "V.": "4",
-            "LG.": "11",
-            "KG.": "13",
-            "GK.": "-2",
-            "P.": "7",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2024.10.12. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nH\u00c9HALOM II. - VANYARC",
-                "mikor": "2024.10.12.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - H\u00c9HALOM II. - VANYARC"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970314.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 ZICCER SZSE NAGYL\u00d3C",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970307.html",
-                    "result": {
-                        "goals": "PALOT\u00c1SI SZSE  2 - 0 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970304.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 1 - 1 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970240.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 5 - 1 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970238.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 1 - 2 M\u00c1TRAMINDSZENTI SE",
                         "res": "V"
                     }
                 }
