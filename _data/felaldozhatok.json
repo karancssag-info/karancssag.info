@@ -398,9 +398,73 @@
             ]
         },
         {
+            "teamId": "289496",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289496.html",
+            "H.": "7",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": ""
+            },
+            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE\u00a0",
+            "M.": "8",
+            "Gy.": "3",
+            "D.": "1",
+            "V.": "4",
+            "LG.": "18",
+            "KG.": "15",
+            "GK.": "3",
+            "P.": "10",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": "2024.10.27. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2024.10.27.",
+                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
+                "mi": "ZAGYVAR\u00d3NAI SE  - H\u00c9HALOM II. - VANYARC"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970323.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970317.html",
+                    "result": {
+                        "goals": "PALOT\u00c1SI SZSE  3 - 0 ZAGYVAR\u00d3NAI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970313.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  2 - 0 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970308.html",
+                    "result": {
+                        "goals": "EGYH\u00c1ZASDENGELEG FE 0 - 9 ZAGYVAR\u00d3NAI SE ",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970303.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  4 - 4 BERCEL KSK",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289494",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
-            "H.": "7",
+            "H.": "8",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
                 "title": ""
@@ -462,160 +526,39 @@
             ]
         },
         {
-            "teamId": "289488",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
-            "H.": "8",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": ""
-            },
-            "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "7",
-            "Gy.": "3",
-            "D.": "0",
-            "V.": "4",
-            "LG.": "16",
-            "KG.": "18",
-            "GK.": "-2",
-            "P.": "9",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2024.10.20. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2024.10.20.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE  - N\u00d3GR\u00c1DSIPEKI SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970315.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 2 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970310.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 1 PALOT\u00c1SI SZSE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970306.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 6 - 2 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970300.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 8 - 1 EGYH\u00c1ZASDENGELEG FE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970298.html",
-                    "result": {
-                        "goals": "BERCEL KSK 3 - 1 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289496",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289496.html",
-            "H.": "9",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": ""
-            },
-            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE\u00a0",
-            "M.": "7",
-            "Gy.": "2",
-            "D.": "1",
-            "V.": "4",
-            "LG.": "16",
-            "KG.": "14",
-            "GK.": "2",
-            "P.": "7",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2024.10.20. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nN\u00d3GR\u00c1DSIPEKI SE",
-                "mikor": "2024.10.20.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE  - N\u00d3GR\u00c1DSIPEKI SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970317.html",
-                    "result": {
-                        "goals": "PALOT\u00c1SI SZSE  3 - 0 ZAGYVAR\u00d3NAI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970313.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE  2 - 0 KAZ\u00c1R KSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970308.html",
-                    "result": {
-                        "goals": "EGYH\u00c1ZASDENGELEG FE 0 - 9 ZAGYVAR\u00d3NAI SE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970303.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE  4 - 4 BERCEL KSK",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970236.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE  0 - 4 ZICCER SZSE NAGYL\u00d3C",
-                        "res": "V"
-                    }
-                }
-            ]
-        },
-        {
             "teamId": "289497",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289497.html",
-            "H.": "10",
+            "H.": "9",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "7",
-            "Gy.": "2",
+            "M.": "8",
+            "Gy.": "3",
             "D.": "2",
             "V.": "3",
-            "LG.": "12",
+            "LG.": "16",
             "KG.": "18",
-            "GK.": "-6",
-            "P.": "7",
+            "GK.": "-2",
+            "P.": "10",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6620.jpg",
-                "title": "2024.10.20. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2024.10.20.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - EGYH\u00c1ZASDENGELEG FE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2024.10.27. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2024.10.27.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970324.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970319.html",
                     "result": {
@@ -643,12 +586,69 @@
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 0 M\u00c1TRAMINDSZENTI SE",
                         "res": "D"
                     }
+                }
+            ]
+        },
+        {
+            "teamId": "289488",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
+            "H.": "10",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
+                "title": ""
+            },
+            "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
+            "M.": "8",
+            "Gy.": "3",
+            "D.": "0",
+            "V.": "5",
+            "LG.": "17",
+            "KG.": "20",
+            "GK.": "-3",
+            "P.": "9",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2024.10.26. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2024.10.26.",
+                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
+                "mi": "N\u00d3GR\u00c1DSIPEKI SE - FEL\u00c1LDOZHAT\u00d3K SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970323.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  2 - 1 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "V"
+                    }
                 },
                 {
-                    "link": "https://adatbank.mlsz.hu/match/1970234.html",
+                    "link": "https://adatbank.mlsz.hu/match/1970315.html",
                     "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 4 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 2 H\u00c9HALOM II. - VANYARC",
                         "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970310.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 1 PALOT\u00c1SI SZSE ",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970306.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 6 - 2 N\u00d3GR\u00c1DSIPEKI SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970300.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 8 - 1 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
                     }
                 }
             ]
@@ -662,24 +662,31 @@
                 "title": ""
             },
             "Csapat": "EGYH\u00c1ZASDENGELEG\u00a0FE",
-            "M.": "8",
+            "M.": "9",
             "Gy.": "0",
             "D.": "0",
-            "V.": "8",
+            "V.": "9",
             "LG.": "5",
-            "KG.": "54",
-            "GK.": "-49",
+            "KG.": "58",
+            "GK.": "-53",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2024.10.20. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2024.10.20.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - EGYH\u00c1ZASDENGELEG FE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
+                "title": "2024.10.27. \r\nEgyh\u00e1zasdengeleg FE sportp\u00e1lya \r\nEGYH\u00c1ZASDENGELEG FE - \r\nZICCER SZSE NAGYL\u00d3C",
+                "mikor": "2024.10.27.",
+                "hol": "Egyh\u00e1zasdengeleg FE sportp\u00e1lya",
+                "mi": "EGYH\u00c1ZASDENGELEG FE - ZICCER SZSE NAGYL\u00d3C"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970324.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 4 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970318.html",
                     "result": {
@@ -705,13 +712,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970300.html",
                     "result": {
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 8 - 1 EGYH\u00c1ZASDENGELEG FE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970297.html",
-                    "result": {
-                        "goals": "EGYH\u00c1ZASDENGELEG FE 0 - 12 PALOT\u00c1SI SZSE ",
                         "res": "V"
                     }
                 }
