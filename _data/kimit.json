@@ -43,9 +43,9 @@
                 "url_title": "karancssag_kozseg_onkormanyzata_29",
                 "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. j\u00fanius 19-t\u0151l, SZMSZ",
                 "created_at": "2024-11-06T10:54:27.092+01:00",
-                "updated_at": "2025-01-10T17:45:11.005+01:00",
-                "described_state": "waiting_response",
-                "display_status": "R\u00e9g\u00f3ta lej\u00e1rt",
+                "updated_at": "2025-02-13T09:08:15.254+01:00",
+                "described_state": "partially_successful",
+                "display_status": "R\u00e9szben teljes\u00edtette",
                 "awaiting_description": false,
                 "prominence": "normal",
                 "law_used": "foi",
@@ -57,7 +57,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -70,9 +70,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -101,9 +101,9 @@
                         "url_title": "karancssag_kozseg_onkormanyzata_29",
                         "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. j\u00fanius 19-t\u0151l, SZMSZ",
                         "created_at": "2024-11-06T10:54:27.092+01:00",
-                        "updated_at": "2025-01-10T17:45:11.005+01:00",
-                        "described_state": "waiting_response",
-                        "display_status": "R\u00e9g\u00f3ta lej\u00e1rt",
+                        "updated_at": "2025-02-13T09:08:15.254+01:00",
+                        "described_state": "partially_successful",
+                        "display_status": "R\u00e9szben teljes\u00edtette",
                         "awaiting_description": false,
                         "prominence": "normal",
                         "law_used": "foi",
@@ -115,7 +115,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -128,9 +128,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -147,21 +147,21 @@
                     "event_type": "response",
                     "created_at": "2024-11-27T12:02:16.669+01:00",
                     "described_state": null,
-                    "calculated_state": "waiting_response",
-                    "last_described_at": "2025-01-10T17:45:11.057+01:00",
+                    "calculated_state": "partially_successful",
+                    "last_described_at": "2025-02-13T09:08:15.307+01:00",
                     "incoming_message_id": 36814,
                     "outgoing_message_id": null,
                     "comment_id": null,
-                    "display_status": "V\u00e1laszra v\u00e1r",
+                    "display_status": "R\u00e9szben teljes\u00edtette",
                     "snippet": "Tisztelt T\u00f3th G\u00e1bor!\n\nKarancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata K\u00e9pvisel\u0151-test\u00fclet\u00e9nek jegyz\u0151k\u00f6nyvei \njegyz\u0151i t\u00falterhelts\u00e9g miatt m\u00e9g nem teljesen lett felt\u00f6ltve...",
                     "info_request": {
                         "id": 25892,
                         "url_title": "karancssag_kozseg_onkormanyzata_29",
                         "title": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata jegyz\u0151k\u00f6nyvek 2024. j\u00fanius 19-t\u0151l, SZMSZ",
                         "created_at": "2024-11-06T10:54:27.092+01:00",
-                        "updated_at": "2025-01-10T17:45:11.005+01:00",
-                        "described_state": "waiting_response",
-                        "display_status": "R\u00e9g\u00f3ta lej\u00e1rt",
+                        "updated_at": "2025-02-13T09:08:15.254+01:00",
+                        "described_state": "partially_successful",
+                        "display_status": "R\u00e9szben teljes\u00edtette",
                         "awaiting_description": false,
                         "prominence": "normal",
                         "law_used": "foi",
@@ -173,7 +173,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -186,9 +186,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -222,7 +222,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -235,9 +235,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -280,7 +280,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -293,9 +293,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -338,7 +338,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -351,9 +351,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -387,7 +387,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -400,9 +400,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -445,7 +445,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -458,9 +458,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -503,7 +503,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -516,9 +516,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -561,7 +561,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -574,9 +574,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -619,7 +619,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -632,9 +632,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -677,7 +677,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -690,9 +690,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -735,7 +735,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -748,9 +748,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -793,7 +793,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -806,9 +806,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -851,7 +851,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -864,9 +864,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -909,7 +909,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -922,9 +922,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -958,7 +958,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -971,9 +971,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -1016,7 +1016,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1029,9 +1029,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1074,7 +1074,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1087,9 +1087,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1132,7 +1132,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1145,9 +1145,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1190,7 +1190,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1203,9 +1203,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1239,7 +1239,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -1252,9 +1252,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -1297,7 +1297,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1310,9 +1310,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1355,7 +1355,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1368,9 +1368,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1413,7 +1413,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1426,9 +1426,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1471,7 +1471,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1484,9 +1484,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1529,7 +1529,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1542,9 +1542,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1578,7 +1578,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -1591,9 +1591,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -1636,7 +1636,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1649,9 +1649,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1694,7 +1694,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1707,9 +1707,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1752,7 +1752,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1765,9 +1765,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1810,7 +1810,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1823,9 +1823,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1868,7 +1868,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1881,9 +1881,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -1917,7 +1917,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -1930,9 +1930,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -1975,7 +1975,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -1988,9 +1988,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2024,7 +2024,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2037,9 +2037,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -2082,7 +2082,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2095,9 +2095,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2140,7 +2140,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2153,9 +2153,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2198,7 +2198,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2211,9 +2211,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2247,7 +2247,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2260,9 +2260,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -2305,7 +2305,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2318,9 +2318,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2363,7 +2363,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2376,9 +2376,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2421,7 +2421,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2434,9 +2434,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2470,7 +2470,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2483,9 +2483,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -2528,7 +2528,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2541,9 +2541,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2586,7 +2586,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2599,9 +2599,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2644,7 +2644,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2657,9 +2657,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2693,7 +2693,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2706,9 +2706,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -2751,7 +2751,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2764,9 +2764,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2809,7 +2809,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2822,9 +2822,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2867,7 +2867,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2880,9 +2880,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -2916,7 +2916,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -2929,9 +2929,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -2974,7 +2974,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -2987,9 +2987,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -3032,7 +3032,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -3045,9 +3045,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -3090,7 +3090,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -3103,9 +3103,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -3866,7 +3866,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -3879,9 +3879,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -3924,7 +3924,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -3937,9 +3937,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -3982,7 +3982,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -3995,9 +3995,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -4040,7 +4040,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4053,9 +4053,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -4089,7 +4089,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -4102,9 +4102,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -4147,7 +4147,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4160,9 +4160,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -4716,7 +4716,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -4729,9 +4729,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -4774,7 +4774,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4787,9 +4787,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -4832,7 +4832,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4845,9 +4845,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -4881,7 +4881,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -4894,9 +4894,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -4939,7 +4939,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -4952,9 +4952,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -5434,7 +5434,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -5447,9 +5447,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -5492,7 +5492,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -5505,9 +5505,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -5987,7 +5987,7 @@
                 "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                 "short_name": null,
                 "created_at": "2012-05-31T21:43:20.065+02:00",
-                "updated_at": "2025-01-11T05:56:01.301+01:00",
+                "updated_at": "2025-02-14T05:56:06.075+01:00",
                 "home_page": "https://karancssag.asp.lgov.hu/",
                 "notes": "",
                 "publication_scheme": "",
@@ -6000,9 +6000,9 @@
                 ],
                 "info": {
                     "requests_count": 18,
-                    "requests_successful_count": 10,
+                    "requests_successful_count": 11,
                     "requests_not_held_count": 0,
-                    "requests_overdue_count": 6,
+                    "requests_overdue_count": 5,
                     "requests_visible_classified_count": 18
                 }
             },
@@ -6045,7 +6045,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -6058,9 +6058,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -6103,7 +6103,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -6116,9 +6116,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -6161,7 +6161,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -6174,9 +6174,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
@@ -6219,7 +6219,7 @@
                         "name": "Karancss\u00e1g K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzat Polg\u00e1rmesteri Hivatal",
                         "short_name": null,
                         "created_at": "2012-05-31T21:43:20.065+02:00",
-                        "updated_at": "2025-01-11T05:56:01.301+01:00",
+                        "updated_at": "2025-02-14T05:56:06.075+01:00",
                         "home_page": "https://karancssag.asp.lgov.hu/",
                         "notes": "",
                         "publication_scheme": "",
@@ -6232,9 +6232,9 @@
                         ],
                         "info": {
                             "requests_count": 18,
-                            "requests_successful_count": 10,
+                            "requests_successful_count": 11,
                             "requests_not_held_count": 0,
-                            "requests_overdue_count": 6,
+                            "requests_overdue_count": 5,
                             "requests_visible_classified_count": 18
                         }
                     },
