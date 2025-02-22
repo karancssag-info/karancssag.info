@@ -22,24 +22,31 @@
                 "title": ""
             },
             "Csapat": "ZICCER\u00a0SZSE\u00a0NAGYL\u00d3C",
-            "M.": "12",
-            "Gy.": "7",
+            "M.": "13",
+            "Gy.": "8",
             "D.": "3",
             "V.": "2",
-            "LG.": "48",
+            "LG.": "53",
             "KG.": "21",
-            "GK.": "27",
-            "P.": "24",
+            "GK.": "32",
+            "P.": "27",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
-                "title": "2025.02.22. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nM\u00c1TRAMINDSZENTI SE",
-                "mikor": "2025.02.22.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2025.03.01. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2025.03.01.",
                 "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "ZICCER SZSE NAGYL\u00d3C - M\u00c1TRAMINDSZENTI SE"
+                "mi": "ZICCER SZSE NAGYL\u00d3C - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970630.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 5 - 0 M\u00c1TRAMINDSZENTI SE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970613.html",
                     "result": {
@@ -65,13 +72,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970326.html",
                     "result": {
                         "goals": "EGYH\u00c1ZASDENGELEG FE 4 - 9 ZICCER SZSE NAGYL\u00d3C",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970320.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 1 - 0 BERCEL KSK",
                         "res": "GY"
                     }
                 }
@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "M\u00c1TRAMINDSZENTI\u00a0SE",
-            "M.": "12",
+            "M.": "13",
             "Gy.": "6",
             "D.": "2",
-            "V.": "4",
+            "V.": "5",
             "LG.": "24",
-            "KG.": "23",
-            "GK.": "1",
+            "KG.": "28",
+            "GK.": "-4",
             "P.": "19",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
-                "title": "2025.02.22. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nM\u00c1TRAMINDSZENTI SE",
-                "mikor": "2025.02.22.",
-                "hol": "Nagyl\u00f3c sportp\u00e1lya",
-                "mi": "ZICCER SZSE NAGYL\u00d3C - M\u00c1TRAMINDSZENTI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": "2025.03.01. \r\nM\u00e1tramindszent sportp\u00e1lya \r\nM\u00c1TRAMINDSZENTI SE - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2025.03.01.",
+                "hol": "M\u00e1tramindszent sportp\u00e1lya",
+                "mi": "M\u00c1TRAMINDSZENTI SE - H\u00c9HALOM II. - VANYARC"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970630.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 5 - 0 M\u00c1TRAMINDSZENTI SE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970614.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "PALOT\u00c1SI SZSE  1 - 3 M\u00c1TRAMINDSZENTI SE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970321.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 2 - 2 KAZ\u00c1R KSE",
-                        "res": "D"
                     }
                 }
             ]
