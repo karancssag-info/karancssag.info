@@ -142,9 +142,73 @@
             ]
         },
         {
+            "teamId": "289492",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
+            "H.": "3",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
+                "title": ""
+            },
+            "Csapat": "M\u00c1TRAMINDSZENTI\u00a0SE",
+            "M.": "15",
+            "Gy.": "8",
+            "D.": "2",
+            "V.": "5",
+            "LG.": "36",
+            "KG.": "31",
+            "GK.": "5",
+            "P.": "25",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12463.jpg",
+                "title": "2025.03.30. \r\nBercel KSK sportp\u00e1lya \r\nBERCEL KSK - \r\nM\u00c1TRAMINDSZENTI SE",
+                "mikor": "2025.03.30.",
+                "hol": "Bercel KSK sportp\u00e1lya",
+                "mi": "BERCEL KSK - M\u00c1TRAMINDSZENTI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970630.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 7 - 1 M\u00c1TRAMINDSZENTI SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970624.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970618.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 8 - 1 H\u00c9HALOM II. - VANYARC",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970614.html",
+                    "result": {
+                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 M\u00c1TRAMINDSZENTI SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970335.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 0 - 1 ZAGYVAR\u00d3NAI SE ",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289495",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289495.html",
-            "H.": "3",
+            "H.": "4",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
                 "title": ""
@@ -208,7 +272,7 @@
         {
             "teamId": "289490",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289490.html",
-            "H.": "4",
+            "H.": "5",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
                 "title": ""
@@ -264,70 +328,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970333.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 1 PALOT\u00c1SI SZSE ",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289492",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
-            "H.": "5",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
-                "title": ""
-            },
-            "Csapat": "M\u00c1TRAMINDSZENTI\u00a0SE",
-            "M.": "14",
-            "Gy.": "7",
-            "D.": "2",
-            "V.": "5",
-            "LG.": "33",
-            "KG.": "31",
-            "GK.": "2",
-            "P.": "22",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12463.jpg",
-                "title": "2025.03.30. \r\nBercel KSK sportp\u00e1lya \r\nBERCEL KSK - \r\nM\u00c1TRAMINDSZENTI SE",
-                "mikor": "2025.03.30.",
-                "hol": "Bercel KSK sportp\u00e1lya",
-                "mi": "BERCEL KSK - M\u00c1TRAMINDSZENTI SE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970630.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 7 - 1 M\u00c1TRAMINDSZENTI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970618.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 8 - 1 H\u00c9HALOM II. - VANYARC",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970614.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 M\u00c1TRAMINDSZENTI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970335.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 0 - 1 ZAGYVAR\u00d3NAI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970331.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 3 - 1 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "GY"
                     }
                 }
@@ -470,13 +470,13 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "5",
             "D.": "2",
-            "V.": "6",
+            "V.": "7",
             "LG.": "24",
-            "KG.": "31",
-            "GK.": "-7",
+            "KG.": "34",
+            "GK.": "-10",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
@@ -488,6 +488,13 @@
                 "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - H\u00c9HALOM II. - VANYARC"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970624.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970620.html",
                     "result": {
@@ -513,13 +520,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970333.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 1 PALOT\u00c1SI SZSE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970327.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
                         "res": "V"
                     }
                 }
