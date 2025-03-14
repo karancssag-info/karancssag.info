@@ -342,13 +342,13 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "13",
+            "M.": "14",
             "Gy.": "6",
             "D.": "2",
-            "V.": "5",
+            "V.": "6",
             "LG.": "41",
-            "KG.": "33",
-            "GK.": "8",
+            "KG.": "36",
+            "GK.": "5",
             "P.": "20",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
@@ -364,6 +364,13 @@
                     "link": "https://adatbank.mlsz.hu/match/1970629.html",
                     "result": {
                         "goals": "KAZ\u00c1R KSE 1 - 5 PALOT\u00c1SI SZSE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970625.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 KAZ\u00c1R KSE",
                         "res": "V"
                     }
                 },
@@ -386,13 +393,6 @@
                     "result": {
                         "goals": "ZICCER SZSE NAGYL\u00d3C 9 - 2 KAZ\u00c1R KSE",
                         "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970327.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 3 - 0 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "GY"
                     }
                 }
             ]
@@ -526,9 +526,73 @@
             ]
         },
         {
+            "teamId": "289494",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
+            "H.": "9",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": ""
+            },
+            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
+            "M.": "14",
+            "Gy.": "5",
+            "D.": "1",
+            "V.": "8",
+            "LG.": "22",
+            "KG.": "33",
+            "GK.": "-11",
+            "P.": "16",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2025.03.16. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2025.03.16.",
+                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - H\u00c9HALOM II. - VANYARC"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970625.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 3 - 0 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970618.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 8 - 1 H\u00c9HALOM II. - VANYARC",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970617.html",
+                    "result": {
+                        "goals": "EGYH\u00c1ZASDENGELEG FE 1 - 3 H\u00c9HALOM II. - VANYARC",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970337.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 2 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970334.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 0 - 2 BERCEL KSK",
+                        "res": "V"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289488",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289488.html",
-            "H.": "9",
+            "H.": "10",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
                 "title": ""
@@ -585,70 +649,6 @@
                     "result": {
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 4 - 2 FEL\u00c1LDOZHAT\u00d3K SE",
                         "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289494",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289494.html",
-            "H.": "10",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
-                "title": ""
-            },
-            "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
-            "M.": "13",
-            "Gy.": "4",
-            "D.": "1",
-            "V.": "8",
-            "LG.": "19",
-            "KG.": "33",
-            "GK.": "-14",
-            "P.": "13",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2025.03.16. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nH\u00c9HALOM II. - VANYARC",
-                "mikor": "2025.03.16.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - H\u00c9HALOM II. - VANYARC"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970618.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 8 - 1 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970617.html",
-                    "result": {
-                        "goals": "EGYH\u00c1ZASDENGELEG FE 1 - 3 H\u00c9HALOM II. - VANYARC",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970337.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 2 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970334.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 0 - 2 BERCEL KSK",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970328.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE  5 - 0 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
                     }
                 }
             ]
