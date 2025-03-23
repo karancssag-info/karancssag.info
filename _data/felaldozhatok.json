@@ -206,9 +206,137 @@
             ]
         },
         {
+            "teamId": "289490",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289490.html",
+            "H.": "4",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
+                "title": ""
+            },
+            "Csapat": "PALOT\u00c1SI\u00a0SZSE\u00a0",
+            "M.": "15",
+            "Gy.": "8",
+            "D.": "4",
+            "V.": "3",
+            "LG.": "45",
+            "KG.": "20",
+            "GK.": "25",
+            "P.": "28",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
+                "title": "2025.03.30. \r\nPalot\u00e1si SE sportp\u00e1lya \r\nPALOT\u00c1SI SZSE  - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2025.03.30.",
+                "hol": "Palot\u00e1si SE sportp\u00e1lya",
+                "mi": "PALOT\u00c1SI SZSE  - N\u00d3GR\u00c1DSIPEKI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970636.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 1 - 3 PALOT\u00c1SI SZSE ",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970629.html",
+                    "result": {
+                        "goals": "KAZ\u00c1R KSE 1 - 5 PALOT\u00c1SI SZSE ",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970626.html",
+                    "result": {
+                        "goals": "PALOT\u00c1SI SZSE  4 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970621.html",
+                    "result": {
+                        "goals": "BERCEL KSK 3 - 2 PALOT\u00c1SI SZSE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970336.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 2 - 2 PALOT\u00c1SI SZSE ",
+                        "res": "D"
+                    }
+                }
+            ]
+        },
+        {
+            "teamId": "289496",
+            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289496.html",
+            "H.": "5",
+            "logo": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": ""
+            },
+            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE\u00a0",
+            "M.": "15",
+            "Gy.": "8",
+            "D.": "1",
+            "V.": "6",
+            "LG.": "43",
+            "KG.": "25",
+            "GK.": "18",
+            "P.": "25",
+            "BR.*": "",
+            "Megjegyz\u00e9s": "",
+            "K\u00f6vetkez\u0151": {
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2025.03.30. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2025.03.30.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - ZAGYVAR\u00d3NAI SE"
+            },
+            "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970637.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  9 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970631.html",
+                    "result": {
+                        "goals": "BERCEL KSK 2 - 3 ZAGYVAR\u00d3NAI SE ",
+                        "res": "GY"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970619.html",
+                    "result": {
+                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 ZAGYVAR\u00d3NAI SE ",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970616.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  1 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
+                        "res": "V"
+                    }
+                },
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970335.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 0 - 1 ZAGYVAR\u00d3NAI SE ",
+                        "res": "GY"
+                    }
+                }
+            ]
+        },
+        {
             "teamId": "289492",
             "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289492.html",
-            "H.": "4",
+            "H.": "6",
             "logo": {
                 "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
                 "title": ""
@@ -265,134 +393,6 @@
                     "result": {
                         "goals": "M\u00c1TRAMINDSZENTI SE 0 - 1 ZAGYVAR\u00d3NAI SE ",
                         "res": "V"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289490",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289490.html",
-            "H.": "5",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
-                "title": ""
-            },
-            "Csapat": "PALOT\u00c1SI\u00a0SZSE\u00a0",
-            "M.": "14",
-            "Gy.": "7",
-            "D.": "4",
-            "V.": "3",
-            "LG.": "42",
-            "KG.": "19",
-            "GK.": "23",
-            "P.": "25",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
-                "title": "2025.03.23. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nPALOT\u00c1SI SZSE",
-                "mikor": "2025.03.23.",
-                "hol": "Vanyarc KSE sportp\u00e1lya",
-                "mi": "H\u00c9HALOM II. - VANYARC - PALOT\u00c1SI SZSE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970629.html",
-                    "result": {
-                        "goals": "KAZ\u00c1R KSE 1 - 5 PALOT\u00c1SI SZSE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970626.html",
-                    "result": {
-                        "goals": "PALOT\u00c1SI SZSE  4 - 0 EGYH\u00c1ZASDENGELEG FE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970621.html",
-                    "result": {
-                        "goals": "BERCEL KSK 3 - 2 PALOT\u00c1SI SZSE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970336.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 2 - 2 PALOT\u00c1SI SZSE ",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970333.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 1 PALOT\u00c1SI SZSE ",
-                        "res": "GY"
-                    }
-                }
-            ]
-        },
-        {
-            "teamId": "289496",
-            "teamLink": "https://adatbank.mlsz.hu/club/63/13/29501/28/289496.html",
-            "H.": "6",
-            "logo": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": ""
-            },
-            "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE\u00a0",
-            "M.": "14",
-            "Gy.": "7",
-            "D.": "1",
-            "V.": "6",
-            "LG.": "34",
-            "KG.": "25",
-            "GK.": "9",
-            "P.": "22",
-            "BR.*": "",
-            "Megjegyz\u00e9s": "",
-            "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6620.jpg",
-                "title": "2025.03.23. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2025.03.23.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE  - EGYH\u00c1ZASDENGELEG FE"
-            },
-            "Forma": [
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970631.html",
-                    "result": {
-                        "goals": "BERCEL KSK 2 - 3 ZAGYVAR\u00d3NAI SE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970619.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 ZAGYVAR\u00d3NAI SE ",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970616.html",
-                    "result": {
-                        "goals": "ZAGYVAR\u00d3NAI SE  1 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970335.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 0 - 1 ZAGYVAR\u00d3NAI SE ",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970332.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 1 - 6 ZAGYVAR\u00d3NAI SE ",
-                        "res": "GY"
                     }
                 }
             ]
@@ -534,24 +534,31 @@
                 "title": ""
             },
             "Csapat": "H\u00c9HALOM\u00a0II.\u00a0-\u00a0VANYARC",
-            "M.": "15",
+            "M.": "16",
             "Gy.": "5",
             "D.": "2",
-            "V.": "8",
-            "LG.": "23",
-            "KG.": "34",
-            "GK.": "-11",
+            "V.": "9",
+            "LG.": "24",
+            "KG.": "37",
+            "GK.": "-13",
             "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
-                "title": "2025.03.23. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nPALOT\u00c1SI SZSE",
-                "mikor": "2025.03.23.",
-                "hol": "Vanyarc KSE sportp\u00e1lya",
-                "mi": "H\u00c9HALOM II. - VANYARC - PALOT\u00c1SI SZSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
+                "title": "2025.03.29. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2025.03.29.",
+                "hol": "Nagyl\u00f3c sportp\u00e1lya",
+                "mi": "ZICCER SZSE NAGYL\u00d3C - H\u00c9HALOM II. - VANYARC"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970636.html",
+                    "result": {
+                        "goals": "H\u00c9HALOM II. - VANYARC 1 - 3 PALOT\u00c1SI SZSE ",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970632.html",
                     "result": {
@@ -578,13 +585,6 @@
                     "result": {
                         "goals": "EGYH\u00c1ZASDENGELEG FE 1 - 3 H\u00c9HALOM II. - VANYARC",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970337.html",
-                    "result": {
-                        "goals": "H\u00c9HALOM II. - VANYARC 2 - 3 FEL\u00c1LDOZHAT\u00d3K SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -662,24 +662,31 @@
                 "title": ""
             },
             "Csapat": "EGYH\u00c1ZASDENGELEG\u00a0FE",
-            "M.": "15",
+            "M.": "16",
             "Gy.": "0",
             "D.": "0",
-            "V.": "15",
+            "V.": "16",
             "LG.": "12",
-            "KG.": "94",
-            "GK.": "-82",
+            "KG.": "103",
+            "GK.": "-91",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2025.03.23. \r\nZagyvar\u00f3na SE sportp\u00e1lya \r\nZAGYVAR\u00d3NAI SE  - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2025.03.23.",
-                "hol": "Zagyvar\u00f3na SE sportp\u00e1lya",
-                "mi": "ZAGYVAR\u00d3NAI SE  - EGYH\u00c1ZASDENGELEG FE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2025.03.30. \r\nEgyh\u00e1zasdengeleg FE sportp\u00e1lya \r\nEGYH\u00c1ZASDENGELEG FE - \r\nFEL\u00c1LDOZHAT\u00d3K SE",
+                "mikor": "2025.03.30.",
+                "hol": "Egyh\u00e1zasdengeleg FE sportp\u00e1lya",
+                "mi": "EGYH\u00c1ZASDENGELEG FE - FEL\u00c1LDOZHAT\u00d3K SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970637.html",
+                    "result": {
+                        "goals": "ZAGYVAR\u00d3NAI SE  9 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970628.html",
                     "result": {
@@ -705,13 +712,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970617.html",
                     "result": {
                         "goals": "EGYH\u00c1ZASDENGELEG FE 1 - 3 H\u00c9HALOM II. - VANYARC",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970339.html",
-                    "result": {
-                        "goals": "BERCEL KSK 9 - 0 EGYH\u00c1ZASDENGELEG FE",
                         "res": "V"
                     }
                 }
