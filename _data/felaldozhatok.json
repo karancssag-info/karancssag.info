@@ -22,24 +22,31 @@
                 "title": ""
             },
             "Csapat": "ZICCER\u00a0SZSE\u00a0NAGYL\u00d3C",
-            "M.": "15",
-            "Gy.": "10",
+            "M.": "16",
+            "Gy.": "11",
             "D.": "3",
             "V.": "2",
-            "LG.": "63",
+            "LG.": "64",
             "KG.": "23",
-            "GK.": "40",
-            "P.": "33",
+            "GK.": "41",
+            "P.": "36",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
-                "title": "2025.03.23. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nZICCER SZSE NAGYL\u00d3C",
-                "mikor": "2025.03.23.",
-                "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - ZICCER SZSE NAGYL\u00d3C"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": "2025.03.29. \r\nNagyl\u00f3c sportp\u00e1lya \r\nZICCER SZSE NAGYL\u00d3C - \r\nH\u00c9HALOM II. - VANYARC",
+                "mikor": "2025.03.29.",
+                "hol": "Nagyl\u00f3c sportp\u00e1lya",
+                "mi": "ZICCER SZSE NAGYL\u00d3C - H\u00c9HALOM II. - VANYARC"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970635.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 1 ZICCER SZSE NAGYL\u00d3C",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970630.html",
                     "result": {
@@ -65,13 +72,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970613.html",
                     "result": {
                         "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 1 ZICCER SZSE NAGYL\u00d3C",
-                        "res": "D"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970336.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 2 - 2 PALOT\u00c1SI SZSE ",
                         "res": "D"
                     }
                 }
@@ -406,24 +406,31 @@
                 "title": ""
             },
             "Csapat": "KAZ\u00c1R\u00a0KSE",
-            "M.": "14",
-            "Gy.": "6",
+            "M.": "15",
+            "Gy.": "7",
             "D.": "2",
             "V.": "6",
-            "LG.": "41",
-            "KG.": "36",
-            "GK.": "5",
-            "P.": "20",
+            "LG.": "44",
+            "KG.": "38",
+            "GK.": "6",
+            "P.": "23",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2025.03.23. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2025.03.23.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - KAZ\u00c1R KSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
+                "title": "2025.03.30. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2025.03.30.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970633.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 3 KAZ\u00c1R KSE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970629.html",
                     "result": {
@@ -451,13 +458,6 @@
                         "goals": "KAZ\u00c1R KSE 2 - 3 BERCEL KSK",
                         "res": "V"
                     }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970330.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 9 - 2 KAZ\u00c1R KSE",
-                        "res": "V"
-                    }
                 }
             ]
         },
@@ -470,24 +470,31 @@
                 "title": ""
             },
             "Csapat": "FELS\u0150TOLDI\u00a0CSERH\u00c1T\u00a0TSE",
-            "M.": "15",
+            "M.": "16",
             "Gy.": "5",
             "D.": "3",
-            "V.": "7",
+            "V.": "8",
             "LG.": "25",
-            "KG.": "35",
-            "GK.": "-10",
+            "KG.": "36",
+            "GK.": "-11",
             "P.": "17",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14255.jpg",
-                "title": "2025.03.23. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nZICCER SZSE NAGYL\u00d3C",
-                "mikor": "2025.03.23.",
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12463.jpg",
+                "title": "2025.04.06. \r\nCserh\u00e1t TSE Fels\u0151told sportp\u00e1lya \r\nFELS\u0150TOLDI CSERH\u00c1T TSE - \r\nBERCEL KSK",
+                "mikor": "2025.04.06.",
                 "hol": "Cserh\u00e1t TSE Fels\u0151told sportp\u00e1lya",
-                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - ZICCER SZSE NAGYL\u00d3C"
+                "mi": "FELS\u0150TOLDI CSERH\u00c1T TSE - BERCEL KSK"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970635.html",
+                    "result": {
+                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 0 - 1 ZICCER SZSE NAGYL\u00d3C",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970632.html",
                     "result": {
@@ -513,13 +520,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970616.html",
                     "result": {
                         "goals": "ZAGYVAR\u00d3NAI SE  1 - 3 FELS\u0150TOLDI CSERH\u00c1T TSE",
-                        "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970338.html",
-                    "result": {
-                        "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 3 - 2 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "GY"
                     }
                 }
@@ -598,24 +598,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "14",
+            "M.": "15",
             "Gy.": "5",
             "D.": "1",
-            "V.": "8",
-            "LG.": "32",
-            "KG.": "35",
-            "GK.": "-3",
+            "V.": "9",
+            "LG.": "34",
+            "KG.": "38",
+            "GK.": "-4",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
-                "title": "2025.03.23. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nKAZ\u00c1R KSE",
-                "mikor": "2025.03.23.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - KAZ\u00c1R KSE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/15/14258.jpg",
+                "title": "2025.03.30. \r\nPalot\u00e1si SE sportp\u00e1lya \r\nPALOT\u00c1SI SZSE  - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2025.03.30.",
+                "hol": "Palot\u00e1si SE sportp\u00e1lya",
+                "mi": "PALOT\u00c1SI SZSE  - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970633.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 2 - 3 KAZ\u00c1R KSE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970628.html",
                     "result": {
@@ -641,13 +648,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970338.html",
                     "result": {
                         "goals": "FELS\u0150TOLDI CSERH\u00c1T TSE 3 - 2 N\u00d3GR\u00c1DSIPEKI SE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970331.html",
-                    "result": {
-                        "goals": "M\u00c1TRAMINDSZENTI SE 3 - 1 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "V"
                     }
                 }
