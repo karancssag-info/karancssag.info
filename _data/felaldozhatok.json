@@ -342,24 +342,31 @@
                 "title": ""
             },
             "Csapat": "M\u00c1TRAMINDSZENTI\u00a0SE",
-            "M.": "16",
-            "Gy.": "8",
+            "M.": "17",
+            "Gy.": "9",
             "D.": "2",
             "V.": "6",
-            "LG.": "37",
+            "LG.": "48",
             "KG.": "35",
-            "GK.": "2",
-            "P.": "25",
+            "GK.": "13",
+            "P.": "28",
             "BR.*": "",
             "Megjegyz\u00e9s": "B\u00fcntet\u0151pont: -1",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6620.jpg",
-                "title": "2025.04.05. \r\nM\u00e1tramindszent sportp\u00e1lya \r\nM\u00c1TRAMINDSZENTI SE - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2025.04.05.",
-                "hol": "M\u00e1tramindszent sportp\u00e1lya",
-                "mi": "M\u00c1TRAMINDSZENTI SE - EGYH\u00c1ZASDENGELEG FE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6200.jpg",
+                "title": "2025.04.13. \r\nKaz\u00e1r KSE sportp\u00e1lya \r\nKAZ\u00c1R KSE - \r\nM\u00c1TRAMINDSZENTI SE",
+                "mikor": "2025.04.13.",
+                "hol": "Kaz\u00e1r KSE sportp\u00e1lya",
+                "mi": "KAZ\u00c1R KSE - M\u00c1TRAMINDSZENTI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970643.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 11 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970642.html",
                     "result": {
@@ -386,13 +393,6 @@
                     "result": {
                         "goals": "M\u00c1TRAMINDSZENTI SE 8 - 1 H\u00c9HALOM II. - VANYARC",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970614.html",
-                    "result": {
-                        "goals": "FEL\u00c1LDOZHAT\u00d3K SE 2 - 1 M\u00c1TRAMINDSZENTI SE",
-                        "res": "V"
                     }
                 }
             ]
@@ -662,24 +662,31 @@
                 "title": ""
             },
             "Csapat": "EGYH\u00c1ZASDENGELEG\u00a0FE",
-            "M.": "17",
+            "M.": "18",
             "Gy.": "0",
             "D.": "0",
-            "V.": "17",
+            "V.": "18",
             "LG.": "12",
-            "KG.": "112",
-            "GK.": "-100",
+            "KG.": "123",
+            "GK.": "-111",
             "P.": "0",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/11/10836.jpg",
-                "title": "2025.04.05. \r\nM\u00e1tramindszent sportp\u00e1lya \r\nM\u00c1TRAMINDSZENTI SE - \r\nEGYH\u00c1ZASDENGELEG FE",
-                "mikor": "2025.04.05.",
-                "hol": "M\u00e1tramindszent sportp\u00e1lya",
-                "mi": "M\u00c1TRAMINDSZENTI SE - EGYH\u00c1ZASDENGELEG FE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6360.jpg",
+                "title": "2025.04.13. \r\nEgyh\u00e1zasdengeleg FE sportp\u00e1lya \r\nEGYH\u00c1ZASDENGELEG FE - \r\nFELS\u0150TOLDI CSERH\u00c1T TSE",
+                "mikor": "2025.04.13.",
+                "hol": "Egyh\u00e1zasdengeleg FE sportp\u00e1lya",
+                "mi": "EGYH\u00c1ZASDENGELEG FE - FELS\u0150TOLDI CSERH\u00c1T TSE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970643.html",
+                    "result": {
+                        "goals": "M\u00c1TRAMINDSZENTI SE 11 - 0 EGYH\u00c1ZASDENGELEG FE",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970639.html",
                     "result": {
@@ -705,13 +712,6 @@
                     "link": "https://adatbank.mlsz.hu/match/1970626.html",
                     "result": {
                         "goals": "PALOT\u00c1SI SZSE  4 - 0 EGYH\u00c1ZASDENGELEG FE",
-                        "res": "V"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970622.html",
-                    "result": {
-                        "goals": "EGYH\u00c1ZASDENGELEG FE 0 - 5 KAZ\u00c1R KSE",
                         "res": "V"
                     }
                 }
