@@ -278,24 +278,31 @@
                 "title": ""
             },
             "Csapat": "ZAGYVAR\u00d3NAI\u00a0SE\u00a0",
-            "M.": "17",
-            "Gy.": "9",
+            "M.": "18",
+            "Gy.": "10",
             "D.": "1",
             "V.": "7",
-            "LG.": "48",
+            "LG.": "51",
             "KG.": "30",
-            "GK.": "18",
-            "P.": "28",
+            "GK.": "21",
+            "P.": "31",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13239.jpg",
-                "title": "2025.04.12. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nZAGYVAR\u00d3NAI SE",
-                "mikor": "2025.04.12.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - ZAGYVAR\u00d3NAI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/14/13154.jpg",
+                "title": "2025.04.20. \r\nVanyarc KSE sportp\u00e1lya \r\nH\u00c9HALOM II. - VANYARC - \r\nZAGYVAR\u00d3NAI SE",
+                "mikor": "2025.04.20.",
+                "hol": "Vanyarc KSE sportp\u00e1lya",
+                "mi": "H\u00c9HALOM II. - VANYARC - ZAGYVAR\u00d3NAI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970648.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 0 - 3 ZAGYVAR\u00d3NAI SE ",
+                        "res": "GY"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970646.html",
                     "result": {
@@ -322,13 +329,6 @@
                     "result": {
                         "goals": "BERCEL KSK 2 - 3 ZAGYVAR\u00d3NAI SE ",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970619.html",
-                    "result": {
-                        "goals": "ZICCER SZSE NAGYL\u00d3C 4 - 0 ZAGYVAR\u00d3NAI SE ",
-                        "res": "V"
                     }
                 }
             ]
@@ -598,24 +598,31 @@
                 "title": ""
             },
             "Csapat": "N\u00d3GR\u00c1DSIPEKI\u00a0SE",
-            "M.": "17",
+            "M.": "18",
             "Gy.": "5",
             "D.": "1",
-            "V.": "11",
+            "V.": "12",
             "LG.": "34",
-            "KG.": "45",
-            "GK.": "-11",
+            "KG.": "48",
+            "GK.": "-14",
             "P.": "16",
             "BR.*": "",
             "Megjegyz\u00e9s": "",
             "K\u00f6vetkez\u0151": {
-                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/7/6030.jpg",
-                "title": "2025.04.12. \r\nN\u00f3gr\u00e1dsipek sportp\u00e1lya \r\nN\u00d3GR\u00c1DSIPEKI SE - \r\nZAGYVAR\u00d3NAI SE",
-                "mikor": "2025.04.12.",
-                "hol": "N\u00f3gr\u00e1dsipek sportp\u00e1lya",
-                "mi": "N\u00d3GR\u00c1DSIPEKI SE - ZAGYVAR\u00d3NAI SE"
+                "src": "https://adatbank.mlsz.hu/img/EgyesuletLogo/Logo/13/12912.jpg",
+                "title": "2025.04.20. \r\nKarancss\u00e1g sportp\u00e1lya \r\nFEL\u00c1LDOZHAT\u00d3K SE - \r\nN\u00d3GR\u00c1DSIPEKI SE",
+                "mikor": "2025.04.20.",
+                "hol": "Karancss\u00e1g sportp\u00e1lya",
+                "mi": "FEL\u00c1LDOZHAT\u00d3K SE - N\u00d3GR\u00c1DSIPEKI SE"
             },
             "Forma": [
+                {
+                    "link": "https://adatbank.mlsz.hu/match/1970648.html",
+                    "result": {
+                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 0 - 3 ZAGYVAR\u00d3NAI SE ",
+                        "res": "V"
+                    }
+                },
                 {
                     "link": "https://adatbank.mlsz.hu/match/1970645.html",
                     "result": {
@@ -642,13 +649,6 @@
                     "result": {
                         "goals": "EGYH\u00c1ZASDENGELEG FE 2 - 6 N\u00d3GR\u00c1DSIPEKI SE",
                         "res": "GY"
-                    }
-                },
-                {
-                    "link": "https://adatbank.mlsz.hu/match/1970623.html",
-                    "result": {
-                        "goals": "N\u00d3GR\u00c1DSIPEKI SE 1 - 4 BERCEL KSK",
-                        "res": "V"
                     }
                 }
             ]
