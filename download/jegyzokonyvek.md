@@ -19,6 +19,7 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 + [2022][10]
 + [2023][11]
 + [2024][12]
++ [2025][13]
 + [SZMSZ][8]{:target="_blank"}
 
 
@@ -34,3 +35,4 @@ Karancsság község önkormányzata képviselő-testületi ülések és közmeg
 [10]:/download/jegyzokonyvek/2022
 [11]:/download/jegyzokonyvek/2023
 [12]:/download/jegyzokonyvek/2024
+[13]:/download/jegyzokonyvek/2025
