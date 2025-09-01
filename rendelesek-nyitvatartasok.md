@@ -22,7 +22,7 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
 
 ---
 #### **Fogászati szakrendelés - Dr. Kerényi Csaba** - Szécsény, Rákóczi út 113.
-##### [+36 32-371-833]
+##### [+36 32-371-833](tel:+3632371833)
 
 {:.table.table-borderless}
 
