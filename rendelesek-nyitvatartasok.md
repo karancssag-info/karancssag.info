@@ -8,7 +8,7 @@ thumbnail: https://static.karancssag.info/images/og/pexels-photo-1537268.jpg
 postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-1537268.jpg
 ---
 #### **Háziorvosi rendelés - Dr. Angyal István** - Karancsság, Kossuth út 64.
-##### [+36 32-400-005](tel:+3632400005) 
+##### [+36 32-400-005](tel:+3632400005)
 
 {:.table.table-borderless}
 
@@ -21,8 +21,21 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
 | Péntek | 9:00 - 13:00 |
 
 ---
+#### **Fogászati szakrendelés - Dr. Kerényi Csaba** - Szécsény, Rákóczi út 113.
+##### [+36 32-371-833]
+
+{:.table.table-borderless}
+
+| |Idő|
+|---:|:---:|
+| Hétfő | 13:00 - 18:00 |
+| Kedd | 8:00 - 12:00 |
+| Szerda | 13:00 - 18:00 |
+| Csütörtök | 8:00 - 12:00 |
+
+---
 #### **Fogászati szakrendelés - Dr. Brumár Mihály** - Karancsság, Kossuth út 56.
-##### [+36 32-400-165](tel:+3632400165) 
+##### [+36 32-400-165](tel:+3632400165)
 
 {:.table.table-borderless}
 
@@ -36,7 +49,7 @@ postthumbnail: https://static.karancssag.info/images/og/w800/pexels-photo-153726
 
 ---
 #### **Ezüst Gyógyszertár** - Karancsság, Kossuth út 62.
-##### [+36 32-400-002](tel:+3632400002) 
+##### [+36 32-400-002](tel:+3632400002)
 
 {:.table.table-borderless}
 
