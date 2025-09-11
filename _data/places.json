@@ -8,11 +8,11 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.12067503029149,
+                    "lat": 48.1206750302915,
                     "lng": 19.6524045802915
                 },
                 "southwest": {
-                    "lat": 48.11797706970849,
+                    "lat": 48.1179770697085,
                     "lng": 19.6497066197085
                 }
             }
@@ -255,7 +255,7 @@
                 },
                 "southwest": {
                     "lat": 48.1173642697085,
-                    "lng": 19.6537872197085
+                    "lng": 19.65378721970849
                 }
             }
         },
@@ -437,11 +437,11 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.1181031802915,
+                    "lat": 48.11810318029149,
                     "lng": 19.6585777802915
                 },
                 "southwest": {
-                    "lat": 48.1154052197085,
+                    "lat": 48.11540521970849,
                     "lng": 19.6558798197085
                 }
             }
@@ -537,13 +537,13 @@
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 112</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.1167624,
+                "lat": 48.11676240000001,
                 "lng": 19.6575071
             },
             "viewport": {
                 "northeast": {
                     "lat": 48.1180269802915,
-                    "lng": 19.6587842802915
+                    "lng": 19.65878428029151
                 },
                 "southwest": {
                     "lat": 48.1153290197085,
@@ -761,7 +761,7 @@
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Pal\u00f3c \u00fat 39</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.12111249999999,
+                "lat": 48.1211125,
                 "lng": 19.6547984
             },
             "viewport": {
@@ -770,7 +770,7 @@
                     "lng": 19.6560700302915
                 },
                 "southwest": {
-                    "lat": 48.11969646970849,
+                    "lat": 48.1196964697085,
                     "lng": 19.6533720697085
                 }
             }
@@ -785,16 +785,16 @@
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 122</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.11648359999999,
+                "lat": 48.1164836,
                 "lng": 19.6594451
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.11776493029151,
+                    "lat": 48.1177649302915,
                     "lng": 19.6607311302915
                 },
                 "southwest": {
-                    "lat": 48.11506696970851,
+                    "lat": 48.1150669697085,
                     "lng": 19.6580331697085
                 }
             }
@@ -890,7 +890,7 @@
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 124</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.11651999999999,
+                "lat": 48.11652,
                 "lng": 19.6596241
             },
             "viewport": {
@@ -905,6 +905,89 @@
             }
         },
         "name": "Nemzeti Doh\u00e1nybolt",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 7:00\u201317:00",
+                "kedd: 7:00\u201317:00",
+                "szerda: 7:00\u201317:00",
+                "cs\u00fct\u00f6rt\u00f6k: 7:00\u201317:00",
+                "p\u00e9ntek: 7:00\u201317:00",
+                "szombat: 7:00\u201314:00",
+                "vas\u00e1rnap: 7:00\u201310:00"
+            ]
+        },
         "place_id": "ChIJCZ242o4RQEcRK-DCS5fLWoY",
         "url": "https://maps.google.com/?cid=9681274199657865259"
     },
@@ -922,7 +1005,7 @@
                 },
                 "southwest": {
                     "lat": 48.1145140197085,
-                    "lng": 19.6581348697085
+                    "lng": 19.65813486970849
                 }
             }
         },
