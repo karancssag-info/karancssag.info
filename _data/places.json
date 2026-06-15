@@ -621,52 +621,141 @@
         "website": "https://www.facebook.com/groups/1738991556232111/"
     },
     {
-        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 118</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 120-a</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.1166727,
-                "lng": 19.658693
+                "lat": 48.1165903,
+                "lng": 19.6590885
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.11792498029149,
-                    "lng": 19.6600343802915
+                    "lat": 48.11786298029151,
+                    "lng": 19.66040943029151
                 },
                 "southwest": {
-                    "lat": 48.1152270197085,
-                    "lng": 19.6573364197085
+                    "lat": 48.11516501970851,
+                    "lng": 19.6577114697085
                 }
             }
         },
-        "international_phone_number": "+36 32 400 013",
-        "name": "Karancss\u00e1g Posta",
-        "place_id": "ChIJpSwSa6QRQEcR8jTSoD1iIGA",
-        "url": "https://maps.google.com/?cid=6926644243726480626",
-        "website": "http://www.posta.hu/"
-    },
-    {
-        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Pal\u00f3c \u00fat 39</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
-        "geometry": {
-            "location": {
-                "lat": 48.1211125,
-                "lng": 19.6547984
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 48.12239443029149,
-                    "lng": 19.6560700302915
+        "international_phone_number": "+36 32 950 992",
+        "name": "S\u00e1rgar\u00f3zsa Vir\u00e1g \u00e9s Aj\u00e1nd\u00e9k Bolt",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1100"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0900"
+                    }
                 },
-                "southwest": {
-                    "lat": 48.1196964697085,
-                    "lng": 19.6533720697085
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    }
                 }
-            }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: Z\u00e1rva",
+                "kedd: 8:00\u201311:00, 13:00\u201317:00",
+                "szerda: 8:00\u201311:00, 13:00\u201317:00",
+                "cs\u00fct\u00f6rt\u00f6k: 8:00\u201311:00, 13:00\u201317:00",
+                "p\u00e9ntek: 8:00\u201311:00, 13:00\u201317:00",
+                "szombat: 8:00\u201312:00",
+                "vas\u00e1rnap: 9:00\u201311:00"
+            ]
         },
-        "international_phone_number": "+36 30 297 9717",
-        "name": "Pet\u00fania Vir\u00e1gbolt",
-        "place_id": "ChIJyZsYhUURQEcRBN5OzYST0Z0",
-        "url": "https://maps.google.com/?cid=11372032732676677124",
-        "website": "https://www.facebook.com/profile.php?id=100090024912148"
+        "place_id": "ChIJje-1QQARQEcRzI1x2kG0BFs",
+        "url": "https://maps.google.com/?cid=6558565152289033676",
+        "website": "https://www.facebook.com/share/1CKXRqrBq1/"
     },
     {
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 122</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
