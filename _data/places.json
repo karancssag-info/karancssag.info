@@ -640,119 +640,6 @@
         },
         "international_phone_number": "+36 32 400 013",
         "name": "Karancss\u00e1g Posta",
-        "opening_hours": {
-            "periods": [
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "1230"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "1230"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "1230"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "1230"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1200"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1500"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "1230"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "h\u00e9tf\u0151: 8:00\u201312:00, 12:30\u201315:00",
-                "kedd: 8:00\u201312:00, 12:30\u201315:00",
-                "szerda: 8:00\u201312:00, 12:30\u201315:00",
-                "cs\u00fct\u00f6rt\u00f6k: 8:00\u201312:00, 12:30\u201315:00",
-                "p\u00e9ntek: 8:00\u201312:00, 12:30\u201315:00",
-                "szombat: Z\u00e1rva",
-                "vas\u00e1rnap: Z\u00e1rva"
-            ]
-        },
         "place_id": "ChIJpSwSa6QRQEcR8jTSoD1iIGA",
         "url": "https://maps.google.com/?cid=6926644243726480626",
         "website": "http://www.posta.hu/"
@@ -904,7 +791,7 @@
                 }
             }
         },
-        "name": "Nemzeti Doh\u00e1nybolt",
+        "name": "Nemzeti Doh\u00e1nybolt Karancss\u00e1g",
         "opening_hours": {
             "periods": [
                 {
