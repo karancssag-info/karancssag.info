@@ -34,7 +34,7 @@ _Az indexkép [Lukas](https://www.pexels.com/hu-hu/@cottonbro?utm_content=attrib
 [5]:https://vizcenter.hu/erv/
 [6]:https://ker.mvmnext.hu/usz(bD1odSZjPTIwMQ==)/ker/nkm/index.html#/
 [7]:https://www.opustigaz.hu/ugyfelek
-[8]:https://kormanyablak.hu/hu/kormanyablakok/nograd/14
+[8]:https://kormanyhivatalok.hu/kormanyhivatalok/nograd#edit-group-lista2
 [9]:http://www.szlmk.hu/jaro-szakellatas/szakrendeles-es-gondozas/
 [10]:http://szecseny.hu/egeszsegugy/
 [11]:http://www.vgu.hu/ugyfelszolgalat_alap.html
