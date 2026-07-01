@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 50,
+                "count": 41,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 50,
+                    "almostCertain": 41,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
