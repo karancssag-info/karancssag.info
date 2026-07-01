@@ -191,25 +191,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 1,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 1,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9287497081",
-                    "timestamp": "2026-07-01T14:35:15+02:00",
-                    "score": 9.723594513230339,
+                    "id": "9291199739",
+                    "timestamp": "2026-07-01T17:55:28+02:00",
+                    "score": 9.854169459562263,
                     "probability": 0.9974651336669922,
-                    "confidence": 0.9,
+                    "confidence": 0.96,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9287497081/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9287497081/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9291199739/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9291199739/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-01T14:35:15+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260701-123515.flac",
+                        "timestamp": "2026-07-01T17:55:28+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260701-155528.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
