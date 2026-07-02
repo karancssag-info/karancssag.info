@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 8,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 8,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9292514269",
-                    "timestamp": "2026-07-01T18:57:02+02:00",
-                    "score": 9.154705460563187,
-                    "probability": 0.876806914806366,
-                    "confidence": 0.75,
+                    "id": "9307781380",
+                    "timestamp": "2026-07-02T10:17:10+02:00",
+                    "score": 9.261455154237662,
+                    "probability": 0.8528028726577759,
+                    "confidence": 0.8,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9292514269/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9292514269/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9307781380/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9307781380/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-01T18:57:02+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260701-165702.flac",
+                        "timestamp": "2026-07-02T10:17:10+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260702-081710.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -107,6 +107,63 @@
                     "soundscape": {
                         "timestamp": "2026-07-01T18:47:53+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260701-164753.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "294",
+                "species": {
+                    "id": "294",
+                    "scientificName": "Chloris chloris",
+                    "commonName": "Z\u00f6ldike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
+                    "ebirdUrl": "https://ebird.org/species/eurgre1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
+                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
+                    "color": "#fea614",
+                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9308167847",
+                    "timestamp": "2026-07-02T10:46:33+02:00",
+                    "score": 8.450040694774783,
+                    "probability": 0.5202101469039917,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9308167847/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9308167847/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-02T10:46:33+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260702-084633.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
