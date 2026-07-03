@@ -342,6 +342,63 @@
                     },
                     "__typename": "Detection"
                 }
+            },
+            {
+                "speciesId": "976",
+                "species": {
+                    "id": "976",
+                    "scientificName": "Caprimulgus europaeus",
+                    "commonName": "Lappanty\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/976/EurasianNightjar-thumbnail-f1c5fc3bf56ad0b878b764f07346881d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/976/EurasianNightjar-standard-8901278c248a674774e1651511dbc818.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-nightjar",
+                    "ebirdUrl": "https://ebird.org/species/eurnig1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_nightjar",
+                    "wikipediaSummary": "The European nightjar (Caprimulgus europaeus), common goatsucker, Eurasian nightjar or just nightjar, is a crepuscular and nocturnal bird in the nightjar family that breeds across most of Europe and the Palearctic to Mongolia and Northwestern China. The Latin generic name refers to the old myth that the nocturnal nightjar suckled goats, causing them to cease to give milk. The six subspecies differ clinally, the birds becoming smaller and paler towards the east of the range. All populations are migratory, wintering in sub-Saharan Africa. Their densely patterned grey and brown plumage makes individuals difficult to see in the daytime when they rest on the ground or perch motionless along a branch, although the male shows white patches in the wings and tail as he flies at night.\nThe preferred habitat is dry, open country with some trees and small bushes, such as heaths, forest clearings or newly planted woodland. The male European nightjar occupies a territory in spring and advertises his presence with a distinctive sustained churring trill from a perch. He patrols his territory with wings held in a V and tail fanned, chasing intruders while wing-clapping and calling. Wing clapping also occurs when the male chases the female in a spiralling display flight. The European nightjar does not build a nest, and its two grey and brown blotched eggs are laid directly on the ground; they hatch after about 17\u201321 days and the downy chicks fledge in another 16\u201317 days.\nThe European nightjar feeds on a wide variety of flying insects, which it seizes in flight, often fly-catching from a perch. It hunts by sight, silhouetting its prey against the night sky. Its eyes are relatively large, each with a reflective layer, which improves night vision. It appears not to rely on its hearing to find insects and does not echolocate. Drinking and bathing take place during flight. Although it suffers a degree of predation and parasitism, the main threats to the species are habitat loss, disturbance and a reduction of its insect prey through pesticide use. Despite population decreases, its large numbers and huge breeding range mean that it is classified by the International Union for Conservation of Nature as being of least concern.",
+                    "color": "#c298c8",
+                    "thumbhash": "jwgGDwBySXlSdoj5Z0ilmUh4p2r2h0IP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano\" title=\"User:D\u00fbrzan c\u00eerano\">D\u00fbrzan c\u00eerano</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9340454148",
+                    "timestamp": "2026-07-03T12:59:15+02:00",
+                    "score": 5.77730937849813,
+                    "probability": 0.04061988741159439,
+                    "confidence": 0.97,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9340454148/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9340454148/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-03T12:59:15+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-105915.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
             }
         ]
     }
