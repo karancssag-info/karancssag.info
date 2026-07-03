@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 20,
+                "count": 19,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 20,
+                    "almostCertain": 19,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -164,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-03T09:05:47+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-070547.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "654",
-                "species": {
-                    "id": "654",
-                    "scientificName": "Ciconia ciconia",
-                    "commonName": "Feh\u00e9r g\u00f3lya",
-                    "thumbnailUrl": "https://media.birdweather.com/species/654/WhiteStork-thumbnail-c109a5c0d79702118df066f6d241448c.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/654/WhiteStork-standard-16ca6820a92b5c02291fd056de0f6cda.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/white-stork",
-                    "ebirdUrl": "https://ebird.org/species/whisto1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/White_stork",
-                    "wikipediaSummary": "The white stork (Ciconia ciconia) is a large bird in the stork family, Ciconiidae. Its plumage is mainly white, with black on the bird's wings. Adults have long red legs and long pointed red beaks, and measure on average 100\u2013115 cm (39\u201345 in) from beak tip to end of tail, with a 155\u2013215 cm (61\u201385 in) wingspan. The two subspecies, which differ slightly in size, breed in Europe (north to Finland), northwestern Africa, southwestern Asia (east to southern Kazakhstan) and southern Africa. The white stork is a long-distance migrant, wintering in Africa from tropical Sub-Saharan Africa to as far south as South Africa, or on the Indian subcontinent. When migrating between Europe and Africa, it avoids crossing the Mediterranean Sea and detours via the Levant in the east or the Strait of Gibraltar in the west, because the air thermals on which it depends for soaring do not form over water.\nA carnivore, the white stork eats a wide range of animal prey, including insects, fish, amphibians, reptiles, small mammals and small birds. It takes most of its food from the ground, among low vegetation, and from shallow water. It is a monogamous breeder, but does not pair for life. Both members of the pair build a large stick nest, which may be used for several years. Each year the female can lay one clutch of usually four eggs, which hatch asynchronously 33\u201334 days after being laid. Both parents take turns incubating the eggs and both feed the young. The young leave the nest 58\u201364 days after hatching, and continue to be fed by the parents for a further 7\u201320 days.\nThe white stork has been rated as least concern by the International Union for Conservation of Nature (IUCN). It benefited from human activities during the Middle Ages as woodland was cleared, but changes in farming methods and industrialisation saw it decline and disappear from parts of Europe in the 19th and early 20th centuries. Conservation and reintroduction programs across Europe have resulted in the white stork resuming breeding in the Netherlands, Belgium, Switzerland, Sweden and the United Kingdom. It has few natural predators, but may harbour several types of parasite; the plumage is home to chewing lice and feather mites, while the large nests maintain a diverse range of mesostigmatic mites. This conspicuous species has given rise to many legends across its range, of which the best-known is the story of babies being brought by storks.",
-                    "color": "#a70240",
-                    "thumbhash": "p8YFFwI9w5qPh3ctqRSqV2ptaIAIBogB",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Soloneying&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Soloneying (page does not exist)\">Soloneying</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9311864282",
-                    "timestamp": "2026-07-02T13:34:49+02:00",
-                    "score": 8.818042057726135,
-                    "probability": 0.4558470845222473,
-                    "confidence": 0.97,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9311864282/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9311864282/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-02T13:34:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260702-113449.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
