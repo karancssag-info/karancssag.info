@@ -2,63 +2,6 @@
     "data": {
         "species": [
             {
-                "speciesId": "42",
-                "species": {
-                    "id": "42",
-                    "scientificName": "Oriolus oriolus",
-                    "commonName": "S\u00e1rgarig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
-                    "ebirdUrl": "https://ebird.org/species/eugori2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
-                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
-                    "color": "#fbb212",
-                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 21,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 21,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9336700292",
-                    "timestamp": "2026-07-03T09:43:21+02:00",
-                    "score": 9.3487854183174,
-                    "probability": 0.6563715934753418,
-                    "confidence": 0.99,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9336700292/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9336700292/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-03T09:43:21+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-074321.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "62",
                 "species": {
                     "id": "62",
@@ -116,6 +59,120 @@
                 }
             },
             {
+                "speciesId": "42",
+                "species": {
+                    "id": "42",
+                    "scientificName": "Oriolus oriolus",
+                    "commonName": "S\u00e1rgarig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
+                    "ebirdUrl": "https://ebird.org/species/eugori2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
+                    "color": "#fbb212",
+                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
+                "count": 7,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 7,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9336700292",
+                    "timestamp": "2026-07-03T09:43:21+02:00",
+                    "score": 9.3487854183174,
+                    "probability": 0.6563715934753418,
+                    "confidence": 0.99,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9336700292/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9336700292/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-03T09:43:21+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-074321.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "294",
+                "species": {
+                    "id": "294",
+                    "scientificName": "Chloris chloris",
+                    "commonName": "Z\u00f6ldike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
+                    "ebirdUrl": "https://ebird.org/species/eurgre1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
+                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
+                    "color": "#fea614",
+                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9364368145",
+                    "timestamp": "2026-07-04T07:43:35+02:00",
+                    "score": 8.387757242289625,
+                    "probability": 0.5202101469039917,
+                    "confidence": 0.73,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9364368145/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9364368145/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-04T07:43:35+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-054335.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "20",
                 "species": {
                     "id": "20",
@@ -164,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-03T08:32:58+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-063258.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "294",
-                "species": {
-                    "id": "294",
-                    "scientificName": "Chloris chloris",
-                    "commonName": "Z\u00f6ldike",
-                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
-                    "ebirdUrl": "https://ebird.org/species/eurgre1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
-                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
-                    "color": "#fea614",
-                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9336211041",
-                    "timestamp": "2026-07-03T09:05:47+02:00",
-                    "score": 8.594384601226004,
-                    "probability": 0.5202101469039917,
-                    "confidence": 0.8,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9336211041/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9336211041/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-03T09:05:47+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-070547.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
