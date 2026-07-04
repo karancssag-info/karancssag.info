@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
-                "count": 24,
+                "count": 21,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 24,
+                    "almostCertain": 21,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 13,
+                "count": 15,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 13,
+                    "almostCertain": 15,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9362348588",
-                    "timestamp": "2026-07-04T05:44:08+02:00",
-                    "score": 9.315187531257658,
+                    "id": "9362939821",
+                    "timestamp": "2026-07-04T06:17:53+02:00",
+                    "score": 9.641810633377306,
                     "probability": 0.8528028726577759,
-                    "confidence": 0.82,
+                    "confidence": 0.96,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9362348588/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9362348588/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9362939821/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9362939821/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,65 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-04T05:44:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-034408.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "294",
-                "species": {
-                    "id": "294",
-                    "scientificName": "Chloris chloris",
-                    "commonName": "Z\u00f6ldike",
-                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
-                    "ebirdUrl": "https://ebird.org/species/eurgre1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
-                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
-                    "color": "#fea614",
-                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9336211041",
-                    "timestamp": "2026-07-03T09:05:47+02:00",
-                    "score": 8.594384601226004,
-                    "probability": 0.5202101469039917,
-                    "confidence": 0.8,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9336211041/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9336211041/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-03T09:05:47+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-070547.flac",
+                        "timestamp": "2026-07-04T06:17:53+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-041753.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -221,6 +164,120 @@
                     "soundscape": {
                         "timestamp": "2026-07-03T08:32:58+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-063258.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "294",
+                "species": {
+                    "id": "294",
+                    "scientificName": "Chloris chloris",
+                    "commonName": "Z\u00f6ldike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
+                    "ebirdUrl": "https://ebird.org/species/eurgre1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
+                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
+                    "color": "#fea614",
+                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9336211041",
+                    "timestamp": "2026-07-03T09:05:47+02:00",
+                    "score": 8.594384601226004,
+                    "probability": 0.5202101469039917,
+                    "confidence": 0.8,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9336211041/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9336211041/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-03T09:05:47+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260703-070547.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "90",
+                "species": {
+                    "id": "90",
+                    "scientificName": "Ardea cinerea",
+                    "commonName": "Sz\u00fcrke g\u00e9m",
+                    "thumbnailUrl": "https://media.birdweather.com/species/90/GrayHeron-thumbnail-48938163008079f2a083eb422453fe97.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/90/GrayHeron-standard-e3f0fccd9ae9722e5e8fbb19dbaf13d5.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-heron",
+                    "ebirdUrl": "https://ebird.org/species/graher1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_heron",
+                    "wikipediaSummary": "The grey heron (Ardea cinerea) is a long-legged predatory wading bird of the heron family, Ardeidae, native throughout temperate Europe and Asia and also parts of Africa. It is resident in much of its range, but some populations from the more northern parts migrate southwards in autumn. A bird of wetland areas, it can be seen around lakes, rivers, ponds, marshes and on the sea coast. It feeds mostly on aquatic creatures which it catches after standing stationary beside or in the water or stalking its prey through the shallows.\nStanding up to 1 metre (3 ft 3 in) tall, adults weigh from 1 to 2 kg (2 to 4 lb). They have a white head and neck with a broad black stripe that extends from the eye to the black crest. The body and wings are grey above and the underparts are greyish-white, with some black on the flanks. The long, sharply pointed beak is pinkish-yellow and the legs are brown.\nThe birds breed colonially in spring in \"heronries\", usually building their nests high in trees. A clutch of usually three to five bluish-green eggs is laid. Both birds incubate the eggs for  around 25 days, and then both feed the chicks, which fledge when 7-8 weeks old. Many juveniles do not survive their first winter, but if they do, they can expect to live for about 5 years.\nIn Ancient Egypt, the deity Bennu was depicted as a heron in New Kingdom artwork. \nIn Ancient Rome, the heron was a bird of divination. Roast heron was once a specially prized dish; when George Neville became Archbishop of York in 1465, 400 herons were served to the guests.",
+                    "color": "#a70076",
+                    "thumbhash": "LOcJDwKIeId/h3iBh8eIR2iKpgfXaYAN",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9362900606",
+                    "timestamp": "2026-07-04T06:15:39+02:00",
+                    "score": 9.392459803147617,
+                    "probability": 0.6681292057037354,
+                    "confidence": 1,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9362900606/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9362900606/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-04T06:15:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-041539.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
