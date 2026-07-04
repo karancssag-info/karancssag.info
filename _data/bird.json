@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "756",
+                "species": {
+                    "id": "756",
+                    "scientificName": "Dendrocopos syriacus",
+                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
+                    "color": "#93d436",
+                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9378612918",
+                    "timestamp": "2026-07-04T18:39:28+02:00",
+                    "score": 6.50408772357815,
+                    "probability": 0.07734602689743042,
+                    "confidence": 0.96,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9378612918/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9378612918/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-04T18:39:28+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-163928.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "52",
                 "species": {
                     "id": "52",
