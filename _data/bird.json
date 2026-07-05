@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 8,
+                "count": 7,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 8,
+                    "almostCertain": 7,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9364965083",
-                    "timestamp": "2026-07-04T08:21:26+02:00",
-                    "score": 9.205529021744914,
+                    "id": "9390042093",
+                    "timestamp": "2026-07-05T04:38:32+02:00",
+                    "score": 9.261455154237662,
                     "probability": 0.8528028726577759,
-                    "confidence": 0.78,
+                    "confidence": 0.8,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9364965083/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9364965083/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9390042093/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9390042093/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-04T08:21:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-062126.flac",
+                        "timestamp": "2026-07-05T04:38:32+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260705-023832.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -107,6 +107,63 @@
                     "soundscape": {
                         "timestamp": "2026-07-04T20:25:08+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260704-182508.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "20",
+                "species": {
+                    "id": "20",
+                    "scientificName": "Phoenicurus ochruros",
+                    "commonName": "H\u00e1zi rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
+                    "ebirdUrl": "https://ebird.org/species/blared1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
+                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
+                    "color": "#c8ce2d",
+                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9389705377",
+                    "timestamp": "2026-07-05T04:13:12+02:00",
+                    "score": 9.309007161943406,
+                    "probability": 0.7735755443572998,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9389705377/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9389705377/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-05T04:13:12+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260705-021312.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
