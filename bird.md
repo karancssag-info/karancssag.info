@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Madárészlelések
+layout: page
 permalink: /madar24/
 description: Madárészlelések az elmúlt 24 órában, gyakoriság szerint, Karancsság - Újtelep
 comments: false
