@@ -59,63 +59,6 @@
                 }
             },
             {
-                "speciesId": "62",
-                "species": {
-                    "id": "62",
-                    "scientificName": "Sylvia atricapilla",
-                    "commonName": "Bar\u00e1tposz\u00e1ta",
-                    "thumbnailUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-thumbnail-545c834c61889e5646dfc5aafeb4425a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-standard-ca67b81f2c6a6cba55dab13eb6582f24.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackcap",
-                    "ebirdUrl": "https://ebird.org/species/blackc1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
-                    "wikipediaSummary": "The Eurasian blackcap (Sylvia atricapilla), usually known simply as the blackcap, is a common and widespread typical warbler. It has mainly olive-grey upperparts and pale grey underparts, and differences between the five subspecies are small. Both sexes have a neat coloured cap to the head, black in the male and reddish-brown in the female. The male's typical song is a rich musical warbling, often ending in a loud high-pitched crescendo, but a simpler song is given in some isolated areas, such as valleys in the Alps. The blackcap's closest relative is the garden warbler, which looks quite different but has a similar song.\nThe blackcap breeds in much of Europe, western Asia and northwestern Africa, and its preferred habitat is mature deciduous woodland. The male holds a territory when breeding, which is defended against garden warblers as well as other blackcaps. The nest is a neat cup, built low in brambles or scrub, and the clutch is typically 4\u20136 mainly buff eggs, which hatch in about 11 days. The chicks fledge in 11\u201312 days, but are cared for by both adults for some time after leaving the nest. The blackcap is a partial migrant; birds from the colder areas of its range winter in scrub or trees in northwestern Europe, around the Mediterranean and in tropical Africa. Some German birds have adapted to spending the winter in gardens in Great Britain and Ireland. Insects are the main food in the breeding season, but, for the rest of the year, blackcaps survive primarily on small fruit. Garden birds also eat bread, fat and peanuts in winter.\nDespite extensive hunting in Mediterranean countries and the natural hazards of predation and disease, the blackcap has been extending its range for several decades, and is classified by the International Union for Conservation of Nature as least concern. Its rich and varied song has led to it being described as the \"mock nightingale\" and it has featured in literature, films and music. In Messiaen's opera Saint Fran\u00e7ois d'Assise, the saint is represented by themes based on the blackcap's song.",
-                    "color": "#7adb83",
-                    "thumbhash": "6vcJFwLyeItqY3mOc3enaoiH+HQaPpkA",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9396208083",
-                    "timestamp": "2026-07-05T11:14:58+02:00",
-                    "score": 9.511235687045382,
-                    "probability": 0.8528028726577759,
-                    "confidence": 0.9,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9396208083/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9396208083/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-05T11:14:58+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260705-091458.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "42",
                 "species": {
                     "id": "42",
@@ -164,6 +107,63 @@
                     "soundscape": {
                         "timestamp": "2026-07-05T08:09:08+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260705-060908.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "62",
+                "species": {
+                    "id": "62",
+                    "scientificName": "Sylvia atricapilla",
+                    "commonName": "Bar\u00e1tposz\u00e1ta",
+                    "thumbnailUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-thumbnail-545c834c61889e5646dfc5aafeb4425a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-standard-ca67b81f2c6a6cba55dab13eb6582f24.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackcap",
+                    "ebirdUrl": "https://ebird.org/species/blackc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+                    "wikipediaSummary": "The Eurasian blackcap (Sylvia atricapilla), usually known simply as the blackcap, is a common and widespread typical warbler. It has mainly olive-grey upperparts and pale grey underparts, and differences between the five subspecies are small. Both sexes have a neat coloured cap to the head, black in the male and reddish-brown in the female. The male's typical song is a rich musical warbling, often ending in a loud high-pitched crescendo, but a simpler song is given in some isolated areas, such as valleys in the Alps. The blackcap's closest relative is the garden warbler, which looks quite different but has a similar song.\nThe blackcap breeds in much of Europe, western Asia and northwestern Africa, and its preferred habitat is mature deciduous woodland. The male holds a territory when breeding, which is defended against garden warblers as well as other blackcaps. The nest is a neat cup, built low in brambles or scrub, and the clutch is typically 4\u20136 mainly buff eggs, which hatch in about 11 days. The chicks fledge in 11\u201312 days, but are cared for by both adults for some time after leaving the nest. The blackcap is a partial migrant; birds from the colder areas of its range winter in scrub or trees in northwestern Europe, around the Mediterranean and in tropical Africa. Some German birds have adapted to spending the winter in gardens in Great Britain and Ireland. Insects are the main food in the breeding season, but, for the rest of the year, blackcaps survive primarily on small fruit. Garden birds also eat bread, fat and peanuts in winter.\nDespite extensive hunting in Mediterranean countries and the natural hazards of predation and disease, the blackcap has been extending its range for several decades, and is classified by the International Union for Conservation of Nature as least concern. Its rich and varied song has led to it being described as the \"mock nightingale\" and it has featured in literature, films and music. In Messiaen's opera Saint Fran\u00e7ois d'Assise, the saint is represented by themes based on the blackcap's song.",
+                    "color": "#7adb83",
+                    "thumbhash": "6vcJFwLyeItqY3mOc3enaoiH+HQaPpkA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9396208083",
+                    "timestamp": "2026-07-05T11:14:58+02:00",
+                    "score": 9.511235687045382,
+                    "probability": 0.8528028726577759,
+                    "confidence": 0.9,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9396208083/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9396208083/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-05T11:14:58+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260705-091458.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
