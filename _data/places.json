@@ -866,17 +866,17 @@
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 124</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.11652,
-                "lng": 19.6596241
+                "lat": 48.116362,
+                "lng": 19.6599312
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.1177946302915,
-                    "lng": 19.6610407802915
+                    "lat": 48.11771098029149,
+                    "lng": 19.6612801802915
                 },
                 "southwest": {
-                    "lat": 48.1150966697085,
-                    "lng": 19.6583428197085
+                    "lat": 48.11501301970849,
+                    "lng": 19.65858221970849
                 }
             }
         },
