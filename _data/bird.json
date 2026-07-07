@@ -399,6 +399,63 @@
                     },
                     "__typename": "Detection"
                 }
+            },
+            {
+                "speciesId": "538",
+                "species": {
+                    "id": "538",
+                    "scientificName": "Dryobates minor",
+                    "commonName": "Kis fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/538/LesserSpottedWoodpecker-thumbnail-ffd064cf58420a814bf31fd21b3a4b03.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/538/LesserSpottedWoodpecker-standard-91e25dfa83c281a9efd566cac142173a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/lesser-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/leswoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker",
+                    "wikipediaSummary": "The lesser spotted woodpecker (Dryobates minor) is a member of the woodpecker family Picidae. It was formerly assigned to the genus Dendrocopos (sometimes incorrectly spelt as Dendrocopus). Some taxonomic authorities continue to list the species there.\nThe range of the lesser spotted woodpecker is the Palearctic region, but several subspecies are recognised.",
+                    "color": "#88a900",
+                    "thumbhash": "UxgGDwL9RmaOh2p5uJh5h4lzCHqH9noK",
+                    "imageCredit": "Thermos",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9451630945",
+                    "timestamp": "2026-07-07T07:15:41+02:00",
+                    "score": 6.648591500745514,
+                    "probability": 0.09009566903114319,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9451630945/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9451630945/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-07T07:15:41+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260707-051541.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
             }
         ]
     }
