@@ -1273,5 +1273,101 @@
         "place_id": "ChIJwSE4P4IRQEcRv2GmzrHBniU",
         "url": "https://maps.google.com/?cid=2710816995143999935",
         "website": "https://www.facebook.com/Tomy-Pub-107117271858338"
+    },
+    {
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Felszabadul\u00e1s \u00fat 15</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "geometry": {
+            "location": {
+                "lat": 48.11316009999999,
+                "lng": 19.6643398
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1146776302915,
+                    "lng": 19.6658323302915
+                },
+                "southwest": {
+                    "lat": 48.1119796697085,
+                    "lng": 19.6631343697085
+                }
+            }
+        },
+        "name": "Gyuri Piac",
+        "opening_hours": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "h\u00e9tf\u0151: 8:00\u201318:00",
+                "kedd: 8:00\u201318:00",
+                "szerda: Z\u00e1rva",
+                "cs\u00fct\u00f6rt\u00f6k: 8:00\u201318:00",
+                "p\u00e9ntek: 8:00\u201318:00",
+                "szombat: 8:00\u201318:00",
+                "vas\u00e1rnap: 8:00\u201318:00"
+            ]
+        },
+        "place_id": "ChIJuQU4eAARQEcR17WV1FE2wm4",
+        "url": "https://maps.google.com/?cid=7981001214740772311",
+        "website": "https://www.facebook.com/profile.php?id=61583663952604"
     }
 ]
