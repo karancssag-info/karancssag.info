@@ -20,6 +20,63 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
+                "count": 11,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 11,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9569226566",
+                    "timestamp": "2026-07-11T08:55:33+02:00",
+                    "score": 8.885988415259256,
+                    "probability": 0.633112907409668,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9569226566/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9569226566/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-11T08:55:33+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260711-065533.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "407",
+                "species": {
+                    "id": "407",
+                    "scientificName": "Columba palumbus",
+                    "commonName": "\u00d6rv\u00f6s galamb",
+                    "thumbnailUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-thumbnail-4b86c907c8b82c8af31d566b811dee05.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-standard-5558900260c92622ceef8a812b06518e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-wood-pigeon",
+                    "ebirdUrl": "https://ebird.org/species/cowpig1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
+                    "wikipediaSummary": "The common wood pigeon (Columba palumbus) is a large species in the dove and pigeon family (Columbidae), native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove (Columba livia). It is locally known in southeast England as the \"culver\"; This name has given rise to several areas known for keeping pigeons to be named after it, such as Culver Down. It has a flexible diet, predominantly feeding on vegetable matter, including cereal crops, leading to them being regarded as an agricultural pest. Wood pigeons are extensively hunted over large parts of their range, but this does not seem to have a great impact on their population.",
+                    "color": "#028fb2",
+                    "thumbhash": "2ukFHwIHiYeWxnZUiniYZ3h5h6+rCIQH",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89056504@N00\">Tristan Ferne</a> from UK",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
                 "count": 4,
                 "breakdown": {
                     "unlikely": 0,
@@ -31,14 +88,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9567713207",
-                    "timestamp": "2026-07-11T07:17:41+02:00",
-                    "score": 8.85885881586349,
-                    "probability": 0.633112907409668,
-                    "confidence": 0.8,
+                    "id": "9569081285",
+                    "timestamp": "2026-07-11T08:46:12+02:00",
+                    "score": 9.784102793556936,
+                    "probability": 0.932948112487793,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9567713207/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9567713207/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9569081285/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9569081285/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-11T07:17:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260711-051741.flac",
+                        "timestamp": "2026-07-11T08:46:12+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260711-064612.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -164,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-10T11:37:47+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260710-093747.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "407",
-                "species": {
-                    "id": "407",
-                    "scientificName": "Columba palumbus",
-                    "commonName": "\u00d6rv\u00f6s galamb",
-                    "thumbnailUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-thumbnail-4b86c907c8b82c8af31d566b811dee05.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-standard-5558900260c92622ceef8a812b06518e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-wood-pigeon",
-                    "ebirdUrl": "https://ebird.org/species/cowpig1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
-                    "wikipediaSummary": "The common wood pigeon (Columba palumbus) is a large species in the dove and pigeon family (Columbidae), native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove (Columba livia). It is locally known in southeast England as the \"culver\"; This name has given rise to several areas known for keeping pigeons to be named after it, such as Culver Down. It has a flexible diet, predominantly feeding on vegetable matter, including cereal crops, leading to them being regarded as an agricultural pest. Wood pigeons are extensively hunted over large parts of their range, but this does not seem to have a great impact on their population.",
-                    "color": "#028fb2",
-                    "thumbhash": "2ukFHwIHiYeWxnZUiniYZ3h5h6+rCIQH",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89056504@N00\">Tristan Ferne</a> from UK",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9540828118",
-                    "timestamp": "2026-07-10T09:17:10+02:00",
-                    "score": 9.65557109890875,
-                    "probability": 0.932948112487793,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9540828118/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9540828118/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-10T09:17:10+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260710-071710.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
