@@ -171,6 +171,120 @@
                     },
                     "__typename": "Detection"
                 }
+            },
+            {
+                "speciesId": "30",
+                "species": {
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9600638843",
+                    "timestamp": "2026-07-12T12:12:48+02:00",
+                    "score": 9.16800574088577,
+                    "probability": 0.6969406604766846,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9600638843/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9600638843/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-12T12:12:48+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260712-101248.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "95",
+                "species": {
+                    "id": "95",
+                    "scientificName": "Motacilla alba",
+                    "commonName": "Bar\u00e1zdabilleget\u0151",
+                    "thumbnailUrl": "https://media.birdweather.com/species/95/WhiteWagtail-thumbnail-645080e5b8667eaccbc9a938f781f907.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/95/WhiteWagtail-standard-c3e712d95481fd4c30012b3afc4ee61f.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/white-wagtail",
+                    "ebirdUrl": "https://ebird.org/species/whiwag",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/White_wagtail",
+                    "wikipediaSummary": "The white wagtail (Motacilla alba) is a small passerine bird in the family Motacillidae, which also includes pipits and longclaws. The species breeds in much of Europe and the Asian Palearctic and parts of North Africa. It has a toehold in Alaska as a scarce breeder. It is resident in the mildest parts of its range, but otherwise migrates to Africa. In Ireland and Great Britain, the darker subspecies, the pied wagtail or water wagtail (M. a. yarrellii) predominates. In total, there are between 9 and 11 subspecies.\nThe white wagtail is an insectivorous bird of open country, often near habitation and water. It prefers bare areas for feeding, where it can see and pursue its prey. In urban areas it has adapted to foraging on paved areas such as car parks. It nests in crevices in stone walls and similar natural and man-made structures.It is the national bird of Latvia and has featured on the stamps of several countries. Though it is 'of least concern', there are several threats against it, like being kept as pets and being used as food.",
+                    "color": "#457700",
+                    "thumbhash": "2PcFJwZKpplweXdymnZouGiofwaoZ4AL",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9601506346",
+                    "timestamp": "2026-07-12T12:50:10+02:00",
+                    "score": 9.680028001783912,
+                    "probability": 0.8639684319496155,
+                    "confidence": 0.97,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9601506346/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9601506346/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-12T12:50:10+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260712-105010.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
             }
         ]
     }
