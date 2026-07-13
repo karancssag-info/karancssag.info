@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9623708036",
-                    "timestamp": "2026-07-13T06:45:45+02:00",
-                    "score": 8.642927143924243,
+                    "id": "9624832204",
+                    "timestamp": "2026-07-13T08:01:26+02:00",
+                    "score": 8.350330626515902,
                     "probability": 0.5182054042816162,
-                    "confidence": 0.82,
+                    "confidence": 0.72,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9623708036/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9623708036/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9624832204/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9624832204/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-13T06:45:45+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260713-044545.flac",
+                        "timestamp": "2026-07-13T08:01:26+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260713-060126.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -107,63 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-12T08:14:58+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260712-061458.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "40",
-                "species": {
-                    "id": "40",
-                    "scientificName": "Dendrocopos major",
-                    "commonName": "Nagy fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-thumbnail-4c1b2ae5187a446439291ea1b70c27b7.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-standard-4aa3dad67e1c219cca5162102b1dab05.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-spotted-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/grswoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
-                    "wikipediaSummary": "The great spotted woodpecker (Dendrocopos major) is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recent recolonisation of Ireland and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action. This species is similar to the Syrian woodpecker.\nThis woodpecker occurs in all types of woodlands and eats a variety of foods, being capable of extracting seeds from pine cones, insect larvae from inside trees or eggs and chicks of other birds from their nests. It breeds in holes excavated in living or dead trees, unlined apart from wood chips. The typical clutch is four to six glossy white eggs. Both parents incubate the eggs, feed the chicks, and keep the nest clean. When the young fledge they are fed by the adults for about ten days, each parent taking responsibility for feeding part of the brood.\nThe species is closely related to some other members of its genus. It has a number of subspecies, some of which are distinctive enough to be potential new species. It has a huge range and large population, with no widespread threats, so it is classed as a species of least concern by the International Union for Conservation of Nature (IUCN).",
-                    "color": "#e7c421",
-                    "thumbhash": "j9gFDwQIU4dsZXhniWeXaId5Gv74f3YD",
-                    "imageCredit": "Gerry Zambonini",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9596518380",
-                    "timestamp": "2026-07-12T07:48:59+02:00",
-                    "score": 9.365560083545462,
-                    "probability": 0.6745012998580933,
-                    "confidence": 0.98,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9596518380/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9596518380/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-12T07:48:59+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260712-054859.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
