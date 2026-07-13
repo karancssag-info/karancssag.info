@@ -1275,20 +1275,20 @@
         "website": "https://www.facebook.com/Tomy-Pub-107117271858338"
     },
     {
-        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Felszabadul\u00e1s \u00fat 15</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
+        "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">\u00dajtelepi \u00fat 15</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
         "geometry": {
             "location": {
-                "lat": 48.11316009999999,
-                "lng": 19.6643398
+                "lat": 48.1133263,
+                "lng": 19.664427
             },
             "viewport": {
                 "northeast": {
-                    "lat": 48.1146776302915,
-                    "lng": 19.6658323302915
+                    "lat": 48.1146752802915,
+                    "lng": 19.6657759802915
                 },
                 "southwest": {
-                    "lat": 48.1119796697085,
-                    "lng": 19.6631343697085
+                    "lat": 48.1119773197085,
+                    "lng": 19.66307801970849
                 }
             }
         },
