@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
-                "count": 5,
+                "count": 12,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 5,
+                    "almostCertain": 12,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9741640683",
-                    "timestamp": "2026-07-17T12:53:25+02:00",
-                    "score": 8.950685738894888,
+                    "id": "9744258304",
+                    "timestamp": "2026-07-17T14:41:14+02:00",
+                    "score": 8.849157817044288,
                     "probability": 0.60401451587677,
-                    "confidence": 0.86,
+                    "confidence": 0.82,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9741640683/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9741640683/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9744258304/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9744258304/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-17T12:53:25+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260717-105325.flac",
+                        "timestamp": "2026-07-17T14:41:14+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260717-124114.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
