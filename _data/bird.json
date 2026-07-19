@@ -173,120 +173,6 @@
                 }
             },
             {
-                "speciesId": "20",
-                "species": {
-                    "id": "20",
-                    "scientificName": "Phoenicurus ochruros",
-                    "commonName": "H\u00e1zi rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
-                    "ebirdUrl": "https://ebird.org/species/blared1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
-                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
-                    "color": "#c8ce2d",
-                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9766002634",
-                    "timestamp": "2026-07-18T09:39:37+02:00",
-                    "score": 9.3475961962276,
-                    "probability": 0.7686397433280945,
-                    "confidence": 0.89,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9766002634/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9766002634/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-18T09:39:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-073937.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "103",
-                "species": {
-                    "id": "103",
-                    "scientificName": "Streptopelia decaocto",
-                    "commonName": "Balk\u00e1ni gerle",
-                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
-                    "ebirdUrl": "https://ebird.org/species/eucdov",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
-                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
-                    "color": "#006e2a",
-                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9764593068",
-                    "timestamp": "2026-07-18T08:07:26+02:00",
-                    "score": 9.131997168144636,
-                    "probability": 0.7910265326499939,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9764593068/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9764593068/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-18T08:07:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-060726.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "294",
                 "species": {
                     "id": "294",
@@ -344,6 +230,63 @@
                 }
             },
             {
+                "speciesId": "20",
+                "species": {
+                    "id": "20",
+                    "scientificName": "Phoenicurus ochruros",
+                    "commonName": "H\u00e1zi rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
+                    "ebirdUrl": "https://ebird.org/species/blared1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
+                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
+                    "color": "#c8ce2d",
+                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9766002634",
+                    "timestamp": "2026-07-18T09:39:37+02:00",
+                    "score": 9.3475961962276,
+                    "probability": 0.7686397433280945,
+                    "confidence": 0.89,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9766002634/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9766002634/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-18T09:39:37+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-073937.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "30",
                 "species": {
                     "id": "30",
@@ -392,6 +335,63 @@
                     "soundscape": {
                         "timestamp": "2026-07-18T12:11:56+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-101156.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "103",
+                "species": {
+                    "id": "103",
+                    "scientificName": "Streptopelia decaocto",
+                    "commonName": "Balk\u00e1ni gerle",
+                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
+                    "ebirdUrl": "https://ebird.org/species/eucdov",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
+                    "color": "#006e2a",
+                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9764593068",
+                    "timestamp": "2026-07-18T08:07:26+02:00",
+                    "score": 9.131997168144636,
+                    "probability": 0.7910265326499939,
+                    "confidence": 0.79,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9764593068/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9764593068/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-18T08:07:26+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-060726.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
