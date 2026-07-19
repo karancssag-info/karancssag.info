@@ -287,63 +287,6 @@
                 }
             },
             {
-                "speciesId": "220",
-                "species": {
-                    "id": "220",
-                    "scientificName": "Rallus aquaticus",
-                    "commonName": "Guvat",
-                    "thumbnailUrl": "https://media.birdweather.com/species/220/WaterRail-thumbnail-67e66ad6bce9b08e68a1aa39a5937596.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/220/WaterRail-standard-a5d0da0b5147da8c75f000c8abf0015e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/water-rail",
-                    "ebirdUrl": "https://ebird.org/species/watrai1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Water_rail",
-                    "wikipediaSummary": "The water rail (Rallus aquaticus) is a bird of the rail family which breeds in well-vegetated wetlands across Europe, Asia and North Africa. Northern and eastern populations are migratory, but this species is a permanent resident in the warmer parts of its breeding range. The adult is 23\u201328 cm (9\u201311 in) long, and, like other rails, has a body that is flattened laterally, allowing it easier passage through the reed beds it inhabits. It has mainly brown upperparts and blue-grey underparts, black barring on the flanks, long toes, a short tail and a long reddish bill. Immature birds are generally similar in appearance to the adults, but the blue-grey in the plumage is replaced by buff. The downy chicks are black, as with all rails. The former subspecies R. indicus, has distinctive markings and a call that is very different from the pig-like squeal of the western races, and is now usually split as a separate species, the brown-cheeked rail.\nThe water rail breeds in reed beds and other marshy sites with tall, dense vegetation, building its nest a little above the water level from whatever plants are available nearby. The off-white, blotched eggs are incubated mainly by the female, and the precocial downy chicks hatch in 19\u201322 days. The female will defend her eggs and brood against intruders, or move them to another location if they are discovered. This species can breed after its first year, and it normally raises two clutches in each season. Water rails are omnivorous, feeding mainly on invertebrates during summer and berries or plant stems towards winter. They are territorial even after breeding, and will aggressively defend feeding areas in winter.\nThese rails are vulnerable to flooding or freezing conditions, loss of habitat and predation by mammals and large birds. The introduced American mink has exterminated some island populations, but overall the species' huge range and large numbers mean that it is not considered to be threatened.",
-                    "color": "#972a3c",
-                    "thumbhash": "VQgCDwBoM7pbh2du90nOiFcadTnzegYK",
-                    "imageCredit": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Kookaburra_81\" title=\"User:Kookaburra 81\">Pierre Dalous</a>\n</div>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9767605066",
-                    "timestamp": "2026-07-18T11:32:53+02:00",
-                    "score": 6.351879598504029,
-                    "probability": 0.09747201204299927,
-                    "confidence": 0.78,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9767605066/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9767605066/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-18T11:32:53+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-093253.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "453",
                 "species": {
                     "id": "453",
