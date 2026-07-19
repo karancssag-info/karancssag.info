@@ -342,63 +342,6 @@
                     },
                     "__typename": "Detection"
                 }
-            },
-            {
-                "speciesId": "453",
-                "species": {
-                    "id": "453",
-                    "scientificName": "Nycticorax nycticorax",
-                    "commonName": "Bakcs\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/453/Black-crownedNight-Heron-thumbnail-ecf0a2306cd49ef3263e82c8baf0a3e0.png",
-                    "imageUrl": "https://media.birdweather.com/species/453/Black-crownedNight-Heron-standard-1d4c591a46a643873973da30c1bbf6f5.png",
-                    "birdweatherUrl": "https://app.birdweather.com/species/black-crowned-night-heron",
-                    "ebirdUrl": "https://ebird.org/species/bcnher",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
-                    "wikipediaSummary": "The black-crowned night heron (Nycticorax nycticorax), or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related nankeen night heron, with which it has hybridized in the area of contact.",
-                    "color": "#5c5311",
-                    "thumbhash": "jfgFDwAIh4qZVYeQbFaWfHSGhwyoBZwD",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Needsmoreritalin\" title=\"User:Needsmoreritalin\">Charles Homler d/b/a Focus On Wildlife</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9783306656",
-                    "timestamp": "2026-07-19T00:05:57+02:00",
-                    "score": 7.752188727034349,
-                    "probability": 0.21756142377853394,
-                    "confidence": 0.93,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9783306656/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9783306656/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-19T00:05:57+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-220557.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
             }
         ]
     }
