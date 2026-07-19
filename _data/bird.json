@@ -344,63 +344,6 @@
                 }
             },
             {
-                "speciesId": "103",
-                "species": {
-                    "id": "103",
-                    "scientificName": "Streptopelia decaocto",
-                    "commonName": "Balk\u00e1ni gerle",
-                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
-                    "ebirdUrl": "https://ebird.org/species/eucdov",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
-                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
-                    "color": "#006e2a",
-                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9764593068",
-                    "timestamp": "2026-07-18T08:07:26+02:00",
-                    "score": 9.131997168144636,
-                    "probability": 0.7910265326499939,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9764593068/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9764593068/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-18T08:07:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260718-060726.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "220",
                 "species": {
                     "id": "220",
