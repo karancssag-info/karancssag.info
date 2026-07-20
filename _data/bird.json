@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "42",
+                "species": {
+                    "id": "42",
+                    "scientificName": "Oriolus oriolus",
+                    "commonName": "S\u00e1rgarig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
+                    "ebirdUrl": "https://ebird.org/species/eugori2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
+                    "color": "#fbb212",
+                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
+                "count": 10,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 10,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9827109193",
+                    "timestamp": "2026-07-20T16:14:16+02:00",
+                    "score": 9.045205972832012,
+                    "probability": 0.60401451587677,
+                    "confidence": 0.9,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9827109193/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9827109193/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T16:14:16+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-141416.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "294",
                 "species": {
                     "id": "294",
@@ -50,63 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T13:01:41+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-110141.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "42",
-                "species": {
-                    "id": "42",
-                    "scientificName": "Oriolus oriolus",
-                    "commonName": "S\u00e1rgarig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
-                    "ebirdUrl": "https://ebird.org/species/eugori2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
-                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
-                    "color": "#fbb212",
-                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 9,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 9,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9823869808",
-                    "timestamp": "2026-07-20T14:01:49+02:00",
-                    "score": 9.112048497744134,
-                    "probability": 0.60401451587677,
-                    "confidence": 0.93,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9823869808/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9823869808/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T14:01:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-120149.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
