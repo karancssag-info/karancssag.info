@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9818602250",
+                    "timestamp": "2026-07-20T09:03:07+02:00",
+                    "score": 8.13107161717701,
+                    "probability": 0.4625919461250305,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9818602250/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9818602250/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T09:03:07+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-070307.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "84",
                 "species": {
                     "id": "84",
@@ -230,63 +287,6 @@
                 }
             },
             {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9814859430",
-                    "timestamp": "2026-07-20T05:03:37+02:00",
-                    "score": 8.837735653606542,
-                    "probability": 0.4625919461250305,
-                    "confidence": 0.97,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9814859430/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9814859430/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T05:03:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-030337.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "465",
                 "species": {
                     "id": "465",
@@ -344,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "3",
+                "species": {
+                    "id": "3",
+                    "scientificName": "Dendrocoptes medius",
+                    "commonName": "K\u00f6zepfakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/miswoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
+                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
+                    "color": "#9b1ea9",
+                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9818328139",
+                    "timestamp": "2026-07-20T08:43:33+02:00",
+                    "score": 6.732038829903752,
+                    "probability": 0.09474540501832962,
+                    "confidence": 0.95,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9818328139/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9818328139/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T08:43:33+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-064333.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "220",
                 "species": {
                     "id": "220",
@@ -392,63 +449,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T06:40:59+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-044059.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "3",
-                "species": {
-                    "id": "3",
-                    "scientificName": "Dendrocoptes medius",
-                    "commonName": "K\u00f6zepfakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/miswoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
-                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
-                    "color": "#9b1ea9",
-                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9815639404",
-                    "timestamp": "2026-07-20T05:51:52+02:00",
-                    "score": 6.645025464064166,
-                    "probability": 0.09474540501832962,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9815639404/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9815639404/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T05:51:52+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-035152.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
