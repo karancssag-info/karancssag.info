@@ -2,6 +2,120 @@
     "data": {
         "species": [
             {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 7,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 7,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9818602250",
+                    "timestamp": "2026-07-20T09:03:07+02:00",
+                    "score": 8.13107161717701,
+                    "probability": 0.4625919461250305,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9818602250/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9818602250/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T09:03:07+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-070307.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "42",
+                "species": {
+                    "id": "42",
+                    "scientificName": "Oriolus oriolus",
+                    "commonName": "S\u00e1rgarig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
+                    "ebirdUrl": "https://ebird.org/species/eugori2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
+                    "color": "#fbb212",
+                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
+                "count": 7,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 7,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9818795507",
+                    "timestamp": "2026-07-20T09:16:54+02:00",
+                    "score": 8.998760847036328,
+                    "probability": 0.60401451587677,
+                    "confidence": 0.88,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9818795507/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9818795507/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T09:16:54+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-071654.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "407",
                 "species": {
                     "id": "407",
@@ -50,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-19T19:53:57+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260719-175357.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 6,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 6,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9818602250",
-                    "timestamp": "2026-07-20T09:03:07+02:00",
-                    "score": 8.13107161717701,
-                    "probability": 0.4625919461250305,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9818602250/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9818602250/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T09:03:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-070307.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -506,63 +563,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T06:18:17+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-041817.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "42",
-                "species": {
-                    "id": "42",
-                    "scientificName": "Oriolus oriolus",
-                    "commonName": "S\u00e1rgarig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
-                    "ebirdUrl": "https://ebird.org/species/eugori2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
-                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
-                    "color": "#fbb212",
-                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9817164871",
-                    "timestamp": "2026-07-20T07:24:52+02:00",
-                    "score": 9.112048497744134,
-                    "probability": 0.60401451587677,
-                    "confidence": 0.93,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9817164871/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9817164871/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T07:24:52+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-052452.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
