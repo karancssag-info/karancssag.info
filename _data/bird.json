@@ -173,63 +173,6 @@
                 }
             },
             {
-                "speciesId": "407",
-                "species": {
-                    "id": "407",
-                    "scientificName": "Columba palumbus",
-                    "commonName": "\u00d6rv\u00f6s galamb",
-                    "thumbnailUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-thumbnail-4b86c907c8b82c8af31d566b811dee05.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-standard-5558900260c92622ceef8a812b06518e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-wood-pigeon",
-                    "ebirdUrl": "https://ebird.org/species/cowpig1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
-                    "wikipediaSummary": "The common wood pigeon (Columba palumbus) is a large species in the dove and pigeon family (Columbidae), native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove (Columba livia). It is locally known in southeast England as the \"culver\"; This name has given rise to several areas known for keeping pigeons to be named after it, such as Culver Down. It has a flexible diet, predominantly feeding on vegetable matter, including cereal crops, leading to them being regarded as an agricultural pest. Wood pigeons are extensively hunted over large parts of their range, but this does not seem to have a great impact on their population.",
-                    "color": "#028fb2",
-                    "thumbhash": "2ukFHwIHiYeWxnZUiniYZ3h5h6+rCIQH",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89056504@N00\">Tristan Ferne</a> from UK",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 7,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 7,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9819726197",
-                    "timestamp": "2026-07-20T10:28:02+02:00",
-                    "score": 9.182642146045952,
-                    "probability": 0.9371726512908936,
-                    "confidence": 0.73,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9819726197/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9819726197/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T10:28:02+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-082802.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "84",
                 "species": {
                     "id": "84",
@@ -278,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T17:55:54+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-155554.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "103",
-                "species": {
-                    "id": "103",
-                    "scientificName": "Streptopelia decaocto",
-                    "commonName": "Balk\u00e1ni gerle",
-                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
-                    "ebirdUrl": "https://ebird.org/species/eucdov",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
-                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
-                    "color": "#006e2a",
-                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9815434029",
-                    "timestamp": "2026-07-20T05:39:31+02:00",
-                    "score": 9.045442072923137,
-                    "probability": 0.7910265326499939,
-                    "confidence": 0.76,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9815434029/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9815434029/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T05:39:31+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-033931.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "103",
+                "species": {
+                    "id": "103",
+                    "scientificName": "Streptopelia decaocto",
+                    "commonName": "Balk\u00e1ni gerle",
+                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
+                    "ebirdUrl": "https://ebird.org/species/eucdov",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
+                    "color": "#006e2a",
+                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9815434029",
+                    "timestamp": "2026-07-20T05:39:31+02:00",
+                    "score": 9.045442072923137,
+                    "probability": 0.7910265326499939,
+                    "confidence": 0.76,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9815434029/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9815434029/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T05:39:31+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-033931.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "40",
                 "species": {
                     "id": "40",
@@ -506,6 +449,63 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T06:18:17+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-041817.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "407",
+                "species": {
+                    "id": "407",
+                    "scientificName": "Columba palumbus",
+                    "commonName": "\u00d6rv\u00f6s galamb",
+                    "thumbnailUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-thumbnail-4b86c907c8b82c8af31d566b811dee05.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-standard-5558900260c92622ceef8a812b06518e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-wood-pigeon",
+                    "ebirdUrl": "https://ebird.org/species/cowpig1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
+                    "wikipediaSummary": "The common wood pigeon (Columba palumbus) is a large species in the dove and pigeon family (Columbidae), native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove (Columba livia). It is locally known in southeast England as the \"culver\"; This name has given rise to several areas known for keeping pigeons to be named after it, such as Culver Down. It has a flexible diet, predominantly feeding on vegetable matter, including cereal crops, leading to them being regarded as an agricultural pest. Wood pigeons are extensively hunted over large parts of their range, but this does not seem to have a great impact on their population.",
+                    "color": "#028fb2",
+                    "thumbhash": "2ukFHwIHiYeWxnZUiniYZ3h5h6+rCIQH",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89056504@N00\">Tristan Ferne</a> from UK",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9819726197",
+                    "timestamp": "2026-07-20T10:28:02+02:00",
+                    "score": 9.182642146045952,
+                    "probability": 0.9371726512908936,
+                    "confidence": 0.73,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9819726197/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9819726197/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-20T10:28:02+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-082802.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
