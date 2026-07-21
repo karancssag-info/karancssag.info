@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "294",
+                "species": {
+                    "id": "294",
+                    "scientificName": "Chloris chloris",
+                    "commonName": "Z\u00f6ldike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
+                    "ebirdUrl": "https://ebird.org/species/eurgre1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
+                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
+                    "color": "#fea614",
+                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 12,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 12,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9842121745",
+                    "timestamp": "2026-07-21T05:25:29+02:00",
+                    "score": 8.866107246052598,
+                    "probability": 0.5031147003173828,
+                    "confidence": 0.93,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9842121745/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9842121745/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-21T05:25:29+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-032529.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "42",
                 "species": {
                     "id": "42",
@@ -50,63 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T16:14:16+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-141416.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "294",
-                "species": {
-                    "id": "294",
-                    "scientificName": "Chloris chloris",
-                    "commonName": "Z\u00f6ldike",
-                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
-                    "ebirdUrl": "https://ebird.org/species/eurgre1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
-                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
-                    "color": "#fea614",
-                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 10,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 10,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9822468992",
-                    "timestamp": "2026-07-20T13:01:41+02:00",
-                    "score": 8.704744487203355,
-                    "probability": 0.5031147003173828,
-                    "confidence": 0.86,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9822468992/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9822468992/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T13:01:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-110141.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -248,25 +248,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9824555849",
-                    "timestamp": "2026-07-20T14:30:36+02:00",
-                    "score": 6.351879598504029,
+                    "id": "9842384306",
+                    "timestamp": "2026-07-21T05:40:59+02:00",
+                    "score": 6.434935330392545,
                     "probability": 0.09747201204299927,
-                    "confidence": 0.78,
+                    "confidence": 0.81,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9824555849/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9824555849/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9842384306/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9842384306/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -276,8 +276,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-20T14:30:36+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-123036.flac",
+                        "timestamp": "2026-07-21T05:40:59+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-034059.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -305,12 +305,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 1,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -335,63 +335,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T08:43:33+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-064333.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "103",
-                "species": {
-                    "id": "103",
-                    "scientificName": "Streptopelia decaocto",
-                    "commonName": "Balk\u00e1ni gerle",
-                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
-                    "ebirdUrl": "https://ebird.org/species/eucdov",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
-                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
-                    "color": "#006e2a",
-                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9815434029",
-                    "timestamp": "2026-07-20T05:39:31+02:00",
-                    "score": 9.045442072923137,
-                    "probability": 0.7910265326499939,
-                    "confidence": 0.76,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9815434029/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9815434029/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-20T05:39:31+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-033931.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -449,6 +392,177 @@
                     "soundscape": {
                         "timestamp": "2026-07-20T06:18:17+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260720-041817.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "62",
+                "species": {
+                    "id": "62",
+                    "scientificName": "Sylvia atricapilla",
+                    "commonName": "Bar\u00e1tposz\u00e1ta",
+                    "thumbnailUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-thumbnail-545c834c61889e5646dfc5aafeb4425a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/62/EurasianBlackcap-standard-ca67b81f2c6a6cba55dab13eb6582f24.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackcap",
+                    "ebirdUrl": "https://ebird.org/species/blackc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+                    "wikipediaSummary": "The Eurasian blackcap (Sylvia atricapilla), usually known simply as the blackcap, is a common and widespread typical warbler. It has mainly olive-grey upperparts and pale grey underparts, and differences between the five subspecies are small. Both sexes have a neat coloured cap to the head, black in the male and reddish-brown in the female. The male's typical song is a rich musical warbling, often ending in a loud high-pitched crescendo, but a simpler song is given in some isolated areas, such as valleys in the Alps. The blackcap's closest relative is the garden warbler, which looks quite different but has a similar song.\nThe blackcap breeds in much of Europe, western Asia and northwestern Africa, and its preferred habitat is mature deciduous woodland. The male holds a territory when breeding, which is defended against garden warblers as well as other blackcaps. The nest is a neat cup, built low in brambles or scrub, and the clutch is typically 4\u20136 mainly buff eggs, which hatch in about 11 days. The chicks fledge in 11\u201312 days, but are cared for by both adults for some time after leaving the nest. The blackcap is a partial migrant; birds from the colder areas of its range winter in scrub or trees in northwestern Europe, around the Mediterranean and in tropical Africa. Some German birds have adapted to spending the winter in gardens in Great Britain and Ireland. Insects are the main food in the breeding season, but, for the rest of the year, blackcaps survive primarily on small fruit. Garden birds also eat bread, fat and peanuts in winter.\nDespite extensive hunting in Mediterranean countries and the natural hazards of predation and disease, the blackcap has been extending its range for several decades, and is classified by the International Union for Conservation of Nature as least concern. Its rich and varied song has led to it being described as the \"mock nightingale\" and it has featured in literature, films and music. In Messiaen's opera Saint Fran\u00e7ois d'Assise, the saint is represented by themes based on the blackcap's song.",
+                    "color": "#7adb83",
+                    "thumbhash": "6vcJFwLyeItqY3mOc3enaoiH+HQaPpkA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9842766037",
+                    "timestamp": "2026-07-21T06:02:14+02:00",
+                    "score": 9.464600852216421,
+                    "probability": 0.7718068361282349,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9842766037/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9842766037/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-21T06:02:14+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-040214.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "75",
+                "species": {
+                    "id": "75",
+                    "scientificName": "Corvus corax",
+                    "commonName": "Holl\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
+                    "ebirdUrl": "https://ebird.org/species/comrav",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
+                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
+                    "color": "#025fba",
+                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9842562293",
+                    "timestamp": "2026-07-21T05:51:00+02:00",
+                    "score": 8.257884105306506,
+                    "probability": 0.3670366704463959,
+                    "confidence": 0.85,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9842562293/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9842562293/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-21T05:51:00+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-035100.flac",
+                        "duration": 0,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "103",
+                "species": {
+                    "id": "103",
+                    "scientificName": "Streptopelia decaocto",
+                    "commonName": "Balk\u00e1ni gerle",
+                    "thumbnailUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-thumbnail-53ccb5f0a5d0640a1e766dd99c28ebca.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/103/EurasianCollared-Dove-standard-e0c74c4f1ffe5357c4759579380dab35.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-collared-dove",
+                    "ebirdUrl": "https://ebird.org/species/eucdov",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+                    "wikipediaSummary": "The Eurasian collared dove (Streptopelia decaocto) is a dove species native to Europe and Asia; it was introduced to Japan, North America and islands in the Caribbean. Because of its vast global range and increasing population trend, it has been listed as Least Concern on the IUCN Red List since 2014.",
+                    "color": "#006e2a",
+                    "thumbhash": "pvcFFwLpd4RvlJeUWZh2eXh4VxBqBZIH",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "9842281854",
+                    "timestamp": "2026-07-21T05:35:00+02:00",
+                    "score": 9.015330970718415,
+                    "probability": 0.7910265326499939,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/9842281854/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9842281854/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-07-21T05:35:00+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-033500.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
