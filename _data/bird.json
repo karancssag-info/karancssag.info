@@ -31,14 +31,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9856940544",
-                    "timestamp": "2026-07-21T18:40:08+02:00",
+                    "id": "9858520611",
+                    "timestamp": "2026-07-21T20:03:24+02:00",
                     "score": 8.576613787728526,
                     "probability": 0.5031147003173828,
                     "confidence": 0.81,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9856940544/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9856940544/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9858520611/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9858520611/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-21T18:40:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-164008.flac",
+                        "timestamp": "2026-07-21T20:03:24+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-180324.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
