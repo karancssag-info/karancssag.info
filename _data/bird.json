@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 43,
+                "count": 44,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 43,
+                    "almostCertain": 44,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9868998620",
-                    "timestamp": "2026-07-22T06:38:43+02:00",
-                    "score": 8.950441559461822,
+                    "id": "9869776394",
+                    "timestamp": "2026-07-22T07:25:46+02:00",
+                    "score": 8.521806479307758,
                     "probability": 0.5031147003173828,
-                    "confidence": 0.97,
+                    "confidence": 0.79,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9868998620/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9868998620/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9869776394/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9869776394/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-22T06:38:43+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-043843.flac",
+                        "timestamp": "2026-07-22T07:25:46+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-052546.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 4,
+                "count": 3,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 4,
+                    "almostCertain": 3,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -248,12 +248,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 1,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -278,63 +278,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-21T18:11:23+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-161123.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9843931967",
-                    "timestamp": "2026-07-21T07:08:54+02:00",
-                    "score": 7.707354213932279,
-                    "probability": 0.19108395278453827,
-                    "confidence": 0.99,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9843931967/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9843931967/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-21T07:08:54+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-050854.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
