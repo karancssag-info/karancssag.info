@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page
+
 permalink: /madar24/
 description: Madárészlelések az elmúlt 24 órában, gyakoriság szerint, Karancsság - Újtelep
 comments: false
@@ -13,7 +14,7 @@ author: thgab
 
 {% include bird.html %}
 
-Az oldal a [BirdWeather](https://www.birdweather.com/) szolgáltatást igénybe véve működik. A helyben üzemelő hobbicélból épített megfigyelő állomás adatait hasznája.
-A gyenge hangminőség az épített eszköz technikai korlátaiból következik.
+Az oldal a [BirdWeather](https://www.birdweather.com/) szolgáltatást igénybe véve működik. A helyben üzemelő hobbicélból épített megfigyelő állomás adatait használja.
+A gyenge hangminőség és az esetleges téves felismerés az épített eszköz technikai korlátaiból következik.
 
 _Az indexkép [Erik Karits](https://www.pexels.com/hu-hu/@2093459/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) fotója a [Pexels](https://www.pexels.com/hu-hu/foto/kozeli-kep-egy-feketerigorol-termeszetes-elohelyen-31820319/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) oldaláról._
