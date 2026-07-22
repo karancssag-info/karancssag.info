@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 22,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 22,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9868271645",
-                    "timestamp": "2026-07-22T05:55:59+02:00",
-                    "score": 8.62029372105575,
+                    "id": "9872092291",
+                    "timestamp": "2026-07-22T10:00:23+02:00",
+                    "score": 8.974934159521068,
                     "probability": 0.60401451587677,
-                    "confidence": 0.74,
+                    "confidence": 0.87,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9868271645/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9868271645/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9872092291/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9872092291/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-22T05:55:59+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-035559.flac",
+                        "timestamp": "2026-07-22T10:00:23+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-080023.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9867804655",
-                    "timestamp": "2026-07-22T05:27:31+02:00",
+                    "id": "9871716242",
+                    "timestamp": "2026-07-22T09:32:38+02:00",
                     "score": 9.519844451314256,
                     "probability": 0.9371726512908936,
                     "confidence": 0.85,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9867804655/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9867804655/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9871716242/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9871716242/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-22T05:27:31+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-032731.flac",
+                        "timestamp": "2026-07-22T09:32:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-073238.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
@@ -278,63 +278,6 @@
                     "soundscape": {
                         "timestamp": "2026-07-21T13:38:42+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-113842.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "654",
-                "species": {
-                    "id": "654",
-                    "scientificName": "Ciconia ciconia",
-                    "commonName": "Feh\u00e9r g\u00f3lya",
-                    "thumbnailUrl": "https://media.birdweather.com/species/654/WhiteStork-thumbnail-c109a5c0d79702118df066f6d241448c.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/654/WhiteStork-standard-16ca6820a92b5c02291fd056de0f6cda.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/white-stork",
-                    "ebirdUrl": "https://ebird.org/species/whisto1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/White_stork",
-                    "wikipediaSummary": "The white stork (Ciconia ciconia) is a large bird in the stork family, Ciconiidae. Its plumage is mainly white, with black on the bird's wings. Adults have long red legs and long pointed red beaks, and measure on average 100\u2013115 cm (39\u201345 in) from beak tip to end of tail, with a 155\u2013215 cm (61\u201385 in) wingspan. The two subspecies, which differ slightly in size, breed in Europe (north to Finland), northwestern Africa, southwestern Asia (east to southern Kazakhstan) and southern Africa. The white stork is a long-distance migrant, wintering in Africa from tropical Sub-Saharan Africa to as far south as South Africa, or on the Indian subcontinent. When migrating between Europe and Africa, it avoids crossing the Mediterranean Sea and detours via the Levant in the east or the Strait of Gibraltar in the west, because the air thermals on which it depends for soaring do not form over water.\nA carnivore, the white stork eats a wide range of animal prey, including insects, fish, amphibians, reptiles, small mammals and small birds. It takes most of its food from the ground, among low vegetation, and from shallow water. It is a monogamous breeder, but does not pair for life. Both members of the pair build a large stick nest, which may be used for several years. Each year the female can lay one clutch of usually four eggs, which hatch asynchronously 33\u201334 days after being laid. Both parents take turns incubating the eggs and both feed the young. The young leave the nest 58\u201364 days after hatching, and continue to be fed by the parents for a further 7\u201320 days.\nThe white stork has been rated as least concern by the International Union for Conservation of Nature (IUCN). It benefited from human activities during the Middle Ages as woodland was cleared, but changes in farming methods and industrialisation saw it decline and disappear from parts of Europe in the 19th and early 20th centuries. Conservation and reintroduction programs across Europe have resulted in the white stork resuming breeding in the Netherlands, Belgium, Switzerland, Sweden and the United Kingdom. It has few natural predators, but may harbour several types of parasite; the plumage is home to chewing lice and feather mites, while the large nests maintain a diverse range of mesostigmatic mites. This conspicuous species has given rise to many legends across its range, of which the best-known is the story of babies being brought by storks.",
-                    "color": "#a70240",
-                    "thumbhash": "p8YFFwI9w5qPh3ctqRSqV2ptaIAIBogB",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Soloneying&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Soloneying (page does not exist)\">Soloneying</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9846251872",
-                    "timestamp": "2026-07-21T09:35:34+02:00",
-                    "score": 8.165644839007284,
-                    "probability": 0.4628487825393677,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9846251872/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9846251872/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-21T09:35:34+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260721-073534.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
