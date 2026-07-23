@@ -2,63 +2,6 @@
     "data": {
         "species": [
             {
-                "speciesId": "42",
-                "species": {
-                    "id": "42",
-                    "scientificName": "Oriolus oriolus",
-                    "commonName": "S\u00e1rgarig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
-                    "ebirdUrl": "https://ebird.org/species/eugori2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
-                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
-                    "color": "#fbb212",
-                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 15,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 15,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "9872237407",
-                    "timestamp": "2026-07-22T10:11:20+02:00",
-                    "score": 9.196382811153358,
-                    "probability": 0.60401451587677,
-                    "confidence": 0.97,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9872237407/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9872237407/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-07-22T10:11:20+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-081120.flac",
-                        "duration": 0,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "294",
                 "species": {
                     "id": "294",
@@ -116,20 +59,20 @@
                 }
             },
             {
-                "speciesId": "407",
+                "speciesId": "42",
                 "species": {
-                    "id": "407",
-                    "scientificName": "Columba palumbus",
-                    "commonName": "\u00d6rv\u00f6s galamb",
-                    "thumbnailUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-thumbnail-4b86c907c8b82c8af31d566b811dee05.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/407/CommonWood-Pigeon-standard-5558900260c92622ceef8a812b06518e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-wood-pigeon",
-                    "ebirdUrl": "https://ebird.org/species/cowpig1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
-                    "wikipediaSummary": "The common wood pigeon (Columba palumbus) is a large species in the dove and pigeon family (Columbidae), native to the western Palearctic. It belongs to the genus Columba, which includes closely related species such as the rock dove (Columba livia). It is locally known in southeast England as the \"culver\"; This name has given rise to several areas known for keeping pigeons to be named after it, such as Culver Down. It has a flexible diet, predominantly feeding on vegetable matter, including cereal crops, leading to them being regarded as an agricultural pest. Wood pigeons are extensively hunted over large parts of their range, but this does not seem to have a great impact on their population.",
-                    "color": "#028fb2",
-                    "thumbhash": "2ukFHwIHiYeWxnZUiniYZ3h5h6+rCIQH",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89056504@N00\">Tristan Ferne</a> from UK",
+                    "id": "42",
+                    "scientificName": "Oriolus oriolus",
+                    "commonName": "S\u00e1rgarig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-thumbnail-a52f5e2fd9de9cad520383d2e860945e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/42/EurasianGoldenOriole-standard-cdd0b64eab9a7c95487f762b94857c34.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-golden-oriole",
+                    "ebirdUrl": "https://ebird.org/species/eugori2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+                    "wikipediaSummary": "The Eurasian golden oriole (Oriolus oriolus) also called golden oriole, is the only member of the Old World oriole family of passerine birds breeding in Northern Hemisphere temperate regions. It is a summer migrant in Europe and Palearctic and spends the winter season in central and southern Africa.\nGolden orioles have an extremely large range with large populations that are apparently stable. Therefore, they are evaluated as Least Concern by BirdLife International.",
+                    "color": "#fbb212",
+                    "thumbhash": "VukFDwIIlmhtl3dVZzmElJWbdoQCDOgC",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/montagne_pyrnes/\">Michel Idre</a> from Plaisance du Touch, France",
                     "imageLicense": "CC BY 2.0",
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
                     "__typename": "Species"
@@ -145,14 +88,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "9871716242",
-                    "timestamp": "2026-07-22T09:32:38+02:00",
-                    "score": 9.519844451314256,
-                    "probability": 0.9371726512908936,
-                    "confidence": 0.85,
+                    "id": "9872237407",
+                    "timestamp": "2026-07-22T10:11:20+02:00",
+                    "score": 9.196382811153358,
+                    "probability": 0.60401451587677,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/9871716242/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/9871716242/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/9872237407/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/9872237407/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-07-22T09:32:38+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-073238.flac",
+                        "timestamp": "2026-07-22T10:11:20+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260722-081120.flac",
                         "duration": 0,
                         "startTime": 0,
                         "endTime": 3,
