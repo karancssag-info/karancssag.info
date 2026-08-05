@@ -1,0 +1,9 @@
+[
+    {
+      "origin": ["https://karancssag.info","http://thgab.com:4000"],
+      "method": ["GET"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+
+]
