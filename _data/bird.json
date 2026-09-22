@@ -458,63 +458,6 @@
                 }
             },
             {
-                "speciesId": "186",
-                "species": {
-                    "id": "186",
-                    "scientificName": "Strix aluco",
-                    "commonName": "Macskabagoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/186/TawnyOwl-thumbnail-f1a9d78408877a4e4f011b228882ac2a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/186/TawnyOwl-standard-a880387489a3d9307eaa5193225ffd9d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/tawny-owl",
-                    "ebirdUrl": "https://ebird.org/species/tawowl1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tawny_owl",
-                    "wikipediaSummary": "The tawny owl or brown owl (Strix aluco) is a stocky, medium-sized owl commonly found in woodlands across much of Eurasia and North Africa. Its underparts are pale with dark streaks, and the upperparts are either brown or grey. Several of the eleven recognised subspecies have both variants. The nest is typically in a tree hole where it can protect its eggs and young against potential predators. This owl is non-migratory and highly territorial. Many young birds starve if they cannot find a vacant territory once parental care ceases.\r\nThis nocturnal bird of prey hunts mainly rodents, usually by dropping from a perch to seize its prey, which it swallows whole; in more urban areas its diet includes a higher proportion of birds. Vision and hearing adaptations and silent flight aid its night hunting. The tawny owl is capable of catching smaller owls, but is itself vulnerable to the eagle owl or northern goshawk.\r\nAlthough many people believe this owl has exceptional night vision, its retina is no more sensitive than a human's and its asymmetrically placed ears are key to its hunting by giving it excellent directional hearing. Its nocturnal habits and eerie, easily imitated call, have led to a mythical association of the tawny owl with bad luck and death. In addition, the common onomatopoeia for an owl hooting is derived from the calls of this species; the complete sound is actually a duet between a male and a female.",
-                    "color": "#ff81c2",
-                    "thumbhash": "TggKDwIIh4mUanhjmoh3eIiIWFBKBZID",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11291009141",
-                    "timestamp": "2026-09-21T22:32:07+02:00",
-                    "score": 5.672120670692005,
-                    "probability": 0.06304363161325455,
-                    "confidence": 0.73,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11291009141/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11291009141/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-21T22:32:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260921-203207.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "376",
                 "species": {
                     "id": "376",
