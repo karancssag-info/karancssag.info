@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "51",
+                "species": {
+                    "id": "51",
+                    "scientificName": "Phylloscopus collybita",
+                    "commonName": "Csilpcsalpf\u00fczike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-thumbnail-db7cc6cc80c51cac95a6cceb51a0a66f.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-standard-51b65ae67159c1d7e6b40d2e5032b8bc.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chiffchaff",
+                    "ebirdUrl": "https://ebird.org/species/comchi1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+                    "wikipediaSummary": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.",
+                    "color": "#234bb2",
+                    "thumbhash": "HSkCDwJplXeiMFilxTzIyVZplYf32ZcA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 8,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 8,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11301577730",
+                    "timestamp": "2026-09-22T13:04:38+02:00",
+                    "score": 9.395681302861544,
+                    "probability": 0.7964541912078857,
+                    "confidence": 0.89,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11301577730/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11301577730/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-22T13:04:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-110438.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "20",
                 "species": {
                     "id": "20",
@@ -20,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11286804328",
-                    "timestamp": "2026-09-21T18:23:14+02:00",
-                    "score": 9.267534853936723,
+                    "id": "11300974522",
+                    "timestamp": "2026-09-22T12:10:17+02:00",
+                    "score": 9.533528593720835,
                     "probability": 0.7637859582901001,
-                    "confidence": 0.86,
+                    "confidence": 0.98,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11286804328/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11286804328/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/11300974522/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11300974522/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-09-21T18:23:14+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260921-162314.flac",
+                        "timestamp": "2026-09-22T12:10:17+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-101017.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
