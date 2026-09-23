@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 29,
+                "count": 24,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 29,
+                    "almostCertain": 24,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -134,12 +134,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 1,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -401,6 +401,63 @@
                 }
             },
             {
+                "speciesId": "64",
+                "species": {
+                    "id": "64",
+                    "scientificName": "Phasianus colchicus",
+                    "commonName": "F\u00e1c\u00e1n",
+                    "thumbnailUrl": "https://media.birdweather.com/species/64/Ring-neckedPheasant-thumbnail-d97aaef0b46efbe3bc67996a716e6be6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/64/Ring-neckedPheasant-standard-948f6e77fa207362972fb2a6c4415064.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/ring-necked-pheasant",
+                    "ebirdUrl": "https://ebird.org/species/rinphe",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_pheasant",
+                    "wikipediaSummary": "The common pheasant (Phasianus colchicus) is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus, \"pheasant\". The species name colchicus is Latin for \"of Colchis\" (modern day Georgia), a country on the Black Sea where pheasants became known to Europeans. Phasianus diverged from the genus Gallus, the genus of junglefowl and domesticated chickens, about 20 million years ago.It is native to Asia and parts of Europe like the northern foothills of the Caucasus and the Balkans. It has been widely introduced elsewhere as a game bird. In parts of its range, namely in places where none of its relatives occur such as in Europe, where it is naturalised, it is simply known as the \"pheasant\". Ring-necked pheasant is both the name used for the species as a whole in North America and also the collective name for a number of subspecies and their intergrades that have white neck rings.\nIt is a well-known gamebird, among those of more than regional importance perhaps the most widespread and ancient one in the whole world. The common pheasant is one of the world's most hunted birds; it has been introduced for that purpose to many regions, and is also common on game farms where it is commercially bred. Ring-necked pheasants in particular are commonly bred and were introduced to many parts of the world; the game farm stock, though no distinct breeds have been developed yet, can be considered semi-domesticated. The ring-necked pheasant is the state bird of South Dakota, one of only three US state birds that is not a species native to the United States.\nThe green pheasant (P. versicolor) of Japan is sometimes considered a subspecies of the common pheasant. Though the species produce fertile hybrids wherever they coexist, this is simply a typical feature among fowl (Galloanseres), in which postzygotic isolating mechanisms are slight compared to most other birds. The species apparently have somewhat different ecological requirements and at least in its typical habitat, the green pheasant outcompetes the common pheasant. The introduction of the latter to Japan has therefore largely failed.",
+                    "color": "#006e13",
+                    "thumbhash": "1ggKHwJqmHiAeHd0iTaHqGh5dgmJbGAD",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11322658964",
+                    "timestamp": "2026-09-23T13:53:16+02:00",
+                    "score": 8.361112539690865,
+                    "probability": 0.4558314383029938,
+                    "confidence": 0.78,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11322658964/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11322658964/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-23T13:53:16+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-115316.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "66",
                 "species": {
                     "id": "66",
@@ -449,120 +506,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-23T06:54:36+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-045436.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "73",
-                "species": {
-                    "id": "73",
-                    "scientificName": "Upupa epops",
-                    "commonName": "B\u00fabos banka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/73/EurasianHoopoe-thumbnail-d4a0a70eefe3f29dbd6d88fc68851c5b.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/73/EurasianHoopoe-standard-004bfb7d0d4676f0380a04bb79064d9c.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-hoopoe",
-                    "ebirdUrl": "https://ebird.org/species/hoopoe",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_hoopoe",
-                    "wikipediaSummary": "The Eurasian hoopoe (Upupa epops) is the most widespread species of the genus Upupa, native to Europe, Asia and the northern half of Africa. Some taxonomists still consider all three species conspecific.  Some authorities also keep the African and Eurasian hoopoe together, but split the Madagascar hoopoe.",
-                    "color": "#0271d7",
-                    "thumbhash": "4hkGFwhVmYaQWZeAh7Z3qJiHZpgKdoAC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11302160051",
-                    "timestamp": "2026-09-22T13:44:47+02:00",
-                    "score": 5.5774909868781295,
-                    "probability": 0.03509615734219551,
-                    "confidence": 0.95,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11302160051/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11302160051/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-22T13:44:47+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-114447.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "376",
-                "species": {
-                    "id": "376",
-                    "scientificName": "Botaurus stellaris",
-                    "commonName": "B\u00f6l\u00f6mbika",
-                    "thumbnailUrl": "https://media.birdweather.com/species/376/GreatBittern-thumbnail-f707ab052548ecb712adb2219c86e7d0.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/376/GreatBittern-standard-c7fe51d58a58d6ce50c03cfcfb123a47.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-bittern",
-                    "ebirdUrl": "https://ebird.org/species/grebit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_bittern",
-                    "wikipediaSummary": "The Eurasian bittern or great bittern (Botaurus stellaris) is a wading bird in the bittern subfamily (Botaurinae) of the heron family Ardeidae. There are two subspecies, the northern race (B. s. stellaris) breeding in parts of Europe and across the Palearctic, as well as on the northern coast of Africa, while the southern race (B. s. capensis) is endemic to parts of southern Africa. It is a secretive bird, seldom seen in the open as it prefers to skulk in reed beds and thick vegetation near water bodies. Its presence is apparent in the spring, when the booming call of the male during the breeding season can be heard. It feeds on fish, small mammals, fledgling birds, amphibians, crustaceans and insects.\nThe nest is usually built among reeds at the edge of bodies of water. The female incubates the clutch of eggs and feeds the young chicks, which leave the nest when about two weeks old. She continues to care for them until they are fully fledged some six weeks later.\nWith its specific habitat requirements and the general reduction in wetlands across its range, the population is thought to be in decline globally. However the decline is slow, and the International Union for Conservation of Nature has assessed its overall conservation status as being of \"least concern\". Nevertheless, some local populations are at risk and the population of the southern race has declined more dramatically and is cause for concern. In the United Kingdom it is one of the most threatened of all bird species.",
-                    "color": "#b70038",
-                    "thumbhash": "WhgGBwB9h4iPiYeIh5eImHiIyAemmmAJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Nijland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peter Nijland (page does not exist)\">Peter Nijland</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11301850217",
-                    "timestamp": "2026-09-22T13:24:08+02:00",
-                    "score": 5.17367767740291,
-                    "probability": 0.044573619961738586,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11301850217/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11301850217/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-22T13:24:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-112408.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
