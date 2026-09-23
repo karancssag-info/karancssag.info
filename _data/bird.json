@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 24,
+                "count": 20,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 24,
+                    "almostCertain": 20,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11321567195",
-                    "timestamp": "2026-09-23T12:34:55+02:00",
-                    "score": 9.507124828913458,
+                    "id": "11323622310",
+                    "timestamp": "2026-09-23T14:50:44+02:00",
+                    "score": 9.54928200128691,
                     "probability": 0.7964541912078857,
-                    "confidence": 0.94,
+                    "confidence": 0.96,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11321567195/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11321567195/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/11323622310/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11323622310/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,65 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-09-23T12:34:55+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-103455.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "128",
-                "species": {
-                    "id": "128",
-                    "scientificName": "Phoenicurus phoenicurus",
-                    "commonName": "Kerti rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
-                    "ebirdUrl": "https://ebird.org/species/comred2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
-                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
-                    "color": "#c3016b",
-                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11321547906",
-                    "timestamp": "2026-09-23T12:32:55+02:00",
-                    "score": 6.868397223196857,
-                    "probability": 0.12194700539112091,
-                    "confidence": 0.87,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11321547906/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11321547906/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-23T12:32:55+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-103255.flac",
+                        "timestamp": "2026-09-23T14:50:44+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-125044.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11317728278",
-                    "timestamp": "2026-09-23T07:05:44+02:00",
-                    "score": 8.049650033418198,
+                    "id": "11323657696",
+                    "timestamp": "2026-09-23T14:52:47+02:00",
+                    "score": 7.442065303352754,
                     "probability": 0.2558646500110626,
-                    "confidence": 0.97,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11317728278/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11317728278/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/11323657696/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11323657696/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-09-23T07:05:44+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-050544.flac",
+                        "timestamp": "2026-09-23T14:52:47+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-125247.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -173,19 +116,76 @@
                 }
             },
             {
-                "speciesId": "11",
+                "speciesId": "128",
                 "species": {
-                    "id": "11",
-                    "scientificName": "Parus major",
-                    "commonName": "Sz\u00e9ncinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-tit",
-                    "ebirdUrl": "https://ebird.org/species/gretit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_tit",
-                    "wikipediaSummary": "The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinct from the great tit and these have now been separated as two distinct species, the cinereous tit of southern Asia, and the Japanese tit of East Asia. The great tit remains the most widespread species in the genus Parus.\nThe great tit is a distinctive bird with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by sparrowhawks. The great tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The great tit is also an important study species in ornithology.",
-                    "color": "#7a41c7",
-                    "thumbhash": "ImkCDwTFxox9pZloaIaeZLsJp9r1yG4P",
+                    "id": "128",
+                    "scientificName": "Phoenicurus phoenicurus",
+                    "commonName": "Kerti rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
+                    "ebirdUrl": "https://ebird.org/species/comred2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
+                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
+                    "color": "#c3016b",
+                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 5,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 5,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11323622322",
+                    "timestamp": "2026-09-23T14:50:43+02:00",
+                    "score": 6.868397223196857,
+                    "probability": 0.12194700539112091,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11323622322/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11323622322/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-23T14:50:43+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-125043.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "8",
+                "species": {
+                    "id": "8",
+                    "scientificName": "Aegithalos caudatus",
+                    "commonName": "\u0150szap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
+                    "ebirdUrl": "https://ebird.org/species/lottit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
+                    "color": "#bdc706",
+                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
                     "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
                     "imageLicense": "CC BY-SA 3.0",
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -202,14 +202,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11302513478",
-                    "timestamp": "2026-09-22T14:06:06+02:00",
-                    "score": 9.500778545380674,
-                    "probability": 0.9973437786102295,
-                    "confidence": 0.81,
+                    "id": "11323669830",
+                    "timestamp": "2026-09-23T14:53:23+02:00",
+                    "score": 8.32869608188417,
+                    "probability": 0.31592607498168945,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11302513478/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11302513478/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/11323669830/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11323669830/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-09-22T14:06:06+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-120606.flac",
+                        "timestamp": "2026-09-23T14:53:23+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-125323.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -344,63 +344,6 @@
                 }
             },
             {
-                "speciesId": "60",
-                "species": {
-                    "id": "60",
-                    "scientificName": "Columba livia",
-                    "commonName": "Szirti galamb",
-                    "thumbnailUrl": "https://media.birdweather.com/species/60/RockPigeon-thumbnail-a43e71081b432231e10a1774b5735053.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/60/RockPigeon-standard-e442656b8173c4956bc4ef5fdd1a7e53.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/rock-pigeon",
-                    "ebirdUrl": "https://ebird.org/species/rocpig1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rock_dove",
-                    "wikipediaSummary": "The rock dove, rock pigeon, or common pigeon ( also ; Columba livia) is a member of the bird family Columbidae (doves and pigeons).:\u200a624\u200a In common usage, it is often simply referred to as the \"pigeon\".\nThe domestic pigeon (Columba livia domestica, which includes about 1,000 different breeds) descended from this species. Escaped domestic pigeons have increased the populations of feral pigeons around the world.Wild rock doves are pale grey with two black bars on each wing, whereas domestic and feral pigeons vary in colour and pattern. Few differences are seen between males and females. The species is generally monogamous, with two squabs (young) per brood. Both parents care for the young for a time.Habitats include various open and semi-open environments. Cliffs and rock ledges are used for roosting and breeding in the wild. Originally found wild in Europe, North Africa, and western Asia, pigeons have become established in cities around the world. The species is abundant, with an estimated population of 17 to 28 million feral and wild birds in Europe alone and up to 120 million worldwide.",
-                    "color": "#8ed96e",
-                    "thumbhash": "4MYFFwQ8kKlPzXOHhutYRZeHiDB4CIMI",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer (1974-)\">Diego Delso</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11302713613",
-                    "timestamp": "2026-09-22T14:17:57+02:00",
-                    "score": 9.147232443355618,
-                    "probability": 0.6863021850585938,
-                    "confidence": 0.87,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11302713613/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11302713613/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-22T14:17:57+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-121757.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "64",
                 "species": {
                     "id": "64",
@@ -506,63 +449,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-23T06:54:36+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260923-045436.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "465",
-                "species": {
-                    "id": "465",
-                    "scientificName": "Picus viridis",
-                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
-                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
-                    "color": "#ff9461",
-                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11302610062",
-                    "timestamp": "2026-09-22T14:11:45+02:00",
-                    "score": 8.471918752202635,
-                    "probability": 0.422920286655426,
-                    "confidence": 0.86,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11302610062/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11302610062/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-22T14:11:45+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260922-121145.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
