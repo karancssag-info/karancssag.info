@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "20",
+                "species": {
+                    "id": "20",
+                    "scientificName": "Phoenicurus ochruros",
+                    "commonName": "H\u00e1zi rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
+                    "ebirdUrl": "https://ebird.org/species/blared1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
+                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
+                    "color": "#c8ce2d",
+                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11360967741",
+                    "timestamp": "2026-09-25T11:03:24+02:00",
+                    "score": 9.456962920053234,
+                    "probability": 0.767460286617279,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11360967741/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11360967741/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-25T11:03:24+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260925-090324.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "84",
                 "species": {
                     "id": "84",
@@ -116,43 +173,43 @@
                 }
             },
             {
-                "speciesId": "20",
+                "speciesId": "51",
                 "species": {
-                    "id": "20",
-                    "scientificName": "Phoenicurus ochruros",
-                    "commonName": "H\u00e1zi rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
-                    "ebirdUrl": "https://ebird.org/species/blared1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
-                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
-                    "color": "#c8ce2d",
-                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "id": "51",
+                    "scientificName": "Phylloscopus collybita",
+                    "commonName": "Csilpcsalpf\u00fczike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-thumbnail-db7cc6cc80c51cac95a6cceb51a0a66f.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-standard-51b65ae67159c1d7e6b40d2e5032b8bc.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chiffchaff",
+                    "ebirdUrl": "https://ebird.org/species/comchi1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+                    "wikipediaSummary": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.",
+                    "color": "#234bb2",
+                    "thumbhash": "HSkCDwJplXeiMFilxTzIyVZplYf32ZcA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11360967741",
-                    "timestamp": "2026-09-25T11:03:24+02:00",
-                    "score": 9.456962920053234,
-                    "probability": 0.767460286617279,
-                    "confidence": 0.94,
+                    "id": "11361484051",
+                    "timestamp": "2026-09-25T12:00:27+02:00",
+                    "score": 9.031032763487179,
+                    "probability": 0.8186750411987305,
+                    "confidence": 0.74,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11360967741/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11360967741/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/11361484051/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11361484051/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-09-25T11:03:24+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260925-090324.flac",
+                        "timestamp": "2026-09-25T12:00:27+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260925-100027.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
