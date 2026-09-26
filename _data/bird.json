@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "242",
+                "species": {
+                    "id": "242",
+                    "scientificName": "Tyto alba",
+                    "commonName": "Gy\u00f6ngybagoly",
+                    "thumbnailUrl": "https://media.birdweather.com/species/242/BarnOwl-thumbnail-f2dc3ee81bc91e5f2214d7a2b7be6eef.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/242/BarnOwl-standard-8bec9306e3928726cbb18b498dd33c03.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/barn-owl",
+                    "ebirdUrl": "https://ebird.org/species/brnowl",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_barn_owl",
+                    "wikipediaSummary": "The western barn owl (Tyto alba) is usually considered a subspecies group and together with the American barn owl group, the eastern barn owl group, and sometimes the Andaman masked owl make up the barn owl.  The cosmopolitan barn owl is recognized by most taxonomic authorities. A few (including the International Ornithologists' Union) separate them into distinct species, as is done here. The western barn owl is native to Eurasia and Africa.",
+                    "color": "#c57e94",
+                    "thumbhash": "4PgFFwKCFGWPgIlpq2aJdXiHiQRFCWME",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/55426027@N03\">Peter Trimming</a> from Croydon, England",
+                    "imageLicense": "CC BY 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11389796260",
+                    "timestamp": "2026-09-26T20:34:40+02:00",
+                    "score": 4.903926579564107,
+                    "probability": 0.028144586831331253,
+                    "confidence": 0.77,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11389796260/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11389796260/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-26T20:34:40+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260926-183440.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "18",
                 "species": {
                     "id": "18",
@@ -164,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-26T10:34:56+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260926-083456.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "242",
-                "species": {
-                    "id": "242",
-                    "scientificName": "Tyto alba",
-                    "commonName": "Gy\u00f6ngybagoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/242/BarnOwl-thumbnail-f2dc3ee81bc91e5f2214d7a2b7be6eef.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/242/BarnOwl-standard-8bec9306e3928726cbb18b498dd33c03.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/barn-owl",
-                    "ebirdUrl": "https://ebird.org/species/brnowl",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_barn_owl",
-                    "wikipediaSummary": "The western barn owl (Tyto alba) is usually considered a subspecies group and together with the American barn owl group, the eastern barn owl group, and sometimes the Andaman masked owl make up the barn owl.  The cosmopolitan barn owl is recognized by most taxonomic authorities. A few (including the International Ornithologists' Union) separate them into distinct species, as is done here. The western barn owl is native to Eurasia and Africa.",
-                    "color": "#c57e94",
-                    "thumbhash": "4PgFFwKCFGWPgIlpq2aJdXiHiQRFCWME",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/55426027@N03\">Peter Trimming</a> from Croydon, England",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11389115676",
-                    "timestamp": "2026-09-26T19:50:17+02:00",
-                    "score": 5.305318940377726,
-                    "probability": 0.028144586831331253,
-                    "confidence": 0.93,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/11389115676/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/11389115676/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-26T19:50:17+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260926-175017.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
