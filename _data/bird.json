@@ -173,6 +173,63 @@
                 }
             },
             {
+                "speciesId": "46",
+                "species": {
+                    "id": "46",
+                    "scientificName": "Athene noctua",
+                    "commonName": "Kuvik",
+                    "thumbnailUrl": "https://media.birdweather.com/species/46/LittleOwl-thumbnail-dc4a3ab0d115888ba2e987e8e30a8fa3.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/46/LittleOwl-standard-f2cff2a2b2f38eb0d9b119ca1cb31433.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/little-owl",
+                    "ebirdUrl": "https://ebird.org/species/litowl1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_owl",
+                    "wikipediaSummary": "The little owl (Athene noctua), also known as the owl of Athena or owl of Minerva, is a bird that inhabits much of the temperate and warmer parts of Europe, the Palearctic east to Korea, and North Africa. It was introduced into Britain at the end of the 19th century and into the South Island of New Zealand in the early 20th century.\r\nThis owl is a member of the typical or true owl family Strigidae, which contains most species of owl, the other grouping being the barn owls, Tytonidae. It is a small, cryptically coloured, mainly nocturnal species and is found in a range of habitats including farmland, woodland fringes, steppes and semi-deserts. It feeds on insects, earthworms, other invertebrates and small vertebrates. Males hold territories which they defend against intruders. This owl is a cavity nester and a clutch of about four eggs is laid in spring. The female does the incubation and the male brings food to the nest, first for the female and later for the newly hatched young. As the chicks grow, both parents hunt and bring them food, and the chicks leave the nest at about seven weeks of age.\r\nBeing a common species with a wide range and large total population, the International Union for Conservation of Nature has assessed its conservation status as \"least concern\".",
+                    "color": "#b0ae00",
+                    "thumbhash": "YgkGFwL0XnOqRJabZGu2eXh3Z9+4h7AJ",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/chausinho/\">Arturo Nikolai from Galicia, Spain</a>",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11456495505",
+                    "timestamp": "2026-09-30T05:54:03+02:00",
+                    "score": 6.216233442135189,
+                    "probability": 0.07343500852584839,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/11456495505/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/11456495505/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-30T05:54:03+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-035403.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "61",
                 "species": {
                     "id": "61",
