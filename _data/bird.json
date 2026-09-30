@@ -116,63 +116,6 @@
                 }
             },
             {
-                "speciesId": "1",
-                "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11458908673",
-                    "timestamp": "2026-09-30T09:21:49+02:00",
-                    "score": 9.075361836596093,
-                    "probability": 0.700580894947052,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790752909-11458908673/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790752909-11458908673/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-30T09:21:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-072149.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "376",
                 "species": {
                     "id": "376",
@@ -221,6 +164,63 @@
                     "soundscape": {
                         "timestamp": "2026-09-30T02:59:39+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-005939.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "1",
+                "species": {
+                    "id": "1",
+                    "scientificName": "Passer domesticus",
+                    "commonName": "H\u00e1zi ver\u00e9b",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
+                    "ebirdUrl": "https://ebird.org/species/houspa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
+                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
+                    "color": "#d16ff8",
+                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
+                    "imageLicense": "CC BY 2.0 de",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11458908673",
+                    "timestamp": "2026-09-30T09:21:49+02:00",
+                    "score": 9.075361836596093,
+                    "probability": 0.700580894947052,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1790752909-11458908673/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790752909-11458908673/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-09-30T09:21:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-072149.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -449,63 +449,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-30T09:21:37+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-072137.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "753",
-                "species": {
-                    "id": "753",
-                    "scientificName": "Actitis hypoleucos",
-                    "commonName": "Billeget\u0151 cank\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/753/CommonSandpiper-thumbnail-b4cbc67011d975ba68655c8c2019d57d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/753/CommonSandpiper-standard-0ea78dc44a6bacb69b6a799fa0dd6a34.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-sandpiper",
-                    "ebirdUrl": "https://ebird.org/species/comsan",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_sandpiper",
-                    "wikipediaSummary": "The common sandpiper (Actitis hypoleucos) is a small Palearctic wader. This bird and its American sister species, the spotted sandpiper (A. macularia), make up the genus Actitis. They are parapatric and replace each other geographically; stray birds of either species may settle down with breeders of the other and hybridize. Hybridization has also been reported between the common sandpiper and the green sandpiper, a basal species of the closely related shank genus Tringa.",
-                    "color": "#9b1ea9",
-                    "thumbhash": "LfgFFwTwnoe+Vna6SNcmJ4SttyCFC1EJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:JJ_Harrison\" title=\"User:JJ Harrison\">JJ Harrison</a> (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.jjharrison.com.au/\">https://www.jjharrison.com.au/</a>)",
-                    "imageLicense": "CC BY 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11441565840",
-                    "timestamp": "2026-09-29T13:07:58+02:00",
-                    "score": 7.136592225505592,
-                    "probability": 0.1932734102010727,
-                    "confidence": 0.75,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790680078-11441565840/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790680078-11441565840/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-29T13:07:58+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260929-110758.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
