@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "1",
+                "species": {
+                    "id": "1",
+                    "scientificName": "Passer domesticus",
+                    "commonName": "H\u00e1zi ver\u00e9b",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
+                    "ebirdUrl": "https://ebird.org/species/houspa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
+                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
+                    "color": "#d16ff8",
+                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
+                    "imageLicense": "CC BY 2.0 de",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+                    "__typename": "Species"
+                },
+                "count": 4,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 4,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11478790632",
+                    "timestamp": "2026-10-01T09:28:28+02:00",
+                    "score": 9.325943715238354,
+                    "probability": 0.675142228603363,
+                    "confidence": 0.96,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1790839708-11478790632/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790839708-11478790632/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-01T09:28:28+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-072828.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -50,120 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-30T15:02:40+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-130240.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11460026883",
-                    "timestamp": "2026-09-30T11:07:12+02:00",
-                    "score": 7.635318749555705,
-                    "probability": 0.25865501165390015,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790759232-11460026883/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790759232-11460026883/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-30T11:07:12+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-090712.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "1",
-                "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11476632739",
-                    "timestamp": "2026-10-01T06:30:08+02:00",
-                    "score": 8.860818933004932,
-                    "probability": 0.675142228603363,
-                    "confidence": 0.77,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790829008-11476632739/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790829008-11476632739/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-01T06:30:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-043008.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -287,6 +230,63 @@
                 }
             },
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11479110980",
+                    "timestamp": "2026-10-01T09:55:41+02:00",
+                    "score": 7.748342958708323,
+                    "probability": 0.25474411249160767,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1790841341-11479110980/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790841341-11479110980/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-01T09:55:41+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-075541.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "10",
                 "species": {
                     "id": "10",
@@ -392,63 +392,6 @@
                     "soundscape": {
                         "timestamp": "2026-09-30T12:42:40+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-104240.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "56",
-                "species": {
-                    "id": "56",
-                    "scientificName": "Coccothraustes coccothraustes",
-                    "commonName": "Meggyv\u00e1g\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/hawfinch",
-                    "ebirdUrl": "https://ebird.org/species/hawfin",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawfinch",
-                    "wikipediaSummary": "The hawfinch (Coccothraustes coccothraustes) is a passerine bird in the finch family Fringillidae. It is the only species placed in the genus Coccothraustes. Its closest living relatives are the Chinese grosbeak (Eophona migratoria) and Japanese grosbeak (Eophona personata) of East Asia, and the evening grosbeak (Hesperiphona vespertina) and hooded grosbeak (Hesperiphona abeillei) of North America.\nThis bird breeds across Europe and temperate Asia (Palearctic). It is mainly resident in Europe, but many Asian birds migrate further south in the winter. It is a rare vagrant to the western islands of Alaska.\nDeciduous or mixed woodland, including parkland, with large trees \u2013 especially hornbeam \u2013 is favoured for breeding. The hawfinch builds its nest in a bush or tree, and lays 2\u20137 eggs. The food is mainly seeds and fruit kernels, especially those of cherries, which it cracks with its powerful bill. This large finch species is usually seen in a pair or small group.\nThe 16.5\u201318 cm long hawfinch is a bulky bull-headed bird, which appears very short-tailed in flight. Its head is orange-brown with a black eyestripe and bib, and a massive bill, which is black in summer but paler in winter. The upper parts are dark brown and the underparts orange.\nThe white wing bars and tail tip are striking in flight. The sexes are similar. The call is a hard chick. The song of this unobtrusive bird is quiet and mumbled.",
-                    "color": "#009135",
-                    "thumbhash": "XOgBDwKvYWRQ62V5hIx4g2aGae/HK6AF",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikils&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikils (page does not exist)\">Mikils</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11458907132",
-                    "timestamp": "2026-09-30T09:21:37+02:00",
-                    "score": 7.5434599689919555,
-                    "probability": 0.20224794745445251,
-                    "confidence": 0.88,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790752897-11458907132/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790752897-11458907132/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-09-30T09:21:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20260930-072137.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
