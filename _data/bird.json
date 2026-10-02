@@ -2,63 +2,6 @@
     "data": {
         "species": [
             {
-                "speciesId": "1",
-                "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11478790632",
-                    "timestamp": "2026-10-01T09:28:28+02:00",
-                    "score": 9.325943715238354,
-                    "probability": 0.675142228603363,
-                    "confidence": 0.96,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790839708-11478790632/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790839708-11478790632/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-01T09:28:28+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-072828.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "6",
                 "species": {
                     "id": "6",
@@ -107,6 +50,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-01T14:51:11+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-125111.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11499019792",
+                    "timestamp": "2026-10-02T10:02:20+02:00",
+                    "score": 7.642906332351827,
+                    "probability": 0.25474411249160767,
+                    "confidence": 0.8,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1790928140-11499019792/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790928140-11499019792/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-02T10:02:20+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-080220.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -173,43 +173,43 @@
                 }
             },
             {
-                "speciesId": "84",
+                "speciesId": "346",
                 "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "id": "346",
+                    "scientificName": "Acanthis flammea",
+                    "commonName": "Zsezse",
+                    "thumbnailUrl": "https://media.birdweather.com/species/346/CommonRedpoll-thumbnail-eea4183cba3c44c234a3206c9c29cb9e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/346/CommonRedpoll-standard-f527029293e680b0ae813500ca90a238.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redpoll",
+                    "ebirdUrl": "https://ebird.org/species/comred",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redpoll",
+                    "wikipediaSummary": "The common redpoll or mealy redpoll (Acanthis flammea) is a species of bird in the finch family. It breeds somewhat further south than the Arctic redpoll, also in habitats with thickets or shrubs.",
+                    "color": "#ff6aca",
+                    "thumbhash": "5QcKHwSwm5eYaIdmZniHiHd393WIP4gF",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Cephas\" title=\"User:Cephas\">Cephas</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
                 "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
+                    "veryLikely": 1,
+                    "almostCertain": 0,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11479110980",
-                    "timestamp": "2026-10-01T09:55:41+02:00",
-                    "score": 7.748342958708323,
-                    "probability": 0.25474411249160767,
-                    "confidence": 0.84,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790841341-11479110980/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790841341-11479110980/flag",
+                    "id": "11498533587",
+                    "timestamp": "2026-10-02T09:23:45+02:00",
+                    "score": 3.9138877115131314,
+                    "probability": 0.010240291245281696,
+                    "confidence": 0.73,
+                    "certainty": "very_likely",
+                    "voteUrl": "https://app.birdweather.com/detections/1790925825-11498533587/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790925825-11498533587/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-01T09:55:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261001-075541.flac",
+                        "timestamp": "2026-10-02T09:23:45+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-072345.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
