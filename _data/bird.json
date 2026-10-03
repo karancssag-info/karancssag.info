@@ -59,63 +59,6 @@
                 }
             },
             {
-                "speciesId": "3",
-                "species": {
-                    "id": "3",
-                    "scientificName": "Dendrocoptes medius",
-                    "commonName": "K\u00f6zepfakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/miswoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
-                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
-                    "color": "#9b1ea9",
-                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11502905496",
-                    "timestamp": "2026-10-02T15:13:23+02:00",
-                    "score": 6.970781765453671,
-                    "probability": 0.1074577122926712,
-                    "confidence": 0.99,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790946803-11502905496/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790946803-11502905496/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-02T15:13:23+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-131323.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "40",
                 "species": {
                     "id": "40",
@@ -230,6 +173,63 @@
                 }
             },
             {
+                "speciesId": "3",
+                "species": {
+                    "id": "3",
+                    "scientificName": "Dendrocoptes medius",
+                    "commonName": "K\u00f6zepfakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/miswoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
+                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
+                    "color": "#9b1ea9",
+                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11502905496",
+                    "timestamp": "2026-10-02T15:13:23+02:00",
+                    "score": 6.970781765453671,
+                    "probability": 0.1074577122926712,
+                    "confidence": 0.99,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1790946803-11502905496/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1790946803-11502905496/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-02T15:13:23+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-131323.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "30",
                 "species": {
                     "id": "30",
@@ -278,63 +278,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-02T15:39:35+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-133935.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "126",
-                "species": {
-                    "id": "126",
-                    "scientificName": "Numenius arquata",
-                    "commonName": "Nagy p\u00f3ling",
-                    "thumbnailUrl": "https://media.birdweather.com/species/126/EurasianCurlew-thumbnail-d245076cae8b5156bc793664a913e583.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/126/EurasianCurlew-standard-1479db889b5cfb1db79d9e29611fa53a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-curlew",
-                    "ebirdUrl": "https://ebird.org/species/eurcur",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_curlew",
-                    "wikipediaSummary": "The Eurasian curlew or common curlew (Numenius arquata) is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across temperate Europe and Asia. In Europe, this species is often referred to just as the \"curlew\", and in Scotland known as the \"whaup\" in Scots.",
-                    "color": "#b70038",
-                    "thumbhash": "W+kJDwRpiHiAd4iKd2iHeIZ4F9+jWIAI",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11501134197",
-                    "timestamp": "2026-10-02T13:22:42+02:00",
-                    "score": 6.848509946614659,
-                    "probability": 0.16649027168750763,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1790940162-11501134197/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790940162-11501134197/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-02T13:22:42+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-112242.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
