@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 9,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 9,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -506,63 +506,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-02T20:13:43+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-181343.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "346",
-                "species": {
-                    "id": "346",
-                    "scientificName": "Acanthis flammea",
-                    "commonName": "Zsezse",
-                    "thumbnailUrl": "https://media.birdweather.com/species/346/CommonRedpoll-thumbnail-eea4183cba3c44c234a3206c9c29cb9e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/346/CommonRedpoll-standard-f527029293e680b0ae813500ca90a238.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-redpoll",
-                    "ebirdUrl": "https://ebird.org/species/comred",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redpoll",
-                    "wikipediaSummary": "The common redpoll or mealy redpoll (Acanthis flammea) is a species of bird in the finch family. It breeds somewhat further south than the Arctic redpoll, also in habitats with thickets or shrubs.",
-                    "color": "#ff6aca",
-                    "thumbhash": "5QcKHwSwm5eYaIdmZniHiHd393WIP4gF",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Cephas\" title=\"User:Cephas\">Cephas</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 1,
-                    "almostCertain": 0,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11498533587",
-                    "timestamp": "2026-10-02T09:23:45+02:00",
-                    "score": 3.9138877115131314,
-                    "probability": 0.010240291245281696,
-                    "confidence": 0.73,
-                    "certainty": "very_likely",
-                    "voteUrl": "https://app.birdweather.com/detections/1790925825-11498533587/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1790925825-11498533587/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-02T09:23:45+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261002-072345.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
