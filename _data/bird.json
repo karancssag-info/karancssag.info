@@ -305,25 +305,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 1,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 1,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11537450602",
-                    "timestamp": "2026-10-04T06:48:30+02:00",
-                    "score": 9.674533490388521,
+                    "id": "11545008520",
+                    "timestamp": "2026-10-04T15:44:38+02:00",
+                    "score": 9.264570724440107,
                     "probability": 0.9955433011054993,
-                    "confidence": 0.88,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791089310-11537450602/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791089310-11537450602/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791121478-11545008520/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791121478-11545008520/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -333,8 +333,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-04T06:48:30+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-044830.flac",
+                        "timestamp": "2026-10-04T15:44:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-134438.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -362,25 +362,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 1,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 1,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11541423413",
-                    "timestamp": "2026-10-04T12:02:42+02:00",
-                    "score": 8.934110911375823,
+                    "id": "11545022701",
+                    "timestamp": "2026-10-04T15:45:21+02:00",
+                    "score": 8.903323098858502,
                     "probability": 0.744918167591095,
-                    "confidence": 0.75,
+                    "confidence": 0.74,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791108162-11541423413/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791108162-11541423413/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791121521-11545022701/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791121521-11545022701/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +390,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-04T12:02:42+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-100242.flac",
+                        "timestamp": "2026-10-04T15:45:21+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-134521.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -506,6 +506,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-04T06:25:26+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-042526.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "66",
+                "species": {
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11544935574",
+                    "timestamp": "2026-10-04T15:40:46+02:00",
+                    "score": 8.92206045178419,
+                    "probability": 0.7383070588111877,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791121246-11544935574/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791121246-11544935574/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-04T15:40:46+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-134046.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
