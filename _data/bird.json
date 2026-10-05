@@ -572,6 +572,63 @@
                 }
             },
             {
+                "speciesId": "96",
+                "species": {
+                    "id": "96",
+                    "scientificName": "Cygnus cygnus",
+                    "commonName": "\u00c9nekes hatty\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/96/WhooperSwan-thumbnail-b0ce87d5508aad170f88bfb2de8d3650.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/96/WhooperSwan-standard-ff33c5a54e94f3f9f35ad1280eba8025.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/whooper-swan",
+                    "ebirdUrl": "https://ebird.org/species/whoswa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Whooper_swan",
+                    "wikipediaSummary": "The whooper swan (Cygnus cygnus), also known as the common swan, pronounced hooper swan, is a large northern hemisphere swan. It is the Eurasian counterpart of the North American trumpeter swan, and the type species for the genus Cygnus.",
+                    "color": "#ff6aca",
+                    "thumbhash": "VgkGDwIHp4qEaodwi9cnOJlymAgnB3oC",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11557064461",
+                    "timestamp": "2026-10-05T04:38:40+02:00",
+                    "score": 4.7600047239084375,
+                    "probability": 0.021038714796304703,
+                    "confidence": 0.82,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791167920-11557064461/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791167920-11557064461/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-05T04:38:40+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261005-023840.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "186",
                 "species": {
                     "id": "186",
