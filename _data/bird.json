@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 1,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11547751022",
-                    "timestamp": "2026-10-04T17:57:56+02:00",
-                    "score": 7.773481278683752,
+                    "id": "11567886986",
+                    "timestamp": "2026-10-05T17:55:03+02:00",
+                    "score": 7.696638709371823,
                     "probability": 0.25474411249160767,
-                    "confidence": 0.85,
+                    "confidence": 0.82,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791129476-11547751022/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791129476-11547751022/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791215703-11567886986/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791215703-11567886986/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-04T17:57:56+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-155756.flac",
+                        "timestamp": "2026-10-05T17:55:03+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261005-155503.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -164,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-04T22:20:04+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-202004.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "465",
-                "species": {
-                    "id": "465",
-                    "scientificName": "Picus viridis",
-                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
-                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
-                    "color": "#ff9461",
-                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11547790696",
-                    "timestamp": "2026-10-04T17:59:58+02:00",
-                    "score": 8.344683564240517,
-                    "probability": 0.41487252712249756,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791129598-11547790696/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791129598-11547790696/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-04T17:59:58+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-155958.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
