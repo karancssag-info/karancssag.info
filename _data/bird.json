@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 10,
+                "count": 7,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 10,
+                    "almostCertain": 7,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 6,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 6,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -620,63 +620,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-04T17:59:58+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-155958.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "831",
-                "species": {
-                    "id": "831",
-                    "scientificName": "Coracias garrulus",
-                    "commonName": "Szalak\u00f3ta",
-                    "thumbnailUrl": "https://media.birdweather.com/species/831/EuropeanRoller-thumbnail-ad864eea496e535984bf5efb04ca28d3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/831/EuropeanRoller-standard-72446617f8d39a3d1df37baa429e0b4f.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-roller",
-                    "ebirdUrl": "https://ebird.org/species/eurrol1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_roller",
-                    "wikipediaSummary": "The European roller (Coracias garrulus) is the only member of the roller family of birds to breed in Europe. Its overall range extends into the Middle East, Central Asia and Morocco.\nThe European roller is found in a wide variety of habitats, avoiding only treeless plains. It winters primarily in dry wooded savanna and bushy plains, where it typically nests in tree holes.",
-                    "color": "#38d8f7",
-                    "thumbhash": "HykGFwSU+qmBuGaXZMmH1oNq7gya74MK",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66020093@N03\">Andy  Morffew</a> from Itchen Abbas, Hampshire, UK",
-                    "imageLicense": "CC BY 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11539637567",
-                    "timestamp": "2026-10-04T09:27:26+02:00",
-                    "score": 4.265449439127173,
-                    "probability": 0.011633564718067646,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791098846-11539637567/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791098846-11539637567/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-04T09:27:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261004-072726.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
