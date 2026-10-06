@@ -629,63 +629,6 @@
                 }
             },
             {
-                "speciesId": "392",
-                "species": {
-                    "id": "392",
-                    "scientificName": "Scolopax rusticola",
-                    "commonName": "Erdei szalonka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/392/EurasianWoodcock-thumbnail-a9df3b6c02271729d84757187bcb9b4c.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/392/EurasianWoodcock-standard-2484329d0fbb3ed698499e8f890c86ca.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-woodcock",
-                    "ebirdUrl": "https://ebird.org/species/eurwoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_woodcock",
-                    "wikipediaSummary": "The Eurasian woodcock (Scolopax rusticola) is a medium-small wading bird found in temperate and subarctic Eurasia. It has cryptic camouflage to suit its woodland habitat, with reddish-brown upperparts and buff-coloured underparts. Its eyes are set far back on its head to give it 360-degree vision and it probes in the ground for food with its long, sensitive bill, making it vulnerable to cold weather when the ground remains frozen.\nThe male performs a courtship flight known as 'roding' at dusk in spring. When threatened, the female can carry chicks between her legs, in her claws or on her back while flying, though this is rarely witnessed. The world population is estimated to be 14 million to 16 million birds.",
-                    "color": "#0f50a4",
-                    "thumbhash": "XrkFFwZVm4l7dne3aAimyFaHdn/KKXkA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Ronald_Sl\" title=\"User:Ronald Sl\">Ronald Slabke</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11581453043",
-                    "timestamp": "2026-10-06T12:11:26+02:00",
-                    "score": 5.400045287448179,
-                    "probability": 0.05280846357345581,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791281486-11581453043/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791281486-11581453043/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T12:11:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-101126.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "8",
                 "species": {
                     "id": "8",
@@ -1133,6 +1076,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-06T09:49:49+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-074949.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "303",
+                "species": {
+                    "id": "303",
+                    "scientificName": "Saxicola rubicola",
+                    "commonName": "Cig\u00e1nycsuk",
+                    "thumbnailUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-thumbnail-25df46e1744b6d9ba7c7e1f023235f2a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-standard-23799ee67e36e10c6993ad61d7af5ef8.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-stonechat",
+                    "ebirdUrl": "https://ebird.org/species/stonec4",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_stonechat",
+                    "wikipediaSummary": "The European stonechat (Saxicola rubicola) is a small passerine bird that was formerly classed as a subspecies of the common stonechat. Long considered a member of the thrush family, Turdidae, genetic evidence has placed it and its relatives in the Old World flycatcher family, Muscicapidae.",
+                    "color": "#96038f",
+                    "thumbhash": "5sYFHwL3WId6hnl7hZhpZZd4hzBYB4QD",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11581794172",
+                    "timestamp": "2026-10-06T12:45:54+02:00",
+                    "score": 8.065742705087823,
+                    "probability": 0.2903900742530823,
+                    "confidence": 0.9,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791283554-11581794172/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791283554-11581794172/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T12:45:54+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-104554.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
