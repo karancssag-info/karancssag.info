@@ -2,6 +2,120 @@
     "data": {
         "species": [
             {
+                "speciesId": "6",
+                "species": {
+                    "id": "6",
+                    "scientificName": "Erithacus rubecula",
+                    "commonName": "V\u00f6r\u00f6sbegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
+                    "ebirdUrl": "https://ebird.org/species/eurrob1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
+                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
+                    "color": "#93d436",
+                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 4,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 4,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11577697508",
+                    "timestamp": "2026-10-06T06:41:11+02:00",
+                    "score": 8.782905968185403,
+                    "probability": 0.6974756121635437,
+                    "confidence": 0.73,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791261671-11577697508/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791261671-11577697508/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T06:41:11+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-044111.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "20",
+                "species": {
+                    "id": "20",
+                    "scientificName": "Phoenicurus ochruros",
+                    "commonName": "H\u00e1zi rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
+                    "ebirdUrl": "https://ebird.org/species/blared1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
+                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
+                    "color": "#c8ce2d",
+                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11577657044",
+                    "timestamp": "2026-10-06T06:36:41+02:00",
+                    "score": 9.51970921168873,
+                    "probability": 0.744918167591095,
+                    "confidence": 0.99,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791261401-11577657044/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791261401-11577657044/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T06:36:41+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-043641.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "46",
                 "species": {
                     "id": "46",
