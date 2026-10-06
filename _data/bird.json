@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11580291978",
-                    "timestamp": "2026-10-06T10:11:40+02:00",
-                    "score": 9.375162373849523,
+                    "id": "11581362717",
+                    "timestamp": "2026-10-06T12:01:08+02:00",
+                    "score": 9.251655370967335,
                     "probability": 0.7981633543968201,
-                    "confidence": 0.88,
+                    "confidence": 0.83,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791274300-11580291978/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791274300-11580291978/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791280868-11581362717/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791280868-11581362717/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T10:11:40+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-081140.flac",
+                        "timestamp": "2026-10-06T12:01:08+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-100108.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -287,6 +287,120 @@
                 }
             },
             {
+                "speciesId": "128",
+                "species": {
+                    "id": "128",
+                    "scientificName": "Phoenicurus phoenicurus",
+                    "commonName": "Kerti rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
+                    "ebirdUrl": "https://ebird.org/species/comred2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
+                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
+                    "color": "#c3016b",
+                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11581368120",
+                    "timestamp": "2026-10-06T12:01:50+02:00",
+                    "score": 6.454509160040376,
+                    "probability": 0.09901853650808334,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791280910-11581368120/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791280910-11581368120/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T12:01:50+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-100150.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "1",
+                "species": {
+                    "id": "1",
+                    "scientificName": "Passer domesticus",
+                    "commonName": "H\u00e1zi ver\u00e9b",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
+                    "ebirdUrl": "https://ebird.org/species/houspa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
+                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
+                    "color": "#d16ff8",
+                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
+                    "imageLicense": "CC BY 2.0 de",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11581050165",
+                    "timestamp": "2026-10-06T11:26:24+02:00",
+                    "score": 8.972717835494478,
+                    "probability": 0.675142228603363,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791278784-11581050165/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791278784-11581050165/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T11:26:24+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-092624.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "11",
                 "species": {
                     "id": "11",
@@ -344,63 +458,6 @@
                 }
             },
             {
-                "speciesId": "1",
-                "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11580042293",
-                    "timestamp": "2026-10-06T09:49:50+02:00",
-                    "score": 8.673710450047052,
-                    "probability": 0.675142228603363,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791272990-11580042293/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791272990-11580042293/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T09:49:50+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-074950.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "8",
                 "species": {
                     "id": "8",
@@ -449,6 +506,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-06T08:13:37+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-061337.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "13",
+                "species": {
+                    "id": "13",
+                    "scientificName": "Picus canus",
+                    "commonName": "Hamvas k\u00fcll\u0151",
+                    "thumbnailUrl": "https://media.birdweather.com/species/13/Gray-headedWoodpecker-thumbnail-7d8e4a9789b9b30c050aa96af1bc23dd.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/13/Gray-headedWoodpecker-standard-6b0870497cf033a55f477e67896c5ac4.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-headed-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/gyfwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey-headed_woodpecker",
+                    "wikipediaSummary": "The grey-headed woodpecker (Picus canus), also known as the grey-faced woodpecker, is a Eurasian member of the woodpecker family, Picidae. Along with the more commonly found European green woodpecker and the Iberian green woodpecker, it is one of three closely related sister species found in Europe. Its distribution stretches across large parts of the central and Eastern Palaearctic, all the way to the Pacific Ocean.\nThe grey-headed woodpecker is more demanding than the European green woodpecker in terms of its habitat. It prefers old mixed coniferous forest with a high proportion of dead trees, feeding primarily on ants, although not being as exclusively dependent on this group as the green woodpecker. The grey-headed woodpecker's nest is typically excavated into dead or severely damaged trees.\nIn the majority of areas for which population numbers are available, the grey-headed woodpecker is in decline. IUCN's Least Concern rating is primarily based on the large distribution of the species.",
+                    "color": "#9542c9",
+                    "thumbhash": "T/kFHwIyjIoidpf0Suppl3hZCXV2P5YH",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30818542@N04\">Francesco Veronesi</a> from Italy",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11581100899",
+                    "timestamp": "2026-10-06T11:31:50+02:00",
+                    "score": 6.120496691355678,
+                    "probability": 0.09892497956752777,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791279110-11581100899/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791279110-11581100899/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T11:31:50+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-093150.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -629,20 +743,20 @@
                 }
             },
             {
-                "speciesId": "128",
+                "speciesId": "157",
                 "species": {
-                    "id": "128",
-                    "scientificName": "Phoenicurus phoenicurus",
-                    "commonName": "Kerti rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
-                    "ebirdUrl": "https://ebird.org/species/comred2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
-                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
-                    "color": "#c3016b",
-                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
+                    "id": "157",
+                    "scientificName": "Poecile montanus",
+                    "commonName": "Kormosfej\u0171 cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/157/WillowTit-thumbnail-e14712e7e2f3be55d5a4f7195174d862.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/157/WillowTit-standard-366ae67d046a5077073bd0fb1d017171.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/willow-tit",
+                    "ebirdUrl": "https://ebird.org/species/wiltit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Willow_tit",
+                    "wikipediaSummary": "The willow tit (Poecile montanus) is a passerine bird in the tit family, Paridae. It is a widespread and common resident breeder throughout temperate and subarctic Europe and across the Palearctic. The plumage is grey-brown and off-white with a black cap and bib. It is more of a conifer specialist than the closely related marsh tit, which explains it breeding much further north. It is resident, and most birds do not migrate.",
+                    "color": "#028fb2",
+                    "thumbhash": "G1kGDwKBgYivaFiGhpaGKIZaO//Y5H8M",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
                     "imageLicense": "CC BY-SA 3.0",
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
@@ -658,14 +772,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11577968017",
-                    "timestamp": "2026-10-06T07:06:36+02:00",
-                    "score": 6.454509160040376,
-                    "probability": 0.09901853650808334,
-                    "confidence": 0.81,
+                    "id": "11580868546",
+                    "timestamp": "2026-10-06T11:07:08+02:00",
+                    "score": 6.698087818013043,
+                    "probability": 0.15199510753154755,
+                    "confidence": 0.71,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791263196-11577968017/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791263196-11577968017/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791277628-11580868546/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791277628-11580868546/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -675,8 +789,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T07:06:36+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-050636.flac",
+                        "timestamp": "2026-10-06T11:07:08+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-090708.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
