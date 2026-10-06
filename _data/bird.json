@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 13,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 13,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11581890070",
-                    "timestamp": "2026-10-06T12:53:36+02:00",
-                    "score": 9.326854176925265,
+                    "id": "11582168582",
+                    "timestamp": "2026-10-06T13:13:23+02:00",
+                    "score": 9.626458382247082,
                     "probability": 0.9955433011054993,
-                    "confidence": 0.75,
+                    "confidence": 0.86,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791284016-11581890070/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791284016-11581890070/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791285203-11582168582/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791285203-11582168582/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T12:53:36+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-105336.flac",
+                        "timestamp": "2026-10-06T13:13:23+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-111323.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 10,
+                "count": 11,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 10,
+                    "almostCertain": 11,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11581856746",
-                    "timestamp": "2026-10-06T12:50:57+02:00",
-                    "score": 7.696638709371823,
+                    "id": "11582186846",
+                    "timestamp": "2026-10-06T13:14:35+02:00",
+                    "score": 7.404042191963481,
                     "probability": 0.25474411249160767,
-                    "confidence": 0.82,
+                    "confidence": 0.72,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791283857-11581856746/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791283857-11581856746/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791285275-11582186846/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791285275-11582186846/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T12:50:57+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-105057.flac",
+                        "timestamp": "2026-10-06T13:14:35+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-111435.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -515,6 +515,63 @@
                 }
             },
             {
+                "speciesId": "25",
+                "species": {
+                    "id": "25",
+                    "scientificName": "Fringilla coelebs",
+                    "commonName": "Erdei pinty",
+                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
+                    "ebirdUrl": "https://ebird.org/species/comcha",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
+                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
+                    "color": "#fb7eff",
+                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11582162928",
+                    "timestamp": "2026-10-06T13:13:03+02:00",
+                    "score": 9.112940319200368,
+                    "probability": 0.7489824295043945,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791285183-11582162928/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791285183-11582162928/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T13:13:03+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-111303.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "392",
                 "species": {
                     "id": "392",
@@ -686,22 +743,22 @@
                 }
             },
             {
-                "speciesId": "25",
+                "speciesId": "30",
                 "species": {
-                    "id": "25",
-                    "scientificName": "Fringilla coelebs",
-                    "commonName": "Erdei pinty",
-                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
-                    "ebirdUrl": "https://ebird.org/species/comcha",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
-                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
-                    "color": "#fb7eff",
-                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
                 "count": 1,
@@ -715,14 +772,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11581634478",
-                    "timestamp": "2026-10-06T12:31:19+02:00",
-                    "score": 9.112940319200368,
-                    "probability": 0.7489824295043945,
-                    "confidence": 0.81,
+                    "id": "11582758907",
+                    "timestamp": "2026-10-06T13:48:49+02:00",
+                    "score": 9.60305943198934,
+                    "probability": 0.8287399411201477,
+                    "confidence": 0.96,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791282679-11581634478/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791282679-11581634478/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791287329-11582758907/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791287329-11582758907/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -732,8 +789,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T12:31:19+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-103119.flac",
+                        "timestamp": "2026-10-06T13:48:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-114849.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1076,63 +1133,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-06T12:45:54+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-104554.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "376",
-                "species": {
-                    "id": "376",
-                    "scientificName": "Botaurus stellaris",
-                    "commonName": "B\u00f6l\u00f6mbika",
-                    "thumbnailUrl": "https://media.birdweather.com/species/376/GreatBittern-thumbnail-f707ab052548ecb712adb2219c86e7d0.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/376/GreatBittern-standard-c7fe51d58a58d6ce50c03cfcfb123a47.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-bittern",
-                    "ebirdUrl": "https://ebird.org/species/grebit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_bittern",
-                    "wikipediaSummary": "The Eurasian bittern or great bittern (Botaurus stellaris) is a wading bird in the bittern subfamily (Botaurinae) of the heron family Ardeidae. There are two subspecies, the northern race (B. s. stellaris) breeding in parts of Europe and across the Palearctic, as well as on the northern coast of Africa, while the southern race (B. s. capensis) is endemic to parts of southern Africa. It is a secretive bird, seldom seen in the open as it prefers to skulk in reed beds and thick vegetation near water bodies. Its presence is apparent in the spring, when the booming call of the male during the breeding season can be heard. It feeds on fish, small mammals, fledgling birds, amphibians, crustaceans and insects.\nThe nest is usually built among reeds at the edge of bodies of water. The female incubates the clutch of eggs and feeds the young chicks, which leave the nest when about two weeks old. She continues to care for them until they are fully fledged some six weeks later.\nWith its specific habitat requirements and the general reduction in wetlands across its range, the population is thought to be in decline globally. However the decline is slow, and the International Union for Conservation of Nature has assessed its overall conservation status as being of \"least concern\". Nevertheless, some local populations are at risk and the population of the southern race has declined more dramatically and is cause for concern. In the United Kingdom it is one of the most threatened of all bird species.",
-                    "color": "#b70038",
-                    "thumbhash": "WhgGBwB9h4iPiYeIh5eImHiIyAemmmAJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Nijland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peter Nijland (page does not exist)\">Peter Nijland</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11570950404",
-                    "timestamp": "2026-10-05T20:58:44+02:00",
-                    "score": 5.929381469573345,
-                    "probability": 0.06287859380245209,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791226724-11570950404/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791226724-11570950404/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-05T20:58:44+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261005-185844.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
