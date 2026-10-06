@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 11,
+                "count": 12,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 11,
+                    "almostCertain": 12,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11582186846",
-                    "timestamp": "2026-10-06T13:14:35+02:00",
-                    "score": 7.404042191963481,
+                    "id": "11584162914",
+                    "timestamp": "2026-10-06T15:05:31+02:00",
+                    "score": 7.4362789734154475,
                     "probability": 0.25474411249160767,
-                    "confidence": 0.72,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791285275-11582186846/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791285275-11582186846/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791291931-11584162914/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791291931-11584162914/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T13:14:35+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-111435.flac",
+                        "timestamp": "2026-10-06T15:05:31+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-130531.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
