@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 20,
+                "count": 21,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 20,
+                    "almostCertain": 21,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11601668098",
-                    "timestamp": "2026-10-07T13:01:42+02:00",
-                    "score": 7.4362789734154475,
+                    "id": "11603284028",
+                    "timestamp": "2026-10-07T14:34:23+02:00",
+                    "score": 7.937608922427043,
                     "probability": 0.25474411249160767,
-                    "confidence": 0.73,
+                    "confidence": 0.92,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791370902-11601668098/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791370902-11601668098/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791376463-11603284028/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791376463-11603284028/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T13:01:42+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-110142.flac",
+                        "timestamp": "2026-10-07T14:34:23+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-123423.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,12 +134,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 18,
+                "count": 17,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 18,
+                    "almostCertain": 17,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -344,63 +344,6 @@
                 }
             },
             {
-                "speciesId": "756",
-                "species": {
-                    "id": "756",
-                    "scientificName": "Dendrocopos syriacus",
-                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
-                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
-                    "color": "#93d436",
-                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11586990798",
-                    "timestamp": "2026-10-06T17:28:41+02:00",
-                    "score": 7.106176794748044,
-                    "probability": 0.1366633027791977,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791300521-11586990798/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791300521-11586990798/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T17:28:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-152841.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -572,6 +515,63 @@
                 }
             },
             {
+                "speciesId": "756",
+                "species": {
+                    "id": "756",
+                    "scientificName": "Dendrocopos syriacus",
+                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
+                    "color": "#93d436",
+                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11586990798",
+                    "timestamp": "2026-10-06T17:28:41+02:00",
+                    "score": 7.106176794748044,
+                    "probability": 0.1366633027791977,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791300521-11586990798/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791300521-11586990798/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T17:28:41+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-152841.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "8",
                 "species": {
                     "id": "8",
@@ -686,22 +686,22 @@
                 }
             },
             {
-                "speciesId": "17",
+                "speciesId": "18",
                 "species": {
-                    "id": "17",
-                    "scientificName": "Periparus ater",
-                    "commonName": "Fenyvescinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/17/CoalTit-thumbnail-b678460580ac8ad63bf79c0d91ce7e92.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/17/CoalTit-standard-cd003bce1c1a2d53e34fa6201763e3fa.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/coal-tit",
-                    "ebirdUrl": "https://ebird.org/species/coatit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Coal_tit",
-                    "wikipediaSummary": "The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now usually included in this species.",
-                    "color": "#525fe7",
-                    "thumbhash": "EwkGDwBLp3h5eYeAjGZ3x0h7dm/HG6AA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Aviceda\" title=\"User:Aviceda\">Aviceda</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
                 "count": 1,
@@ -715,14 +715,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11583330523",
-                    "timestamp": "2026-10-06T14:19:50+02:00",
-                    "score": 7.861166531312546,
-                    "probability": 0.2774694859981537,
-                    "confidence": 0.84,
+                    "id": "11603557588",
+                    "timestamp": "2026-10-07T14:48:56+02:00",
+                    "score": 9.559620082997224,
+                    "probability": 0.8150637149810791,
+                    "confidence": 0.95,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791289190-11583330523/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791289190-11583330523/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791377336-11603557588/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791377336-11603557588/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -732,8 +732,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T14:19:50+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-121950.flac",
+                        "timestamp": "2026-10-07T14:48:56+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-124856.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
