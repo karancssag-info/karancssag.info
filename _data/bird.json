@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 24,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 24,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11604201180",
+                    "timestamp": "2026-10-07T15:23:08+02:00",
+                    "score": 8.064160371006533,
+                    "probability": 0.25474411249160767,
+                    "confidence": 0.98,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791379388-11604201180/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791379388-11604201180/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T15:23:08+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-132308.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "199",
                 "species": {
                     "id": "199",
@@ -50,63 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T11:45:57+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-094557.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 21,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 21,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11603284028",
-                    "timestamp": "2026-10-07T14:34:23+02:00",
-                    "score": 7.937608922427043,
-                    "probability": 0.25474411249160767,
-                    "confidence": 0.92,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791376463-11603284028/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791376463-11603284028/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T14:34:23+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-123423.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -743,6 +743,63 @@
                 }
             },
             {
+                "speciesId": "30",
+                "species": {
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11604656857",
+                    "timestamp": "2026-10-07T15:47:01+02:00",
+                    "score": 9.663958346711382,
+                    "probability": 0.8287399411201477,
+                    "confidence": 0.99,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791380821-11604656857/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791380821-11604656857/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T15:47:01+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-134701.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -1076,63 +1133,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T06:36:54+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043654.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "1082",
-                "species": {
-                    "id": "1082",
-                    "scientificName": "Perdix perdix",
-                    "commonName": "Fogoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1082/GrayPartridge-thumbnail-2382e0bdc84bafc97406b2e034f03511.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1082/GrayPartridge-standard-81551295cd4714b782913eefe2b1a524.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/gray-partridge",
-                    "ebirdUrl": "https://ebird.org/species/grypar",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_partridge",
-                    "wikipediaSummary": "The grey partridge (Perdix perdix), also known as the grey-legged partridge, English partridge, Hungarian partridge, or hun, is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\", and is itself derived from Ancient Greek  perdix.",
-                    "color": "#c90021",
-                    "thumbhash": "2PgBBwJnWnp9fLSQWcpVeGet1/jqKTQA",
-                    "imageCredit": null,
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11599013556",
-                    "timestamp": "2026-10-07T08:46:00+02:00",
-                    "score": 5.322215227539104,
-                    "probability": 0.04933976009488106,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791355560-11599013556/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791355560-11599013556/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T08:46:00+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-064600.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
