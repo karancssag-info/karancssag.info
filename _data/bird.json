@@ -305,12 +305,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 4,
+                "count": 3,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 4,
+                    "almostCertain": 3,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -506,63 +506,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T12:12:49+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-101249.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "756",
-                "species": {
-                    "id": "756",
-                    "scientificName": "Dendrocopos syriacus",
-                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
-                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
-                    "color": "#93d436",
-                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11586990798",
-                    "timestamp": "2026-10-06T17:28:41+02:00",
-                    "score": 7.106176794748044,
-                    "probability": 0.1366633027791977,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791300521-11586990798/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791300521-11586990798/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T17:28:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-152841.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1133,6 +1076,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T06:36:54+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043654.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "1082",
+                "species": {
+                    "id": "1082",
+                    "scientificName": "Perdix perdix",
+                    "commonName": "Fogoly",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1082/GrayPartridge-thumbnail-2382e0bdc84bafc97406b2e034f03511.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1082/GrayPartridge-standard-81551295cd4714b782913eefe2b1a524.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-partridge",
+                    "ebirdUrl": "https://ebird.org/species/grypar",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_partridge",
+                    "wikipediaSummary": "The grey partridge (Perdix perdix), also known as the grey-legged partridge, English partridge, Hungarian partridge, or hun, is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\", and is itself derived from Ancient Greek  perdix.",
+                    "color": "#c90021",
+                    "thumbhash": "2PgBBwJnWnp9fLSQWcpVeGet1/jqKTQA",
+                    "imageCredit": null,
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11599013556",
+                    "timestamp": "2026-10-07T08:46:00+02:00",
+                    "score": 5.322215227539104,
+                    "probability": 0.04933976009488106,
+                    "confidence": 0.71,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791355560-11599013556/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791355560-11599013556/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T08:46:00+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-064600.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
