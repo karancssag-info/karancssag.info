@@ -31,14 +31,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11597430490",
-                    "timestamp": "2026-10-07T06:34:37+02:00",
-                    "score": 9.19932029732483,
+                    "id": "11597764804",
+                    "timestamp": "2026-10-07T07:07:53+02:00",
+                    "score": 9.326854176925265,
                     "probability": 0.9955433011054993,
-                    "confidence": 0.71,
+                    "confidence": 0.75,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791347677-11597430490/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791347677-11597430490/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791349673-11597764804/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791349673-11597764804/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T06:34:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043437.flac",
+                        "timestamp": "2026-10-07T07:07:53+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-050753.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 15,
+                "count": 12,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 15,
+                    "almostCertain": 12,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -116,6 +116,63 @@
                 }
             },
             {
+                "speciesId": "52",
+                "species": {
+                    "id": "52",
+                    "scientificName": "Pica pica",
+                    "commonName": "Szarka",
+                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
+                    "ebirdUrl": "https://ebird.org/species/eurmag1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
+                    "color": "#d9c845",
+                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 10,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 10,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11597877946",
+                    "timestamp": "2026-10-07T07:17:09+02:00",
+                    "score": 9.364739624460917,
+                    "probability": 0.8206825256347656,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791350229-11597877946/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791350229-11597877946/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T07:17:09+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-051709.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "84",
                 "species": {
                     "id": "84",
@@ -134,12 +191,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -164,177 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-06T16:21:07+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-142107.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "52",
-                "species": {
-                    "id": "52",
-                    "scientificName": "Pica pica",
-                    "commonName": "Szarka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
-                    "ebirdUrl": "https://ebird.org/species/eurmag1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
-                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
-                    "color": "#d9c845",
-                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 6,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 6,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11597725984",
-                    "timestamp": "2026-10-07T07:04:37+02:00",
-                    "score": 9.0651354191391,
-                    "probability": 0.8206825256347656,
-                    "confidence": 0.75,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791349477-11597725984/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791349477-11597725984/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T07:04:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-050437.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11578324931",
-                    "timestamp": "2026-10-06T07:34:21+02:00",
-                    "score": 9.227310640072528,
-                    "probability": 0.8150637149810791,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791264861-11578324931/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791264861-11578324931/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T07:34:21+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-053421.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "128",
-                "species": {
-                    "id": "128",
-                    "scientificName": "Phoenicurus phoenicurus",
-                    "commonName": "Kerti rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
-                    "ebirdUrl": "https://ebird.org/species/comred2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
-                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
-                    "color": "#c3016b",
-                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11581368120",
-                    "timestamp": "2026-10-06T12:01:50+02:00",
-                    "score": 6.454509160040376,
-                    "probability": 0.09901853650808334,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791280910-11581368120/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791280910-11581368120/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T12:01:50+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-100150.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "8",
+                "species": {
+                    "id": "8",
+                    "scientificName": "Aegithalos caudatus",
+                    "commonName": "\u0150szap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
+                    "ebirdUrl": "https://ebird.org/species/lottit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
+                    "color": "#bdc706",
+                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11598075055",
+                    "timestamp": "2026-10-07T07:32:56+02:00",
+                    "score": 7.912038632554895,
+                    "probability": 0.3646654784679413,
+                    "confidence": 0.73,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791351176-11598075055/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791351176-11598075055/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T07:32:56+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-053256.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "20",
                 "species": {
                     "id": "20",
@@ -572,43 +515,43 @@
                 }
             },
             {
-                "speciesId": "8",
+                "speciesId": "56",
                 "species": {
-                    "id": "8",
-                    "scientificName": "Aegithalos caudatus",
-                    "commonName": "\u0150szap\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
-                    "ebirdUrl": "https://ebird.org/species/lottit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
-                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
-                    "color": "#bdc706",
-                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "id": "56",
+                    "scientificName": "Coccothraustes coccothraustes",
+                    "commonName": "Meggyv\u00e1g\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/hawfinch",
+                    "ebirdUrl": "https://ebird.org/species/hawfin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawfinch",
+                    "wikipediaSummary": "The hawfinch (Coccothraustes coccothraustes) is a passerine bird in the finch family Fringillidae. It is the only species placed in the genus Coccothraustes. Its closest living relatives are the Chinese grosbeak (Eophona migratoria) and Japanese grosbeak (Eophona personata) of East Asia, and the evening grosbeak (Hesperiphona vespertina) and hooded grosbeak (Hesperiphona abeillei) of North America.\nThis bird breeds across Europe and temperate Asia (Palearctic). It is mainly resident in Europe, but many Asian birds migrate further south in the winter. It is a rare vagrant to the western islands of Alaska.\nDeciduous or mixed woodland, including parkland, with large trees \u2013 especially hornbeam \u2013 is favoured for breeding. The hawfinch builds its nest in a bush or tree, and lays 2\u20137 eggs. The food is mainly seeds and fruit kernels, especially those of cherries, which it cracks with its powerful bill. This large finch species is usually seen in a pair or small group.\nThe 16.5\u201318 cm long hawfinch is a bulky bull-headed bird, which appears very short-tailed in flight. Its head is orange-brown with a black eyestripe and bib, and a massive bill, which is black in summer but paler in winter. The upper parts are dark brown and the underparts orange.\nThe white wing bars and tail tip are striking in flight. The sexes are similar. The call is a hard chick. The song of this unobtrusive bird is quiet and mumbled.",
+                    "color": "#009135",
+                    "thumbhash": "XOgBDwKvYWRQ62V5hIx4g2aGae/HK6AF",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikils&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikils (page does not exist)\">Mikils</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 1,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 1,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11578845645",
-                    "timestamp": "2026-10-06T08:13:37+02:00",
-                    "score": 8.17239836851127,
-                    "probability": 0.3646654784679413,
-                    "confidence": 0.82,
+                    "id": "11597781755",
+                    "timestamp": "2026-10-07T07:09:09+02:00",
+                    "score": 7.302317058123124,
+                    "probability": 0.2357984334230423,
+                    "confidence": 0.72,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791267217-11578845645/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791267217-11578845645/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791349749-11597781755/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791349749-11597781755/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -618,8 +561,65 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T08:13:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-061337.flac",
+                        "timestamp": "2026-10-07T07:09:09+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-050909.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "128",
+                "species": {
+                    "id": "128",
+                    "scientificName": "Phoenicurus phoenicurus",
+                    "commonName": "Kerti rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
+                    "ebirdUrl": "https://ebird.org/species/comred2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
+                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
+                    "color": "#c3016b",
+                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11581368120",
+                    "timestamp": "2026-10-06T12:01:50+02:00",
+                    "score": 6.454509160040376,
+                    "probability": 0.09901853650808334,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791280910-11581368120/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791280910-11581368120/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-06T12:01:50+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-100150.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -800,20 +800,20 @@
                 }
             },
             {
-                "speciesId": "56",
+                "speciesId": "64",
                 "species": {
-                    "id": "56",
-                    "scientificName": "Coccothraustes coccothraustes",
-                    "commonName": "Meggyv\u00e1g\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/hawfinch",
-                    "ebirdUrl": "https://ebird.org/species/hawfin",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawfinch",
-                    "wikipediaSummary": "The hawfinch (Coccothraustes coccothraustes) is a passerine bird in the finch family Fringillidae. It is the only species placed in the genus Coccothraustes. Its closest living relatives are the Chinese grosbeak (Eophona migratoria) and Japanese grosbeak (Eophona personata) of East Asia, and the evening grosbeak (Hesperiphona vespertina) and hooded grosbeak (Hesperiphona abeillei) of North America.\nThis bird breeds across Europe and temperate Asia (Palearctic). It is mainly resident in Europe, but many Asian birds migrate further south in the winter. It is a rare vagrant to the western islands of Alaska.\nDeciduous or mixed woodland, including parkland, with large trees \u2013 especially hornbeam \u2013 is favoured for breeding. The hawfinch builds its nest in a bush or tree, and lays 2\u20137 eggs. The food is mainly seeds and fruit kernels, especially those of cherries, which it cracks with its powerful bill. This large finch species is usually seen in a pair or small group.\nThe 16.5\u201318 cm long hawfinch is a bulky bull-headed bird, which appears very short-tailed in flight. Its head is orange-brown with a black eyestripe and bib, and a massive bill, which is black in summer but paler in winter. The upper parts are dark brown and the underparts orange.\nThe white wing bars and tail tip are striking in flight. The sexes are similar. The call is a hard chick. The song of this unobtrusive bird is quiet and mumbled.",
-                    "color": "#009135",
-                    "thumbhash": "XOgBDwKvYWRQ62V5hIx4g2aGae/HK6AF",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikils&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikils (page does not exist)\">Mikils</a>",
+                    "id": "64",
+                    "scientificName": "Phasianus colchicus",
+                    "commonName": "F\u00e1c\u00e1n",
+                    "thumbnailUrl": "https://media.birdweather.com/species/64/Ring-neckedPheasant-thumbnail-d97aaef0b46efbe3bc67996a716e6be6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/64/Ring-neckedPheasant-standard-948f6e77fa207362972fb2a6c4415064.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/ring-necked-pheasant",
+                    "ebirdUrl": "https://ebird.org/species/rinphe",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_pheasant",
+                    "wikipediaSummary": "The common pheasant (Phasianus colchicus) is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus, \"pheasant\". The species name colchicus is Latin for \"of Colchis\" (modern day Georgia), a country on the Black Sea where pheasants became known to Europeans. Phasianus diverged from the genus Gallus, the genus of junglefowl and domesticated chickens, about 20 million years ago.It is native to Asia and parts of Europe like the northern foothills of the Caucasus and the Balkans. It has been widely introduced elsewhere as a game bird. In parts of its range, namely in places where none of its relatives occur such as in Europe, where it is naturalised, it is simply known as the \"pheasant\". Ring-necked pheasant is both the name used for the species as a whole in North America and also the collective name for a number of subspecies and their intergrades that have white neck rings.\nIt is a well-known gamebird, among those of more than regional importance perhaps the most widespread and ancient one in the whole world. The common pheasant is one of the world's most hunted birds; it has been introduced for that purpose to many regions, and is also common on game farms where it is commercially bred. Ring-necked pheasants in particular are commonly bred and were introduced to many parts of the world; the game farm stock, though no distinct breeds have been developed yet, can be considered semi-domesticated. The ring-necked pheasant is the state bird of South Dakota, one of only three US state birds that is not a species native to the United States.\nThe green pheasant (P. versicolor) of Japan is sometimes considered a subspecies of the common pheasant. Though the species produce fertile hybrids wherever they coexist, this is simply a typical feature among fowl (Galloanseres), in which postzygotic isolating mechanisms are slight compared to most other birds. The species apparently have somewhat different ecological requirements and at least in its typical habitat, the green pheasant outcompetes the common pheasant. The introduction of the latter to Japan has therefore largely failed.",
+                    "color": "#006e13",
+                    "thumbhash": "1ggKHwJqmHiAeHd0iTaHqGh5dgmJbGAD",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
                     "imageLicense": "CC BY-SA 4.0",
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
@@ -829,14 +829,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11578793555",
-                    "timestamp": "2026-10-06T08:09:35+02:00",
-                    "score": 7.48525506601872,
-                    "probability": 0.2357984334230423,
-                    "confidence": 0.78,
+                    "id": "11598048588",
+                    "timestamp": "2026-10-07T07:30:49+02:00",
+                    "score": 8.403802997881158,
+                    "probability": 0.48080071806907654,
+                    "confidence": 0.77,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791266975-11578793555/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791266975-11578793555/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791351049-11598048588/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791351049-11598048588/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -846,8 +846,65 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-06T08:09:35+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-060935.flac",
+                        "timestamp": "2026-10-07T07:30:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-053049.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "153",
+                "species": {
+                    "id": "153",
+                    "scientificName": "Turdus iliacus",
+                    "commonName": "Sz\u0151l\u0151rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
+                    "ebirdUrl": "https://ebird.org/species/redwin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
+                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+                    "color": "#a7d386",
+                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11597797430",
+                    "timestamp": "2026-10-07T07:10:31+02:00",
+                    "score": 5.676150809978403,
+                    "probability": 0.05176724120974541,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791349831-11597797430/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791349831-11597797430/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T07:10:31+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-051031.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1076,63 +1133,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-06T12:45:54+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-104554.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "392",
-                "species": {
-                    "id": "392",
-                    "scientificName": "Scolopax rusticola",
-                    "commonName": "Erdei szalonka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/392/EurasianWoodcock-thumbnail-a9df3b6c02271729d84757187bcb9b4c.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/392/EurasianWoodcock-standard-2484329d0fbb3ed698499e8f890c86ca.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-woodcock",
-                    "ebirdUrl": "https://ebird.org/species/eurwoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_woodcock",
-                    "wikipediaSummary": "The Eurasian woodcock (Scolopax rusticola) is a medium-small wading bird found in temperate and subarctic Eurasia. It has cryptic camouflage to suit its woodland habitat, with reddish-brown upperparts and buff-coloured underparts. Its eyes are set far back on its head to give it 360-degree vision and it probes in the ground for food with its long, sensitive bill, making it vulnerable to cold weather when the ground remains frozen.\nThe male performs a courtship flight known as 'roding' at dusk in spring. When threatened, the female can carry chicks between her legs, in her claws or on her back while flying, though this is rarely witnessed. The world population is estimated to be 14 million to 16 million birds.",
-                    "color": "#0f50a4",
-                    "thumbhash": "XrkFFwZVm4l7dne3aAimyFaHdn/KKXkA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Ronald_Sl\" title=\"User:Ronald Sl\">Ronald Slabke</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11581453043",
-                    "timestamp": "2026-10-06T12:11:26+02:00",
-                    "score": 5.400045287448179,
-                    "probability": 0.05280846357345581,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791281486-11581453043/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791281486-11581453043/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T12:11:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-101126.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
