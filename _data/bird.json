@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "199",
+                "species": {
+                    "id": "199",
+                    "scientificName": "Passer montanus",
+                    "commonName": "Mezei ver\u00e9b",
+                    "thumbnailUrl": "https://media.birdweather.com/species/199/EurasianTreeSparrow-thumbnail-13b2049459bce4ec951eb5f06289b450.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/199/EurasianTreeSparrow-standard-92fcc3e2a0b115d5def9845bafbc7f09.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-tree-sparrow",
+                    "ebirdUrl": "https://ebird.org/species/eutspa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+                    "wikipediaSummary": "The Eurasian tree sparrow (Passer montanus) is a passerine bird in the sparrow family with a rich chestnut crown and nape, and a black patch on each pure white cheek. The sexes are similarly plumaged, and young birds are a duller version of the adult. This sparrow breeds over most of temperate Eurasia and Southeast Asia, where it is known as the tree sparrow, and it has been introduced elsewhere including the United States, where it is known as the Eurasian tree sparrow or German sparrow to differentiate it from the native unrelated American tree sparrow. Although several subspecies are recognised, the appearance of this bird varies little across its extensive range.\nThe Eurasian tree sparrow's untidy nest is built in a natural cavity, a hole in a building or the disused nest of a European magpie or white stork. The typical clutch is five or six eggs which hatch in under two weeks. This sparrow feeds mainly on seeds, but invertebrates are also consumed, particularly during the breeding season. As with other small birds, infection by parasites and diseases, and predation by birds of prey take their toll, and the typical life span is about two years.\nThe Eurasian tree sparrow is widespread in the towns and cities of eastern Asia, but in Europe it is a bird of lightly wooded open countryside, with the house sparrow breeding in the more urban areas. The Eurasian tree sparrow's extensive range and large population ensure that it is not endangered globally, but there have been large declines in western European populations, in part due to changes in farming practices involving increased use of herbicides and loss of winter stubble fields. In eastern Asia and western Australia, this species is sometimes viewed as a pest, although it is also widely celebrated in oriental art.",
+                    "color": "#886000",
+                    "thumbhash": "6/cJDwKsd4elaIifZIh3eIV4iHIFF1cA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Laitche\" title=\"User:Laitche\">Laitche</a>",
+                    "imageLicense": "Public domain",
+                    "imageLicenseUrl": null,
+                    "__typename": "Species"
+                },
+                "count": 23,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 23,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11600916363",
+                    "timestamp": "2026-10-07T11:45:57+02:00",
+                    "score": 9.0704364448998,
+                    "probability": 0.7116467952728271,
+                    "confidence": 0.82,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791366357-11600916363/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791366357-11600916363/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T11:45:57+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-094557.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "84",
                 "species": {
                     "id": "84",
@@ -107,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T10:51:27+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-085127.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "199",
-                "species": {
-                    "id": "199",
-                    "scientificName": "Passer montanus",
-                    "commonName": "Mezei ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/199/EurasianTreeSparrow-thumbnail-13b2049459bce4ec951eb5f06289b450.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/199/EurasianTreeSparrow-standard-92fcc3e2a0b115d5def9845bafbc7f09.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-tree-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/eutspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
-                    "wikipediaSummary": "The Eurasian tree sparrow (Passer montanus) is a passerine bird in the sparrow family with a rich chestnut crown and nape, and a black patch on each pure white cheek. The sexes are similarly plumaged, and young birds are a duller version of the adult. This sparrow breeds over most of temperate Eurasia and Southeast Asia, where it is known as the tree sparrow, and it has been introduced elsewhere including the United States, where it is known as the Eurasian tree sparrow or German sparrow to differentiate it from the native unrelated American tree sparrow. Although several subspecies are recognised, the appearance of this bird varies little across its extensive range.\nThe Eurasian tree sparrow's untidy nest is built in a natural cavity, a hole in a building or the disused nest of a European magpie or white stork. The typical clutch is five or six eggs which hatch in under two weeks. This sparrow feeds mainly on seeds, but invertebrates are also consumed, particularly during the breeding season. As with other small birds, infection by parasites and diseases, and predation by birds of prey take their toll, and the typical life span is about two years.\nThe Eurasian tree sparrow is widespread in the towns and cities of eastern Asia, but in Europe it is a bird of lightly wooded open countryside, with the house sparrow breeding in the more urban areas. The Eurasian tree sparrow's extensive range and large population ensure that it is not endangered globally, but there have been large declines in western European populations, in part due to changes in farming practices involving increased use of herbicides and loss of winter stubble fields. In eastern Asia and western Australia, this species is sometimes viewed as a pest, although it is also widely celebrated in oriental art.",
-                    "color": "#886000",
-                    "thumbhash": "6/cJDwKsd4elaIifZIh3eIV4iHIFF1cA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Laitche\" title=\"User:Laitche\">Laitche</a>",
-                    "imageLicense": "Public domain",
-                    "imageLicenseUrl": null,
-                    "__typename": "Species"
-                },
-                "count": 11,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 11,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11600554450",
-                    "timestamp": "2026-10-07T11:04:41+02:00",
-                    "score": 8.710997402579336,
-                    "probability": 0.7116467952728271,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791363881-11600554450/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791363881-11600554450/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T11:04:41+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-090441.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -248,12 +248,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 7,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 7,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -344,43 +344,43 @@
                 }
             },
             {
-                "speciesId": "128",
+                "speciesId": "1",
                 "species": {
-                    "id": "128",
-                    "scientificName": "Phoenicurus phoenicurus",
-                    "commonName": "Kerti rozsdafark\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
-                    "ebirdUrl": "https://ebird.org/species/comred2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
-                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
-                    "color": "#c3016b",
-                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "id": "1",
+                    "scientificName": "Passer domesticus",
+                    "commonName": "H\u00e1zi ver\u00e9b",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
+                    "ebirdUrl": "https://ebird.org/species/houspa",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
+                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
+                    "color": "#d16ff8",
+                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
+                    "imageLicense": "CC BY 2.0 de",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11599630985",
-                    "timestamp": "2026-10-07T09:37:36+02:00",
-                    "score": 6.371453428151861,
-                    "probability": 0.09901853650808334,
-                    "confidence": 0.78,
+                    "id": "11600915983",
+                    "timestamp": "2026-10-07T11:45:46+02:00",
+                    "score": 8.91791052707371,
+                    "probability": 0.675142228603363,
+                    "confidence": 0.79,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791358656-11599630985/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791358656-11599630985/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791366346-11600915983/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791366346-11600915983/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +390,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T09:37:36+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-073736.flac",
+                        "timestamp": "2026-10-07T11:45:46+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-094546.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -572,120 +572,6 @@
                 }
             },
             {
-                "speciesId": "157",
-                "species": {
-                    "id": "157",
-                    "scientificName": "Poecile montanus",
-                    "commonName": "Kormosfej\u0171 cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/157/WillowTit-thumbnail-e14712e7e2f3be55d5a4f7195174d862.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/157/WillowTit-standard-366ae67d046a5077073bd0fb1d017171.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/willow-tit",
-                    "ebirdUrl": "https://ebird.org/species/wiltit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Willow_tit",
-                    "wikipediaSummary": "The willow tit (Poecile montanus) is a passerine bird in the tit family, Paridae. It is a widespread and common resident breeder throughout temperate and subarctic Europe and across the Palearctic. The plumage is grey-brown and off-white with a black cap and bib. It is more of a conifer specialist than the closely related marsh tit, which explains it breeding much further north. It is resident, and most birds do not migrate.",
-                    "color": "#028fb2",
-                    "thumbhash": "G1kGDwKBgYivaFiGhpaGKIZaO//Y5H8M",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11599075978",
-                    "timestamp": "2026-10-07T08:51:10+02:00",
-                    "score": 7.173301011076736,
-                    "probability": 0.15199510753154755,
-                    "confidence": 0.88,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791355870-11599075978/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791355870-11599075978/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T08:51:10+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-065110.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "1",
-                "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11581050165",
-                    "timestamp": "2026-10-06T11:26:24+02:00",
-                    "score": 8.972717835494478,
-                    "probability": 0.675142228603363,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791278784-11581050165/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791278784-11581050165/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T11:26:24+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-092624.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "8",
                 "species": {
                     "id": "8",
@@ -734,63 +620,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T07:32:56+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-053256.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "13",
-                "species": {
-                    "id": "13",
-                    "scientificName": "Picus canus",
-                    "commonName": "Hamvas k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/13/Gray-headedWoodpecker-thumbnail-7d8e4a9789b9b30c050aa96af1bc23dd.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/13/Gray-headedWoodpecker-standard-6b0870497cf033a55f477e67896c5ac4.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/gray-headed-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/gyfwoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey-headed_woodpecker",
-                    "wikipediaSummary": "The grey-headed woodpecker (Picus canus), also known as the grey-faced woodpecker, is a Eurasian member of the woodpecker family, Picidae. Along with the more commonly found European green woodpecker and the Iberian green woodpecker, it is one of three closely related sister species found in Europe. Its distribution stretches across large parts of the central and Eastern Palaearctic, all the way to the Pacific Ocean.\nThe grey-headed woodpecker is more demanding than the European green woodpecker in terms of its habitat. It prefers old mixed coniferous forest with a high proportion of dead trees, feeding primarily on ants, although not being as exclusively dependent on this group as the green woodpecker. The grey-headed woodpecker's nest is typically excavated into dead or severely damaged trees.\nIn the majority of areas for which population numbers are available, the grey-headed woodpecker is in decline. IUCN's Least Concern rating is primarily based on the large distribution of the species.",
-                    "color": "#9542c9",
-                    "thumbhash": "T/kFHwIyjIoidpf0Suppl3hZCXV2P5YH",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30818542@N04\">Francesco Veronesi</a> from Italy",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11581100899",
-                    "timestamp": "2026-10-06T11:31:50+02:00",
-                    "score": 6.120496691355678,
-                    "probability": 0.09892497956752777,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791279110-11581100899/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791279110-11581100899/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T11:31:50+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-093150.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1085,6 +914,63 @@
                 }
             },
             {
+                "speciesId": "128",
+                "species": {
+                    "id": "128",
+                    "scientificName": "Phoenicurus phoenicurus",
+                    "commonName": "Kerti rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/128/CommonRedstart-thumbnail-37ca3ea347db43fdc7280b22ac383e45.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/128/CommonRedstart-standard-5286935d812ec247295f51ba5c94f63f.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redstart",
+                    "ebirdUrl": "https://ebird.org/species/comred2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redstart",
+                    "wikipediaSummary": "The common redstart (Phoenicurus phoenicurus), or often simply redstart, is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family, (Turdidae), but is now known to be an Old World flycatcher (family Muscicapidae).",
+                    "color": "#c3016b",
+                    "thumbhash": "0fgBBwIDxvR0mnn+pFLKaCuXBu8VYOUG",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yerpo\" title=\"User:Yerpo\">Yerpo</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11599630985",
+                    "timestamp": "2026-10-07T09:37:36+02:00",
+                    "score": 6.371453428151861,
+                    "probability": 0.09901853650808334,
+                    "confidence": 0.78,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791358656-11599630985/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791358656-11599630985/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T09:37:36+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-073736.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "153",
                 "species": {
                     "id": "153",
@@ -1133,6 +1019,120 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T07:10:31+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-051031.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "157",
+                "species": {
+                    "id": "157",
+                    "scientificName": "Poecile montanus",
+                    "commonName": "Kormosfej\u0171 cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/157/WillowTit-thumbnail-e14712e7e2f3be55d5a4f7195174d862.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/157/WillowTit-standard-366ae67d046a5077073bd0fb1d017171.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/willow-tit",
+                    "ebirdUrl": "https://ebird.org/species/wiltit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Willow_tit",
+                    "wikipediaSummary": "The willow tit (Poecile montanus) is a passerine bird in the tit family, Paridae. It is a widespread and common resident breeder throughout temperate and subarctic Europe and across the Palearctic. The plumage is grey-brown and off-white with a black cap and bib. It is more of a conifer specialist than the closely related marsh tit, which explains it breeding much further north. It is resident, and most birds do not migrate.",
+                    "color": "#028fb2",
+                    "thumbhash": "G1kGDwKBgYivaFiGhpaGKIZaO//Y5H8M",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11599075978",
+                    "timestamp": "2026-10-07T08:51:10+02:00",
+                    "score": 7.173301011076736,
+                    "probability": 0.15199510753154755,
+                    "confidence": 0.88,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791355870-11599075978/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791355870-11599075978/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T08:51:10+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-065110.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "232",
+                "species": {
+                    "id": "232",
+                    "scientificName": "Tringa ochropus",
+                    "commonName": "Erdei cank\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/232/GreenSandpiper-thumbnail-3cdf5e1b050dd0e0e32364120ba6b347.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/232/GreenSandpiper-standard-b34cf866a9e791dedc8295d5cd1029db.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/green-sandpiper",
+                    "ebirdUrl": "https://ebird.org/species/grnsan",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_sandpiper",
+                    "wikipediaSummary": "The green sandpiper (Tringa ochropus) is a small wader (shorebird) of the Old World. \nThe green sandpiper represents an ancient lineage of the genus Tringa; its only close living relative is the solitary sandpiper (T. solitaria). They both have brown wings with little light dots and a delicate but contrasting neck and chest pattern. In addition, both species nest in trees, unlike most other scolopacids.Given its basal position in Tringa, it is fairly unsurprising that suspected cases of hybridisation between this species and the common sandpiper (A. hypoleucos) of the sister genus Actitis have been reported.",
+                    "color": "#b27aa1",
+                    "thumbhash": "XggKDwKZd4h9eIePhrd4eIiGigsWmHAF",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11597451107",
+                    "timestamp": "2026-10-07T06:36:54+02:00",
+                    "score": 6.803539319237785,
+                    "probability": 0.10208158195018768,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791347814-11597451107/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791347814-11597451107/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T06:36:54+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043654.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
