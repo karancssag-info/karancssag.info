@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 24,
+                "count": 23,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 24,
+                    "almostCertain": 23,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 17,
+                "count": 18,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 17,
+                    "almostCertain": 18,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11601536466",
-                    "timestamp": "2026-10-07T12:51:47+02:00",
-                    "score": 9.551026487506334,
+                    "id": "11605570843",
+                    "timestamp": "2026-10-07T16:30:48+02:00",
+                    "score": 9.264570724440107,
                     "probability": 0.9955433011054993,
-                    "confidence": 0.83,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791370307-11601536466/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791370307-11601536466/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791383448-11605570843/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791383448-11605570843/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T12:51:47+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-105147.flac",
+                        "timestamp": "2026-10-07T16:30:48+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-143048.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
