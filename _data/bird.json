@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 21,
+                "count": 20,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 21,
+                    "almostCertain": 20,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -134,12 +134,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 19,
+                "count": 18,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 19,
+                    "almostCertain": 18,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -743,120 +743,6 @@
                 }
             },
             {
-                "speciesId": "25",
-                "species": {
-                    "id": "25",
-                    "scientificName": "Fringilla coelebs",
-                    "commonName": "Erdei pinty",
-                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
-                    "ebirdUrl": "https://ebird.org/species/comcha",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
-                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
-                    "color": "#fb7eff",
-                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11582162928",
-                    "timestamp": "2026-10-06T13:13:03+02:00",
-                    "score": 9.112940319200368,
-                    "probability": 0.7489824295043945,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791285183-11582162928/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791285183-11582162928/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T13:13:03+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-111303.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "30",
-                "species": {
-                    "id": "30",
-                    "scientificName": "Buteo buteo",
-                    "commonName": "Eger\u00e9sz\u00f6lyv",
-                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
-                    "ebirdUrl": "https://ebird.org/species/combuz1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
-                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
-                    "color": "#37e188",
-                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11582758907",
-                    "timestamp": "2026-10-06T13:48:49+02:00",
-                    "score": 9.60305943198934,
-                    "probability": 0.8287399411201477,
-                    "confidence": 0.96,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791287329-11582758907/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791287329-11582758907/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-06T13:48:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261006-114849.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -1133,6 +1019,120 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T08:51:10+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-065110.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "232",
+                "species": {
+                    "id": "232",
+                    "scientificName": "Tringa ochropus",
+                    "commonName": "Erdei cank\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/232/GreenSandpiper-thumbnail-3cdf5e1b050dd0e0e32364120ba6b347.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/232/GreenSandpiper-standard-b34cf866a9e791dedc8295d5cd1029db.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/green-sandpiper",
+                    "ebirdUrl": "https://ebird.org/species/grnsan",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_sandpiper",
+                    "wikipediaSummary": "The green sandpiper (Tringa ochropus) is a small wader (shorebird) of the Old World. \nThe green sandpiper represents an ancient lineage of the genus Tringa; its only close living relative is the solitary sandpiper (T. solitaria). They both have brown wings with little light dots and a delicate but contrasting neck and chest pattern. In addition, both species nest in trees, unlike most other scolopacids.Given its basal position in Tringa, it is fairly unsurprising that suspected cases of hybridisation between this species and the common sandpiper (A. hypoleucos) of the sister genus Actitis have been reported.",
+                    "color": "#b27aa1",
+                    "thumbhash": "XggKDwKZd4h9eIePhrd4eIiGigsWmHAF",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11597451107",
+                    "timestamp": "2026-10-07T06:36:54+02:00",
+                    "score": 6.803539319237785,
+                    "probability": 0.10208158195018768,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791347814-11597451107/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791347814-11597451107/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T06:36:54+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043654.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "1082",
+                "species": {
+                    "id": "1082",
+                    "scientificName": "Perdix perdix",
+                    "commonName": "Fogoly",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1082/GrayPartridge-thumbnail-2382e0bdc84bafc97406b2e034f03511.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1082/GrayPartridge-standard-81551295cd4714b782913eefe2b1a524.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-partridge",
+                    "ebirdUrl": "https://ebird.org/species/grypar",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_partridge",
+                    "wikipediaSummary": "The grey partridge (Perdix perdix), also known as the grey-legged partridge, English partridge, Hungarian partridge, or hun, is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\", and is itself derived from Ancient Greek  perdix.",
+                    "color": "#c90021",
+                    "thumbhash": "2PgBBwJnWnp9fLSQWcpVeGet1/jqKTQA",
+                    "imageCredit": null,
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11599013556",
+                    "timestamp": "2026-10-07T08:46:00+02:00",
+                    "score": 5.322215227539104,
+                    "probability": 0.04933976009488106,
+                    "confidence": 0.71,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791355560-11599013556/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791355560-11599013556/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-07T08:46:00+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-064600.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
