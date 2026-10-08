@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 16,
+                "count": 19,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 16,
+                    "almostCertain": 19,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11622643769",
-                    "timestamp": "2026-10-08T14:38:55+02:00",
-                    "score": 9.105584417222811,
+                    "id": "11623472190",
+                    "timestamp": "2026-10-08T15:24:16+02:00",
+                    "score": 9.350880494307921,
                     "probability": 0.744918167591095,
-                    "confidence": 0.81,
+                    "confidence": 0.91,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791463135-11622643769/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791463135-11622643769/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791465856-11623472190/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791465856-11623472190/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,65 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-08T14:38:55+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-123855.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 12,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 12,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11619577078",
-                    "timestamp": "2026-10-08T10:22:26+02:00",
-                    "score": 8.02326181149147,
-                    "probability": 0.25474411249160767,
-                    "confidence": 0.96,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791447746-11619577078/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791447746-11619577078/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-08T10:22:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-082226.flac",
+                        "timestamp": "2026-10-08T15:24:16+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-132416.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -287,6 +230,63 @@
                 }
             },
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 8,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 8,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11619577078",
+                    "timestamp": "2026-10-08T10:22:26+02:00",
+                    "score": 8.02326181149147,
+                    "probability": 0.25474411249160767,
+                    "confidence": 0.96,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791447746-11619577078/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791447746-11619577078/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-08T10:22:26+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-082226.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "52",
                 "species": {
                     "id": "52",
@@ -335,6 +335,120 @@
                     "soundscape": {
                         "timestamp": "2026-10-08T13:19:51+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-111951.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "44",
+                "species": {
+                    "id": "44",
+                    "scientificName": "Prunella modularis",
+                    "commonName": "Erdei sz\u00fcrkebegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
+                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
+                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
+                    "color": "#fea614",
+                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 4,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 4,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11623651183",
+                    "timestamp": "2026-10-08T15:33:55+02:00",
+                    "score": 7.123312544654391,
+                    "probability": 0.18693619966506958,
+                    "confidence": 0.76,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791466435-11623651183/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791466435-11623651183/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-08T15:33:55+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-133355.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "8",
+                "species": {
+                    "id": "8",
+                    "scientificName": "Aegithalos caudatus",
+                    "commonName": "\u0150szap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
+                    "ebirdUrl": "https://ebird.org/species/lottit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
+                    "color": "#bdc706",
+                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11623788741",
+                    "timestamp": "2026-10-08T15:41:12+02:00",
+                    "score": 8.456864298257464,
+                    "probability": 0.3646654784679413,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791466872-11623788741/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791466872-11623788741/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-08T15:41:12+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-134112.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,63 +515,6 @@
                 }
             },
             {
-                "speciesId": "44",
-                "species": {
-                    "id": "44",
-                    "scientificName": "Prunella modularis",
-                    "commonName": "Erdei sz\u00fcrkebegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
-                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
-                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
-                    "color": "#fea614",
-                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11617340282",
-                    "timestamp": "2026-10-08T07:01:55+02:00",
-                    "score": 7.440880755912926,
-                    "probability": 0.18693619966506958,
-                    "confidence": 0.88,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791435715-11617340282/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791435715-11617340282/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-08T07:01:55+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-050155.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -515,22 +572,22 @@
                 }
             },
             {
-                "speciesId": "8",
+                "speciesId": "18",
                 "species": {
-                    "id": "8",
-                    "scientificName": "Aegithalos caudatus",
-                    "commonName": "\u0150szap\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
-                    "ebirdUrl": "https://ebird.org/species/lottit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
-                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
-                    "color": "#bdc706",
-                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
                 "count": 2,
@@ -544,14 +601,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11621823000",
-                    "timestamp": "2026-10-08T13:54:10+02:00",
-                    "score": 8.519623362620338,
-                    "probability": 0.3646654784679413,
+                    "id": "11623974567",
+                    "timestamp": "2026-10-08T15:50:58+02:00",
+                    "score": 9.601138411805826,
+                    "probability": 0.8150637149810791,
                     "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791460450-11621823000/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791460450-11621823000/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791467458-11623974567/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791467458-11623974567/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -561,8 +618,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-08T13:54:10+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-115410.flac",
+                        "timestamp": "2026-10-08T15:50:58+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-135058.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -677,63 +734,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-08T06:43:22+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-044322.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "30",
-                "species": {
-                    "id": "30",
-                    "scientificName": "Buteo buteo",
-                    "commonName": "Eger\u00e9sz\u00f6lyv",
-                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
-                    "ebirdUrl": "https://ebird.org/species/combuz1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
-                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
-                    "color": "#37e188",
-                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11604656857",
-                    "timestamp": "2026-10-07T15:47:01+02:00",
-                    "score": 9.663958346711382,
-                    "probability": 0.8287399411201477,
-                    "confidence": 0.99,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791380821-11604656857/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791380821-11604656857/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T15:47:01+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-134701.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
