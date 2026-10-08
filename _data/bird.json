@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 23,
+                "count": 25,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 23,
+                    "almostCertain": 25,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11604201180",
-                    "timestamp": "2026-10-07T15:23:08+02:00",
-                    "score": 8.064160371006533,
+                    "id": "11617329479",
+                    "timestamp": "2026-10-08T07:00:39+02:00",
+                    "score": 7.4362789734154475,
                     "probability": 0.25474411249160767,
-                    "confidence": 0.98,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791379388-11604201180/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791379388-11604201180/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435639-11617329479/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435639-11617329479/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T15:23:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-132308.flac",
+                        "timestamp": "2026-10-08T07:00:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-050039.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -145,14 +145,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11605570843",
-                    "timestamp": "2026-10-07T16:30:48+02:00",
-                    "score": 9.264570724440107,
+                    "id": "11617268545",
+                    "timestamp": "2026-10-08T06:53:57+02:00",
+                    "score": 9.87215545450555,
                     "probability": 0.9955433011054993,
-                    "confidence": 0.73,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791383448-11605570843/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791383448-11605570843/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435237-11617268545/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435237-11617268545/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T16:30:48+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-143048.flac",
+                        "timestamp": "2026-10-08T06:53:57+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-045357.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 11,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 11,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -248,25 +248,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
                     "__typename": "Species"
                 },
-                "count": 4,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 4,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11600915983",
-                    "timestamp": "2026-10-07T11:45:46+02:00",
-                    "score": 8.91791052707371,
+                    "id": "11617177520",
+                    "timestamp": "2026-10-08T06:43:22+02:00",
+                    "score": 8.73896087716233,
                     "probability": 0.675142228603363,
-                    "confidence": 0.79,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791366346-11600915983/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791366346-11600915983/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791434602-11617177520/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791434602-11617177520/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -276,8 +276,65 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T11:45:46+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-094546.flac",
+                        "timestamp": "2026-10-08T06:43:22+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-044322.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 5,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 5,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11616960859",
+                    "timestamp": "2026-10-08T06:16:53+02:00",
+                    "score": 9.401110034499803,
+                    "probability": 0.8280651569366455,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791433013-11616960859/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791433013-11616960859/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-08T06:16:53+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-041653.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -305,6 +362,63 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
+                "count": 4,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 4,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11617283870",
+                    "timestamp": "2026-10-08T06:55:36+02:00",
+                    "score": 8.806577031775387,
+                    "probability": 0.744918167591095,
+                    "confidence": 0.71,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435336-11617283870/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435336-11617283870/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-08T06:55:36+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-045536.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "44",
+                "species": {
+                    "id": "44",
+                    "scientificName": "Prunella modularis",
+                    "commonName": "Erdei sz\u00fcrkebegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
+                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
+                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
+                    "color": "#fea614",
+                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
                 "count": 3,
                 "breakdown": {
                     "unlikely": 0,
@@ -316,14 +430,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11599953389",
-                    "timestamp": "2026-10-07T10:06:09+02:00",
-                    "score": 9.458810296966687,
-                    "probability": 0.744918167591095,
-                    "confidence": 0.96,
+                    "id": "11617340282",
+                    "timestamp": "2026-10-08T07:01:55+02:00",
+                    "score": 7.440880755912926,
+                    "probability": 0.18693619966506958,
+                    "confidence": 0.88,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791360369-11599953389/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791360369-11599953389/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435715-11617340282/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435715-11617340282/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -333,8 +447,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T10:06:09+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-080609.flac",
+                        "timestamp": "2026-10-08T07:01:55+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-050155.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -373,14 +487,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11599630986",
-                    "timestamp": "2026-10-07T09:37:38+02:00",
-                    "score": 9.057594162590988,
+                    "id": "11617265961",
+                    "timestamp": "2026-10-08T06:53:38+02:00",
+                    "score": 9.198956566233255,
                     "probability": 0.7981633543968201,
-                    "confidence": 0.76,
+                    "confidence": 0.81,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791358658-11599630986/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791358658-11599630986/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435218-11617265961/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435218-11617265961/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +504,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T09:37:38+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-073738.flac",
+                        "timestamp": "2026-10-08T06:53:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-045338.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,22 +572,22 @@
                 }
             },
             {
-                "speciesId": "465",
+                "speciesId": "346",
                 "species": {
-                    "id": "465",
-                    "scientificName": "Picus viridis",
-                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
-                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
-                    "color": "#ff9461",
-                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "id": "346",
+                    "scientificName": "Acanthis flammea",
+                    "commonName": "Zsezse",
+                    "thumbnailUrl": "https://media.birdweather.com/species/346/CommonRedpoll-thumbnail-eea4183cba3c44c234a3206c9c29cb9e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/346/CommonRedpoll-standard-f527029293e680b0ae813500ca90a238.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-redpoll",
+                    "ebirdUrl": "https://ebird.org/species/comred",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_redpoll",
+                    "wikipediaSummary": "The common redpoll or mealy redpoll (Acanthis flammea) is a species of bird in the finch family. It breeds somewhat further south than the Arctic redpoll, also in habitats with thickets or shrubs.",
+                    "color": "#ff6aca",
+                    "thumbhash": "5QcKHwSwm5eYaIdmZniHiHd393WIP4gF",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Cephas\" title=\"User:Cephas\">Cephas</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
                 "count": 2,
@@ -487,14 +601,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11601142540",
-                    "timestamp": "2026-10-07T12:12:49+02:00",
-                    "score": 8.671306666360165,
-                    "probability": 0.41487252712249756,
-                    "confidence": 0.96,
+                    "id": "11617313692",
+                    "timestamp": "2026-10-08T06:58:55+02:00",
+                    "score": 4.200343474579357,
+                    "probability": 0.010240291245281696,
+                    "confidence": 0.83,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791367969-11601142540/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791367969-11601142540/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791435535-11617313692/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791435535-11617313692/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -504,8 +618,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-07T12:12:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-101249.flac",
+                        "timestamp": "2026-10-08T06:58:55+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-045855.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1019,120 +1133,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-07T08:51:10+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-065110.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "232",
-                "species": {
-                    "id": "232",
-                    "scientificName": "Tringa ochropus",
-                    "commonName": "Erdei cank\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/232/GreenSandpiper-thumbnail-3cdf5e1b050dd0e0e32364120ba6b347.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/232/GreenSandpiper-standard-b34cf866a9e791dedc8295d5cd1029db.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/green-sandpiper",
-                    "ebirdUrl": "https://ebird.org/species/grnsan",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_sandpiper",
-                    "wikipediaSummary": "The green sandpiper (Tringa ochropus) is a small wader (shorebird) of the Old World. \nThe green sandpiper represents an ancient lineage of the genus Tringa; its only close living relative is the solitary sandpiper (T. solitaria). They both have brown wings with little light dots and a delicate but contrasting neck and chest pattern. In addition, both species nest in trees, unlike most other scolopacids.Given its basal position in Tringa, it is fairly unsurprising that suspected cases of hybridisation between this species and the common sandpiper (A. hypoleucos) of the sister genus Actitis have been reported.",
-                    "color": "#b27aa1",
-                    "thumbhash": "XggKDwKZd4h9eIePhrd4eIiGigsWmHAF",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11597451107",
-                    "timestamp": "2026-10-07T06:36:54+02:00",
-                    "score": 6.803539319237785,
-                    "probability": 0.10208158195018768,
-                    "confidence": 0.94,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791347814-11597451107/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791347814-11597451107/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T06:36:54+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-043654.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "1082",
-                "species": {
-                    "id": "1082",
-                    "scientificName": "Perdix perdix",
-                    "commonName": "Fogoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1082/GrayPartridge-thumbnail-2382e0bdc84bafc97406b2e034f03511.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1082/GrayPartridge-standard-81551295cd4714b782913eefe2b1a524.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/gray-partridge",
-                    "ebirdUrl": "https://ebird.org/species/grypar",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_partridge",
-                    "wikipediaSummary": "The grey partridge (Perdix perdix), also known as the grey-legged partridge, English partridge, Hungarian partridge, or hun, is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\", and is itself derived from Ancient Greek  perdix.",
-                    "color": "#c90021",
-                    "thumbhash": "2PgBBwJnWnp9fLSQWcpVeGet1/jqKTQA",
-                    "imageCredit": null,
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11599013556",
-                    "timestamp": "2026-10-07T08:46:00+02:00",
-                    "score": 5.322215227539104,
-                    "probability": 0.04933976009488106,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791355560-11599013556/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791355560-11599013556/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-07T08:46:00+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261007-064600.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
