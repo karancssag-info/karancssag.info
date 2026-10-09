@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 24,
+                "count": 37,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 24,
+                    "almostCertain": 37,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11638444497",
-                    "timestamp": "2026-10-09T10:02:51+02:00",
-                    "score": 7.779843135407588,
+                    "id": "11638851049",
+                    "timestamp": "2026-10-09T10:48:42+02:00",
+                    "score": 7.972440407758618,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.83,
+                    "confidence": 0.91,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791532971-11638444497/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791532971-11638444497/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791535722-11638851049/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791535722-11638851049/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-09T10:02:51+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-080251.flac",
+                        "timestamp": "2026-10-09T10:48:42+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-084842.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 23,
+                "count": 24,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 23,
+                    "almostCertain": 24,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11637713888",
-                    "timestamp": "2026-10-09T08:49:28+02:00",
-                    "score": 9.1544914821117,
+                    "id": "11638878561",
+                    "timestamp": "2026-10-09T10:52:01+02:00",
+                    "score": 8.871810568904674,
                     "probability": 0.6662725210189819,
-                    "confidence": 0.89,
+                    "confidence": 0.78,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791528568-11637713888/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791528568-11637713888/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791535921-11638878561/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791535921-11638878561/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-09T08:49:28+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-064928.flac",
+                        "timestamp": "2026-10-09T10:52:01+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-085201.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 14,
+                "count": 23,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 14,
+                    "almostCertain": 23,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11638384818",
-                    "timestamp": "2026-10-09T09:56:45+02:00",
+                    "id": "11638897474",
+                    "timestamp": "2026-10-09T10:54:17+02:00",
                     "score": 9.576684651866797,
                     "probability": 0.9955799579620361,
                     "confidence": 0.84,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791532605-11638384818/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791532605-11638384818/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791536057-11638897474/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791536057-11638897474/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-09T09:56:45+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-075645.flac",
+                        "timestamp": "2026-10-09T10:54:17+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-085417.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 8,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 8,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -221,6 +221,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-09T09:40:18+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-074018.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "66",
+                "species": {
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11638714483",
+                    "timestamp": "2026-10-09T10:32:36+02:00",
+                    "score": 9.236699708369423,
+                    "probability": 0.774585485458374,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791534756-11638714483/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791534756-11638714483/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-09T10:32:36+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-083236.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,120 +458,6 @@
                 }
             },
             {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11637637996",
-                    "timestamp": "2026-10-09T08:42:07+02:00",
-                    "score": 9.131263082012929,
-                    "probability": 0.774585485458374,
-                    "confidence": 0.8,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791528127-11637637996/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791528127-11637637996/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-09T08:42:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-064207.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "25",
-                "species": {
-                    "id": "25",
-                    "scientificName": "Fringilla coelebs",
-                    "commonName": "Erdei pinty",
-                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
-                    "ebirdUrl": "https://ebird.org/species/comcha",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
-                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
-                    "color": "#fb7eff",
-                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11622182362",
-                    "timestamp": "2026-10-08T14:13:38+02:00",
-                    "score": 8.910679000836058,
-                    "probability": 0.7489824295043945,
-                    "confidence": 0.74,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791461618-11622182362/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791461618-11622182362/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-08T14:13:38+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261008-121338.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "128",
                 "species": {
                     "id": "128",
@@ -563,6 +506,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-09T08:11:51+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-061151.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "25",
+                "species": {
+                    "id": "25",
+                    "scientificName": "Fringilla coelebs",
+                    "commonName": "Erdei pinty",
+                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
+                    "ebirdUrl": "https://ebird.org/species/comcha",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
+                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
+                    "color": "#fb7eff",
+                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11638811041",
+                    "timestamp": "2026-10-09T10:43:51+02:00",
+                    "score": 9.125679145722334,
+                    "probability": 0.8039522171020508,
+                    "confidence": 0.78,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791535431-11638811041/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791535431-11638811041/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-09T10:43:51+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-084351.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1019,6 +1019,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-09T07:54:25+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-055425.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "250",
+                "species": {
+                    "id": "250",
+                    "scientificName": "Remiz pendulinus",
+                    "commonName": "F\u00fcgg\u0151cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/250/EurasianPenduline-Tit-thumbnail-53b8018aaa5408210244fc312f06ba82.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/250/EurasianPenduline-Tit-standard-1cd3d00ee7a207ae9eb6ffade0eef827.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-penduline-tit",
+                    "ebirdUrl": "https://ebird.org/species/euptit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_penduline_tit",
+                    "wikipediaSummary": "The Eurasian penduline tit or European penduline tit (Remiz pendulinus) is a passerine bird of the genus Remiz. The genus name is the Polish word for the Eurasian penduline tit, and pendulinus is Latin for \"hanging down\u201d, which refers to its nest.It is relatively widespread throughout the Palearctic. The breeding range of the species in Western Europe experienced an expansion during the 1980s and 1990s. This was accompanied by an expansion of the species\u2019 winter range and reached as far south as northern Morocco.It builds an elaborate hanging nest, formerly used in Central Europe as children's slippers.This species was first described as Motacilla pendulinus by Linnaeus in his Systema naturae in 1758.",
+                    "color": "#1e5f16",
+                    "thumbhash": "GwgGDwBnqZavZ5ZmaZSHh2d3xwRH/MIA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11638802892",
+                    "timestamp": "2026-10-09T10:42:51+02:00",
+                    "score": 6.6340750087791305,
+                    "probability": 0.12779569625854492,
+                    "confidence": 0.76,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791535371-11638802892/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791535371-11638802892/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-09T10:42:51+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-084251.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
