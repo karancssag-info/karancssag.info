@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 61,
+                "count": 63,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 61,
+                    "almostCertain": 63,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11640180887",
-                    "timestamp": "2026-10-09T13:19:26+02:00",
-                    "score": 7.727144330673507,
+                    "id": "11643816703",
+                    "timestamp": "2026-10-09T16:44:19+02:00",
+                    "score": 8.121268769932447,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.81,
+                    "confidence": 0.98,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791544766-11640180887/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791544766-11640180887/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791557059-11643816703/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791557059-11643816703/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-09T13:19:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-111926.flac",
+                        "timestamp": "2026-10-09T16:44:19+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-144419.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 24,
+                "count": 25,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 24,
+                    "almostCertain": 25,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11639318965",
-                    "timestamp": "2026-10-09T11:51:17+02:00",
-                    "score": 9.4435703164853,
+                    "id": "11643570002",
+                    "timestamp": "2026-10-09T16:31:36+02:00",
+                    "score": 9.698002806224578,
                     "probability": 0.9955799579620361,
-                    "confidence": 0.79,
+                    "confidence": 0.89,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791539477-11639318965/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791539477-11639318965/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791556296-11643570002/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791556296-11643570002/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-09T11:51:17+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-095117.flac",
+                        "timestamp": "2026-10-09T16:31:36+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-143136.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -392,6 +392,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-09T08:53:17+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-065317.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "30",
+                "species": {
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11643656823",
+                    "timestamp": "2026-10-09T16:36:06+02:00",
+                    "score": 9.51493214669613,
+                    "probability": 0.8139371275901794,
+                    "confidence": 0.93,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791556566-11643656823/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791556566-11643656823/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-09T16:36:06+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-143606.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -1076,63 +1133,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-09T10:42:51+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-084251.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "303",
-                "species": {
-                    "id": "303",
-                    "scientificName": "Saxicola rubicola",
-                    "commonName": "Cig\u00e1nycsuk",
-                    "thumbnailUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-thumbnail-25df46e1744b6d9ba7c7e1f023235f2a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-standard-23799ee67e36e10c6993ad61d7af5ef8.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-stonechat",
-                    "ebirdUrl": "https://ebird.org/species/stonec4",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_stonechat",
-                    "wikipediaSummary": "The European stonechat (Saxicola rubicola) is a small passerine bird that was formerly classed as a subspecies of the common stonechat. Long considered a member of the thrush family, Turdidae, genetic evidence has placed it and its relatives in the Old World flycatcher family, Muscicapidae.",
-                    "color": "#96038f",
-                    "thumbhash": "5sYFHwL3WId6hnl7hZhpZZd4hzBYB4QD",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11636992270",
-                    "timestamp": "2026-10-09T07:42:01+02:00",
-                    "score": 7.647447309838087,
-                    "probability": 0.25041478872299194,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791524521-11636992270/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791524521-11636992270/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-09T07:42:01+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-054201.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
