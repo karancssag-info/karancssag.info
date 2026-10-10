@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 32,
+                "count": 26,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 32,
+                    "almostCertain": 26,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11663820653",
-                    "timestamp": "2026-10-10T18:01:17+02:00",
-                    "score": 9.199370239458643,
+                    "id": "11663919438",
+                    "timestamp": "2026-10-10T18:06:57+02:00",
+                    "score": 9.576684651866797,
                     "probability": 0.9955799579620361,
-                    "confidence": 0.71,
+                    "confidence": 0.84,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791648077-11663820653/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791648077-11663820653/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791648417-11663919438/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791648417-11663919438/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-10T18:01:17+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-160117.flac",
+                        "timestamp": "2026-10-10T18:06:57+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-160657.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 15,
+                "count": 14,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 15,
+                    "almostCertain": 14,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -221,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-10T09:08:01+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-070801.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 5,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 5,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11663814303",
-                    "timestamp": "2026-10-10T18:00:59+02:00",
-                    "score": 8.892398941624583,
-                    "probability": 0.774585485458374,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791648059-11663814303/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791648059-11663814303/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-10T18:00:59+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-160059.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +401,63 @@
                 }
             },
             {
+                "speciesId": "66",
+                "species": {
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11663814303",
+                    "timestamp": "2026-10-10T18:00:59+02:00",
+                    "score": 8.892398941624583,
+                    "probability": 0.774585485458374,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791648059-11663814303/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791648059-11663814303/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-10T18:00:59+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-160059.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "106",
                 "species": {
                     "id": "106",
@@ -620,63 +620,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-10T06:29:00+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-042900.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "90",
-                "species": {
-                    "id": "90",
-                    "scientificName": "Ardea cinerea",
-                    "commonName": "Sz\u00fcrke g\u00e9m",
-                    "thumbnailUrl": "https://media.birdweather.com/species/90/GrayHeron-thumbnail-48938163008079f2a083eb422453fe97.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/90/GrayHeron-standard-e3f0fccd9ae9722e5e8fbb19dbaf13d5.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/gray-heron",
-                    "ebirdUrl": "https://ebird.org/species/graher1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_heron",
-                    "wikipediaSummary": "The grey heron (Ardea cinerea) is a long-legged predatory wading bird of the heron family, Ardeidae, native throughout temperate Europe and Asia and also parts of Africa. It is resident in much of its range, but some populations from the more northern parts migrate southwards in autumn. A bird of wetland areas, it can be seen around lakes, rivers, ponds, marshes and on the sea coast. It feeds mostly on aquatic creatures which it catches after standing stationary beside or in the water or stalking its prey through the shallows.\nStanding up to 1 metre (3 ft 3 in) tall, adults weigh from 1 to 2 kg (2 to 4 lb). They have a white head and neck with a broad black stripe that extends from the eye to the black crest. The body and wings are grey above and the underparts are greyish-white, with some black on the flanks. The long, sharply pointed beak is pinkish-yellow and the legs are brown.\nThe birds breed colonially in spring in \"heronries\", usually building their nests high in trees. A clutch of usually three to five bluish-green eggs is laid. Both birds incubate the eggs for  around 25 days, and then both feed the chicks, which fledge when 7-8 weeks old. Many juveniles do not survive their first winter, but if they do, they can expect to live for about 5 years.\nIn Ancient Egypt, the deity Bennu was depicted as a heron in New Kingdom artwork. \nIn Ancient Rome, the heron was a bird of divination. Roast heron was once a specially prized dish; when George Neville became Archbishop of York in 1465, 400 herons were served to the guests.",
-                    "color": "#a70076",
-                    "thumbhash": "LOcJDwKIeId/h3iBh8eIR2iKpgfXaYAN",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11645837767",
-                    "timestamp": "2026-10-09T18:39:49+02:00",
-                    "score": 8.951622076838913,
-                    "probability": 0.6646729707717896,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791563989-11645837767/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791563989-11645837767/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-09T18:39:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-163949.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
