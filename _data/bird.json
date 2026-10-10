@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 60,
+                "count": 54,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 60,
+                    "almostCertain": 54,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11656157306",
-                    "timestamp": "2026-10-10T08:59:37+02:00",
-                    "score": 7.903350138289776,
+                    "id": "11656282456",
+                    "timestamp": "2026-10-10T09:09:46+02:00",
+                    "score": 8.038213038043931,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.88,
+                    "confidence": 0.94,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791615577-11656157306/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791615577-11656157306/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791616186-11656282456/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791616186-11656282456/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-10T08:59:37+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-065937.flac",
+                        "timestamp": "2026-10-10T09:09:46+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-070946.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 46,
+                "count": 43,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 46,
+                    "almostCertain": 43,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -134,12 +134,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 8,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 8,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -287,6 +287,63 @@
                 }
             },
             {
+                "speciesId": "44",
+                "species": {
+                    "id": "44",
+                    "scientificName": "Prunella modularis",
+                    "commonName": "Erdei sz\u00fcrkebegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
+                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
+                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
+                    "color": "#fea614",
+                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 5,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 5,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11656258845",
+                    "timestamp": "2026-10-10T09:08:01+02:00",
+                    "score": 7.652529278282123,
+                    "probability": 0.19828924536705017,
+                    "confidence": 0.94,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791616081-11656258845/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791616081-11656258845/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-10T09:08:01+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-070801.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "20",
                 "species": {
                     "id": "20",
@@ -344,22 +401,22 @@
                 }
             },
             {
-                "speciesId": "44",
+                "speciesId": "52",
                 "species": {
-                    "id": "44",
-                    "scientificName": "Prunella modularis",
-                    "commonName": "Erdei sz\u00fcrkebegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
-                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
-                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
-                    "color": "#fea614",
-                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "id": "52",
+                    "scientificName": "Pica pica",
+                    "commonName": "Szarka",
+                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
+                    "ebirdUrl": "https://ebird.org/species/eurmag1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
+                    "color": "#d9c845",
+                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
                 "count": 3,
@@ -373,14 +430,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11655350949",
-                    "timestamp": "2026-10-10T07:54:47+02:00",
-                    "score": 7.2000981672694335,
-                    "probability": 0.19828924536705017,
-                    "confidence": 0.76,
+                    "id": "11656493656",
+                    "timestamp": "2026-10-10T09:27:25+02:00",
+                    "score": 9.404342799959778,
+                    "probability": 0.8450458645820618,
+                    "confidence": 0.86,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791611687-11655350949/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791611687-11655350949/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791617245-11656493656/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791617245-11656493656/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +447,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-10T07:54:47+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-055447.flac",
+                        "timestamp": "2026-10-10T09:27:25+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-072725.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -620,63 +677,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-10T06:29:00+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261010-042900.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "52",
-                "species": {
-                    "id": "52",
-                    "scientificName": "Pica pica",
-                    "commonName": "Szarka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
-                    "ebirdUrl": "https://ebird.org/species/eurmag1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
-                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
-                    "color": "#d9c845",
-                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11644904050",
-                    "timestamp": "2026-10-09T17:44:22+02:00",
-                    "score": 8.943375835788714,
-                    "probability": 0.8450458645820618,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791560662-11644904050/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791560662-11644904050/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-09T17:44:22+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261009-154422.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
