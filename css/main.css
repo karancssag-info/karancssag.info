@@ -1,0 +1,106 @@
+html{
+    scroll-padding-top:  5rem;
+}
+body {
+    padding-top: 5rem;
+}
+#maincontent {
+    padding: 3rem 1.5rem;
+}
+footer {
+    font-size: 150%;
+}
+.ais-Hits h3 {
+    font-size: 1rem;
+}
+
+article.reader {
+    font-family: 'Roboto Slab', serif;
+}
+
+article.reader p{
+    line-height: 1.9rem;
+    text-align: justify;
+    text-indent: 3rem;
+}
+
+blockquote{
+    font-style: oblique;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+}
+
+article table.ntable{border-collapse:collapse;}
+article .ntable th, article .ntable td{border:1px solid black;}
+
+.card-head-img {
+    background-size:cover;
+    height:200px;
+    position: relative;
+}
+
+nav.logo{
+    background-image: url(https://static.karancssag.info/images/og/ft.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    background-size: 100%;
+    background-blend-mode: soft-light;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.card-title-wrapper{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 12px;
+    margin: -12px;
+    overflow: hidden;
+    color: white;
+}
+
+.card-title-wrapper h6{
+    font-weight: 100;
+}
+article + div + article, article + article {
+    padding-top: 5em;
+    margin-top: 5em;
+    border-top: 2px solid;
+    /* border-top: 3px solid; */
+    border-image: linear-gradient(to left,#f1f5f7,#495057) 1 0 0 0;
+}
+
+
+@media (min-width: 576px) {
+    .post-card-image {
+        height: 20vw;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .post-card-image {
+        height: 18vw;
+    }
+}
+
+@media (min-width: 992px) {
+    .post-card-image {
+        height: 15vw;
+    }
+}
+
+
+
