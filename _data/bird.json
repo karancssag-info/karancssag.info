@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 26,
+                "count": 33,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 26,
+                    "almostCertain": 33,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11682517485",
-                    "timestamp": "2026-10-11T18:00:07+02:00",
-                    "score": 8.080370210417383,
+                    "id": "11682775014",
+                    "timestamp": "2026-10-11T18:13:40+02:00",
+                    "score": 7.672337022252739,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.96,
+                    "confidence": 0.79,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791734407-11682517485/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791734407-11682517485/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791735220-11682775014/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791735220-11682775014/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-11T18:00:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-160007.flac",
+                        "timestamp": "2026-10-11T18:13:40+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-161340.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 19,
+                "count": 21,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 19,
+                    "almostCertain": 21,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11682529083",
-                    "timestamp": "2026-10-11T18:00:46+02:00",
-                    "score": 9.601822971842227,
+                    "id": "11682763522",
+                    "timestamp": "2026-10-11T18:13:12+02:00",
+                    "score": 9.576684651866797,
                     "probability": 0.9955799579620361,
-                    "confidence": 0.85,
+                    "confidence": 0.84,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791734446-11682529083/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791734446-11682529083/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791735192-11682763522/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791735192-11682763522/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-11T18:00:46+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-160046.flac",
+                        "timestamp": "2026-10-11T18:13:12+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-161312.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 5,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 5,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11681227660",
-                    "timestamp": "2026-10-11T16:52:26+02:00",
-                    "score": 8.859385295961271,
+                    "id": "11682739646",
+                    "timestamp": "2026-10-11T18:11:47+02:00",
+                    "score": 9.075336949520178,
                     "probability": 0.774585485458374,
-                    "confidence": 0.71,
+                    "confidence": 0.78,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791730346-11681227660/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791730346-11681227660/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791735107-11682739646/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791735107-11682739646/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-11T16:52:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-145226.flac",
+                        "timestamp": "2026-10-11T18:11:47+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-161147.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -563,6 +563,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-11T12:29:58+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-102958.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "90",
+                "species": {
+                    "id": "90",
+                    "scientificName": "Ardea cinerea",
+                    "commonName": "Sz\u00fcrke g\u00e9m",
+                    "thumbnailUrl": "https://media.birdweather.com/species/90/GrayHeron-thumbnail-48938163008079f2a083eb422453fe97.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/90/GrayHeron-standard-e3f0fccd9ae9722e5e8fbb19dbaf13d5.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-heron",
+                    "ebirdUrl": "https://ebird.org/species/graher1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_heron",
+                    "wikipediaSummary": "The grey heron (Ardea cinerea) is a long-legged predatory wading bird of the heron family, Ardeidae, native throughout temperate Europe and Asia and also parts of Africa. It is resident in much of its range, but some populations from the more northern parts migrate southwards in autumn. A bird of wetland areas, it can be seen around lakes, rivers, ponds, marshes and on the sea coast. It feeds mostly on aquatic creatures which it catches after standing stationary beside or in the water or stalking its prey through the shallows.\nStanding up to 1 metre (3 ft 3 in) tall, adults weigh from 1 to 2 kg (2 to 4 lb). They have a white head and neck with a broad black stripe that extends from the eye to the black crest. The body and wings are grey above and the underparts are greyish-white, with some black on the flanks. The long, sharply pointed beak is pinkish-yellow and the legs are brown.\nThe birds breed colonially in spring in \"heronries\", usually building their nests high in trees. A clutch of usually three to five bluish-green eggs is laid. Both birds incubate the eggs for  around 25 days, and then both feed the chicks, which fledge when 7-8 weeks old. Many juveniles do not survive their first winter, but if they do, they can expect to live for about 5 years.\nIn Ancient Egypt, the deity Bennu was depicted as a heron in New Kingdom artwork. \nIn Ancient Rome, the heron was a bird of divination. Roast heron was once a specially prized dish; when George Neville became Archbishop of York in 1465, 400 herons were served to the guests.",
+                    "color": "#a70076",
+                    "thumbhash": "LOcJDwKIeId/h3iBh8eIR2iKpgfXaYAN",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11683342832",
+                    "timestamp": "2026-10-11T18:43:56+02:00",
+                    "score": 9.365746871304832,
+                    "probability": 0.6646729707717896,
+                    "confidence": 0.99,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791737036-11683342832/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791737036-11683342832/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-11T18:43:56+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-164356.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
