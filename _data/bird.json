@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 35,
+                "count": 37,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 35,
+                    "almostCertain": 37,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11692119076",
-                    "timestamp": "2026-10-12T07:00:14+02:00",
-                    "score": 9.415321893017552,
+                    "id": "11692259828",
+                    "timestamp": "2026-10-12T07:14:42+02:00",
+                    "score": 9.576684651866797,
                     "probability": 0.9955799579620361,
-                    "confidence": 0.78,
+                    "confidence": 0.84,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791781214-11692119076/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791781214-11692119076/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791782082-11692259828/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791782082-11692259828/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-12T07:00:14+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-050014.flac",
+                        "timestamp": "2026-10-12T07:14:42+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-051442.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 33,
+                "count": 36,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 33,
+                    "almostCertain": 36,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11682775014",
-                    "timestamp": "2026-10-11T18:13:40+02:00",
-                    "score": 7.672337022252739,
+                    "id": "11692541263",
+                    "timestamp": "2026-10-12T07:38:51+02:00",
+                    "score": 7.700014731277741,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.79,
+                    "confidence": 0.8,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791735220-11682775014/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791735220-11682775014/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791783531-11692541263/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791783531-11692541263/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-11T18:13:40+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-161340.flac",
+                        "timestamp": "2026-10-12T07:38:51+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-053851.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,25 +191,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 4,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 4,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11691998130",
-                    "timestamp": "2026-10-12T06:46:09+02:00",
-                    "score": 9.058311647729349,
+                    "id": "11692723885",
+                    "timestamp": "2026-10-12T07:53:41+02:00",
+                    "score": 9.082997000268017,
                     "probability": 0.6662725210189819,
-                    "confidence": 0.85,
+                    "confidence": 0.86,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791780369-11691998130/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791780369-11691998130/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791784421-11692723885/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791784421-11692723885/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-12T06:46:09+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-044609.flac",
+                        "timestamp": "2026-10-12T07:53:41+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-055341.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -335,6 +335,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-11T13:28:15+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-112815.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "17",
+                "species": {
+                    "id": "17",
+                    "scientificName": "Periparus ater",
+                    "commonName": "Fenyvescinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/17/CoalTit-thumbnail-b678460580ac8ad63bf79c0d91ce7e92.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/17/CoalTit-standard-cd003bce1c1a2d53e34fa6201763e3fa.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/coal-tit",
+                    "ebirdUrl": "https://ebird.org/species/coatit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Coal_tit",
+                    "wikipediaSummary": "The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now usually included in this species.",
+                    "color": "#525fe7",
+                    "thumbhash": "EwkGDwBLp3h5eYeAjGZ3x0h7dm/HG6AA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Aviceda\" title=\"User:Aviceda\">Aviceda</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11692251721",
+                    "timestamp": "2026-10-12T07:13:56+02:00",
+                    "score": 8.01728672903907,
+                    "probability": 0.2661439776420593,
+                    "confidence": 0.93,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791782036-11692251721/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791782036-11692251721/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-12T07:13:56+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-051356.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -734,6 +791,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-11T11:12:00+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261011-091200.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "756",
+                "species": {
+                    "id": "756",
+                    "scientificName": "Dendrocopos syriacus",
+                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
+                    "color": "#93d436",
+                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11692303095",
+                    "timestamp": "2026-10-12T07:18:34+02:00",
+                    "score": 6.966310692199641,
+                    "probability": 0.1483955979347229,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791782314-11692303095/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791782314-11692303095/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-12T07:18:34+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-051834.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
