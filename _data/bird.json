@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 32,
+                "count": 24,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 32,
+                    "almostCertain": 24,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 21,
+                "count": 19,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 21,
+                    "almostCertain": 19,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
