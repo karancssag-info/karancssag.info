@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 8,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 8,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11716970570",
-                    "timestamp": "2026-10-13T14:51:19+02:00",
-                    "score": 7.994717321352957,
+                    "id": "11718821646",
+                    "timestamp": "2026-10-13T16:35:20+02:00",
+                    "score": 8.059453773598204,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.92,
+                    "confidence": 0.95,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791895879-11716970570/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791895879-11716970570/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791902120-11718821646/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791902120-11718821646/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-13T14:51:19+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-125119.flac",
+                        "timestamp": "2026-10-13T16:35:20+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-143520.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -743,63 +743,6 @@
                 }
             },
             {
-                "speciesId": "73",
-                "species": {
-                    "id": "73",
-                    "scientificName": "Upupa epops",
-                    "commonName": "B\u00fabos banka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/73/EurasianHoopoe-thumbnail-d4a0a70eefe3f29dbd6d88fc68851c5b.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/73/EurasianHoopoe-standard-004bfb7d0d4676f0380a04bb79064d9c.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-hoopoe",
-                    "ebirdUrl": "https://ebird.org/species/hoopoe",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_hoopoe",
-                    "wikipediaSummary": "The Eurasian hoopoe (Upupa epops) is the most widespread species of the genus Upupa, native to Europe, Asia and the northern half of Africa. Some taxonomists still consider all three species conspecific.  Some authorities also keep the African and Eurasian hoopoe together, but split the Madagascar hoopoe.",
-                    "color": "#0271d7",
-                    "thumbhash": "4hkGFwhVmYaQWZeAh7Z3qJiHZpgKdoAC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11699703023",
-                    "timestamp": "2026-10-12T16:33:07+02:00",
-                    "score": 4.259781903542273,
-                    "probability": 0.016053516417741776,
-                    "confidence": 0.73,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791815587-11699703023/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791815587-11699703023/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-12T16:33:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-143307.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "232",
                 "species": {
                     "id": "232",
@@ -905,63 +848,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-13T11:27:22+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-092722.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "756",
-                "species": {
-                    "id": "756",
-                    "scientificName": "Dendrocopos syriacus",
-                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
-                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
-                    "color": "#93d436",
-                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11699217692",
-                    "timestamp": "2026-10-12T16:09:31+02:00",
-                    "score": 7.019009496933721,
-                    "probability": 0.1483955979347229,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791814171-11699217692/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791814171-11699217692/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-12T16:09:31+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261012-140931.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
