@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 11,
+                "count": 8,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 11,
+                    "almostCertain": 8,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -392,6 +392,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-13T11:30:28+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-093028.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "528",
+                "species": {
+                    "id": "528",
+                    "scientificName": "Anas crecca",
+                    "commonName": "Cs\u00f6rg\u0151 r\u00e9ce",
+                    "thumbnailUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-thumbnail-a98c9ccd9eba2019903bf078047b9b5a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-standard-72cd4430bd15b567da915412028d669a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/green-winged-teal",
+                    "ebirdUrl": "https://ebird.org/species/gnwtea",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_teal",
+                    "wikipediaSummary": "The Eurasian teal (Anas crecca), common teal, or Eurasian green-winged teal is a common and widespread duck which breeds in temperate Eurosiberia and migrates south in winter. The Eurasian teal is often called simply the teal due to being the only one of these small dabbling ducks in much of its range. The bird gives its name to the blue-green colour teal.\nIt is a highly gregarious duck outside the breeding season and can form large flocks. It is commonly found in sheltered wetlands and feeds on seeds and aquatic invertebrates. The North American green-winged teal (A. carolinensis) was formerly (and sometimes is still) considered a subspecies of A. crecca.",
+                    "color": "#00a842",
+                    "thumbhash": "JccBFwK8WqR9h4dcVAmKV5ZqaTEJJpQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11717261908",
+                    "timestamp": "2026-10-13T15:08:34+02:00",
+                    "score": 7.5984606904936545,
+                    "probability": 0.31036636233329773,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791896914-11717261908/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791896914-11717261908/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-13T15:08:34+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-130834.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
