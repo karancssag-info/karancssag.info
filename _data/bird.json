@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 21,
+                "count": 20,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 21,
+                    "almostCertain": 20,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -134,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 5,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 5,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11732996026",
-                    "timestamp": "2026-10-14T10:39:52+02:00",
-                    "score": 9.114358397010058,
+                    "id": "11737836809",
+                    "timestamp": "2026-10-14T16:31:51+02:00",
+                    "score": 8.920297188633711,
                     "probability": 0.7210979461669922,
-                    "confidence": 0.83,
+                    "confidence": 0.76,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791967192-11732996026/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791967192-11732996026/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791988311-11737836809/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791988311-11737836809/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T10:39:52+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-083952.flac",
+                        "timestamp": "2026-10-14T16:31:51+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-143151.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -563,6 +563,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-14T14:39:33+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-123933.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "294",
+                "species": {
+                    "id": "294",
+                    "scientificName": "Chloris chloris",
+                    "commonName": "Z\u00f6ldike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-thumbnail-7466d93ab9340d75d4eec2ca6eeed529.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/294/EuropeanGreenfinch-standard-34aa36357c06fbf52af390917f29436b.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-greenfinch",
+                    "ebirdUrl": "https://ebird.org/species/eurgre1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_greenfinch",
+                    "wikipediaSummary": "The European greenfinch or simply the greenfinch (Chloris chloris) is a small passerine bird in the finch family Fringillidae.\nThis bird is widespread throughout Europe, North Africa and Southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The greenfinch has also been introduced into Australia, New Zealand, Uruguay, and Argentina. In Malta, it is considered a prestigious songbird, and it has been trapped for many years. It has been domesticated, and many Maltese people breed them. In Hungary, it is threatened. It has just recently been recorded in Quetta, Pakistan.",
+                    "color": "#fea614",
+                    "thumbhash": "FRkGHwJYqWeEd4ifapeoh4ZriPUnaG8B",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11738147918",
+                    "timestamp": "2026-10-14T16:47:24+02:00",
+                    "score": 8.233814504719101,
+                    "probability": 0.4751397371292114,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791989244-11738147918/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791989244-11738147918/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-14T16:47:24+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-144724.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
