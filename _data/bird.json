@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 19,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 19,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11733699084",
-                    "timestamp": "2026-10-14T11:50:33+02:00",
-                    "score": 8.100972102406805,
+                    "id": "11734285179",
+                    "timestamp": "2026-10-14T12:55:16+02:00",
+                    "score": 8.038213038043931,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.97,
+                    "confidence": 0.94,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791971433-11733699084/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791971433-11733699084/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791975316-11734285179/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791975316-11734285179/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T11:50:33+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-095033.flac",
+                        "timestamp": "2026-10-14T12:55:16+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-105516.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 7,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 7,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11733692242",
-                    "timestamp": "2026-10-14T11:49:44+02:00",
+                    "id": "11734218882",
+                    "timestamp": "2026-10-14T12:49:03+02:00",
                     "score": 9.650756745007076,
                     "probability": 0.9955799579620361,
                     "confidence": 0.87,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791971384-11733692242/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791971384-11733692242/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791974943-11734218882/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791974943-11734218882/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T11:49:44+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-094944.flac",
+                        "timestamp": "2026-10-14T12:49:03+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-104903.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -164,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-14T10:39:52+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-083952.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11732916813",
-                    "timestamp": "2026-10-14T10:32:48+02:00",
-                    "score": 9.44019719044177,
-                    "probability": 0.7957745790481567,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791966768-11732916813/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791966768-11732916813/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T10:32:48+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-083248.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11732916813",
+                    "timestamp": "2026-10-14T10:32:48+02:00",
+                    "score": 9.44019719044177,
+                    "probability": 0.7957745790481567,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791966768-11732916813/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791966768-11732916813/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-14T10:32:48+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-083248.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "30",
                 "species": {
                     "id": "30",
@@ -515,22 +515,22 @@
                 }
             },
             {
-                "speciesId": "106",
+                "speciesId": "66",
                 "species": {
-                    "id": "106",
-                    "scientificName": "Fulica atra",
-                    "commonName": "Sz\u00e1rcsa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-coot",
-                    "ebirdUrl": "https://ebird.org/species/eurcoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_coot",
-                    "wikipediaSummary": "The Eurasian coot (Fulica atra), also known as the common coot, or Australian coot, is a member of the rail and crake bird family, the Rallidae. It is found in Europe, Asia, Australia, New Zealand and parts of North Africa. It has a slaty-black body, a glossy black head and a white bill with a white frontal shield. The sexes are similar.",
-                    "color": "#ff3f73",
-                    "thumbhash": "2xgGDwKFt4aWZ2mfd6eIeHZod0z5tpQP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Duhon\" title=\"User:Duhon\">Duhon</a>",
-                    "imageLicense": "CC BY 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
                 "count": 1,
@@ -544,14 +544,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11714795549",
-                    "timestamp": "2026-10-13T12:15:08+02:00",
-                    "score": 8.33556579964156,
-                    "probability": 0.3383622467517853,
-                    "confidence": 0.93,
+                    "id": "11734050199",
+                    "timestamp": "2026-10-14T12:31:02+02:00",
+                    "score": 9.046493778919148,
+                    "probability": 0.774585485458374,
+                    "confidence": 0.77,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791886508-11714795549/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791886508-11714795549/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791973862-11734050199/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791973862-11734050199/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -561,8 +561,65 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-13T12:15:08+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-101508.flac",
+                        "timestamp": "2026-10-14T12:31:02+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-103102.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "376",
+                "species": {
+                    "id": "376",
+                    "scientificName": "Botaurus stellaris",
+                    "commonName": "B\u00f6l\u00f6mbika",
+                    "thumbnailUrl": "https://media.birdweather.com/species/376/GreatBittern-thumbnail-f707ab052548ecb712adb2219c86e7d0.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/376/GreatBittern-standard-c7fe51d58a58d6ce50c03cfcfb123a47.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-bittern",
+                    "ebirdUrl": "https://ebird.org/species/grebit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_bittern",
+                    "wikipediaSummary": "The Eurasian bittern or great bittern (Botaurus stellaris) is a wading bird in the bittern subfamily (Botaurinae) of the heron family Ardeidae. There are two subspecies, the northern race (B. s. stellaris) breeding in parts of Europe and across the Palearctic, as well as on the northern coast of Africa, while the southern race (B. s. capensis) is endemic to parts of southern Africa. It is a secretive bird, seldom seen in the open as it prefers to skulk in reed beds and thick vegetation near water bodies. Its presence is apparent in the spring, when the booming call of the male during the breeding season can be heard. It feeds on fish, small mammals, fledgling birds, amphibians, crustaceans and insects.\nThe nest is usually built among reeds at the edge of bodies of water. The female incubates the clutch of eggs and feeds the young chicks, which leave the nest when about two weeks old. She continues to care for them until they are fully fledged some six weeks later.\nWith its specific habitat requirements and the general reduction in wetlands across its range, the population is thought to be in decline globally. However the decline is slow, and the International Union for Conservation of Nature has assessed its overall conservation status as being of \"least concern\". Nevertheless, some local populations are at risk and the population of the southern race has declined more dramatically and is cause for concern. In the United Kingdom it is one of the most threatened of all bird species.",
+                    "color": "#b70038",
+                    "thumbhash": "WhgGBwB9h4iPiYeIh5eImHiIyAemmmAJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Nijland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peter Nijland (page does not exist)\">Peter Nijland</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11734059221",
+                    "timestamp": "2026-10-14T12:32:05+02:00",
+                    "score": 5.910937820982888,
+                    "probability": 0.06955340504646301,
+                    "confidence": 0.77,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791973925-11734059221/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791973925-11734059221/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-14T12:32:05+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-103205.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
