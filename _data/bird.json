@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 20,
+                "count": 21,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 20,
+                    "almostCertain": 21,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11735812203",
-                    "timestamp": "2026-10-14T14:36:59+02:00",
-                    "score": 7.644088598784991,
+                    "id": "11737203326",
+                    "timestamp": "2026-10-14T15:59:38+02:00",
+                    "score": 8.100972102406805,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.78,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791981419-11735812203/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791981419-11735812203/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791986378-11737203326/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791986378-11737203326/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T14:36:59+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-123659.flac",
+                        "timestamp": "2026-10-14T15:59:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-135938.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -164,6 +164,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-14T10:39:52+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-083952.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "66",
+                "species": {
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11736585831",
+                    "timestamp": "2026-10-14T15:23:35+02:00",
+                    "score": 9.286523380883523,
+                    "probability": 0.774585485458374,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791984215-11736585831/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791984215-11736585831/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-14T15:23:35+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-132335.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,63 +515,6 @@
                 }
             },
             {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11734050199",
-                    "timestamp": "2026-10-14T12:31:02+02:00",
-                    "score": 9.046493778919148,
-                    "probability": 0.774585485458374,
-                    "confidence": 0.77,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791973862-11734050199/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791973862-11734050199/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T12:31:02+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-103102.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "75",
                 "species": {
                     "id": "75",
@@ -677,63 +677,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-14T10:07:00+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-080700.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "528",
-                "species": {
-                    "id": "528",
-                    "scientificName": "Anas crecca",
-                    "commonName": "Cs\u00f6rg\u0151 r\u00e9ce",
-                    "thumbnailUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-thumbnail-a98c9ccd9eba2019903bf078047b9b5a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-standard-72cd4430bd15b567da915412028d669a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/green-winged-teal",
-                    "ebirdUrl": "https://ebird.org/species/gnwtea",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_teal",
-                    "wikipediaSummary": "The Eurasian teal (Anas crecca), common teal, or Eurasian green-winged teal is a common and widespread duck which breeds in temperate Eurosiberia and migrates south in winter. The Eurasian teal is often called simply the teal due to being the only one of these small dabbling ducks in much of its range. The bird gives its name to the blue-green colour teal.\nIt is a highly gregarious duck outside the breeding season and can form large flocks. It is commonly found in sheltered wetlands and feeds on seeds and aquatic invertebrates. The North American green-winged teal (A. carolinensis) was formerly (and sometimes is still) considered a subspecies of A. crecca.",
-                    "color": "#00a842",
-                    "thumbhash": "JccBFwK8WqR9h4dcVAmKV5ZqaTEJJpQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11717261908",
-                    "timestamp": "2026-10-13T15:08:34+02:00",
-                    "score": 7.5984606904936545,
-                    "probability": 0.31036636233329773,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791896914-11717261908/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791896914-11717261908/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-13T15:08:34+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261013-130834.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
