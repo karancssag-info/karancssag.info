@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 7,
+                "count": 9,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 7,
+                    "almostCertain": 9,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11753658261",
-                    "timestamp": "2026-10-15T11:52:39+02:00",
-                    "score": 7.615245428183962,
+                    "id": "11756045833",
+                    "timestamp": "2026-10-15T14:53:09+02:00",
+                    "score": 7.753747108297737,
                     "probability": 0.2660132050514221,
-                    "confidence": 0.77,
+                    "confidence": 0.82,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792057959-11753658261/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792057959-11753658261/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792068789-11756045833/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792068789-11756045833/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-15T11:52:39+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-095239.flac",
+                        "timestamp": "2026-10-15T14:53:09+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-125309.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -344,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "40",
+                "species": {
+                    "id": "40",
+                    "scientificName": "Dendrocopos major",
+                    "commonName": "Nagy fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-thumbnail-4c1b2ae5187a446439291ea1b70c27b7.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-standard-4aa3dad67e1c219cca5162102b1dab05.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/grswoo",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+                    "wikipediaSummary": "The great spotted woodpecker (Dendrocopos major) is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recent recolonisation of Ireland and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action. This species is similar to the Syrian woodpecker.\nThis woodpecker occurs in all types of woodlands and eats a variety of foods, being capable of extracting seeds from pine cones, insect larvae from inside trees or eggs and chicks of other birds from their nests. It breeds in holes excavated in living or dead trees, unlined apart from wood chips. The typical clutch is four to six glossy white eggs. Both parents incubate the eggs, feed the chicks, and keep the nest clean. When the young fledge they are fed by the adults for about ten days, each parent taking responsibility for feeding part of the brood.\nThe species is closely related to some other members of its genus. It has a number of subspecies, some of which are distinctive enough to be potential new species. It has a huge range and large population, with no widespread threats, so it is classed as a species of least concern by the International Union for Conservation of Nature (IUCN).",
+                    "color": "#e7c421",
+                    "thumbhash": "j9gFDwQIU4dsZXhniWeXaId5Gv74f3YD",
+                    "imageCredit": "Gerry Zambonini",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11755993444",
+                    "timestamp": "2026-10-15T14:49:58+02:00",
+                    "score": 9.006852283855208,
+                    "probability": 0.7210979461669922,
+                    "confidence": 0.79,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792068598-11755993444/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792068598-11755993444/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-15T14:49:58+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-124958.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "15",
                 "species": {
                     "id": "15",
@@ -401,22 +458,22 @@
                 }
             },
             {
-                "speciesId": "40",
+                "speciesId": "18",
                 "species": {
-                    "id": "40",
-                    "scientificName": "Dendrocopos major",
-                    "commonName": "Nagy fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-thumbnail-4c1b2ae5187a446439291ea1b70c27b7.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-standard-4aa3dad67e1c219cca5162102b1dab05.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-spotted-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/grswoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
-                    "wikipediaSummary": "The great spotted woodpecker (Dendrocopos major) is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recent recolonisation of Ireland and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action. This species is similar to the Syrian woodpecker.\nThis woodpecker occurs in all types of woodlands and eats a variety of foods, being capable of extracting seeds from pine cones, insect larvae from inside trees or eggs and chicks of other birds from their nests. It breeds in holes excavated in living or dead trees, unlined apart from wood chips. The typical clutch is four to six glossy white eggs. Both parents incubate the eggs, feed the chicks, and keep the nest clean. When the young fledge they are fed by the adults for about ten days, each parent taking responsibility for feeding part of the brood.\nThe species is closely related to some other members of its genus. It has a number of subspecies, some of which are distinctive enough to be potential new species. It has a huge range and large population, with no widespread threats, so it is classed as a species of least concern by the International Union for Conservation of Nature (IUCN).",
-                    "color": "#e7c421",
-                    "thumbhash": "j9gFDwQIU4dsZXhniWeXaId5Gv74f3YD",
-                    "imageCredit": "Gerry Zambonini",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
                 "count": 2,
@@ -430,14 +487,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11753020658",
-                    "timestamp": "2026-10-15T10:45:26+02:00",
-                    "score": 9.435487364009273,
-                    "probability": 0.7210979461669922,
-                    "confidence": 0.97,
+                    "id": "11755579029",
+                    "timestamp": "2026-10-15T14:25:09+02:00",
+                    "score": 9.505969820727085,
+                    "probability": 0.7957745790481567,
+                    "confidence": 0.94,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792053926-11753020658/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792053926-11753020658/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792067109-11755579029/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792067109-11755579029/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -447,8 +504,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-15T10:45:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-084526.flac",
+                        "timestamp": "2026-10-15T14:25:09+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-122509.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -572,63 +629,6 @@
                 }
             },
             {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11750242707",
-                    "timestamp": "2026-10-15T07:04:48+02:00",
-                    "score": 9.19490111335666,
-                    "probability": 0.7957745790481567,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792040688-11750242707/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792040688-11750242707/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-15T07:04:48+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-050448.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "25",
                 "species": {
                     "id": "25",
@@ -743,63 +743,6 @@
                 }
             },
             {
-                "speciesId": "75",
-                "species": {
-                    "id": "75",
-                    "scientificName": "Corvus corax",
-                    "commonName": "Holl\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
-                    "ebirdUrl": "https://ebird.org/species/comrav",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
-                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
-                    "color": "#025fba",
-                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11735855014",
-                    "timestamp": "2026-10-14T14:39:33+02:00",
-                    "score": 8.648028171375746,
-                    "probability": 0.4419531226158142,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791981573-11735855014/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791981573-11735855014/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T14:39:33+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-123933.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "294",
                 "species": {
                     "id": "294",
@@ -905,63 +848,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-15T08:24:16+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-062416.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "590",
-                "species": {
-                    "id": "590",
-                    "scientificName": "Tadorna ferruginea",
-                    "commonName": "V\u00f6r\u00f6s \u00e1s\u00f3l\u00fad",
-                    "thumbnailUrl": "https://media.birdweather.com/species/590/RuddyShelduck-thumbnail-816a6ef055edb7292f27cae0eb7cef6d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/590/RuddyShelduck-standard-c85cb089f904890c35284992fe17fdd0.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/ruddy-shelduck",
-                    "ebirdUrl": "https://ebird.org/species/rudshe",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruddy_shelduck",
-                    "wikipediaSummary": "The ruddy shelduck (Tadorna ferruginea), known in India as the Brahminy duck, is a member of the family Anatidae. It is a distinctive waterfowl, 58 to 70 cm (23 to 28 in) in length with a wingspan of 110 to 135 cm (43 to 53 in). It has orange-brown body plumage with a paler head, while the tail and the flight feathers in the wings are black, contrasting with the white wing-coverts. It is a migratory bird, wintering in the Indian subcontinent and breeding in southeastern Europe and central Asia, though there are small resident populations in North Africa. It has a loud honking call.\nThe ruddy shelduck mostly inhabits inland water-bodies such as lakes, reservoirs and rivers. The male and female form a lasting pair bond and the nest may be well away from water, in a crevice or hole in a cliff, tree or similar site. A clutch of about eight eggs is laid and is incubated solely by the female for about four weeks. The young are cared for by both parents and fledge about eight weeks after hatching.\nIn central and eastern Asia, populations are steady or rising, but in Europe they are generally in decline. Altogether, the birds have a wide range and large total population, and the International Union for Conservation of Nature has assessed their conservation status as being of \"least concern\".",
-                    "color": "#a70076",
-                    "thumbhash": "3SgKFwSfhIh0lphSh2iXVnmHVgB4BYAI",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler\" title=\"User:Michael G\u00e4bler\">Michael G\u00e4bler</a>",
-                    "imageLicense": "CC BY 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11736011936",
-                    "timestamp": "2026-10-14T14:48:58+02:00",
-                    "score": 4.6737570034498725,
-                    "probability": 0.018595019355416298,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791982138-11736011936/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791982138-11736011936/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T14:48:58+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-124858.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
