@@ -2,63 +2,6 @@
     "data": {
         "species": [
             {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 21,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 21,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11738781300",
-                    "timestamp": "2026-10-14T17:19:43+02:00",
-                    "score": 8.016637788997581,
-                    "probability": 0.2660132050514221,
-                    "confidence": 0.93,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791991183-11738781300/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791991183-11738781300/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T17:19:43+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-151943.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "11",
                 "species": {
                     "id": "11",
@@ -116,43 +59,43 @@
                 }
             },
             {
-                "speciesId": "40",
+                "speciesId": "84",
                 "species": {
-                    "id": "40",
-                    "scientificName": "Dendrocopos major",
-                    "commonName": "Nagy fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-thumbnail-4c1b2ae5187a446439291ea1b70c27b7.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-standard-4aa3dad67e1c219cca5162102b1dab05.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-spotted-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/grswoo",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
-                    "wikipediaSummary": "The great spotted woodpecker (Dendrocopos major) is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recent recolonisation of Ireland and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action. This species is similar to the Syrian woodpecker.\nThis woodpecker occurs in all types of woodlands and eats a variety of foods, being capable of extracting seeds from pine cones, insect larvae from inside trees or eggs and chicks of other birds from their nests. It breeds in holes excavated in living or dead trees, unlined apart from wood chips. The typical clutch is four to six glossy white eggs. Both parents incubate the eggs, feed the chicks, and keep the nest clean. When the young fledge they are fed by the adults for about ten days, each parent taking responsibility for feeding part of the brood.\nThe species is closely related to some other members of its genus. It has a number of subspecies, some of which are distinctive enough to be potential new species. It has a huge range and large population, with no widespread threats, so it is classed as a species of least concern by the International Union for Conservation of Nature (IUCN).",
-                    "color": "#e7c421",
-                    "thumbhash": "j9gFDwQIU4dsZXhniWeXaId5Gv74f3YD",
-                    "imageCredit": "Gerry Zambonini",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 6,
+                "count": 20,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 6,
+                    "almostCertain": 20,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11737836809",
-                    "timestamp": "2026-10-14T16:31:51+02:00",
-                    "score": 8.920297188633711,
-                    "probability": 0.7210979461669922,
-                    "confidence": 0.76,
+                    "id": "11738781300",
+                    "timestamp": "2026-10-14T17:19:43+02:00",
+                    "score": 8.016637788997581,
+                    "probability": 0.2660132050514221,
+                    "confidence": 0.93,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791988311-11737836809/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791988311-11737836809/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1791991183-11738781300/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791991183-11738781300/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T16:31:51+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-143151.flac",
+                        "timestamp": "2026-10-14T17:19:43+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-151943.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,25 +134,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11751345869",
-                    "timestamp": "2026-10-15T08:29:29+02:00",
-                    "score": 9.010218360700836,
+                    "id": "11752366111",
+                    "timestamp": "2026-10-15T09:48:05+02:00",
+                    "score": 9.69033689495087,
                     "probability": 0.8450458645820618,
-                    "confidence": 0.72,
+                    "confidence": 0.99,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792045769-11751345869/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792045769-11751345869/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792050485-11752366111/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792050485-11752366111/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-15T08:29:29+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-062929.flac",
+                        "timestamp": "2026-10-15T09:48:05+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-074805.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +401,63 @@
                 }
             },
             {
+                "speciesId": "40",
+                "species": {
+                    "id": "40",
+                    "scientificName": "Dendrocopos major",
+                    "commonName": "Nagy fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-thumbnail-4c1b2ae5187a446439291ea1b70c27b7.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/40/GreatSpottedWoodpecker-standard-4aa3dad67e1c219cca5162102b1dab05.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/grswoo",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+                    "wikipediaSummary": "The great spotted woodpecker (Dendrocopos major) is a medium-sized woodpecker with pied black and white plumage and a red patch on the lower belly. Males and young birds also have red markings on the neck or head. This species is found across the Palearctic including parts of North Africa. Across most of its range it is resident, but in the north some will migrate if the conifer cone crop fails. Some individuals have a tendency to wander, leading to the recent recolonisation of Ireland and to vagrancy to North America. Great spotted woodpeckers chisel into trees to find food or excavate nest holes, and also drum for contact and territorial advertisement; like other woodpeckers, they have anatomical adaptations to manage the physical stresses from the hammering action. This species is similar to the Syrian woodpecker.\nThis woodpecker occurs in all types of woodlands and eats a variety of foods, being capable of extracting seeds from pine cones, insect larvae from inside trees or eggs and chicks of other birds from their nests. It breeds in holes excavated in living or dead trees, unlined apart from wood chips. The typical clutch is four to six glossy white eggs. Both parents incubate the eggs, feed the chicks, and keep the nest clean. When the young fledge they are fed by the adults for about ten days, each parent taking responsibility for feeding part of the brood.\nThe species is closely related to some other members of its genus. It has a number of subspecies, some of which are distinctive enough to be potential new species. It has a huge range and large population, with no widespread threats, so it is classed as a species of least concern by the International Union for Conservation of Nature (IUCN).",
+                    "color": "#e7c421",
+                    "thumbhash": "j9gFDwQIU4dsZXhniWeXaId5Gv74f3YD",
+                    "imageCredit": "Gerry Zambonini",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11737836809",
+                    "timestamp": "2026-10-14T16:31:51+02:00",
+                    "score": 8.920297188633711,
+                    "probability": 0.7210979461669922,
+                    "confidence": 0.76,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1791988311-11737836809/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1791988311-11737836809/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-14T16:31:51+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-143151.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "66",
                 "species": {
                     "id": "66",
@@ -572,22 +572,22 @@
                 }
             },
             {
-                "speciesId": "1",
+                "speciesId": "3",
                 "species": {
-                    "id": "1",
-                    "scientificName": "Passer domesticus",
-                    "commonName": "H\u00e1zi ver\u00e9b",
-                    "thumbnailUrl": "https://media.birdweather.com/species/1/HouseSparrow-thumbnail-e9cbc91763a1579de8ef04880678b5e3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/1/HouseSparrow-standard-b861184cf45c092cdb45fd689dd676ef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/house-sparrow",
-                    "ebirdUrl": "https://ebird.org/species/houspa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/House_sparrow",
-                    "wikipediaSummary": "The house sparrow (Passer domesticus) is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16 cm (6.3 in) and a mass of 24\u201339.5 g (0.85\u20131.39 oz). Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings. One of about 25 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia. Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird.\nThe house sparrow is strongly associated with human habitation, and can live in urban or rural settings. Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development. It feeds mostly on the seeds of grains and weeds, but it is an opportunistic eater and commonly eats insects and many other foods. Its predators include domestic cats, hawks, and many other predatory birds and mammals.\nBecause of its numbers, ubiquity, and association with human settlements, the house sparrow is culturally prominent. It is extensively, and usually unsuccessfully, persecuted as an agricultural pest. It has also often been kept as a pet, as well as being a food item and a symbol of lust, sexual potency, commonness, and vulgarity. Though it is widespread and abundant, its numbers have declined in some areas. The animal's conservation status is listed as least concern on the IUCN Red List.",
-                    "color": "#d16ff8",
-                    "thumbhash": "XAgCDwD8qpukuHiqtLZ9mImnmPFcDO4E",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.piqs.de/user/Adamo/\">Adamo</a>",
-                    "imageLicense": "CC BY 2.0 de",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+                    "id": "3",
+                    "scientificName": "Dendrocoptes medius",
+                    "commonName": "K\u00f6zepfakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/miswoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
+                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
+                    "color": "#9b1ea9",
+                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
                 "count": 1,
@@ -601,14 +601,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11732242505",
-                    "timestamp": "2026-10-14T09:36:43+02:00",
-                    "score": 8.776059011389162,
-                    "probability": 0.6939486265182495,
-                    "confidence": 0.73,
+                    "id": "11752397683",
+                    "timestamp": "2026-10-15T09:50:39+02:00",
+                    "score": 6.753653547191268,
+                    "probability": 0.11575856804847717,
+                    "confidence": 0.85,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791963403-11732242505/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791963403-11732242505/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792050639-11752397683/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792050639-11752397683/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -618,65 +618,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-14T09:36:43+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-073643.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "8",
-                "species": {
-                    "id": "8",
-                    "scientificName": "Aegithalos caudatus",
-                    "commonName": "\u0150szap\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
-                    "ebirdUrl": "https://ebird.org/species/lottit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
-                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
-                    "color": "#bdc706",
-                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11731917548",
-                    "timestamp": "2026-10-14T09:11:07+02:00",
-                    "score": 7.939543524695831,
-                    "probability": 0.38136500120162964,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1791961867-11731917548/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1791961867-11731917548/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-14T09:11:07+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261014-071107.flac",
+                        "timestamp": "2026-10-15T09:50:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-075039.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
