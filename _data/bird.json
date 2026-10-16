@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 19,
+                "count": 17,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 19,
+                    "almostCertain": 17,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -50,63 +50,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T12:58:45+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-105845.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "756",
-                "species": {
-                    "id": "756",
-                    "scientificName": "Dendrocopos syriacus",
-                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
-                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
-                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
-                    "color": "#93d436",
-                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 10,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 10,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11773992458",
-                    "timestamp": "2026-10-16T14:01:31+02:00",
-                    "score": 6.783945803370843,
-                    "probability": 0.15836574137210846,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792152091-11773992458/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792152091-11773992458/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T14:01:31+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-120131.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -629,6 +572,63 @@
                 }
             },
             {
+                "speciesId": "756",
+                "species": {
+                    "id": "756",
+                    "scientificName": "Dendrocopos syriacus",
+                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
+                    "color": "#93d436",
+                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11775407610",
+                    "timestamp": "2026-10-16T15:35:48+02:00",
+                    "score": 6.878466037307967,
+                    "probability": 0.15836574137210846,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792157748-11775407610/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792157748-11775407610/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T15:35:48+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-133548.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "5",
                 "species": {
                     "id": "5",
@@ -734,63 +734,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T06:49:24+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-044924.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11770673789",
-                    "timestamp": "2026-10-16T08:57:34+02:00",
-                    "score": 9.434776681452945,
-                    "probability": 0.8197993040084839,
-                    "confidence": 0.89,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792133854-11770673789/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792133854-11770673789/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T08:57:34+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-065734.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -962,6 +905,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T09:34:50+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-073450.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "66",
+                "species": {
+                    "id": "66",
+                    "scientificName": "Cyanistes caeruleus",
+                    "commonName": "K\u00e9k cinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
+                    "ebirdUrl": "https://ebird.org/species/blutit",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
+                    "color": "#4b8900",
+                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11770673789",
+                    "timestamp": "2026-10-16T08:57:34+02:00",
+                    "score": 9.434776681452945,
+                    "probability": 0.8197993040084839,
+                    "confidence": 0.89,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792133854-11770673789/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792133854-11770673789/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T08:57:34+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-065734.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
