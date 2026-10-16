@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 17,
+                "count": 14,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 17,
+                    "almostCertain": 14,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11772086035",
-                    "timestamp": "2026-10-16T11:00:14+02:00",
-                    "score": 9.415742715145823,
+                    "id": "11776007624",
+                    "timestamp": "2026-10-16T16:09:42+02:00",
+                    "score": 9.525401224658568,
                     "probability": 0.995888888835907,
-                    "confidence": 0.78,
+                    "confidence": 0.82,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792141214-11772086035/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792141214-11772086035/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792159782-11776007624/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792159782-11776007624/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-16T11:00:14+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-090014.flac",
+                        "timestamp": "2026-10-16T16:09:42+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-140942.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -620,63 +620,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T15:35:48+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-133548.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "5",
-                "species": {
-                    "id": "5",
-                    "scientificName": "Troglodytes troglodytes",
-                    "commonName": "\u00d6k\u00f6rszem",
-                    "thumbnailUrl": "https://media.birdweather.com/species/5/EurasianWren-thumbnail-7ee2ceda5807a63f70243cd666e8e3c8.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/5/EurasianWren-standard-9c09f98281df1112cec97e5b2520b7ac.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-wren",
-                    "ebirdUrl": "https://ebird.org/species/winwre4",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_wren",
-                    "wikipediaSummary": "The Eurasian wren (Troglodytes troglodytes) is a very small insectivorous bird, and the only member of the wren family Troglodytidae found in Eurasia and Africa (Maghreb). In Anglophone Europe, it is commonly known simply as the wren. It has a very short tail which is often held erect, a short neck and a \nrelative long thin bill. It is russet brown above, paler buff-brown below and has a cream buff supercilium. The sexes are alike.\nIt was once lumped with Troglodytes hiemalis of eastern North America and Troglodytes pacificus of western North America as the winter wren. The Eurasian wren occurs in Europe and across the Palearctic \u2013 including a belt of Asia from northern Iran and Afghanistan across to Japan. It is migratory in only the northern parts of its range. It is also highly polygynous, an unusual mating system for passerines.\n\nThe scientific name is taken from the Greek word \"troglodytes\" (from \u03c4\u03c1\u03ce\u03b3\u03bb\u03b7 trogl\u0113 \"hole\", and \u03b4\u1fe0\u0301\u03b5\u03b9\u03bd dyein, \"creep\"), meaning \"hole-dweller\", and refers to its habit of disappearing into cavities or crevices whilst hunting arthropods or to roost. The taxonomy of the genus Troglodytes is currently unresolved, as recent molecular studies have suggested that  Cistothorus spp. and Thryorchilus spp. are within the clade currently defined by Troglodytes.",
-                    "color": "#871aa2",
-                    "thumbhash": "JwgGDwDcVHlfhXmJhXiXWJiJaEAXA5IC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Joefrei&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joefrei (page does not exist)\">Joefrei</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11757658903",
-                    "timestamp": "2026-10-15T16:26:05+02:00",
-                    "score": 8.234682925142161,
-                    "probability": 0.4754473567008972,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792074365-11757658903/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792074365-11757658903/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-15T16:26:05+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261015-142605.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
