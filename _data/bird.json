@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 22,
+                "count": 23,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 22,
+                    "almostCertain": 23,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11772126992",
-                    "timestamp": "2026-10-16T11:04:12+02:00",
-                    "score": 7.925988650630459,
+                    "id": "11773170987",
+                    "timestamp": "2026-10-16T12:58:45+02:00",
+                    "score": 8.19198239041457,
                     "probability": 0.28063392639160156,
-                    "confidence": 0.86,
+                    "confidence": 0.98,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792141452-11772126992/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792141452-11772126992/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792148325-11773170987/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792148325-11773170987/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-16T11:04:12+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-090412.flac",
+                        "timestamp": "2026-10-16T12:58:45+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-105845.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 8,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 8,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -401,6 +401,63 @@
                 }
             },
             {
+                "speciesId": "465",
+                "species": {
+                    "id": "465",
+                    "scientificName": "Picus viridis",
+                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
+                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
+                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
+                    "color": "#ff9461",
+                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 4,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 4,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11772937790",
+                    "timestamp": "2026-10-16T12:33:40+02:00",
+                    "score": 8.241620642866513,
+                    "probability": 0.3766471743583679,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792146820-11772937790/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792146820-11772937790/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T12:33:40+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-103340.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "35",
                 "species": {
                     "id": "35",
@@ -449,6 +506,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T08:03:47+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-060347.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "44",
+                "species": {
+                    "id": "44",
+                    "scientificName": "Prunella modularis",
+                    "commonName": "Erdei sz\u00fcrkebegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
+                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
+                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
+                    "color": "#fea614",
+                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11772771345",
+                    "timestamp": "2026-10-16T12:13:49+02:00",
+                    "score": 7.377856295023757,
+                    "probability": 0.19978345930576324,
+                    "confidence": 0.82,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792145629-11772771345/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792145629-11772771345/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T12:13:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-101349.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -629,63 +743,6 @@
                 }
             },
             {
-                "speciesId": "44",
-                "species": {
-                    "id": "44",
-                    "scientificName": "Prunella modularis",
-                    "commonName": "Erdei sz\u00fcrkebegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/44/Dunnock-thumbnail-1036624855b82c96db4ad23d1ed9d702.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/44/Dunnock-standard-a705d7131240cedd1c407b5a19989591.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/dunnock",
-                    "ebirdUrl": "https://ebird.org/species/dunnoc1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunnock",
-                    "wikipediaSummary": "The dunnock (Prunella modularis) is a small passerine, or perching bird, found throughout temperate Europe and into Asian Russia. Dunnocks have also been successfully introduced into New Zealand. It is by far the most widespread member of the accentor family, which otherwise consists of mountain species. Other common names of the dunnock include the hedge accentor, hedge sparrow or hedge warbler.",
-                    "color": "#fea614",
-                    "thumbhash": "lQgGDwB9pneQhHlwWjeK2ZK6d/kdFaUA",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11772498839",
-                    "timestamp": "2026-10-16T11:43:40+02:00",
-                    "score": 7.239354614909982,
-                    "probability": 0.19978345930576324,
-                    "confidence": 0.77,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792143820-11772498839/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792143820-11772498839/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T11:43:40+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-094340.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "66",
                 "species": {
                     "id": "66",
@@ -734,6 +791,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T08:57:34+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-065734.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "3",
+                "species": {
+                    "id": "3",
+                    "scientificName": "Dendrocoptes medius",
+                    "commonName": "K\u00f6zepfakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-thumbnail-4b7cf4f4b520dcdbd02b6181f4267af6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/3/MiddleSpottedWoodpecker-standard-29dcef43e5edfdd096d65954250e7ea7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/middle-spotted-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/miswoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
+                    "wikipediaSummary": "The middle spotted woodpecker (Dendrocoptes medius) is a European woodpecker belonging to the genus Dendrocoptes.",
+                    "color": "#9b1ea9",
+                    "thumbhash": "mBgKDwBgP6qReHqYd2eIdph4SASESCAK",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek\" title=\"User:Pkuczynski/Marek Szczepanek\">Marek Szczepanek</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11772976931",
+                    "timestamp": "2026-10-16T12:38:13+02:00",
+                    "score": 7.0830732411883846,
+                    "probability": 0.12129633128643036,
+                    "confidence": 0.97,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792147093-11772976931/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792147093-11772976931/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T12:38:13+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-103813.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
