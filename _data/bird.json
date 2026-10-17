@@ -20,12 +20,12 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 12,
+                "count": 11,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 12,
+                    "almostCertain": 11,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -107,63 +107,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T16:09:42+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-140942.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "6",
-                "species": {
-                    "id": "6",
-                    "scientificName": "Erithacus rubecula",
-                    "commonName": "V\u00f6r\u00f6sbegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
-                    "ebirdUrl": "https://ebird.org/species/eurrob1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
-                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
-                    "color": "#93d436",
-                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11771300515",
-                    "timestamp": "2026-10-16T09:48:56+02:00",
-                    "score": 9.085477954163332,
-                    "probability": 0.7058472633361816,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792136936-11771300515/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792136936-11771300515/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T09:48:56+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-074856.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,63 +344,6 @@
                 }
             },
             {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11771441838",
-                    "timestamp": "2026-10-16T10:00:50+02:00",
-                    "score": 9.047151500266665,
-                    "probability": 0.7749622464179993,
-                    "confidence": 0.77,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792137650-11771441838/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792137650-11771441838/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T10:00:50+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-080050.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "44",
                 "species": {
                     "id": "44",
@@ -506,6 +392,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T12:13:49+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-101349.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11771441838",
+                    "timestamp": "2026-10-16T10:00:50+02:00",
+                    "score": 9.047151500266665,
+                    "probability": 0.7749622464179993,
+                    "confidence": 0.77,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792137650-11771441838/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792137650-11771441838/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T10:00:50+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-080050.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -686,6 +629,63 @@
                 }
             },
             {
+                "speciesId": "6",
+                "species": {
+                    "id": "6",
+                    "scientificName": "Erithacus rubecula",
+                    "commonName": "V\u00f6r\u00f6sbegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
+                    "ebirdUrl": "https://ebird.org/species/eurrob1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
+                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
+                    "color": "#93d436",
+                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11771300515",
+                    "timestamp": "2026-10-16T09:48:56+02:00",
+                    "score": 9.085477954163332,
+                    "probability": 0.7058472633361816,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792136936-11771300515/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792136936-11771300515/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-16T09:48:56+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-074856.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "64",
                 "species": {
                     "id": "64",
@@ -734,63 +734,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-16T09:34:50+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-073450.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11770673789",
-                    "timestamp": "2026-10-16T08:57:34+02:00",
-                    "score": 9.434776681452945,
-                    "probability": 0.8197993040084839,
-                    "confidence": 0.89,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792133854-11770673789/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792133854-11770673789/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-16T08:57:34+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261016-065734.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
