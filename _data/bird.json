@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 9,
+                "count": 10,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 9,
+                    "almostCertain": 10,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11826172461",
-                    "timestamp": "2026-10-19T09:37:26+02:00",
-                    "score": 9.74409452411945,
+                    "id": "11826613848",
+                    "timestamp": "2026-10-19T10:18:49+02:00",
+                    "score": 9.199791061586915,
                     "probability": 0.995888888835907,
-                    "confidence": 0.91,
+                    "confidence": 0.71,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792395446-11826172461/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792395446-11826172461/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792397929-11826613848/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792397929-11826613848/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-19T09:37:26+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-073726.flac",
+                        "timestamp": "2026-10-19T10:18:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-081849.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,25 +191,25 @@
                     "imageLicenseUrl": null,
                     "__typename": "Species"
                 },
-                "count": 4,
+                "count": 5,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 4,
+                    "almostCertain": 5,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11825283940",
-                    "timestamp": "2026-10-19T08:21:59+02:00",
-                    "score": 8.778707695159918,
+                    "id": "11826532771",
+                    "timestamp": "2026-10-19T10:11:01+02:00",
+                    "score": 9.239674659330982,
                     "probability": 0.7482092380523682,
-                    "confidence": 0.7,
+                    "confidence": 0.86,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792390919-11825283940/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792390919-11825283940/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792397461-11826532771/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792397461-11826532771/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-19T08:21:59+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-062159.flac",
+                        "timestamp": "2026-10-19T10:11:01+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-081101.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -278,6 +278,120 @@
                     "soundscape": {
                         "timestamp": "2026-10-19T09:27:16+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-072716.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11826505421",
+                    "timestamp": "2026-10-19T10:08:20+02:00",
+                    "score": 9.072625757540436,
+                    "probability": 0.8848963975906372,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792397300-11826505421/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792397300-11826505421/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-19T10:08:20+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-080820.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "52",
+                "species": {
+                    "id": "52",
+                    "scientificName": "Pica pica",
+                    "commonName": "Szarka",
+                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
+                    "ebirdUrl": "https://ebird.org/species/eurmag1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
+                    "color": "#d9c845",
+                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11826635604",
+                    "timestamp": "2026-10-19T10:21:05+02:00",
+                    "score": 9.552418003697403,
+                    "probability": 0.864556610584259,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792398065-11826635604/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792398065-11826635604/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-19T10:21:05+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-082105.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +572,63 @@
                 }
             },
             {
+                "speciesId": "15",
+                "species": {
+                    "id": "15",
+                    "scientificName": "Muscicapa striata",
+                    "commonName": "Sz\u00fcrke l\u00e9gykap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/15/SpottedFlycatcher-thumbnail-3c084e28cc6f88c885b30d78b3a94282.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/15/SpottedFlycatcher-standard-5f55d0e71237c3d094fca09022b2f7a3.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/spotted-flycatcher",
+                    "ebirdUrl": "https://ebird.org/species/spofly1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_flycatcher",
+                    "wikipediaSummary": "The spotted flycatcher (Muscicapa striata) is a small passerine bird in the Old World flycatcher family.  It breeds in most of Europe and in the Palearctic to Siberia, and is migratory, wintering in Africa and south western Asia. It is declining in parts of its range.\nThis is an undistinguished looking bird with long wings and tail. The adults have grey-brown upperparts and whitish underparts, with a streaked crown and breast, giving rise to the bird's common name. The legs are short and black, and the bill is black and has the broad but pointed shape typical of aerial insectivores. Juveniles are browner than adults and have spots on the upperparts.",
+                    "color": "#9757e0",
+                    "thumbhash": "1+gFDwJvmUmtdYgyf2Z7tCeG+It5IYEA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11826477552",
+                    "timestamp": "2026-10-19T10:05:38+02:00",
+                    "score": 4.311784402996237,
+                    "probability": 0.0164464320987463,
+                    "confidence": 0.74,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792397138-11826477552/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792397138-11826477552/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-19T10:05:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-080538.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "25",
                 "species": {
                     "id": "25",
@@ -515,63 +686,6 @@
                 }
             },
             {
-                "speciesId": "35",
-                "species": {
-                    "id": "35",
-                    "scientificName": "Turdus merula",
-                    "commonName": "Fekete rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
-                    "ebirdUrl": "https://ebird.org/species/eurbla",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
-                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
-                    "color": "#ff65df",
-                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11824442107",
-                    "timestamp": "2026-10-19T07:04:17+02:00",
-                    "score": 9.283812188903779,
-                    "probability": 0.8848963975906372,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792386257-11824442107/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792386257-11824442107/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-19T07:04:17+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-050417.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "46",
                 "species": {
                     "id": "46",
@@ -620,63 +734,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-19T02:56:44+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-005644.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "52",
-                "species": {
-                    "id": "52",
-                    "scientificName": "Pica pica",
-                    "commonName": "Szarka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
-                    "ebirdUrl": "https://ebird.org/species/eurmag1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
-                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
-                    "color": "#d9c845",
-                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11825280593",
-                    "timestamp": "2026-10-19T08:21:44+02:00",
-                    "score": 9.307121926612291,
-                    "probability": 0.864556610584259,
-                    "confidence": 0.81,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792390904-11825280593/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792390904-11825280593/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-19T08:21:44+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-062144.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
