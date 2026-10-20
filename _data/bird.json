@@ -686,63 +686,6 @@
                 }
             },
             {
-                "speciesId": "46",
-                "species": {
-                    "id": "46",
-                    "scientificName": "Athene noctua",
-                    "commonName": "Kuvik",
-                    "thumbnailUrl": "https://media.birdweather.com/species/46/LittleOwl-thumbnail-dc4a3ab0d115888ba2e987e8e30a8fa3.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/46/LittleOwl-standard-f2cff2a2b2f38eb0d9b119ca1cb31433.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/little-owl",
-                    "ebirdUrl": "https://ebird.org/species/litowl1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_owl",
-                    "wikipediaSummary": "The little owl (Athene noctua), also known as the owl of Athena or owl of Minerva, is a bird that inhabits much of the temperate and warmer parts of Europe, the Palearctic east to Korea, and North Africa. It was introduced into Britain at the end of the 19th century and into the South Island of New Zealand in the early 20th century.\r\nThis owl is a member of the typical or true owl family Strigidae, which contains most species of owl, the other grouping being the barn owls, Tytonidae. It is a small, cryptically coloured, mainly nocturnal species and is found in a range of habitats including farmland, woodland fringes, steppes and semi-deserts. It feeds on insects, earthworms, other invertebrates and small vertebrates. Males hold territories which they defend against intruders. This owl is a cavity nester and a clutch of about four eggs is laid in spring. The female does the incubation and the male brings food to the nest, first for the female and later for the newly hatched young. As the chicks grow, both parents hunt and bring them food, and the chicks leave the nest at about seven weeks of age.\r\nBeing a common species with a wide range and large total population, the International Union for Conservation of Nature has assessed its conservation status as \"least concern\".",
-                    "color": "#b0ae00",
-                    "thumbhash": "YgkGFwL0XnOqRJabZGu2eXh3Z9+4h7AJ",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/chausinho/\">Arturo Nikolai from Galicia, Spain</a>",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11822732170",
-                    "timestamp": "2026-10-19T02:56:44+02:00",
-                    "score": 6.279040159022129,
-                    "probability": 0.08982750028371811,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792371404-11822732170/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792371404-11822732170/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-19T02:56:44+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-005644.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -848,63 +791,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-20T00:45:17+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-224517.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "186",
-                "species": {
-                    "id": "186",
-                    "scientificName": "Strix aluco",
-                    "commonName": "Macskabagoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/186/TawnyOwl-thumbnail-f1a9d78408877a4e4f011b228882ac2a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/186/TawnyOwl-standard-a880387489a3d9307eaa5193225ffd9d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/tawny-owl",
-                    "ebirdUrl": "https://ebird.org/species/tawowl1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tawny_owl",
-                    "wikipediaSummary": "The tawny owl or brown owl (Strix aluco) is a stocky, medium-sized owl commonly found in woodlands across much of Eurasia and North Africa. Its underparts are pale with dark streaks, and the upperparts are either brown or grey. Several of the eleven recognised subspecies have both variants. The nest is typically in a tree hole where it can protect its eggs and young against potential predators. This owl is non-migratory and highly territorial. Many young birds starve if they cannot find a vacant territory once parental care ceases.\r\nThis nocturnal bird of prey hunts mainly rodents, usually by dropping from a perch to seize its prey, which it swallows whole; in more urban areas its diet includes a higher proportion of birds. Vision and hearing adaptations and silent flight aid its night hunting. The tawny owl is capable of catching smaller owls, but is itself vulnerable to the eagle owl or northern goshawk.\r\nAlthough many people believe this owl has exceptional night vision, its retina is no more sensitive than a human's and its asymmetrically placed ears are key to its hunting by giving it excellent directional hearing. Its nocturnal habits and eerie, easily imitated call, have led to a mythical association of the tawny owl with bad luck and death. In addition, the common onomatopoeia for an owl hooting is derived from the calls of this species; the complete sound is actually a duet between a male and a female.",
-                    "color": "#ff81c2",
-                    "thumbhash": "TggKDwIIh4mUanhjmoh3eIiIWFBKBZID",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11822799875",
-                    "timestamp": "2026-10-19T03:04:16+02:00",
-                    "score": 6.007893296699886,
-                    "probability": 0.07026419043540955,
-                    "confidence": 0.8,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792371856-11822799875/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792371856-11822799875/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-19T03:04:16+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-010416.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
