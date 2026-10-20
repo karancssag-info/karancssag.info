@@ -59,63 +59,6 @@
                 }
             },
             {
-                "speciesId": "6",
-                "species": {
-                    "id": "6",
-                    "scientificName": "Erithacus rubecula",
-                    "commonName": "V\u00f6r\u00f6sbegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
-                    "ebirdUrl": "https://ebird.org/species/eurrob1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
-                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
-                    "color": "#93d436",
-                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 6,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 6,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11826028408",
-                    "timestamp": "2026-10-19T09:24:49+02:00",
-                    "score": 8.76678540964514,
-                    "probability": 0.7058472633361816,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792394689-11826028408/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792394689-11826028408/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-19T09:24:49+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-072449.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "25",
                 "species": {
                     "id": "25",
@@ -134,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 5,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 5,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11843834247",
-                    "timestamp": "2026-10-20T06:57:04+02:00",
-                    "score": 9.257019195172528,
+                    "id": "11844350638",
+                    "timestamp": "2026-10-20T07:51:39+02:00",
+                    "score": 9.115656791530263,
                     "probability": 0.8331506848335266,
-                    "confidence": 0.81,
+                    "confidence": 0.76,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792472224-11843834247/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792472224-11843834247/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792475499-11844350638/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792475499-11844350638/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-20T06:57:04+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261020-045704.flac",
+                        "timestamp": "2026-10-20T07:51:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261020-055139.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -248,12 +191,12 @@
                     "imageLicenseUrl": null,
                     "__typename": "Species"
                 },
-                "count": 5,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 5,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -335,6 +278,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-19T11:27:42+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-092742.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "6",
+                "species": {
+                    "id": "6",
+                    "scientificName": "Erithacus rubecula",
+                    "commonName": "V\u00f6r\u00f6sbegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
+                    "ebirdUrl": "https://ebird.org/species/eurrob1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
+                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
+                    "color": "#93d436",
+                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11826028408",
+                    "timestamp": "2026-10-19T09:24:49+02:00",
+                    "score": 8.76678540964514,
+                    "probability": 0.7058472633361816,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792394689-11826028408/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792394689-11826028408/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-19T09:24:49+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-072449.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -800,22 +800,22 @@
                 }
             },
             {
-                "speciesId": "88",
+                "speciesId": "153",
                 "species": {
-                    "id": "88",
-                    "scientificName": "Turdus pilaris",
-                    "commonName": "Feny\u0151rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/88/Fieldfare-thumbnail-e0997dea48c440981e2d066529c167f2.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/88/Fieldfare-standard-c3ab7d04267855de81f8c34da6fa76a7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/fieldfare",
-                    "ebirdUrl": "https://ebird.org/species/fieldf",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fieldfare",
-                    "wikipediaSummary": "The fieldfare (Turdus pilaris) is a member of the thrush family Turdidae. It breeds in woodland and scrub in northern Europe and across the Palearctic. It is strongly migratory, with many northern birds moving south during the winter. It is a very rare breeder in the British Isles, but winters in large numbers in the United Kingdom, Southern Europe, North Africa and the Middle East. It is omnivorous, eating a wide range of molluscs, insects and earthworms in the summer, and berries, grain and seeds in the winter.\nFieldfares often nest in small colonies, possibly for protection from predators. The nest is built in a tree where five or six eggs are laid. The chicks are fed by both parents and leave the nest after a fortnight. There may be two broods in southern parts of the range but only one further north. Migrating birds and wintering birds often form large flocks, often in the company of redwings.\nThe fieldfare is 25 cm (10 in) long, with a grey crown, neck and rump, a plain brown back, dark wings and tail and white underwings. The breast and flanks are heavily spotted. The breast has a reddish wash and the rest of the underparts are white. The sexes are similar in appearance but the females are slightly more brown. The male has a simple chattering song and the birds have various guttural flight and alarm calls.",
-                    "color": "#d7006c",
-                    "thumbhash": "2hgGDwBRGHqvSKflIVdTK6iEHb+6dbkA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125741467@N05\">hedera.baltica</a> from Wroc\u0142aw, Poland",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "id": "153",
+                    "scientificName": "Turdus iliacus",
+                    "commonName": "Sz\u0151l\u0151rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
+                    "ebirdUrl": "https://ebird.org/species/redwin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
+                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+                    "color": "#a7d386",
+                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
                 "count": 1,
@@ -829,14 +829,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11824893308",
-                    "timestamp": "2026-10-19T07:49:20+02:00",
-                    "score": 8.317737098900482,
-                    "probability": 0.41476595401763916,
-                    "confidence": 0.81,
+                    "id": "11843911197",
+                    "timestamp": "2026-10-20T07:07:03+02:00",
+                    "score": 6.459039919793739,
+                    "probability": 0.12605763971805573,
+                    "confidence": 0.71,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792388960-11824893308/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792388960-11824893308/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1792472823-11843911197/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792472823-11843911197/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -846,8 +846,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-19T07:49:20+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261019-054920.flac",
+                        "timestamp": "2026-10-20T07:07:03+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261020-050703.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
