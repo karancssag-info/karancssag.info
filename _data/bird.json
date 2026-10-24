@@ -1,5 +1,462 @@
 {
     "data": {
-        "species": []
+        "species": [
+            {
+                "speciesId": "11",
+                "species": {
+                    "id": "11",
+                    "scientificName": "Parus major",
+                    "commonName": "Sz\u00e9ncinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-tit",
+                    "ebirdUrl": "https://ebird.org/species/gretit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_tit",
+                    "wikipediaSummary": "The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinct from the great tit and these have now been separated as two distinct species, the cinereous tit of southern Asia, and the Japanese tit of East Asia. The great tit remains the most widespread species in the genus Parus.\nThe great tit is a distinctive bird with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by sparrowhawks. The great tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The great tit is also an important study species in ornithology.",
+                    "color": "#7a41c7",
+                    "thumbhash": "ImkCDwTFxox9pZloaIaeZLsJp9r1yG4P",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 5,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 5,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11917598344",
+                    "timestamp": "2026-10-24T09:50:02+02:00",
+                    "score": 9.200757821335477,
+                    "probability": 0.9965989589691162,
+                    "confidence": 0.71,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792828202-11917598344/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792828202-11917598344/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T09:50:02+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-075002.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11916023774",
+                    "timestamp": "2026-10-24T06:49:11+02:00",
+                    "score": 9.485010018443829,
+                    "probability": 0.880993127822876,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792817351-11916023774/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792817351-11916023774/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T06:49:11+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-044911.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "20",
+                "species": {
+                    "id": "20",
+                    "scientificName": "Phoenicurus ochruros",
+                    "commonName": "H\u00e1zi rozsdafark\u00fa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/20/BlackRedstart-thumbnail-2fee59acc1ecc6be7238da194869e940.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/20/BlackRedstart-standard-4255c9b712ecb46ea7d3df8d556c18e7.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/black-redstart",
+                    "ebirdUrl": "https://ebird.org/species/blared1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_redstart",
+                    "wikipediaSummary": "The black redstart (Phoenicurus ochruros) is a small passerine bird in the genus Phoenicurus. Like its relatives, it was formerly classed as a member of the thrush family (Turdidae), but is now known to be an Old World flycatcher (Muscicapidae). Other common names are Tithy's redstart, blackstart and black redtail.",
+                    "color": "#c8ce2d",
+                    "thumbhash": "2QgGFwT8epa+l3ZlZ5hntnh4Z/6oyZ8I",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan-Xp\" title=\"User:Stefan-Xp\">Stefan-Xp</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11916073843",
+                    "timestamp": "2026-10-24T06:56:52+02:00",
+                    "score": 8.647109292098195,
+                    "probability": 0.4416500926017761,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792817812-11916073843/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792817812-11916073843/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T06:56:52+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-045652.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "25",
+                "species": {
+                    "id": "25",
+                    "scientificName": "Fringilla coelebs",
+                    "commonName": "Erdei pinty",
+                    "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chaffinch",
+                    "ebirdUrl": "https://ebird.org/species/comcha",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chaffinch",
+                    "wikipediaSummary": "The common chaffinch or simply the chaffinch (Fringilla coelebs) is a common and widespread small passerine bird in the finch family. The male is brightly coloured with a blue-grey cap and rust-red underparts. The female is more subdued in colouring, but both sexes have two contrasting white wing bars and white sides to the tail. The male bird has a strong voice and sings from exposed perches to attract a mate.\nThe chaffinch breeds in much of Europe, across the Palearctic to Siberia and in northwestern Africa. The female builds a nest with a deep cup in the fork of a tree. The clutch is typically four or five eggs, which hatch in about 13 days. The chicks fledge in around 14 days, but are fed by both adults for several weeks after leaving the nest. Outside the breeding season, chaffinches form flocks in open countryside and forage for seeds on the ground. During the breeding season, they forage on trees for invertebrates, especially caterpillars, and feed these to their young. They are partial migrants; birds breeding in warmer regions are sedentary, while those breeding in the colder northern areas of their range winter further south.\nThe eggs and nestlings of the chaffinch are taken by a variety of mammalian and avian predators. Its large numbers and huge range mean that chaffinches are classed as of least concern by the International Union for Conservation of Nature.",
+                    "color": "#fb7eff",
+                    "thumbhash": "WfgJDwKGhIbAbHimmnhluHh2tv25ZoAD",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11917557943",
+                    "timestamp": "2026-10-24T09:45:39+02:00",
+                    "score": 9.288155136970738,
+                    "probability": 0.819983959197998,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792827939-11917557943/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792827939-11917557943/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T09:45:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-074539.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "51",
+                "species": {
+                    "id": "51",
+                    "scientificName": "Phylloscopus collybita",
+                    "commonName": "Csilpcsalpf\u00fczike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-thumbnail-db7cc6cc80c51cac95a6cceb51a0a66f.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-standard-51b65ae67159c1d7e6b40d2e5032b8bc.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chiffchaff",
+                    "ebirdUrl": "https://ebird.org/species/comchi1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+                    "wikipediaSummary": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.",
+                    "color": "#234bb2",
+                    "thumbhash": "HSkCDwJplXeiMFilxTzIyVZplYf32ZcA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11917586075",
+                    "timestamp": "2026-10-24T09:48:39+02:00",
+                    "score": 8.195764791732175,
+                    "probability": 0.32589399814605713,
+                    "confidence": 0.89,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792828119-11917586075/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792828119-11917586075/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T09:48:39+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-074839.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "52",
+                "species": {
+                    "id": "52",
+                    "scientificName": "Pica pica",
+                    "commonName": "Szarka",
+                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
+                    "ebirdUrl": "https://ebird.org/species/eurmag1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
+                    "color": "#d9c845",
+                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
+                    "imageLicense": "CC BY-SA 2.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11916441038",
+                    "timestamp": "2026-10-24T07:48:38+02:00",
+                    "score": 8.989918709980119,
+                    "probability": 0.8745933175086975,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792820918-11916441038/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792820918-11916441038/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T07:48:38+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-054838.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11916077847",
+                    "timestamp": "2026-10-24T06:57:34+02:00",
+                    "score": 7.744085569967716,
+                    "probability": 0.29982227087020874,
+                    "confidence": 0.76,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792817854-11916077847/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792817854-11916077847/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T06:57:34+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-045734.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "137",
+                "species": {
+                    "id": "137",
+                    "scientificName": "Mareca strepera",
+                    "commonName": "Kendermagos r\u00e9ce",
+                    "thumbnailUrl": "https://media.birdweather.com/species/137/Gadwall-thumbnail-c85981bd0a446dad980dbd980cabe60f.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/137/Gadwall-standard-e6b877a6cb61c09817cc5e7e0586a513.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gadwall",
+                    "ebirdUrl": "https://ebird.org/species/gadwal",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gadwall",
+                    "wikipediaSummary": "The gadwall (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.",
+                    "color": "#618000",
+                    "thumbhash": "mBgGDwAKh4l3enZjjMgpWad4WZf5NJYP",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11917601696",
+                    "timestamp": "2026-10-24T09:50:24+02:00",
+                    "score": 7.405748786390423,
+                    "probability": 0.2126622498035431,
+                    "confidence": 0.8,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792828224-11917601696/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792828224-11917601696/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T09:50:24+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-075024.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            }
+        ]
     }
 }
