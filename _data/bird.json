@@ -572,6 +572,63 @@
                 }
             },
             {
+                "speciesId": "126",
+                "species": {
+                    "id": "126",
+                    "scientificName": "Numenius arquata",
+                    "commonName": "Nagy p\u00f3ling",
+                    "thumbnailUrl": "https://media.birdweather.com/species/126/EurasianCurlew-thumbnail-d245076cae8b5156bc793664a913e583.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/126/EurasianCurlew-standard-1479db889b5cfb1db79d9e29611fa53a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-curlew",
+                    "ebirdUrl": "https://ebird.org/species/eurcur",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_curlew",
+                    "wikipediaSummary": "The Eurasian curlew or common curlew (Numenius arquata) is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across temperate Europe and Asia. In Europe, this species is often referred to just as the \"curlew\", and in Scotland known as the \"whaup\" in Scots.",
+                    "color": "#b70038",
+                    "thumbhash": "W+kJDwRpiHiAd4iKd2iHeIZ4F9+jWIAI",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11922779495",
+                    "timestamp": "2026-10-24T16:27:46+02:00",
+                    "score": 7.0706416578360365,
+                    "probability": 0.14566770195960999,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792852066-11922779495/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792852066-11922779495/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-24T16:27:46+02:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-142746.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "137",
                 "species": {
                     "id": "137",
