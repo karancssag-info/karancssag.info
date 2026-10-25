@@ -458,6 +458,63 @@
                 }
             },
             {
+                "speciesId": "136",
+                "species": {
+                    "id": "136",
+                    "scientificName": "Gallinula chloropus",
+                    "commonName": "V\u00edzity\u00fak",
+                    "thumbnailUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-thumbnail-b3a07142f4c0d0b456db50c940eeb498.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-standard-7fbea3f567eb87f2e5637e65f2e345a9.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-moorhen",
+                    "ebirdUrl": "https://ebird.org/species/commoo3",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_moorhen",
+                    "wikipediaSummary": "The common moorhen (Gallinula chloropus), also known as the waterhen or swamp chicken, is a bird species in the rail family (Rallidae). It is distributed across many parts of the Old World.The common moorhen lives around well-vegetated marshes, ponds, canals and other wetlands. The species is not found in the polar regions or many tropical rainforests. Elsewhere it is likely the most common rail species, except for the Eurasian coot in some regions.\nThe closely related common gallinule of the New World has been recognized as a separate species by most authorities, starting with the American Ornithologists' Union and the International Ornithological Committee in 2011.",
+                    "color": "#ff6aae",
+                    "thumbhash": "4gkGFwJLibWgemdUevdEiMqVufboq2AI",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11938061489",
+                    "timestamp": "2026-10-25T14:07:25+01:00",
+                    "score": 7.5944785784332005,
+                    "probability": 0.19946657121181488,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792933645-11938061489/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792933645-11938061489/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-25T14:07:25+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-130725.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "392",
                 "species": {
                     "id": "392",
