@@ -77,12 +77,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 1,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 1,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -230,63 +230,6 @@
                 }
             },
             {
-                "speciesId": "75",
-                "species": {
-                    "id": "75",
-                    "scientificName": "Corvus corax",
-                    "commonName": "Holl\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
-                    "ebirdUrl": "https://ebird.org/species/comrav",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
-                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
-                    "color": "#025fba",
-                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11918280863",
-                    "timestamp": "2026-10-24T11:11:40+02:00",
-                    "score": 8.408758847738424,
-                    "probability": 0.4268156588077545,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792833100-11918280863/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792833100-11918280863/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-24T11:11:40+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-091140.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "126",
                 "species": {
                     "id": "126",
@@ -335,63 +278,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-24T16:27:46+02:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-142746.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "465",
-                "species": {
-                    "id": "465",
-                    "scientificName": "Picus viridis",
-                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
-                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
-                    "color": "#ff9461",
-                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11918527848",
-                    "timestamp": "2026-10-24T11:46:00+02:00",
-                    "score": 8.288256539898125,
-                    "probability": 0.3375718593597412,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792835160-11918527848/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792835160-11918527848/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-24T11:46:00+02:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261024-094600.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
