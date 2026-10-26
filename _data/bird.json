@@ -59,6 +59,63 @@
                 }
             },
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 8,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 8,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11954399463",
+                    "timestamp": "2026-10-26T12:56:46+01:00",
+                    "score": 7.963755000570711,
+                    "probability": 0.29982227087020874,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793015806-11954399463/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793015806-11954399463/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-26T12:56:46+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-115646.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "35",
                 "species": {
                     "id": "35",
@@ -107,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T06:59:37+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-055937.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 7,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 7,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11953301452",
-                    "timestamp": "2026-10-26T11:23:51+01:00",
-                    "score": 7.683186655245674,
-                    "probability": 0.29982227087020874,
-                    "confidence": 0.74,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793010231-11953301452/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793010231-11953301452/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-26T11:23:51+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-102351.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -791,63 +791,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T06:23:45+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-052345.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "510",
-                "species": {
-                    "id": "510",
-                    "scientificName": "Falco peregrinus",
-                    "commonName": "V\u00e1ndors\u00f3lyom",
-                    "thumbnailUrl": "https://media.birdweather.com/species/510/PeregrineFalcon-thumbnail-521fdea3befb69ac813f818adb7d85db.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/510/PeregrineFalcon-standard-6d2712524c583e68af274a5113808185.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/peregrine-falcon",
-                    "ebirdUrl": "https://ebird.org/species/perfal",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Peregrine_falcon",
-                    "wikipediaSummary": "The peregrine falcon (Falco peregrinus), also known as the peregrine, and historically as the duck hawk in North America, is a cosmopolitan bird of prey (raptor) in the family Falconidae. A large, crow-sized falcon, it has a blue-grey back, barred white underparts, and a black head. The peregrine is renowned for its speed, reaching over 320 km/h (200 mph) during its characteristic hunting stoop (high-speed dive), making it the fastest bird in the world, as well as the fastest member of the animal kingdom. According to a National Geographic TV program, the highest measured speed of a peregrine falcon is 389 km/h (242 mph). As is typical for bird-eating raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males.The peregrine's breeding range includes land regions from the Arctic tundra to the tropics. It can be found nearly everywhere on Earth, except extreme polar regions, very high mountains, and most tropical rainforests; the only major ice-free landmass from which it is entirely absent is New Zealand. This makes it the world's most widespread raptor, and one of the most widely found bird species. In fact, the only land-based bird species found over a larger geographic area is not always naturally occurring, but one widely introduced by humans, the rock pigeon, which in turn now supports many peregrine populations as a prey species. The peregrine is a highly successful example of urban wildlife in much of its range, taking advantage of tall buildings as nest sites and an abundance of prey such as pigeons and ducks. Both the English and scientific names of this species mean \"wandering falcon,\" referring to the migratory habits of many northern populations. Experts recognize 17 to 19 subspecies, which vary in appearance and range; disagreement exists over whether the distinctive Barbary falcon is represented by two subspecies of Falco peregrinus, or is a separate species, F. pelegrinoides. The two species' divergence is relatively recent, during the time of the last ice age, therefore the genetic differential between them (and also the difference in their appearance) is relatively tiny. They are only about 0.6\u20130.8% genetically differentiated.Although its diet consists almost exclusively of medium-sized birds, the peregrine will sometimes hunt small mammals, small reptiles, or even insects. Reaching sexual maturity at one year, it mates for life and nests in a scrape, normally on cliff edges or, in recent times, on tall human-made structures. The peregrine falcon became an endangered species in many areas because of the widespread use of certain pesticides, especially DDT. Since the ban on DDT from the early 1970s, populations have recovered, supported by large-scale protection of nesting places and releases to the wild.The peregrine falcon is a well-respected falconry bird due to its strong hunting ability, high trainability, versatility, and availability via captive breeding. It is effective on most game bird species, from small to large. It has also been used as a religious, royal, or national symbol across multiple eras and areas of human civilization.",
-                    "color": "#6bc22c",
-                    "thumbhash": "3dYNJwbUZmefqHdmdalohoiIuAB2C2AH",
-                    "imageCredit": "Christopher Watson (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.comebirdwatching.blogspot.com/\">http://www.comebirdwatching.blogspot.com/</a>)",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11936020415",
-                    "timestamp": "2026-10-25T12:07:26+01:00",
-                    "score": 5.998554768752578,
-                    "probability": 0.08490349352359772,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792926446-11936020415/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792926446-11936020415/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-25T12:07:26+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-110726.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
