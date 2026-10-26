@@ -572,63 +572,6 @@
                 }
             },
             {
-                "speciesId": "136",
-                "species": {
-                    "id": "136",
-                    "scientificName": "Gallinula chloropus",
-                    "commonName": "V\u00edzity\u00fak",
-                    "thumbnailUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-thumbnail-b3a07142f4c0d0b456db50c940eeb498.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-standard-7fbea3f567eb87f2e5637e65f2e345a9.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-moorhen",
-                    "ebirdUrl": "https://ebird.org/species/commoo3",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_moorhen",
-                    "wikipediaSummary": "The common moorhen (Gallinula chloropus), also known as the waterhen or swamp chicken, is a bird species in the rail family (Rallidae). It is distributed across many parts of the Old World.The common moorhen lives around well-vegetated marshes, ponds, canals and other wetlands. The species is not found in the polar regions or many tropical rainforests. Elsewhere it is likely the most common rail species, except for the Eurasian coot in some regions.\nThe closely related common gallinule of the New World has been recognized as a separate species by most authorities, starting with the American Ornithologists' Union and the International Ornithological Committee in 2011.",
-                    "color": "#ff6aae",
-                    "thumbhash": "4gkGFwJLibWgemdUevdEiMqVufboq2AI",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11938061489",
-                    "timestamp": "2026-10-25T14:07:25+01:00",
-                    "score": 7.5944785784332005,
-                    "probability": 0.19946657121181488,
-                    "confidence": 0.91,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792933645-11938061489/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792933645-11938061489/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-25T14:07:25+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-130725.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "186",
                 "species": {
                     "id": "186",
@@ -734,6 +677,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T06:23:45+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-052345.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "465",
+                "species": {
+                    "id": "465",
+                    "scientificName": "Picus viridis",
+                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
+                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
+                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
+                    "color": "#ff9461",
+                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11955913225",
+                    "timestamp": "2026-10-26T14:17:37+01:00",
+                    "score": 7.871486956966026,
+                    "probability": 0.3375718593597412,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793020657-11955913225/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793020657-11955913225/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-26T14:17:37+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-131737.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
