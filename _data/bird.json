@@ -2,6 +2,63 @@
     "data": {
         "species": [
             {
+                "speciesId": "11",
+                "species": {
+                    "id": "11",
+                    "scientificName": "Parus major",
+                    "commonName": "Sz\u00e9ncinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-tit",
+                    "ebirdUrl": "https://ebird.org/species/gretit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_tit",
+                    "wikipediaSummary": "The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinct from the great tit and these have now been separated as two distinct species, the cinereous tit of southern Asia, and the Japanese tit of East Asia. The great tit remains the most widespread species in the genus Parus.\nThe great tit is a distinctive bird with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by sparrowhawks. The great tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The great tit is also an important study species in ornithology.",
+                    "color": "#7a41c7",
+                    "thumbhash": "ImkCDwTFxox9pZloaIaeZLsJp9r1yG4P",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11950441261",
+                    "timestamp": "2026-10-26T06:04:42+01:00",
+                    "score": 9.200757821335477,
+                    "probability": 0.9965989589691162,
+                    "confidence": 0.71,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792991082-11950441261/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792991082-11950441261/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-26T06:04:42+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-050442.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "18",
                 "species": {
                     "id": "18",
@@ -107,63 +164,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-25T11:20:53+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-102053.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "11",
-                "species": {
-                    "id": "11",
-                    "scientificName": "Parus major",
-                    "commonName": "Sz\u00e9ncinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-tit",
-                    "ebirdUrl": "https://ebird.org/species/gretit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_tit",
-                    "wikipediaSummary": "The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinct from the great tit and these have now been separated as two distinct species, the cinereous tit of southern Asia, and the Japanese tit of East Asia. The great tit remains the most widespread species in the genus Parus.\nThe great tit is a distinctive bird with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by sparrowhawks. The great tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The great tit is also an important study species in ornithology.",
-                    "color": "#7a41c7",
-                    "thumbhash": "ImkCDwTFxox9pZloaIaeZLsJp9r1yG4P",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11935682983",
-                    "timestamp": "2026-10-25T11:23:08+01:00",
-                    "score": 9.444957898362134,
-                    "probability": 0.9965989589691162,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792923788-11935682983/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792923788-11935682983/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-25T11:23:08+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-102308.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -335,6 +335,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-25T08:40:13+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-074013.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11950433350",
+                    "timestamp": "2026-10-26T06:03:42+01:00",
+                    "score": 8.999794633646587,
+                    "probability": 0.880993127822876,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1792991022-11950433350/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1792991022-11950433350/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-26T06:03:42+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-050342.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
