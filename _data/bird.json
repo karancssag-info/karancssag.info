@@ -515,63 +515,6 @@
                 }
             },
             {
-                "speciesId": "57",
-                "species": {
-                    "id": "57",
-                    "scientificName": "Corvus frugilegus",
-                    "commonName": "Vet\u00e9si varj\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/57/Rook-thumbnail-d5087727ae9a5053670c964e1e518b84.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/57/Rook-standard-c4bce1f1c15f4c24dc9ca86d6ecd1779.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/rook",
-                    "ebirdUrl": "https://ebird.org/species/rook1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rook_(bird)",
-                    "wikipediaSummary": "The rook (Corvus frugilegus) is a member of the Corvidae in the passerine order of birds. It is found in the Palearctic, its range extending from Scandinavia and western Europe to eastern Siberia. It is a large, gregarious, black-feathered bird, distinguished from similar species by the whitish featherless area on the face. Rooks nest collectively in the tops of tall trees, often close to farms or villages, the groups of nests being known as rookeries.\nRooks are mainly resident birds, but the northernmost populations may move southwards to avoid the harshest winter conditions. The birds form flocks in winter, often in the company of other Corvus species or jackdaws. They return to their rookeries and breeding takes place in spring. They forage on arable land and pasture, probing the ground with their strong bills and feeding largely on grubs and soil-based invertebrates, but also consuming cereals and other plant material. Historically, farmers have accused the birds of damaging their crops, and have made efforts to drive them away or kill them. Like other corvids, they are intelligent birds with complex behavioural traits and an ability to solve simple problems.",
-                    "color": "#ff49b1",
-                    "thumbhash": "7fcJDwDWrHdKl5mfc2ebpIeHp13zyjQP",
-                    "imageCredit": "Myself (<a href=\"//commons.wikimedia.org/wiki/User:Arpingstone\" title=\"User:Arpingstone\">Adrian Pingstone</a>).",
-                    "imageLicense": "Public domain",
-                    "imageLicenseUrl": null,
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11943411297",
-                    "timestamp": "2026-10-25T19:12:37+01:00",
-                    "score": 8.698093180552778,
-                    "probability": 0.6874452829360962,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792951957-11943411297/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792951957-11943411297/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-25T19:12:37+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-181237.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "88",
                 "species": {
                     "id": "88",
