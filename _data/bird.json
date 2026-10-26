@@ -362,25 +362,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 1,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 1,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11950784326",
-                    "timestamp": "2026-10-26T06:46:26+01:00",
-                    "score": 9.435960715719785,
+                    "id": "11954832065",
+                    "timestamp": "2026-10-26T13:20:38+01:00",
+                    "score": 9.15635007752917,
                     "probability": 0.7438536882400513,
-                    "confidence": 0.95,
+                    "confidence": 0.83,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792993586-11950784326/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792993586-11950784326/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793017238-11954832065/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793017238-11954832065/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +390,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-26T06:46:26+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-054626.flac",
+                        "timestamp": "2026-10-26T13:20:38+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-122038.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -563,63 +563,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T06:17:44+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-051744.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "89",
-                "species": {
-                    "id": "89",
-                    "scientificName": "Carduelis carduelis",
-                    "commonName": "Tengelice",
-                    "thumbnailUrl": "https://media.birdweather.com/species/89/EuropeanGoldfinch-thumbnail-f99916cbaf5a2c3bd8f61890d18d73c1.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/89/EuropeanGoldfinch-standard-5e709d6e7011b21fe905b6d27ce94b9d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-goldfinch",
-                    "ebirdUrl": "https://ebird.org/species/eurgol",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_goldfinch",
-                    "wikipediaSummary": "The European goldfinch or simply the goldfinch (Carduelis carduelis) is a small passerine bird in the finch family that is native to Europe, North Africa and western and central Asia. It has been introduced to other areas, including Australia, New Zealand and Uruguay.\nThe breeding male has a red face with black markings around the eyes, and a black-and-white head. The back and flanks are buff or chestnut brown. The black wings have a broad yellow bar. The tail is black and the rump is white. Males and females are very similar, but females have a slightly smaller red area on the face.\nThe goldfinch is often depicted in Italian Renaissance paintings of the Madonna and Child.",
-                    "color": "#65dba3",
-                    "thumbhash": "lPgJDwI+UJmHq2hji4dWiHiH2XQID5UC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11937636928",
-                    "timestamp": "2026-10-25T13:45:03+01:00",
-                    "score": 9.10450692307192,
-                    "probability": 0.6894646883010864,
-                    "confidence": 0.85,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792932303-11937636928/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792932303-11937636928/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-25T13:45:03+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261025-124503.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
