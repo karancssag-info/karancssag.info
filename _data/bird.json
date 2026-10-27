@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 14,
+                "count": 15,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 14,
+                    "almostCertain": 15,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11975779773",
-                    "timestamp": "2026-10-27T15:59:37+01:00",
-                    "score": 9.552464011516983,
+                    "id": "11976368438",
+                    "timestamp": "2026-10-27T16:29:19+01:00",
+                    "score": 9.23377146699879,
                     "probability": 0.9965989589691162,
-                    "confidence": 0.83,
+                    "confidence": 0.72,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793113177-11975779773/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793113177-11975779773/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793114959-11976368438/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793114959-11976368438/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-27T15:59:37+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-145937.flac",
+                        "timestamp": "2026-10-27T16:29:19+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-152919.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 6,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 6,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "11973387430",
-                    "timestamp": "2026-10-27T13:52:36+01:00",
-                    "score": 8.238673853353857,
+                    "id": "11976322435",
+                    "timestamp": "2026-10-27T16:27:00+01:00",
+                    "score": 8.279572412868921,
                     "probability": 0.29982227087020874,
-                    "confidence": 0.96,
+                    "confidence": 0.98,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793105556-11973387430/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793105556-11973387430/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793114820-11976322435/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793114820-11976322435/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-10-27T13:52:36+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-125236.flac",
+                        "timestamp": "2026-10-27T16:27:00+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-152700.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -392,6 +392,120 @@
                     "soundscape": {
                         "timestamp": "2026-10-27T10:30:57+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-093057.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "175",
+                "species": {
+                    "id": "175",
+                    "scientificName": "Gallinago gallinago",
+                    "commonName": "S\u00e1rszalonka",
+                    "thumbnailUrl": "https://media.birdweather.com/species/175/CommonSnipe-thumbnail-cb257689780327d1418334a236f73616.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/175/CommonSnipe-standard-1842d29e686146fb23ca5d35e0ed7103.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-snipe",
+                    "ebirdUrl": "https://ebird.org/species/comsni",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_snipe",
+                    "wikipediaSummary": "The common snipe (Gallinago gallinago) is a small, stocky wader native to the Old World.\nThe breeding habitats are marshes, bogs, tundra and wet meadows throughout the Palearctic. In the north, the distribution limit extends from Iceland over the north of the British Isles and northern Fennoscandia, where it occurs at around 70\u00b0N, as well as through European Russia and Siberia. Here it is mostly on the northern edge of the Taiga zone at 71\u00b0N, but reaches 74\u00b0N on the east coast of the Taymyr Peninsula. In the east it extends to Anadyr, Kamchatka, Bering Island and the Kuril Islands, The southern boundary of the distribution area in Europe runs through northern Portugal, central France, northern Italy, Bulgaria and Ukraine, with populations in the west being only very scattered. In Asia, the distribution extends south to northern Turkestan, locally to Afghanistan and the Middle East, through the Altai and further to Manchuria and Ussuri. It is migratory, with European birds wintering in southern and western Europe and Africa (south to the Equator), and Asian migrants moving to tropical southern Asia. The North American Wilson's snipe was previously considered the same species, and is listed as such in older field guides.",
+                    "color": "#f6aef7",
+                    "thumbhash": "JAgGDwL5Vod8h2mJh4hoxmV5OmCnAncK",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Alpsdake\" title=\"User:Alpsdake\">Alpsdake</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11976496664",
+                    "timestamp": "2026-10-27T16:35:57+01:00",
+                    "score": 7.097842473451555,
+                    "probability": 0.1678440272808075,
+                    "confidence": 0.8,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793115357-11976496664/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793115357-11976496664/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-27T16:35:57+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-153557.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "1082",
+                "species": {
+                    "id": "1082",
+                    "scientificName": "Perdix perdix",
+                    "commonName": "Fogoly",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1082/GrayPartridge-thumbnail-2382e0bdc84bafc97406b2e034f03511.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1082/GrayPartridge-standard-81551295cd4714b782913eefe2b1a524.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/gray-partridge",
+                    "ebirdUrl": "https://ebird.org/species/grypar",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grey_partridge",
+                    "wikipediaSummary": "The grey partridge (Perdix perdix), also known as the grey-legged partridge, English partridge, Hungarian partridge, or hun, is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds. The scientific name is the Latin for \"partridge\", and is itself derived from Ancient Greek  perdix.",
+                    "color": "#c90021",
+                    "thumbhash": "2PgBBwJnWnp9fLSQWcpVeGet1/jqKTQA",
+                    "imageCredit": null,
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11976330204",
+                    "timestamp": "2026-10-27T16:27:18+01:00",
+                    "score": 6.208950190740415,
+                    "probability": 0.07013081014156342,
+                    "confidence": 0.88,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793114838-11976330204/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793114838-11976330204/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-27T16:27:18+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-152718.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
