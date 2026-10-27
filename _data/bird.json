@@ -173,63 +173,6 @@
                 }
             },
             {
-                "speciesId": "35",
-                "species": {
-                    "id": "35",
-                    "scientificName": "Turdus merula",
-                    "commonName": "Fekete rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
-                    "ebirdUrl": "https://ebird.org/species/eurbla",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
-                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
-                    "color": "#ff65df",
-                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 5,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 5,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11950921335",
-                    "timestamp": "2026-10-26T06:59:37+01:00",
-                    "score": 9.35923367596705,
-                    "probability": 0.880993127822876,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792994377-11950921335/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792994377-11950921335/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-26T06:59:37+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-055937.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "20",
                 "species": {
                     "id": "20",
@@ -305,12 +248,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -335,63 +278,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T09:41:04+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-084104.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11954832065",
-                    "timestamp": "2026-10-26T13:20:38+01:00",
-                    "score": 9.15635007752917,
-                    "probability": 0.7438536882400513,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793017238-11954832065/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793017238-11954832065/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-26T13:20:38+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-122038.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -458,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11954832065",
+                    "timestamp": "2026-10-26T13:20:38+01:00",
+                    "score": 9.15635007752917,
+                    "probability": 0.7438536882400513,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793017238-11954832065/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793017238-11954832065/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-26T13:20:38+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-122038.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "52",
                 "species": {
                     "id": "52",
@@ -506,120 +449,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-26T08:46:28+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-074628.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "88",
-                "species": {
-                    "id": "88",
-                    "scientificName": "Turdus pilaris",
-                    "commonName": "Feny\u0151rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/88/Fieldfare-thumbnail-e0997dea48c440981e2d066529c167f2.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/88/Fieldfare-standard-c3ab7d04267855de81f8c34da6fa76a7.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/fieldfare",
-                    "ebirdUrl": "https://ebird.org/species/fieldf",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fieldfare",
-                    "wikipediaSummary": "The fieldfare (Turdus pilaris) is a member of the thrush family Turdidae. It breeds in woodland and scrub in northern Europe and across the Palearctic. It is strongly migratory, with many northern birds moving south during the winter. It is a very rare breeder in the British Isles, but winters in large numbers in the United Kingdom, Southern Europe, North Africa and the Middle East. It is omnivorous, eating a wide range of molluscs, insects and earthworms in the summer, and berries, grain and seeds in the winter.\nFieldfares often nest in small colonies, possibly for protection from predators. The nest is built in a tree where five or six eggs are laid. The chicks are fed by both parents and leave the nest after a fortnight. There may be two broods in southern parts of the range but only one further north. Migrating birds and wintering birds often form large flocks, often in the company of redwings.\nThe fieldfare is 25 cm (10 in) long, with a grey crown, neck and rump, a plain brown back, dark wings and tail and white underwings. The breast and flanks are heavily spotted. The breast has a reddish wash and the rest of the underparts are white. The sexes are similar in appearance but the females are slightly more brown. The male has a simple chattering song and the birds have various guttural flight and alarm calls.",
-                    "color": "#d7006c",
-                    "thumbhash": "2hgGDwBRGHqvSKflIVdTK6iEHb+6dbkA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125741467@N05\">hedera.baltica</a> from Wroc\u0142aw, Poland",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11950534643",
-                    "timestamp": "2026-10-26T06:17:44+01:00",
-                    "score": 8.371648056154482,
-                    "probability": 0.4594275653362274,
-                    "confidence": 0.78,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792991864-11950534643/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792991864-11950534643/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-26T06:17:44+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-051744.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "337",
-                "species": {
-                    "id": "337",
-                    "scientificName": "Haliaeetus albicilla",
-                    "commonName": "R\u00e9tisas",
-                    "thumbnailUrl": "https://media.birdweather.com/species/337/White-tailedEagle-thumbnail-38545d736fb9d03b06d9955a37715fd0.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/337/White-tailedEagle-standard-bc22c921ded3c20180d3fe0c3962417a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/white-tailed-eagle",
-                    "ebirdUrl": "https://ebird.org/species/whteag",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/White-tailed_eagle",
-                    "wikipediaSummary": "The white-tailed eagle (Haliaeetus albicilla) is a very large species of sea eagle widely distributed across temperate Eurasia. Like all eagles, it is a member of the family Accipitridae (or accipitrids) which includes other diurnal raptors such as hawks, kites, and harriers. One of up to eleven members in the genus Haliaeetus, which are commonly called sea eagles, it is also referred to as the white-tailed sea-eagle. Sometimes, it is known as the ern or erne (depending on spelling by sources), gray sea eagle and Eurasian sea eagle.While found across a very wide range, today breeding as far west as Greenland and Iceland across to as far east as Hokkaido, Japan, they are often scarce and very spottily distributed as a nesting species, mainly due to human activities. These have included habitat alterations and destruction of wetlands, about a hundred years of systematic persecution by humans (from the early 1800s to around World War II) followed by inadvertent poisonings and epidemics of nesting failures due to various manmade chemical pesticides and organic compounds, which have threatened eagles since roughly the 1950s and continue to be a potential concern. Due to this, the white-tailed eagle was considered endangered or extinct in several countries. However, some populations have recovered well due to some governmental protections and dedicated conservationists and naturalists protecting habitats and nesting sites and partially regulating poaching and pesticide usage, as well as careful reintroductions into parts of their former range.White-tailed eagles usually live most of the year near large bodies of open water, including both coastal saltwater areas and inland freshwater, including wetlands, lakes, bogs and rivers, and require an abundant food supply and old-growth trees or ample sea cliffs for nesting. This raptor is both a powerful apex predator and an opportunistic scavenger, mainly subsisting on fish and birds (largely water birds) amongst nearly any other available prey. They are considered a close cousin of the bald eagle (Haliaeetus leucocephalus), which occupies a similar niche in North America.",
-                    "color": "#52ddb0",
-                    "thumbhash": "H9cJJwb3VnmDaJh2c0lomJd4efVnWH8F",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:C-M\" title=\"User:C-M\">Christoph M\u00fcller (http://www.christophmueller.org)</a>",
-                    "imageLicense": "CC BY 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11950579837",
-                    "timestamp": "2026-10-26T06:23:45+01:00",
-                    "score": 7.552924880274158,
-                    "probability": 0.22837930917739868,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1792992225-11950579837/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1792992225-11950579837/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-26T06:23:45+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261026-052345.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
