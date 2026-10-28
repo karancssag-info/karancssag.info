@@ -116,6 +116,63 @@
                 }
             },
             {
+                "speciesId": "6",
+                "species": {
+                    "id": "6",
+                    "scientificName": "Erithacus rubecula",
+                    "commonName": "V\u00f6r\u00f6sbegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
+                    "ebirdUrl": "https://ebird.org/species/eurrob1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
+                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
+                    "color": "#93d436",
+                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11987186236",
+                    "timestamp": "2026-10-28T07:16:12+01:00",
+                    "score": 8.69256439433906,
+                    "probability": 0.6680973768234253,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793168172-11987186236/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793168172-11987186236/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-28T07:16:12+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261028-061612.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -164,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-10-27T11:51:07+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-105107.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "6",
-                "species": {
-                    "id": "6",
-                    "scientificName": "Erithacus rubecula",
-                    "commonName": "V\u00f6r\u00f6sbegy",
-                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
-                    "ebirdUrl": "https://ebird.org/species/eurrob1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
-                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
-                    "color": "#93d436",
-                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "11971849340",
-                    "timestamp": "2026-10-27T12:23:24+01:00",
-                    "score": 9.311784013867047,
-                    "probability": 0.6680973768234253,
-                    "confidence": 0.96,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793100204-11971849340/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793100204-11971849340/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-27T12:23:24+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-112324.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -392,6 +392,63 @@
                     "soundscape": {
                         "timestamp": "2026-10-27T10:30:57+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261027-093057.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "70",
+                "species": {
+                    "id": "70",
+                    "scientificName": "Spinus spinus",
+                    "commonName": "Cs\u00edz",
+                    "thumbnailUrl": "https://media.birdweather.com/species/70/EurasianSiskin-thumbnail-d4d8e5c6b650daca2e1f235f0d021694.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/70/EurasianSiskin-standard-20ecd2222f50940d538a6f3b77e95979.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-siskin",
+                    "ebirdUrl": "https://ebird.org/species/eursis",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_siskin",
+                    "wikipediaSummary": "The Eurasian siskin (Spinus spinus) is a small passerine bird in the finch family Fringillidae. It is also called the European siskin, common siskin or just siskin. Other (archaic) names include black-headed goldfinch, barley bird and aberdevine. It is very common throughout Europe and Eurosiberia. It is found in forested areas, both coniferous and mixed woodland where it feeds on seeds of all kinds, especially of alder and conifers.\nIt can be distinguished from other similar finches by the colour of the plumage. The upper parts are greyish green and the under parts grey-streaked white. Its wings are black with a conspicuous yellow wing bar, and the tail is black with yellow sides. The male has a mainly yellow face and breast, with a neat black cap. Female and young birds have a greyish green head and no cap. It is a trusting, sociable and active bird. The song of this bird is a pleasant mix of twitters and trills. For these reasons it is often raised in captivity.\nThese birds have an unusual migration pattern as every few years in winter they migrate southwards in large numbers. The reasons for this behaviour are not known but may be related to climatic factors and above all the availability of food. In this way overwintering populations can thrive where food is abundant. This small finch is an acrobatic feeder, often hanging upside-down like a tit. It will visit garden bird feeding stations.",
+                    "color": "#ed8000",
+                    "thumbhash": "nSkKFwJrd3hch3efd1iHZ3aIl/eWqnsP",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "11987657994",
+                    "timestamp": "2026-10-28T07:55:08+01:00",
+                    "score": 8.760002582023695,
+                    "probability": 0.5440203547477722,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793170508-11987657994/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793170508-11987657994/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-10-28T07:55:08+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261028-065508.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
