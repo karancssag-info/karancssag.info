@@ -116,63 +116,6 @@
                 }
             },
             {
-                "speciesId": "375",
-                "species": {
-                    "id": "375",
-                    "scientificName": "Pandion haliaetus",
-                    "commonName": "Hal\u00e1szsas",
-                    "thumbnailUrl": "https://media.birdweather.com/species/375/Osprey-thumbnail-bb14caf333e22c1b44befe2ed6c78026.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/375/Osprey-standard-86c8030b42ef1e93b509a463813c8687.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/osprey",
-                    "ebirdUrl": "https://ebird.org/species/osprey",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Osprey",
-                    "wikipediaSummary": "The osprey or more specifically the western osprey (Pandion haliaetus) \u2014 also called sea hawk, river hawk, and fish hawk \u2014 is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and 180 cm (71 in) across the wings. It is brown on the upperparts and predominantly greyish on the head and underparts.\nThe osprey tolerates a wide variety of habitats, nesting in any location near a body of water providing an adequate food supply. It is found on all continents except Antarctica, although in South America it occurs only as a non-breeding migrant.\nAs its other common names suggest, the osprey's diet consists almost exclusively of fish. It possesses specialised physical characteristics and exhibits unique behaviour to assist in hunting and catching prey. As a result of these unique characteristics, it has been given its own taxonomic genus, Pandion and family, Pandionidae. Three subspecies are usually recognized; one of the former subspecies, cristatus, has recently been given full species status and is referred to as the eastern osprey.",
-                    "color": "#60d8d9",
-                    "thumbhash": "5QcKDwD5hTd9lIaId3d3iHd4aEBYBYYE",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yathin_sk\" title=\"User:Yathin sk\">Yathin S Krishnappa</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12064408235",
-                    "timestamp": "2026-11-01T09:12:05+01:00",
-                    "score": 5.053477398526452,
-                    "probability": 0.024475524201989174,
-                    "confidence": 0.88,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793520725-12064408235-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793520725-12064408235-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-01T09:12:05+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261101-081205.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "6",
                 "species": {
                     "id": "6",
@@ -458,63 +401,6 @@
                 }
             },
             {
-                "speciesId": "124",
-                "species": {
-                    "id": "124",
-                    "scientificName": "Bubo bubo",
-                    "commonName": "Uhu",
-                    "thumbnailUrl": "https://media.birdweather.com/species/124/EurasianEagle-Owl-thumbnail-8ae5674934b96c13c1bdb96d8c058315.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/124/EurasianEagle-Owl-standard-5e05c96f9efa5c0994084c376f10083d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-eagle-owl",
-                    "ebirdUrl": "https://ebird.org/species/eueowl1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_eagle-owl",
-                    "wikipediaSummary": "The Eurasian eagle-owl (Bubo bubo) is a species of eagle-owl that resides in much of Eurasia. It is also called the Uhu and it is occasionally abbreviated to just the eagle-owl in Europe. It is one of the largest species of owl, and females can grow to a total length of 75 cm (30 in), with a wingspan of 188 cm (6 ft 2 in), with males being slightly smaller. This bird has distinctive ear tufts, with upper parts that are mottled with darker blackish colouring and tawny. The wings and tail are barred. The underparts are a variably hued buff, streaked with darker colouring. The facial disc is not very visible and the orange eyes are distinctive.Eurasian eagle-owls are found in many habitats, but are mostly birds of mountainous regions or other rocky areas, often those near varied woodland edge and shrubby areas with openings or wetlands to hunt a majority of their prey. Additionally, they inhabit coniferous forests, steppes, and other areas at varied elevations that are typically relatively remote. Eurasian eagle-owls are occasionally found amongst farmland and in park-like settings within European cities, even rarely within busier urban areas. This eagle-owl is a mostly nocturnal predator, hunting for a range of different prey species. Predominantly, their diet is composed of small mammals such as rodents and rabbits, but they also prey on larger mammals and birds of varying sizes. Other secondary prey can include reptiles, amphibians, fish, large insects and other assorted invertebrates. The species typically breeds on cliff ledges, in gullies, among rocks, or in other concealed locations. The nest is a scrape containing a clutch of two eggs typically, which are laid at intervals and hatch at different times. The female incubates the eggs and broods the young, and the male provides food for her, and when they hatch, for the nestlings, as well. Continuing parental care for the young is provided by both adults for about five months. At least 12 subspecies of the Eurasian eagle-owls are described.In addition to being one of the largest living species of owl, the Eurasian eagle-owl is also one of the most widely distributed. With a total range in Europe and Asia of about 32 million km2 (12 million sq mi) and a total population estimated to be between 250,000 and 2.5 million, the IUCN lists the bird's conservation status as being of least concern.  The vast majority of eagle-owls live in Continental Europe, Scandinavia, Russia (which is almost certainly where the peak numbers and diversity of race occurs), and Central Asia. Additional minor populations exist in Anatolia, the northern Middle East, the montane upper part of South Asia and in China; in addition, an estimated 12 to 40 pairs are thought to reside in the United Kingdom as of 2016 (where they are arguably non-native), a number which may be on the rise. Tame eagle-owls have occasionally been used in pest control because of their size to deter large birds such as gulls from nesting.",
-                    "color": "#fc543a",
-                    "thumbhash": "FykGDwBdcHtyh5Y6d2eZiWh3+4GkK28F",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12053044861",
-                    "timestamp": "2026-10-31T17:26:37+01:00",
-                    "score": 5.196672850822294,
-                    "probability": 0.045497357845306396,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793463997-12053044861-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793463997-12053044861-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-31T17:26:37+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261031-162637.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "153",
                 "species": {
                     "id": "153",
@@ -629,63 +515,6 @@
                 }
             },
             {
-                "speciesId": "186",
-                "species": {
-                    "id": "186",
-                    "scientificName": "Strix aluco",
-                    "commonName": "Macskabagoly",
-                    "thumbnailUrl": "https://media.birdweather.com/species/186/TawnyOwl-thumbnail-f1a9d78408877a4e4f011b228882ac2a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/186/TawnyOwl-standard-a880387489a3d9307eaa5193225ffd9d.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/tawny-owl",
-                    "ebirdUrl": "https://ebird.org/species/tawowl1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tawny_owl",
-                    "wikipediaSummary": "The tawny owl or brown owl (Strix aluco) is a stocky, medium-sized owl commonly found in woodlands across much of Eurasia and North Africa. Its underparts are pale with dark streaks, and the upperparts are either brown or grey. Several of the eleven recognised subspecies have both variants. The nest is typically in a tree hole where it can protect its eggs and young against potential predators. This owl is non-migratory and highly territorial. Many young birds starve if they cannot find a vacant territory once parental care ceases.\r\nThis nocturnal bird of prey hunts mainly rodents, usually by dropping from a perch to seize its prey, which it swallows whole; in more urban areas its diet includes a higher proportion of birds. Vision and hearing adaptations and silent flight aid its night hunting. The tawny owl is capable of catching smaller owls, but is itself vulnerable to the eagle owl or northern goshawk.\r\nAlthough many people believe this owl has exceptional night vision, its retina is no more sensitive than a human's and its asymmetrically placed ears are key to its hunting by giving it excellent directional hearing. Its nocturnal habits and eerie, easily imitated call, have led to a mythical association of the tawny owl with bad luck and death. In addition, the common onomatopoeia for an owl hooting is derived from the calls of this species; the complete sound is actually a duet between a male and a female.",
-                    "color": "#ff81c2",
-                    "thumbhash": "TggKDwIIh4mUanhjmoh3eIiIWFBKBZID",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski\" title=\"User:Trachemys~commonswiki/Martin Mecnarowski\">Martin Mecnarowski</a> (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.photomecan.eu/\">http://www.photomecan.eu/</a>)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12053183366",
-                    "timestamp": "2026-10-31T17:33:40+01:00",
-                    "score": 5.819437100144505,
-                    "probability": 0.07327244430780411,
-                    "confidence": 0.72,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793464420-12053183366-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793464420-12053183366-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-10-31T17:33:40+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261031-163340.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "355",
                 "species": {
                     "id": "355",
@@ -734,6 +563,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-01T12:45:40+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261101-114540.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "375",
+                "species": {
+                    "id": "375",
+                    "scientificName": "Pandion haliaetus",
+                    "commonName": "Hal\u00e1szsas",
+                    "thumbnailUrl": "https://media.birdweather.com/species/375/Osprey-thumbnail-bb14caf333e22c1b44befe2ed6c78026.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/375/Osprey-standard-86c8030b42ef1e93b509a463813c8687.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/osprey",
+                    "ebirdUrl": "https://ebird.org/species/osprey",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Osprey",
+                    "wikipediaSummary": "The osprey or more specifically the western osprey (Pandion haliaetus) \u2014 also called sea hawk, river hawk, and fish hawk \u2014 is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and 180 cm (71 in) across the wings. It is brown on the upperparts and predominantly greyish on the head and underparts.\nThe osprey tolerates a wide variety of habitats, nesting in any location near a body of water providing an adequate food supply. It is found on all continents except Antarctica, although in South America it occurs only as a non-breeding migrant.\nAs its other common names suggest, the osprey's diet consists almost exclusively of fish. It possesses specialised physical characteristics and exhibits unique behaviour to assist in hunting and catching prey. As a result of these unique characteristics, it has been given its own taxonomic genus, Pandion and family, Pandionidae. Three subspecies are usually recognized; one of the former subspecies, cristatus, has recently been given full species status and is referred to as the eastern osprey.",
+                    "color": "#60d8d9",
+                    "thumbhash": "5QcKDwD5hTd9lIaId3d3iHd4aEBYBYYE",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yathin_sk\" title=\"User:Yathin sk\">Yathin S Krishnappa</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12064408235",
+                    "timestamp": "2026-11-01T09:12:05+01:00",
+                    "score": 5.053477398526452,
+                    "probability": 0.024475524201989174,
+                    "confidence": 0.88,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793520725-12064408235-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793520725-12064408235-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-01T09:12:05+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261101-081205.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
