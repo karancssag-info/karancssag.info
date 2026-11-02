@@ -230,6 +230,63 @@
                 }
             },
             {
+                "speciesId": "153",
+                "species": {
+                    "id": "153",
+                    "scientificName": "Turdus iliacus",
+                    "commonName": "Sz\u0151l\u0151rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
+                    "ebirdUrl": "https://ebird.org/species/redwin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
+                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+                    "color": "#a7d386",
+                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12084395388",
+                    "timestamp": "2026-11-02T11:18:03+01:00",
+                    "score": 7.088313231237162,
+                    "probability": 0.12179947644472122,
+                    "confidence": 0.97,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793614683-12084395388-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793614683-12084395388-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-02T11:18:03+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-101803.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "35",
                 "species": {
                     "id": "35",
@@ -278,63 +335,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-02T08:16:40+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-071640.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "153",
-                "species": {
-                    "id": "153",
-                    "scientificName": "Turdus iliacus",
-                    "commonName": "Sz\u0151l\u0151rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
-                    "ebirdUrl": "https://ebird.org/species/redwin",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
-                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
-                    "color": "#a7d386",
-                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 3,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 3,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12082890093",
-                    "timestamp": "2026-11-02T08:33:23+01:00",
-                    "score": 6.982058450183315,
-                    "probability": 0.12179947644472122,
-                    "confidence": 0.92,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793604803-12082890093-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793604803-12082890093-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-02T08:33:23+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-073323.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,63 +401,6 @@
                 }
             },
             {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12082822230",
-                    "timestamp": "2026-11-02T08:27:07+01:00",
-                    "score": 8.296052353707145,
-                    "probability": 0.3180442154407501,
-                    "confidence": 0.95,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793604427-12082822230-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793604427-12082822230-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-02T08:27:07+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-072707.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "3",
                 "species": {
                     "id": "3",
@@ -506,6 +449,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-02T07:06:31+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-060631.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "5",
+                "species": {
+                    "id": "5",
+                    "scientificName": "Troglodytes troglodytes",
+                    "commonName": "\u00d6k\u00f6rszem",
+                    "thumbnailUrl": "https://media.birdweather.com/species/5/EurasianWren-thumbnail-7ee2ceda5807a63f70243cd666e8e3c8.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/5/EurasianWren-standard-9c09f98281df1112cec97e5b2520b7ac.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-wren",
+                    "ebirdUrl": "https://ebird.org/species/winwre4",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_wren",
+                    "wikipediaSummary": "The Eurasian wren (Troglodytes troglodytes) is a very small insectivorous bird, and the only member of the wren family Troglodytidae found in Eurasia and Africa (Maghreb). In Anglophone Europe, it is commonly known simply as the wren. It has a very short tail which is often held erect, a short neck and a \nrelative long thin bill. It is russet brown above, paler buff-brown below and has a cream buff supercilium. The sexes are alike.\nIt was once lumped with Troglodytes hiemalis of eastern North America and Troglodytes pacificus of western North America as the winter wren. The Eurasian wren occurs in Europe and across the Palearctic \u2013 including a belt of Asia from northern Iran and Afghanistan across to Japan. It is migratory in only the northern parts of its range. It is also highly polygynous, an unusual mating system for passerines.\n\nThe scientific name is taken from the Greek word \"troglodytes\" (from \u03c4\u03c1\u03ce\u03b3\u03bb\u03b7 trogl\u0113 \"hole\", and \u03b4\u1fe0\u0301\u03b5\u03b9\u03bd dyein, \"creep\"), meaning \"hole-dweller\", and refers to its habit of disappearing into cavities or crevices whilst hunting arthropods or to roost. The taxonomy of the genus Troglodytes is currently unresolved, as recent molecular studies have suggested that  Cistothorus spp. and Thryorchilus spp. are within the clade currently defined by Troglodytes.",
+                    "color": "#871aa2",
+                    "thumbhash": "JwgGDwDcVHlfhXmJhXiXWJiJaEAXA5IC",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Joefrei&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joefrei (page does not exist)\">Joefrei</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12084512007",
+                    "timestamp": "2026-11-02T11:33:25+01:00",
+                    "score": 8.970313552283288,
+                    "probability": 0.5618194341659546,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793615605-12084512007-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793615605-12084512007-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-02T11:33:25+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-103325.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -743,6 +743,63 @@
                 }
             },
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12082822230",
+                    "timestamp": "2026-11-02T08:27:07+01:00",
+                    "score": 8.296052353707145,
+                    "probability": 0.3180442154407501,
+                    "confidence": 0.95,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793604427-12082822230-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793604427-12082822230-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-02T08:27:07+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-072707.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "119",
                 "species": {
                     "id": "119",
@@ -791,63 +848,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-02T07:33:20+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-063320.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "171",
-                "species": {
-                    "id": "171",
-                    "scientificName": "Pyrrhula pyrrhula",
-                    "commonName": "S\u00fcv\u00f6lt\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/171/EurasianBullfinch-thumbnail-c2fcccee34220f4785b350242db27e47.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/171/EurasianBullfinch-standard-6bd55a134dde0c1ba4684c2cdecfa9e4.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-bullfinch",
-                    "ebirdUrl": "https://ebird.org/species/eurbul",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_bullfinch",
-                    "wikipediaSummary": "The Eurasian bullfinch, common bullfinch or bullfinch (Pyrrhula pyrrhula) is a small passerine bird in the finch family, Fringillidae.  In Anglophone Europe it is known simply as the bullfinch, as it is the original bird to bear the name bullfinch.",
-                    "color": "#ffa9fc",
-                    "thumbhash": "UggKDwQCjGd0e5aUd2mJhXd4CY+YYHcC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12065830281",
-                    "timestamp": "2026-11-01T11:34:54+01:00",
-                    "score": 7.859357823607472,
-                    "probability": 0.31984832882881165,
-                    "confidence": 0.77,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793529294-12065830281-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793529294-12065830281-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-01T11:34:54+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261101-103454.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
