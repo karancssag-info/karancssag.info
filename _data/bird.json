@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 8,
+                "count": 7,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 8,
+                    "almostCertain": 7,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -962,63 +962,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-02T10:42:13+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-094213.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "355",
-                "species": {
-                    "id": "355",
-                    "scientificName": "Cygnus columbianus",
-                    "commonName": "Kis hatty\u00fa",
-                    "thumbnailUrl": "https://media.birdweather.com/species/355/TundraSwan-thumbnail-def54d3e8a2aabcca55ac3fa7dc79f59.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/355/TundraSwan-standard-9789b4046b1dd480db85384c6e06bbef.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/tundra-swan",
-                    "ebirdUrl": "https://ebird.org/species/tunswa",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tundra_swan",
-                    "wikipediaSummary": "The tundra swan (Cygnus columbianus) is a small Holarctic swan. The two taxa within it are usually regarded as conspecific, but are also sometimes split into two species: Bewick's swan (Cygnus bewickii) of the Palaearctic and the whistling swan (C. columbianus) proper of the Nearctic. Birds from eastern Russia (roughly east of the Taimyr Peninsula) are sometimes separated as the subspecies C. c. jankowskii, but this is not widely accepted as distinct, with most authors including them in C. c. bewickii. Tundra swans are sometimes separated in the subgenus Olor together with the other Arctic swan species.\nBewick's swan was named in 1830 by William Yarrell after the engraver Thomas Bewick, who specialised in illustrations of birds and animals. Cygnus is the Latin for \"swan\", and  columbianus comes from the Columbia River, the type locality.",
-                    "color": "#018c59",
-                    "thumbhash": "Y+cNHwRrZ2ZgiXiHh7hnSIaHqQh4ioAI",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Maga-chan\" title=\"User:Maga-chan\">Maga-chan</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12066751871",
-                    "timestamp": "2026-11-01T12:45:40+01:00",
-                    "score": 5.527428394273591,
-                    "probability": 0.060651745647192,
-                    "confidence": 0.7,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793533540-12066751871-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793533540-12066751871-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-01T12:45:40+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261101-114540.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
