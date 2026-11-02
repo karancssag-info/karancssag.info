@@ -373,14 +373,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12084210728",
-                    "timestamp": "2026-11-02T10:53:40+01:00",
-                    "score": 9.445263489453641,
+                    "id": "12085688735",
+                    "timestamp": "2026-11-02T13:07:26+01:00",
+                    "score": 9.108061184185337,
                     "probability": 0.8869882225990295,
-                    "confidence": 0.85,
+                    "confidence": 0.73,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793613220-12084210728-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793613220-12084210728-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793621246-12085688735-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793621246-12085688735-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -390,8 +390,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-02T10:53:40+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-095340.flac",
+                        "timestamp": "2026-11-02T13:07:26+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-120726.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
