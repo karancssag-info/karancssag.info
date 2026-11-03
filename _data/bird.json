@@ -344,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "8",
+                "species": {
+                    "id": "8",
+                    "scientificName": "Aegithalos caudatus",
+                    "commonName": "\u0150szap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
+                    "ebirdUrl": "https://ebird.org/species/lottit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
+                    "color": "#bdc706",
+                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 3,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 3,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12104159523",
+                    "timestamp": "2026-11-03T13:36:41+01:00",
+                    "score": 8.377444637572685,
+                    "probability": 0.4090381860733032,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793709401-12104159523-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793709401-12104159523-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-03T13:36:41+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261103-123641.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "17",
                 "species": {
                     "id": "17",
@@ -572,63 +629,6 @@
                 }
             },
             {
-                "speciesId": "8",
-                "species": {
-                    "id": "8",
-                    "scientificName": "Aegithalos caudatus",
-                    "commonName": "\u0150szap\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
-                    "ebirdUrl": "https://ebird.org/species/lottit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
-                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
-                    "color": "#bdc706",
-                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12088824081",
-                    "timestamp": "2026-11-02T16:00:09+01:00",
-                    "score": 8.652363490355832,
-                    "probability": 0.4090381860733032,
-                    "confidence": 0.96,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793631609-12088824081-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793631609-12088824081-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-02T16:00:09+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-150009.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "30",
                 "species": {
                     "id": "30",
@@ -677,63 +677,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-03T06:36:52+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261103-053652.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "66",
-                "species": {
-                    "id": "66",
-                    "scientificName": "Cyanistes caeruleus",
-                    "commonName": "K\u00e9k cinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blue-tit",
-                    "ebirdUrl": "https://ebird.org/species/blutit",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
-                    "wikipediaSummary": "The Eurasian blue tit (Cyanistes caeruleus) is a small passerine bird in the tit family, Paridae. It is easily recognisable by its blue and yellow plumage and small size.\nEurasian blue tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and the western Palearctic in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the larger and more common great tit.\nThe Eurasian blue tit prefers insects and spiders for its diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their acrobatic skills, as they can cling to the outermost branches and hang upside down when looking for food.",
-                    "color": "#4b8900",
-                    "thumbhash": "EfgJBwAKhHiEm2ZheGllqXeZhi/ze3EP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12085688735",
-                    "timestamp": "2026-11-02T13:07:26+01:00",
-                    "score": 9.108061184185337,
-                    "probability": 0.8869882225990295,
-                    "confidence": 0.73,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793621246-12085688735-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793621246-12085688735-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-02T13:07:26+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261102-120726.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
