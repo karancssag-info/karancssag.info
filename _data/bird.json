@@ -287,6 +287,120 @@
                 }
             },
             {
+                "speciesId": "75",
+                "species": {
+                    "id": "75",
+                    "scientificName": "Corvus corax",
+                    "commonName": "Holl\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
+                    "ebirdUrl": "https://ebird.org/species/comrav",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
+                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
+                    "color": "#025fba",
+                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12120410922",
+                    "timestamp": "2026-11-04T12:04:12+01:00",
+                    "score": 8.268202293572761,
+                    "probability": 0.42528724670410156,
+                    "confidence": 0.78,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793790252-12120410922-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793790252-12120410922-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-04T12:04:12+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-110412.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12120573642",
+                    "timestamp": "2026-11-04T12:18:11+01:00",
+                    "score": 9.082276091995153,
+                    "probability": 0.7179103493690491,
+                    "confidence": 0.82,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793791091-12120573642-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793791091-12120573642-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-04T12:18:11+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-111811.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "35",
                 "species": {
                     "id": "35",
@@ -392,63 +506,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-04T10:46:15+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-094615.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "75",
-                "species": {
-                    "id": "75",
-                    "scientificName": "Corvus corax",
-                    "commonName": "Holl\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
-                    "ebirdUrl": "https://ebird.org/species/comrav",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
-                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
-                    "color": "#025fba",
-                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12120410922",
-                    "timestamp": "2026-11-04T12:04:12+01:00",
-                    "score": 8.268202293572761,
-                    "probability": 0.42528724670410156,
-                    "confidence": 0.78,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793790252-12120410922-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793790252-12120410922-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-04T12:04:12+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-110412.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
