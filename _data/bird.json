@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 10,
+                "count": 13,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 10,
+                    "almostCertain": 13,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12117847385",
-                    "timestamp": "2026-11-04T07:33:32+01:00",
-                    "score": 9.602386870647747,
+                    "id": "12118621030",
+                    "timestamp": "2026-11-04T08:42:08+01:00",
+                    "score": 9.708641651701594,
                     "probability": 0.8824139833450317,
-                    "confidence": 0.92,
+                    "confidence": 0.97,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793774012-12117847385-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793774012-12117847385-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793778128-12118621030-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793778128-12118621030-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-04T07:33:32+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-063332.flac",
+                        "timestamp": "2026-11-04T08:42:08+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-074208.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -88,14 +88,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12117789302",
-                    "timestamp": "2026-11-04T07:28:29+01:00",
-                    "score": 8.908550740214137,
+                    "id": "12118726700",
+                    "timestamp": "2026-11-04T08:51:50+01:00",
+                    "score": 8.556844550032631,
                     "probability": 0.6191205382347107,
-                    "confidence": 0.83,
+                    "confidence": 0.71,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793773709-12117789302-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793773709-12117789302-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793778710-12118726700-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793778710-12118726700-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-04T07:28:29+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-062829.flac",
+                        "timestamp": "2026-11-04T08:51:50+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-075150.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,25 +191,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12117780243",
-                    "timestamp": "2026-11-04T07:27:36+01:00",
-                    "score": 7.949428205747696,
+                    "id": "12118559224",
+                    "timestamp": "2026-11-04T08:36:19+01:00",
+                    "score": 7.774296486779154,
                     "probability": 0.32112711668014526,
-                    "confidence": 0.8,
+                    "confidence": 0.74,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793773656-12117780243-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793773656-12117780243-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793777779-12118559224-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793777779-12118559224-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-04T07:27:36+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-062736.flac",
+                        "timestamp": "2026-11-04T08:36:19+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261104-073619.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -344,63 +344,6 @@
                 }
             },
             {
-                "speciesId": "18",
-                "species": {
-                    "id": "18",
-                    "scientificName": "Garrulus glandarius",
-                    "commonName": "Szajk\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
-                    "ebirdUrl": "https://ebird.org/species/eurjay1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
-                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
-                    "color": "#a0d744",
-                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12102230853",
-                    "timestamp": "2026-11-03T11:08:26+01:00",
-                    "score": 9.159118661307083,
-                    "probability": 0.7179103493690491,
-                    "confidence": 0.85,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793700506-12102230853-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793700506-12102230853-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-03T11:08:26+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261103-100826.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "51",
                 "species": {
                     "id": "51",
@@ -506,6 +449,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-03T10:23:57+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261103-092357.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12102230853",
+                    "timestamp": "2026-11-03T11:08:26+01:00",
+                    "score": 9.159118661307083,
+                    "probability": 0.7179103493690491,
+                    "confidence": 0.85,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793700506-12102230853-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793700506-12102230853-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-03T11:08:26+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261103-100826.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
