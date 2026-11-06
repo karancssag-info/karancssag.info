@@ -173,6 +173,63 @@
                 }
             },
             {
+                "speciesId": "51",
+                "species": {
+                    "id": "51",
+                    "scientificName": "Phylloscopus collybita",
+                    "commonName": "Csilpcsalpf\u00fczike",
+                    "thumbnailUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-thumbnail-db7cc6cc80c51cac95a6cceb51a0a66f.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-standard-51b65ae67159c1d7e6b40d2e5032b8bc.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-chiffchaff",
+                    "ebirdUrl": "https://ebird.org/species/comchi1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+                    "wikipediaSummary": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.",
+                    "color": "#234bb2",
+                    "thumbhash": "HSkCDwJplXeiMFilxTzIyVZplYf32ZcA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12158087721",
+                    "timestamp": "2026-11-06T13:45:38+01:00",
+                    "score": 6.967462109553004,
+                    "probability": 0.1824992299079895,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793969138-12158087721-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793969138-12158087721-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T13:45:38+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-124538.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -221,6 +278,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-06T06:27:27+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-052727.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "5",
+                "species": {
+                    "id": "5",
+                    "scientificName": "Troglodytes troglodytes",
+                    "commonName": "\u00d6k\u00f6rszem",
+                    "thumbnailUrl": "https://media.birdweather.com/species/5/EurasianWren-thumbnail-7ee2ceda5807a63f70243cd666e8e3c8.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/5/EurasianWren-standard-9c09f98281df1112cec97e5b2520b7ac.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-wren",
+                    "ebirdUrl": "https://ebird.org/species/winwre4",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_wren",
+                    "wikipediaSummary": "The Eurasian wren (Troglodytes troglodytes) is a very small insectivorous bird, and the only member of the wren family Troglodytidae found in Eurasia and Africa (Maghreb). In Anglophone Europe, it is commonly known simply as the wren. It has a very short tail which is often held erect, a short neck and a \nrelative long thin bill. It is russet brown above, paler buff-brown below and has a cream buff supercilium. The sexes are alike.\nIt was once lumped with Troglodytes hiemalis of eastern North America and Troglodytes pacificus of western North America as the winter wren. The Eurasian wren occurs in Europe and across the Palearctic \u2013 including a belt of Asia from northern Iran and Afghanistan across to Japan. It is migratory in only the northern parts of its range. It is also highly polygynous, an unusual mating system for passerines.\n\nThe scientific name is taken from the Greek word \"troglodytes\" (from \u03c4\u03c1\u03ce\u03b3\u03bb\u03b7 trogl\u0113 \"hole\", and \u03b4\u1fe0\u0301\u03b5\u03b9\u03bd dyein, \"creep\"), meaning \"hole-dweller\", and refers to its habit of disappearing into cavities or crevices whilst hunting arthropods or to roost. The taxonomy of the genus Troglodytes is currently unresolved, as recent molecular studies have suggested that  Cistothorus spp. and Thryorchilus spp. are within the clade currently defined by Troglodytes.",
+                    "color": "#871aa2",
+                    "thumbhash": "JwgGDwDcVHlfhXmJhXiXWJiJaEAXA5IC",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Joefrei&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joefrei (page does not exist)\">Joefrei</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12157898293",
+                    "timestamp": "2026-11-06T13:35:12+01:00",
+                    "score": 8.803324502158908,
+                    "probability": 0.5618194341659546,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793968512-12157898293-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793968512-12157898293-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T13:35:12+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-123512.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -515,63 +629,6 @@
                 }
             },
             {
-                "speciesId": "51",
-                "species": {
-                    "id": "51",
-                    "scientificName": "Phylloscopus collybita",
-                    "commonName": "Csilpcsalpf\u00fczike",
-                    "thumbnailUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-thumbnail-db7cc6cc80c51cac95a6cceb51a0a66f.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/51/CommonChiffchaff-standard-51b65ae67159c1d7e6b40d2e5032b8bc.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-chiffchaff",
-                    "ebirdUrl": "https://ebird.org/species/comchi1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_chiffchaff",
-                    "wikipediaSummary": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.",
-                    "color": "#234bb2",
-                    "thumbhash": "HSkCDwJplXeiMFilxTzIyVZplYf32ZcA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12156391538",
-                    "timestamp": "2026-11-06T11:42:35+01:00",
-                    "score": 7.4561067827490675,
-                    "probability": 0.1824992299079895,
-                    "confidence": 0.9,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793961755-12156391538-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793961755-12156391538-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-06T11:42:35+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-104235.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "57",
                 "species": {
                     "id": "57",
@@ -620,6 +677,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-06T11:29:15+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-102915.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "756",
+                "species": {
+                    "id": "756",
+                    "scientificName": "Dendrocopos syriacus",
+                    "commonName": "Balk\u00e1ni fakop\u00e1ncs",
+                    "thumbnailUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-thumbnail-81fded5c213c6c6eea794832a99d386e.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/756/SyrianWoodpecker-standard-3dea9de04ac95617d421e8acbb0ed48d.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/syrian-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/syrwoo1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+                    "wikipediaSummary": "The  Syrian woodpecker  (Dendrocopos syriacus) is a member of the woodpecker family, the Picidae.",
+                    "color": "#93d436",
+                    "thumbhash": "4igKDwLglFhfpneYpYiHd3mG90jTf3EJ",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:%D7%9E%D7%99%D7%A0%D7%95%D7%96%D7%99%D7%92\" title=\"User:\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2\">\u05de\u05d9\u05e0\u05d5\u05d6\u05d9\u05d2</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12158155508",
+                    "timestamp": "2026-11-06T13:49:21+01:00",
+                    "score": 7.437925533871452,
+                    "probability": 0.1935301274061203,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793969361-12158155508-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793969361-12158155508-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T13:49:21+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-124921.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
