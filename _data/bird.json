@@ -77,63 +77,6 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 5,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 5,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12152965848",
-                    "timestamp": "2026-11-06T06:18:51+01:00",
-                    "score": 8.82872233608429,
-                    "probability": 0.6191205382347107,
-                    "confidence": 0.8,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793942331-12152965848-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793942331-12152965848-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-06T06:18:51+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-051851.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "153",
-                "species": {
-                    "id": "153",
-                    "scientificName": "Turdus iliacus",
-                    "commonName": "Sz\u0151l\u0151rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
-                    "ebirdUrl": "https://ebird.org/species/redwin",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
-                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
-                    "color": "#a7d386",
-                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
                 "count": 4,
                 "breakdown": {
                     "unlikely": 0,
@@ -145,14 +88,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12135954314",
-                    "timestamp": "2026-11-05T08:12:52+01:00",
-                    "score": 6.714485459503866,
-                    "probability": 0.12179947644472122,
-                    "confidence": 0.81,
+                    "id": "12153656456",
+                    "timestamp": "2026-11-06T07:26:37+01:00",
+                    "score": 8.934158962440785,
+                    "probability": 0.6191205382347107,
+                    "confidence": 0.84,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793862772-12135954314-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793862772-12135954314-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793946397-12153656456-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793946397-12153656456-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -162,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-05T08:12:52+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261105-071252.flac",
+                        "timestamp": "2026-11-06T07:26:37+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-062637.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,12 +134,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -221,6 +164,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-06T06:27:27+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-052727.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "153",
+                "species": {
+                    "id": "153",
+                    "scientificName": "Turdus iliacus",
+                    "commonName": "Sz\u0151l\u0151rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
+                    "ebirdUrl": "https://ebird.org/species/redwin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
+                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+                    "color": "#a7d386",
+                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12135954314",
+                    "timestamp": "2026-11-05T08:12:52+01:00",
+                    "score": 6.714485459503866,
+                    "probability": 0.12179947644472122,
+                    "confidence": 0.81,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793862772-12135954314-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793862772-12135954314-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-05T08:12:52+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261105-071252.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -278,6 +278,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-06T06:50:32+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-055032.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "17",
+                "species": {
+                    "id": "17",
+                    "scientificName": "Periparus ater",
+                    "commonName": "Fenyvescinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/17/CoalTit-thumbnail-b678460580ac8ad63bf79c0d91ce7e92.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/17/CoalTit-standard-cd003bce1c1a2d53e34fa6201763e3fa.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/coal-tit",
+                    "ebirdUrl": "https://ebird.org/species/coatit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Coal_tit",
+                    "wikipediaSummary": "The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now usually included in this species.",
+                    "color": "#525fe7",
+                    "thumbhash": "EwkGDwBLp3h5eYeAjGZ3x0h7dm/HG6AA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Aviceda\" title=\"User:Aviceda\">Aviceda</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12153512016",
+                    "timestamp": "2026-11-06T07:14:29+01:00",
+                    "score": 7.7682754388943165,
+                    "probability": 0.24903038144111633,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793945669-12153512016-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793945669-12153512016-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T07:14:29+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-061429.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
