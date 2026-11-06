@@ -88,14 +88,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12135715984",
-                    "timestamp": "2026-11-05T07:53:12+01:00",
-                    "score": 8.68437842963307,
+                    "id": "12152965848",
+                    "timestamp": "2026-11-06T06:18:51+01:00",
+                    "score": 8.82872233608429,
                     "probability": 0.6191205382347107,
-                    "confidence": 0.75,
+                    "confidence": 0.8,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793861592-12135715984-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793861592-12135715984-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793942331-12152965848-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793942331-12152965848-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-05T07:53:12+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261105-065312.flac",
+                        "timestamp": "2026-11-06T06:18:51+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-051851.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -191,25 +191,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 2,
+                "count": 3,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 2,
+                    "almostCertain": 3,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12135707459",
-                    "timestamp": "2026-11-05T07:52:29+01:00",
-                    "score": 8.080003152079623,
+                    "id": "12153034110",
+                    "timestamp": "2026-11-06T06:27:27+01:00",
+                    "score": 8.244130795822914,
                     "probability": 0.32112711668014526,
-                    "confidence": 0.85,
+                    "confidence": 0.92,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1793861549-12135707459-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1793861549-12135707459-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1793942847-12153034110-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793942847-12153034110-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,122 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-05T07:52:29+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261105-065229.flac",
+                        "timestamp": "2026-11-06T06:27:27+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-052727.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "10",
+                "species": {
+                    "id": "10",
+                    "scientificName": "Falco tinnunculus",
+                    "commonName": "V\u00f6r\u00f6s v\u00e9rcse",
+                    "thumbnailUrl": "https://media.birdweather.com/species/10/EurasianKestrel-thumbnail-d233a05618e962a1ba6af70196d5f8b9.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/10/EurasianKestrel-standard-43555ea3c633ad98ec8c7e11e4d33f50.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-kestrel",
+                    "ebirdUrl": "https://ebird.org/species/eurkes",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_kestrel",
+                    "wikipediaSummary": "The common kestrel (Falco tinnunculus) is a bird of prey species belonging to the kestrel group of the falcon family Falconidae. It is also known as the European kestrel, Eurasian kestrel, or Old World kestrel. In Britain, where no other kestrel species commonly occurs, it is generally just called \"kestrel\".This species occurs over a large range. It is widespread in Europe, Asia, and Africa, as well as occasionally reaching the east coast of North America. It has colonized a few oceanic islands, but vagrant individuals are generally rare; in the whole of Micronesia for example, the species was only recorded twice each on Guam and Saipan in the Marianas.",
+                    "color": "#6bc22c",
+                    "thumbhash": "lgkGDwQFyHiJZ5dzfIR3iniIOPqFB4UD",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12153243582",
+                    "timestamp": "2026-11-06T06:50:32+01:00",
+                    "score": 8.179034896486366,
+                    "probability": 0.445283979177475,
+                    "confidence": 0.73,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793944232-12153243582-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793944232-12153243582-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T06:50:32+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-055032.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12153098064",
+                    "timestamp": "2026-11-06T06:35:14+01:00",
+                    "score": 8.990864486644677,
+                    "probability": 0.8752042055130005,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1793943314-12153098064-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1793943314-12153098064-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-06T06:35:14+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261106-053514.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
