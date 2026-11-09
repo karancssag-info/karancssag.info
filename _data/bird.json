@@ -2,6 +2,234 @@
     "data": {
         "species": [
             {
+                "speciesId": "11",
+                "species": {
+                    "id": "11",
+                    "scientificName": "Parus major",
+                    "commonName": "Sz\u00e9ncinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/great-tit",
+                    "ebirdUrl": "https://ebird.org/species/gretit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_tit",
+                    "wikipediaSummary": "The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinct from the great tit and these have now been separated as two distinct species, the cinereous tit of southern Asia, and the Japanese tit of East Asia. The great tit remains the most widespread species in the genus Parus.\nThe great tit is a distinctive bird with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats. Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by sparrowhawks. The great tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The great tit is also an important study species in ornithology.",
+                    "color": "#7a41c7",
+                    "thumbhash": "ImkCDwTFxox9pZloaIaeZLsJp9r1yG4P",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207319366",
+                    "timestamp": "2026-11-09T08:36:29+01:00",
+                    "score": 9.604710103291106,
+                    "probability": 0.9977013468742371,
+                    "confidence": 0.85,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794209789-12207319366-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794209789-12207319366-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:36:29+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-073629.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "6",
+                "species": {
+                    "id": "6",
+                    "scientificName": "Erithacus rubecula",
+                    "commonName": "V\u00f6r\u00f6sbegy",
+                    "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-robin",
+                    "ebirdUrl": "https://ebird.org/species/eurrob1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_robin",
+                    "wikipediaSummary": "The European robin (Erithacus rubecula), known simply as the robin or robin redbreast in Great Britain, is a small insectivorous passerine bird that belongs to the chat subfamily of the Old World flycatcher family. About 12.5\u201314.0 cm (4.9\u20135.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upper-parts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.\nThe term robin is also applied to some birds in other families with red or orange breasts. These include the American robin (Turdus migratorius), a thrush, and the Australasian robins of the family Petroicidae, the relationships of which are unclear.",
+                    "color": "#93d436",
+                    "thumbhash": "YxgKFwJnWYePd3iMd5h4Z4eHp6cMG8gA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207485953",
+                    "timestamp": "2026-11-09T08:52:30+01:00",
+                    "score": 8.806973575703848,
+                    "probability": 0.5633445382118225,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794210750-12207485953-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794210750-12207485953-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:52:30+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-075230.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207369927",
+                    "timestamp": "2026-11-09T08:41:22+01:00",
+                    "score": 9.471375732860183,
+                    "probability": 0.8721699118614197,
+                    "confidence": 0.87,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794210082-12207369927-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794210082-12207369927-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:41:22+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-074122.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "30",
+                "species": {
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207210829",
+                    "timestamp": "2026-11-09T08:26:15+01:00",
+                    "score": 9.120655185314616,
+                    "probability": 0.8009728193283081,
+                    "confidence": 0.78,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794209175-12207210829-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794209175-12207210829-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:26:15+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-072615.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "52",
                 "species": {
                     "id": "52",
@@ -59,6 +287,63 @@
                 }
             },
             {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207325577",
+                    "timestamp": "2026-11-09T08:36:54+01:00",
+                    "score": 8.292206897536289,
+                    "probability": 0.3329533338546753,
+                    "confidence": 0.92,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794209814-12207325577-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794209814-12207325577-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:36:54+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-073654.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "186",
                 "species": {
                     "id": "186",
@@ -107,6 +392,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-08T20:15:24+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261108-191524.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "303",
+                "species": {
+                    "id": "303",
+                    "scientificName": "Saxicola rubicola",
+                    "commonName": "Cig\u00e1nycsuk",
+                    "thumbnailUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-thumbnail-25df46e1744b6d9ba7c7e1f023235f2a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-standard-23799ee67e36e10c6993ad61d7af5ef8.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-stonechat",
+                    "ebirdUrl": "https://ebird.org/species/stonec4",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_stonechat",
+                    "wikipediaSummary": "The European stonechat (Saxicola rubicola) is a small passerine bird that was formerly classed as a subspecies of the common stonechat. Long considered a member of the thrush family, Turdidae, genetic evidence has placed it and its relatives in the Old World flycatcher family, Muscicapidae.",
+                    "color": "#96038f",
+                    "thumbhash": "5sYFHwL3WId6hnl7hZhpZZd4hzBYB4QD",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12207334111",
+                    "timestamp": "2026-11-09T08:37:45+01:00",
+                    "score": 5.939530957190232,
+                    "probability": 0.08090158551931381,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794209865-12207334111-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794209865-12207334111-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-09T08:37:45+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-073745.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
