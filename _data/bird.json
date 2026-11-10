@@ -686,63 +686,6 @@
                 }
             },
             {
-                "speciesId": "52",
-                "species": {
-                    "id": "52",
-                    "scientificName": "Pica pica",
-                    "commonName": "Szarka",
-                    "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-magpie",
-                    "ebirdUrl": "https://ebird.org/species/eurmag1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_magpie",
-                    "wikipediaSummary": "The Eurasian magpie or common magpie (Pica pica) is a resident breeding bird throughout the northern part of the Eurasian continent. It is one of several birds in the crow family (corvids) designated magpies, and belongs to the Holarctic radiation of \"monochrome\" magpies. In Europe, \"magpie\" is used by English speakers as a synonym for the Eurasian magpie: the only other magpie in Europe is the Iberian magpie (Cyanopica cooki), which is limited to the Iberian Peninsula.\nThe Eurasian magpie is one of the most intelligent birds, and it is believed to be one of the most intelligent of all non-human animals. The expansion of its nidopallium is approximately the same in its relative size as the brain of chimpanzees, gorillas, orangutans and humans. It is the only bird known to pass the mirror test, along with very few other non-avian species.",
-                    "color": "#d9c845",
-                    "thumbhash": "FggGDwAf+FnWW5aUV4SFiZZ7ehr4bvIM",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65491958@N06\">Pierre-Selim</a>",
-                    "imageLicense": "CC BY-SA 2.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12206642910",
-                    "timestamp": "2026-11-09T07:34:22+01:00",
-                    "score": 9.29601099184565,
-                    "probability": 0.8929003477096558,
-                    "confidence": 0.79,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794206062-12206642910-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794206062-12206642910-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-09T07:34:22+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-063422.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -962,6 +905,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-09T09:22:25+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261109-082225.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "590",
+                "species": {
+                    "id": "590",
+                    "scientificName": "Tadorna ferruginea",
+                    "commonName": "V\u00f6r\u00f6s \u00e1s\u00f3l\u00fad",
+                    "thumbnailUrl": "https://media.birdweather.com/species/590/RuddyShelduck-thumbnail-816a6ef055edb7292f27cae0eb7cef6d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/590/RuddyShelduck-standard-c85cb089f904890c35284992fe17fdd0.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/ruddy-shelduck",
+                    "ebirdUrl": "https://ebird.org/species/rudshe",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruddy_shelduck",
+                    "wikipediaSummary": "The ruddy shelduck (Tadorna ferruginea), known in India as the Brahminy duck, is a member of the family Anatidae. It is a distinctive waterfowl, 58 to 70 cm (23 to 28 in) in length with a wingspan of 110 to 135 cm (43 to 53 in). It has orange-brown body plumage with a paler head, while the tail and the flight feathers in the wings are black, contrasting with the white wing-coverts. It is a migratory bird, wintering in the Indian subcontinent and breeding in southeastern Europe and central Asia, though there are small resident populations in North Africa. It has a loud honking call.\nThe ruddy shelduck mostly inhabits inland water-bodies such as lakes, reservoirs and rivers. The male and female form a lasting pair bond and the nest may be well away from water, in a crevice or hole in a cliff, tree or similar site. A clutch of about eight eggs is laid and is incubated solely by the female for about four weeks. The young are cared for by both parents and fledge about eight weeks after hatching.\nIn central and eastern Asia, populations are steady or rising, but in Europe they are generally in decline. Altogether, the birds have a wide range and large total population, and the International Union for Conservation of Nature has assessed their conservation status as being of \"least concern\".",
+                    "color": "#a70076",
+                    "thumbhash": "3SgKFwSfhIh0lphSh2iXVnmHVgB4BYAI",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler\" title=\"User:Michael G\u00e4bler\">Michael G\u00e4bler</a>",
+                    "imageLicense": "CC BY 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12224011716",
+                    "timestamp": "2026-11-10T07:26:33+01:00",
+                    "score": 4.401658666051273,
+                    "probability": 0.01535794883966446,
+                    "confidence": 0.79,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794291993-12224011716-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794291993-12224011716-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-10T07:26:33+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261110-062633.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
