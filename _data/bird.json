@@ -116,63 +116,6 @@
                 }
             },
             {
-                "speciesId": "17",
-                "species": {
-                    "id": "17",
-                    "scientificName": "Periparus ater",
-                    "commonName": "Fenyvescinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/17/CoalTit-thumbnail-b678460580ac8ad63bf79c0d91ce7e92.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/17/CoalTit-standard-cd003bce1c1a2d53e34fa6201763e3fa.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/coal-tit",
-                    "ebirdUrl": "https://ebird.org/species/coatit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Coal_tit",
-                    "wikipediaSummary": "The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now usually included in this species.",
-                    "color": "#525fe7",
-                    "thumbhash": "EwkGDwBLp3h5eYeAjGZ3x0h7dm/HG6AA",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Aviceda\" title=\"User:Aviceda\">Aviceda</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12294678987",
-                    "timestamp": "2026-11-14T12:57:49+01:00",
-                    "score": 7.912538888856922,
-                    "probability": 0.2499435395002365,
-                    "confidence": 0.92,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794657469-12294678987-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794657469-12294678987-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-14T12:57:49+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261114-115749.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "186",
                 "species": {
                     "id": "186",
