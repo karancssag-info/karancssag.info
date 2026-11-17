@@ -77,6 +77,63 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
+                "count": 6,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 6,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12341110738",
+                    "timestamp": "2026-11-17T07:05:57+01:00",
+                    "score": 9.747632983667444,
+                    "probability": 0.9984902739524841,
+                    "confidence": 0.91,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794895557-12341110738-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794895557-12341110738-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-17T07:05:57+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-060557.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "84",
+                "species": {
+                    "id": "84",
+                    "scientificName": "Poecile palustris",
+                    "commonName": "Bar\u00e1tcinege",
+                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
+                    "ebirdUrl": "https://ebird.org/species/martit2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
+                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
+                    "color": "#f82b58",
+                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
+                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
                 "count": 4,
                 "breakdown": {
                     "unlikely": 0,
@@ -88,14 +145,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12341087097",
-                    "timestamp": "2026-11-17T07:02:32+01:00",
-                    "score": 9.528939684206561,
-                    "probability": 0.9984902739524841,
-                    "confidence": 0.82,
+                    "id": "12341450501",
+                    "timestamp": "2026-11-17T07:51:51+01:00",
+                    "score": 8.412885766927896,
+                    "probability": 0.34724730253219604,
+                    "confidence": 0.95,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794895352-12341087097-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794895352-12341087097-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1794898311-12341450501-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794898311-12341450501-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-17T07:02:32+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-060232.flac",
+                        "timestamp": "2026-11-17T07:51:51+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-065151.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -173,6 +230,63 @@
                 }
             },
             {
+                "speciesId": "8",
+                "species": {
+                    "id": "8",
+                    "scientificName": "Aegithalos caudatus",
+                    "commonName": "\u0150szap\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
+                    "ebirdUrl": "https://ebird.org/species/lottit1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
+                    "color": "#bdc706",
+                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
+                    "imageLicense": "CC BY-SA 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                    "__typename": "Species"
+                },
+                "count": 2,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 2,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12341233472",
+                    "timestamp": "2026-11-17T07:23:42+01:00",
+                    "score": 8.173283533447956,
+                    "probability": 0.42322659492492676,
+                    "confidence": 0.75,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794896622-12341233472-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794896622-12341233472-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-17T07:23:42+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-062342.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -221,177 +335,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-17T06:50:46+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-055046.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "84",
-                "species": {
-                    "id": "84",
-                    "scientificName": "Poecile palustris",
-                    "commonName": "Bar\u00e1tcinege",
-                    "thumbnailUrl": "https://media.birdweather.com/species/84/MarshTit-thumbnail-dd71d29956761582f3a61a5171d14e35.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/84/MarshTit-standard-178f6d798ca9ac090a26e71e2ed77d7e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/marsh-tit",
-                    "ebirdUrl": "https://ebird.org/species/martit2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marsh_tit",
-                    "wikipediaSummary": "The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, P\u00e8re David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised. Its close resemblance to the willow tit can cause identification problems, especially in the United Kingdom where the local subspecies of the two are very similar: they were not recognised as separate species until 1897.\nGlobally, the marsh tit is classified as Least Concern, although there is evidence of a decline in numbers (in the UK, numbers have dropped by more than 50% since the 1970s, for example). It can be found throughout temperate Europe and northern Asia and, despite its name, it occurs in a range of habitats including dry woodland. The marsh tit is omnivorous; its food includes caterpillars, spiders and seeds. It nests in tree holes, choosing existing hollows to enlarge, rather than excavating its own. A clutch of 5\u20139 eggs is laid.",
-                    "color": "#f82b58",
-                    "thumbhash": "WikGDwBXl6yJh4hAurh4t1loBauIsIkL",
-                    "imageCredit": "S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
-                    "imageLicense": "CC-BY-SA-3.0",
-                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12340967275",
-                    "timestamp": "2026-11-17T06:42:45+01:00",
-                    "score": 8.133275128737282,
-                    "probability": 0.34724730253219604,
-                    "confidence": 0.83,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794894165-12340967275-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794894165-12340967275-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-17T06:42:45+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-054245.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "5",
-                "species": {
-                    "id": "5",
-                    "scientificName": "Troglodytes troglodytes",
-                    "commonName": "\u00d6k\u00f6rszem",
-                    "thumbnailUrl": "https://media.birdweather.com/species/5/EurasianWren-thumbnail-7ee2ceda5807a63f70243cd666e8e3c8.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/5/EurasianWren-standard-9c09f98281df1112cec97e5b2520b7ac.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-wren",
-                    "ebirdUrl": "https://ebird.org/species/winwre4",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_wren",
-                    "wikipediaSummary": "The Eurasian wren (Troglodytes troglodytes) is a very small insectivorous bird, and the only member of the wren family Troglodytidae found in Eurasia and Africa (Maghreb). In Anglophone Europe, it is commonly known simply as the wren. It has a very short tail which is often held erect, a short neck and a \nrelative long thin bill. It is russet brown above, paler buff-brown below and has a cream buff supercilium. The sexes are alike.\nIt was once lumped with Troglodytes hiemalis of eastern North America and Troglodytes pacificus of western North America as the winter wren. The Eurasian wren occurs in Europe and across the Palearctic \u2013 including a belt of Asia from northern Iran and Afghanistan across to Japan. It is migratory in only the northern parts of its range. It is also highly polygynous, an unusual mating system for passerines.\n\nThe scientific name is taken from the Greek word \"troglodytes\" (from \u03c4\u03c1\u03ce\u03b3\u03bb\u03b7 trogl\u0113 \"hole\", and \u03b4\u1fe0\u0301\u03b5\u03b9\u03bd dyein, \"creep\"), meaning \"hole-dweller\", and refers to its habit of disappearing into cavities or crevices whilst hunting arthropods or to roost. The taxonomy of the genus Troglodytes is currently unresolved, as recent molecular studies have suggested that  Cistothorus spp. and Thryorchilus spp. are within the clade currently defined by Troglodytes.",
-                    "color": "#871aa2",
-                    "thumbhash": "JwgGDwDcVHlfhXmJhXiXWJiJaEAXA5IC",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Joefrei&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joefrei (page does not exist)\">Joefrei</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12324592601",
-                    "timestamp": "2026-11-16T07:11:33+01:00",
-                    "score": 8.697796739765455,
-                    "probability": 0.5856056213378906,
-                    "confidence": 0.78,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794809493-12324592601-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794809493-12324592601-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-16T07:11:33+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261116-061133.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "8",
-                "species": {
-                    "id": "8",
-                    "scientificName": "Aegithalos caudatus",
-                    "commonName": "\u0150szap\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/8/Long-tailedTit-thumbnail-652dd0fa7d32953de84a85963165fb57.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/8/Long-tailedTit-standard-f8bdec5e2df87ccaa32a7b13a292f078.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/long-tailed-tit",
-                    "ebirdUrl": "https://ebird.org/species/lottit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_tit",
-                    "wikipediaSummary": "The long-tailed tit (Aegithalos caudatus), also named long-tailed bushtit, is a common bird found throughout Europe and the Palearctic. The genus name Aegithalos was a term used by Aristotle for some European tits, including the long-tailed tit.",
-                    "color": "#bdc706",
-                    "thumbhash": "5okGFwRveYeOd2d5d1h1V3qGmYn1mFoP",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Baresi_franco\" title=\"User:Baresi franco\">Francis C. Franklin</a>",
-                    "imageLicense": "CC BY-SA 3.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12341044916",
-                    "timestamp": "2026-11-17T06:55:36+01:00",
-                    "score": 8.04574965384752,
-                    "probability": 0.42322659492492676,
-                    "confidence": 0.71,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1794894936-12341044916-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1794894936-12341044916-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-17T06:55:36+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-055536.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -506,6 +449,177 @@
                     "soundscape": {
                         "timestamp": "2026-11-16T12:43:37+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261116-114337.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "75",
+                "species": {
+                    "id": "75",
+                    "scientificName": "Corvus corax",
+                    "commonName": "Holl\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/75/CommonRaven-thumbnail-9a460bb77e431d214ef6c2f97d3ddd0d.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/75/CommonRaven-standard-4a623612bf733f25c6a2bca85e9e1e7a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-raven",
+                    "ebirdUrl": "https://ebird.org/species/comrav",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_raven",
+                    "wikipediaSummary": "The common raven (Corvus corax), also known as the western raven or  northern raven when discussing the raven at the subspecies level, is a large all-black   passerine bird. Found across the Northern Hemisphere, it is the most widely distributed of all corvids. There are at least eight subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is possibly the heaviest passerine bird; at maturity, the common raven averages 63 centimetres (25 inches) in length and 1.2 kilograms (2.6 pounds) in mass. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild, which among passerines only is surpassed by a few Australian species such as the satin bowerbird and probably the lyrebirds. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.\nCommon ravens have coexisted with humans for thousands of years and in some areas have been so numerous that people have regarded them as pests. Part of their success as a species is due to their omnivorous diet: they are extremely versatile and opportunistic in finding sources of nutrition, feeding on carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste.\nSome notable feats of problem-solving provide evidence that the common raven is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the common raven has been revered as a spiritual figure or godlike creature.",
+                    "color": "#025fba",
+                    "thumbhash": "VtkJHwKzmph8hoiPdleZd3l5SZr2SqkA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Drow_male\" title=\"User:Drow male\">Drow male</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12341176912",
+                    "timestamp": "2026-11-17T07:15:37+01:00",
+                    "score": 8.345962745205364,
+                    "probability": 0.44130632281303406,
+                    "confidence": 0.79,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794896137-12341176912-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794896137-12341176912-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-17T07:15:37+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-061537.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "126",
+                "species": {
+                    "id": "126",
+                    "scientificName": "Numenius arquata",
+                    "commonName": "Nagy p\u00f3ling",
+                    "thumbnailUrl": "https://media.birdweather.com/species/126/EurasianCurlew-thumbnail-d245076cae8b5156bc793664a913e583.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/126/EurasianCurlew-standard-1479db889b5cfb1db79d9e29611fa53a.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-curlew",
+                    "ebirdUrl": "https://ebird.org/species/eurcur",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_curlew",
+                    "wikipediaSummary": "The Eurasian curlew or common curlew (Numenius arquata) is a wader in the large family Scolopacidae. It is one of the most widespread of the curlews, breeding across temperate Europe and Asia. In Europe, this species is often referred to just as the \"curlew\", and in Scotland known as the \"whaup\" in Scots.",
+                    "color": "#b70038",
+                    "thumbhash": "W+kJDwRpiHiAd4iKd2iHeIZ4F9+jWIAI",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12341078727",
+                    "timestamp": "2026-11-17T07:01:00+01:00",
+                    "score": 6.7078322464539015,
+                    "probability": 0.11162198334932327,
+                    "confidence": 0.85,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794895260-12341078727-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794895260-12341078727-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-17T07:01:00+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-060100.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "303",
+                "species": {
+                    "id": "303",
+                    "scientificName": "Saxicola rubicola",
+                    "commonName": "Cig\u00e1nycsuk",
+                    "thumbnailUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-thumbnail-25df46e1744b6d9ba7c7e1f023235f2a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/303/EuropeanStonechat-standard-23799ee67e36e10c6993ad61d7af5ef8.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/european-stonechat",
+                    "ebirdUrl": "https://ebird.org/species/stonec4",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_stonechat",
+                    "wikipediaSummary": "The European stonechat (Saxicola rubicola) is a small passerine bird that was formerly classed as a subspecies of the common stonechat. Long considered a member of the thrush family, Turdidae, genetic evidence has placed it and its relatives in the Old World flycatcher family, Muscicapidae.",
+                    "color": "#96038f",
+                    "thumbhash": "5sYFHwL3WId6hnl7hZhpZZd4hzBYB4QD",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12341108265",
+                    "timestamp": "2026-11-17T07:05:29+01:00",
+                    "score": 5.921068313213227,
+                    "probability": 0.06243770569562912,
+                    "confidence": 0.82,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1794895529-12341108265-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1794895529-12341108265-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-17T07:05:29+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261117-060529.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
