@@ -629,6 +629,63 @@
                 }
             },
             {
+                "speciesId": "106",
+                "species": {
+                    "id": "106",
+                    "scientificName": "Fulica atra",
+                    "commonName": "Sz\u00e1rcsa",
+                    "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-coot",
+                    "ebirdUrl": "https://ebird.org/species/eurcoo",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_coot",
+                    "wikipediaSummary": "The Eurasian coot (Fulica atra), also known as the common coot, or Australian coot, is a member of the rail and crake bird family, the Rallidae. It is found in Europe, Asia, Australia, New Zealand and parts of North Africa. It has a slaty-black body, a glossy black head and a white bill with a white frontal shield. The sexes are similar.",
+                    "color": "#ff3f73",
+                    "thumbhash": "2xgGDwKFt4aWZ2mfd6eIeHZod0z5tpQP",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Duhon\" title=\"User:Duhon\">Duhon</a>",
+                    "imageLicense": "CC BY 3.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12392107083",
+                    "timestamp": "2026-11-20T13:32:12+01:00",
+                    "score": 7.875340567677558,
+                    "probability": 0.3634473979473114,
+                    "confidence": 0.72,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795177932-12392107083-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795177932-12392107083-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-20T13:32:12+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261120-123212.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "346",
                 "species": {
                     "id": "346",
