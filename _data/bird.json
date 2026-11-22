@@ -2,63 +2,6 @@
     "data": {
         "species": [
             {
-                "speciesId": "153",
-                "species": {
-                    "id": "153",
-                    "scientificName": "Turdus iliacus",
-                    "commonName": "Sz\u0151l\u0151rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
-                    "ebirdUrl": "https://ebird.org/species/redwin",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
-                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
-                    "color": "#a7d386",
-                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 4,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 4,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12421414929",
-                    "timestamp": "2026-11-22T06:20:42+01:00",
-                    "score": 6.599669221906985,
-                    "probability": 0.10887304693460464,
-                    "confidence": 0.82,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795324842-12421414929-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795324842-12421414929-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-22T06:20:42+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-052042.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "11",
                 "species": {
                     "id": "11",
@@ -173,22 +116,22 @@
                 }
             },
             {
-                "speciesId": "465",
+                "speciesId": "153",
                 "species": {
-                    "id": "465",
-                    "scientificName": "Picus viridis",
-                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
-                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
-                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
-                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
-                    "color": "#ff9461",
-                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "id": "153",
+                    "scientificName": "Turdus iliacus",
+                    "commonName": "Sz\u0151l\u0151rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/153/Redwing-thumbnail-c9619e17a8a8e1f1c4939acdda7f9932.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/153/Redwing-standard-ae91684833cd769f25471a15ff837acf.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/redwing",
+                    "ebirdUrl": "https://ebird.org/species/redwin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Redwing",
+                    "wikipediaSummary": "The redwing (Turdus iliacus) is a bird in the thrush family, Turdidae, native to Europe and the Palearctic, slightly smaller than the related song thrush.",
+                    "color": "#a7d386",
+                    "thumbhash": "H+kFJwhomGePiYh4d4dmeYiWZgiYWX8D",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://foto.andreas-trepte.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
                     "__typename": "Species"
                 },
                 "count": 2,
@@ -202,14 +145,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12425312329",
-                    "timestamp": "2026-11-22T13:19:09+01:00",
-                    "score": 8.176476946098283,
-                    "probability": 0.277363121509552,
-                    "confidence": 0.98,
+                    "id": "12421414929",
+                    "timestamp": "2026-11-22T06:20:42+01:00",
+                    "score": 6.599669221906985,
+                    "probability": 0.10887304693460464,
+                    "confidence": 0.82,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795349949-12425312329-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795349949-12425312329-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1795324842-12421414929-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795324842-12421414929-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +162,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-22T13:19:09+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-121909.flac",
+                        "timestamp": "2026-11-22T06:20:42+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-052042.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -677,6 +620,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-21T20:41:05+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261121-194105.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "465",
+                "species": {
+                    "id": "465",
+                    "scientificName": "Picus viridis",
+                    "commonName": "Z\u00f6ld k\u00fcll\u0151",
+                    "thumbnailUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-thumbnail-d04c303b08166a7322f2706a6d75042a.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/465/EurasianGreenWoodpecker-standard-3d5da7cd0956bc422f894d765dd5a75e.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-green-woodpecker",
+                    "ebirdUrl": "https://ebird.org/species/eugwoo2",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/European_green_woodpecker",
+                    "wikipediaSummary": "The European green woodpecker (Picus viridis) is a large green woodpecker with a bright red crown and a black moustache. Males have a red centre to the moustache stripe which is absent in females. It is resident across much of Europe and the western Palearctic but in Spain and Portugal it is replaced by the similar Iberian green woodpecker (Picus sharpei).\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species. Though its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls. A nest hole is excavated in a tree; four to six eggs are laid which hatch after 19\u201320 days.",
+                    "color": "#ff9461",
+                    "thumbhash": "mBkGDwJDT6qoamZ2mHeGeHiJuH9ZBpcG",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12425312329",
+                    "timestamp": "2026-11-22T13:19:09+01:00",
+                    "score": 8.176476946098283,
+                    "probability": 0.277363121509552,
+                    "confidence": 0.98,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795349949-12425312329-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795349949-12425312329-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-22T13:19:09+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-121909.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
