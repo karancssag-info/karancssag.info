@@ -191,12 +191,12 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 2,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 2,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
@@ -221,63 +221,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-22T09:01:07+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-080107.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "35",
-                "species": {
-                    "id": "35",
-                    "scientificName": "Turdus merula",
-                    "commonName": "Fekete rig\u00f3",
-                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
-                    "ebirdUrl": "https://ebird.org/species/eurbla",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
-                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
-                    "color": "#ff65df",
-                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
-                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
-                    "imageLicense": "CC BY-SA 2.5",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12421405936",
-                    "timestamp": "2026-11-22T06:19:18+01:00",
-                    "score": 9.575043240797202,
-                    "probability": 0.864778995513916,
-                    "confidence": 0.92,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795324758-12421405936-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795324758-12421405936-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-22T06:19:18+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-051918.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -401,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "35",
+                "species": {
+                    "id": "35",
+                    "scientificName": "Turdus merula",
+                    "commonName": "Fekete rig\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-blackbird",
+                    "ebirdUrl": "https://ebird.org/species/eurbla",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_blackbird",
+                    "wikipediaSummary": "The common blackbird (Turdus merula) is a species of true thrush. It is also called the Eurasian blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds), or simply the blackbird where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asiatic Russia, and North Africa, and has been introduced to Australia and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the common blackbird may be resident, partially migratory, or fully migratory.\nThe adult male of the common blackbird (Turdus merula merula, the nominate subspecies), which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich, melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, cup-shaped nest, bound together with mud. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\nBoth sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.",
+                    "color": "#ff65df",
+                    "thumbhash": "GfkFFwKRmrx2ZYiaaQe69nlzScn3T7IA",
+                    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://photo-natur.de\">Andreas Trepte</a>",
+                    "imageLicense": "CC BY-SA 2.5",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12421405936",
+                    "timestamp": "2026-11-22T06:19:18+01:00",
+                    "score": 9.575043240797202,
+                    "probability": 0.864778995513916,
+                    "confidence": 0.92,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795324758-12421405936-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795324758-12421405936-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-22T06:19:18+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-051918.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "75",
                 "species": {
                     "id": "75",
@@ -449,63 +449,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-22T07:46:02+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261122-064602.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "136",
-                "species": {
-                    "id": "136",
-                    "scientificName": "Gallinula chloropus",
-                    "commonName": "V\u00edzity\u00fak",
-                    "thumbnailUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-thumbnail-b3a07142f4c0d0b456db50c940eeb498.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-standard-7fbea3f567eb87f2e5637e65f2e345a9.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-moorhen",
-                    "ebirdUrl": "https://ebird.org/species/commoo3",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_moorhen",
-                    "wikipediaSummary": "The common moorhen (Gallinula chloropus), also known as the waterhen or swamp chicken, is a bird species in the rail family (Rallidae). It is distributed across many parts of the Old World.The common moorhen lives around well-vegetated marshes, ponds, canals and other wetlands. The species is not found in the polar regions or many tropical rainforests. Elsewhere it is likely the most common rail species, except for the Eurasian coot in some regions.\nThe closely related common gallinule of the New World has been recognized as a separate species by most authorities, starting with the American Ornithologists' Union and the International Ornithological Committee in 2011.",
-                    "color": "#ff6aae",
-                    "thumbhash": "4gkGFwJLibWgemdUevdEiMqVufboq2AI",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Shantanu_Kuveskar\" title=\"User:Shantanu Kuveskar\">Shantanu Kuveskar</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12406084332",
-                    "timestamp": "2026-11-21T09:22:25+01:00",
-                    "score": 7.244914591855414,
-                    "probability": 0.19624830782413483,
-                    "confidence": 0.78,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795249345-12406084332-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795249345-12406084332-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-21T09:22:25+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261121-082225.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
