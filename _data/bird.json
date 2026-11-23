@@ -20,25 +20,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
                     "__typename": "Species"
                 },
-                "count": 6,
+                "count": 7,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 6,
+                    "almostCertain": 7,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12439668505",
-                    "timestamp": "2026-11-23T08:54:50+01:00",
-                    "score": 9.612287081307244,
+                    "id": "12440911985",
+                    "timestamp": "2026-11-23T11:16:27+01:00",
+                    "score": 9.634563994901582,
                     "probability": 0.9036221504211426,
-                    "confidence": 0.91,
+                    "confidence": 0.92,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795420490-12439668505-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795420490-12439668505-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1795428987-12440911985-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795428987-12440911985-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -48,8 +48,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-23T08:54:50+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261123-075450.flac",
+                        "timestamp": "2026-11-23T11:16:27+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261123-101627.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -278,6 +278,63 @@
                     "soundscape": {
                         "timestamp": "2026-11-23T07:31:56+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261123-063156.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "18",
+                "species": {
+                    "id": "18",
+                    "scientificName": "Garrulus glandarius",
+                    "commonName": "Szajk\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/18/EurasianJay-thumbnail-c77a71fdd86361404b9cf9b9338e8df6.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/18/EurasianJay-standard-3cd5403b683fc176f7690defb189aa79.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/eurasian-jay",
+                    "ebirdUrl": "https://ebird.org/species/eurjay1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_jay",
+                    "wikipediaSummary": "The Eurasian jay (Garrulus glandarius) is a species of passerine bird in the family Corvidae. It occurs over a vast region from western Europe and north-west Africa to the Indian subcontinent and further to the eastern seaboard of Asia and down into south-east Asia. Across this vast range, several distinct racial forms have evolved which look very different from each other, especially when comparing forms at the extremes of its range.\nThe bird is called jay, without any epithets, by English speakers in Great Britain and Ireland.",
+                    "color": "#a0d744",
+                    "thumbhash": "l/gFDwJLV5h2pYhQqWiqdoiHiA5sCIQA",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12441006729",
+                    "timestamp": "2026-11-23T11:28:38+01:00",
+                    "score": 9.024591043413412,
+                    "probability": 0.6620492935180664,
+                    "confidence": 0.84,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795429718-12441006729-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795429718-12441006729-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-23T11:28:38+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261123-102838.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
