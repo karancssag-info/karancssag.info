@@ -59,63 +59,6 @@
                 }
             },
             {
-                "speciesId": "30",
-                "species": {
-                    "id": "30",
-                    "scientificName": "Buteo buteo",
-                    "commonName": "Eger\u00e9sz\u00f6lyv",
-                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
-                    "ebirdUrl": "https://ebird.org/species/combuz1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
-                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
-                    "color": "#37e188",
-                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
-                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 2,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 2,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12456896278",
-                    "timestamp": "2026-11-24T10:18:44+01:00",
-                    "score": 9.321644556999894,
-                    "probability": 0.7949590682983398,
-                    "confidence": 0.86,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795511924-12456896278-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795511924-12456896278-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-24T10:18:44+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261124-091844.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
                 "speciesId": "56",
                 "species": {
                     "id": "56",
@@ -401,6 +344,63 @@
                 }
             },
             {
+                "speciesId": "30",
+                "species": {
+                    "id": "30",
+                    "scientificName": "Buteo buteo",
+                    "commonName": "Eger\u00e9sz\u00f6lyv",
+                    "thumbnailUrl": "https://media.birdweather.com/species/30/CommonBuzzard-thumbnail-781fb553c5eb2032627994238a1027c5.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/30/CommonBuzzard-standard-624dd5ff44ca4409c2692d7ec2eec597.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/common-buzzard",
+                    "ebirdUrl": "https://ebird.org/species/combuz1",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Common_buzzard",
+                    "wikipediaSummary": "The common buzzard (Buteo buteo) is a medium-to-large bird of prey which has a large range. A member of the genus Buteo, it is a member of the family Accipitridae. The species lives in most of Europe and extends its breeding range across much of the Palearctic as far as the northwestern China (Tian Shan), far western Siberia and northwestern Mongolia. Over much of its range, it is a year-round resident. However, buzzards from the colder parts of the Northern Hemisphere as well as those that breed in the eastern part of their range typically migrate south for the northern winter, many journeying as far as South Africa. The common buzzard is an opportunistic predator that can take a wide variety of prey, but it feeds mostly on small mammals, especially rodents such as voles. It typically hunts from a perch. Like most accipitrid birds of prey, it builds a nest, typically in trees in this species, and is a devoted parent to a relatively small brood of young. The common buzzard appears to be the most common diurnal raptor in Europe, as estimates of its total global population run well into the millions.",
+                    "color": "#37e188",
+                    "thumbhash": "XwkGDwKDmYifVWWAmFZnmqiIer/ICGME",
+                    "imageCredit": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a>\n</bdi>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12456896278",
+                    "timestamp": "2026-11-24T10:18:44+01:00",
+                    "score": 9.321644556999894,
+                    "probability": 0.7949590682983398,
+                    "confidence": 0.86,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795511924-12456896278-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795511924-12456896278-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-24T10:18:44+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261124-091844.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
                 "speciesId": "46",
                 "species": {
                     "id": "46",
@@ -677,63 +677,6 @@
                     "soundscape": {
                         "timestamp": "2026-11-24T07:20:53+01:00",
                         "url": "https://media.birdweather.com/soundscapes/25704/25704-20261124-062053.flac",
-                        "duration": 3,
-                        "startTime": 0,
-                        "endTime": 3,
-                        "__typename": "Soundscape"
-                    },
-                    "__typename": "Detection"
-                }
-            },
-            {
-                "speciesId": "376",
-                "species": {
-                    "id": "376",
-                    "scientificName": "Botaurus stellaris",
-                    "commonName": "B\u00f6l\u00f6mbika",
-                    "thumbnailUrl": "https://media.birdweather.com/species/376/GreatBittern-thumbnail-f707ab052548ecb712adb2219c86e7d0.jpg",
-                    "imageUrl": "https://media.birdweather.com/species/376/GreatBittern-standard-c7fe51d58a58d6ce50c03cfcfb123a47.jpg",
-                    "birdweatherUrl": "https://app.birdweather.com/species/great-bittern",
-                    "ebirdUrl": "https://ebird.org/species/grebit1",
-                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurasian_bittern",
-                    "wikipediaSummary": "The Eurasian bittern or great bittern (Botaurus stellaris) is a wading bird in the bittern subfamily (Botaurinae) of the heron family Ardeidae. There are two subspecies, the northern race (B. s. stellaris) breeding in parts of Europe and across the Palearctic, as well as on the northern coast of Africa, while the southern race (B. s. capensis) is endemic to parts of southern Africa. It is a secretive bird, seldom seen in the open as it prefers to skulk in reed beds and thick vegetation near water bodies. Its presence is apparent in the spring, when the booming call of the male during the breeding season can be heard. It feeds on fish, small mammals, fledgling birds, amphibians, crustaceans and insects.\nThe nest is usually built among reeds at the edge of bodies of water. The female incubates the clutch of eggs and feeds the young chicks, which leave the nest when about two weeks old. She continues to care for them until they are fully fledged some six weeks later.\nWith its specific habitat requirements and the general reduction in wetlands across its range, the population is thought to be in decline globally. However the decline is slow, and the International Union for Conservation of Nature has assessed its overall conservation status as being of \"least concern\". Nevertheless, some local populations are at risk and the population of the southern race has declined more dramatically and is cause for concern. In the United Kingdom it is one of the most threatened of all bird species.",
-                    "color": "#b70038",
-                    "thumbhash": "WhgGBwB9h4iPiYeIh5eImHiIyAemmmAJ",
-                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Nijland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peter Nijland (page does not exist)\">Peter Nijland</a>",
-                    "imageLicense": "CC BY-SA 4.0",
-                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-                    "__typename": "Species"
-                },
-                "count": 1,
-                "breakdown": {
-                    "unlikely": 0,
-                    "uncertain": 0,
-                    "veryLikely": 0,
-                    "almostCertain": 1,
-                    "__typename": "SpeciesCountBreakdown"
-                },
-                "averageProbability": null,
-                "__typename": "SpeciesCount",
-                "lastDetection": {
-                    "id": "12442091120",
-                    "timestamp": "2026-11-23T13:14:09+01:00",
-                    "score": 6.4910790276616215,
-                    "probability": 0.08678571879863739,
-                    "confidence": 0.89,
-                    "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795436049-12442091120-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795436049-12442091120-25704/flag",
-                    "station": {
-                        "id": "25704",
-                        "name": "BirdNET-Pi - karancssag",
-                        "type": "birdnetpi",
-                        "audioUrl": null,
-                        "videoUrl": null,
-                        "__typename": "Station"
-                    },
-                    "soundscape": {
-                        "timestamp": "2026-11-23T13:14:09+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261123-121409.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
