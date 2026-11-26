@@ -781,71 +781,71 @@
                 {
                     "close": {
                         "day": 0,
-                        "time": "1000"
+                        "time": "1100"
                     },
                     "open": {
                         "day": 0,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0600"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 6,
                         "time": "0700"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0600"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0600"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0600"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0600"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1700"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0600"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 6,
-                        "time": "1400"
-                    },
-                    "open": {
-                        "day": 6,
-                        "time": "0600"
                     }
                 }
             ],
@@ -855,12 +855,13 @@
                 "szerda: 6:00\u201317:00",
                 "cs\u00fct\u00f6rt\u00f6k: 6:00\u201317:00",
                 "p\u00e9ntek: 6:00\u201317:00",
-                "szombat: 6:00\u201314:00",
-                "vas\u00e1rnap: 7:00\u201310:00"
+                "szombat: 7:00\u201315:00",
+                "vas\u00e1rnap: 8:00\u201311:00"
             ]
         },
         "place_id": "ChIJsa1M8l8RQEcR436aqppCLog",
-        "url": "https://maps.google.com/?cid=9812853870141538019"
+        "url": "https://maps.google.com/?cid=9812853870141538019",
+        "website": "https://www.facebook.com/profile.php?id=61596716347201"
     },
     {
         "adr_address": "<span class=\"locality\">Karancss\u00e1g</span>, <span class=\"street-address\">Kossuth \u00fat 124</span>, <span class=\"postal-code\">3163</span> <span class=\"country-name\">Magyarorsz\u00e1g</span>",
