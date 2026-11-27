@@ -399,6 +399,63 @@
                     },
                     "__typename": "Detection"
                 }
+            },
+            {
+                "speciesId": "1064",
+                "species": {
+                    "id": "1064",
+                    "scientificName": "Aegolius funereus",
+                    "commonName": "Gaty\u00e1skuvik",
+                    "thumbnailUrl": "https://media.birdweather.com/species/1064/BorealOwl-thumbnail-3acff8f066efee6a0c20ef0f4c3627ca.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/1064/BorealOwl-standard-b321bf24de334730a60b66befbb72091.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/boreal-owl",
+                    "ebirdUrl": "https://ebird.org/species/borowl",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Boreal_owl",
+                    "wikipediaSummary": "The boreal owl or Tengmalm's owl (Aegolius funereus) is a small owl. It is known as boreal owl in North America, and in Europe typically as Tengmalm's owl after Swedish naturalist Peter Gustaf Tengmalm or, more rarely, Richardson's owl after Sir John Richardson. The scientific name is from Latin. The genus name Aegolius is a type of screech owl, and funereus means \"funereal\".This species is a part of the larger grouping of owls known as Strigidae (true owl), which contains the most species of owl. The other grouping is  Tytonidae (barn owl).\nDue to the boreal owl's shyness and evasive reaction to human activities, nocturnal habits and preferred inaccessible taiga forest habitat, it is rarely seen by humans.",
+                    "color": "#006e13",
+                    "thumbhash": "ofcFBwBNK1ZAZ5mFaZaJaJZ2OPjKAqAF",
+                    "imageCredit": null,
+                    "imageLicense": "CC-BY-SA-3.0",
+                    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12498233660",
+                    "timestamp": "2026-11-27T01:40:26+01:00",
+                    "score": 4.8256681064386875,
+                    "probability": 0.03233139589428902,
+                    "confidence": 0.7,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795740026-12498233660-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795740026-12498233660-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-27T01:40:26+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261127-004026.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
             }
         ]
     }
