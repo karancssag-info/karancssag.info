@@ -77,25 +77,25 @@
                     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
                     "__typename": "Species"
                 },
-                "count": 3,
+                "count": 4,
                 "breakdown": {
                     "unlikely": 0,
                     "uncertain": 0,
                     "veryLikely": 0,
-                    "almostCertain": 3,
+                    "almostCertain": 4,
                     "__typename": "SpeciesCountBreakdown"
                 },
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12500453892",
-                    "timestamp": "2026-11-27T08:03:00+01:00",
-                    "score": 8.261676524909758,
+                    "id": "12515552205",
+                    "timestamp": "2026-11-28T07:51:15+01:00",
+                    "score": 8.406020431360979,
                     "probability": 0.45210000872612,
-                    "confidence": 0.75,
+                    "confidence": 0.8,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795762980-12500453892-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795762980-12500453892-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1795848675-12515552205-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795848675-12515552205-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -105,8 +105,8 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-27T08:03:00+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261127-070300.flac",
+                        "timestamp": "2026-11-28T07:51:15+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261128-065115.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
@@ -202,14 +202,14 @@
                 "averageProbability": null,
                 "__typename": "SpeciesCount",
                 "lastDetection": {
-                    "id": "12500028929",
-                    "timestamp": "2026-11-27T07:09:31+01:00",
-                    "score": 9.112151893406136,
+                    "id": "12515344578",
+                    "timestamp": "2026-11-28T07:28:04+01:00",
+                    "score": 8.813144507958711,
                     "probability": 0.74854576587677,
-                    "confidence": 0.81,
+                    "confidence": 0.71,
                     "certainty": "almost_certain",
-                    "voteUrl": "https://app.birdweather.com/detections/1795759771-12500028929-25704/vote",
-                    "flagUrl": "https://app.birdweather.com/detections/1795759771-12500028929-25704/flag",
+                    "voteUrl": "https://app.birdweather.com/detections/1795847284-12515344578-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795847284-12515344578-25704/flag",
                     "station": {
                         "id": "25704",
                         "name": "BirdNET-Pi - karancssag",
@@ -219,8 +219,65 @@
                         "__typename": "Station"
                     },
                     "soundscape": {
-                        "timestamp": "2026-11-27T07:09:31+01:00",
-                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261127-060931.flac",
+                        "timestamp": "2026-11-28T07:28:04+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261128-062804.flac",
+                        "duration": 3,
+                        "startTime": 0,
+                        "endTime": 3,
+                        "__typename": "Soundscape"
+                    },
+                    "__typename": "Detection"
+                }
+            },
+            {
+                "speciesId": "56",
+                "species": {
+                    "id": "56",
+                    "scientificName": "Coccothraustes coccothraustes",
+                    "commonName": "Meggyv\u00e1g\u00f3",
+                    "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+                    "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+                    "birdweatherUrl": "https://app.birdweather.com/species/hawfinch",
+                    "ebirdUrl": "https://ebird.org/species/hawfin",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawfinch",
+                    "wikipediaSummary": "The hawfinch (Coccothraustes coccothraustes) is a passerine bird in the finch family Fringillidae. It is the only species placed in the genus Coccothraustes. Its closest living relatives are the Chinese grosbeak (Eophona migratoria) and Japanese grosbeak (Eophona personata) of East Asia, and the evening grosbeak (Hesperiphona vespertina) and hooded grosbeak (Hesperiphona abeillei) of North America.\nThis bird breeds across Europe and temperate Asia (Palearctic). It is mainly resident in Europe, but many Asian birds migrate further south in the winter. It is a rare vagrant to the western islands of Alaska.\nDeciduous or mixed woodland, including parkland, with large trees \u2013 especially hornbeam \u2013 is favoured for breeding. The hawfinch builds its nest in a bush or tree, and lays 2\u20137 eggs. The food is mainly seeds and fruit kernels, especially those of cherries, which it cracks with its powerful bill. This large finch species is usually seen in a pair or small group.\nThe 16.5\u201318 cm long hawfinch is a bulky bull-headed bird, which appears very short-tailed in flight. Its head is orange-brown with a black eyestripe and bib, and a massive bill, which is black in summer but paler in winter. The upper parts are dark brown and the underparts orange.\nThe white wing bars and tail tip are striking in flight. The sexes are similar. The call is a hard chick. The song of this unobtrusive bird is quiet and mumbled.",
+                    "color": "#009135",
+                    "thumbhash": "XOgBDwKvYWRQ62V5hIx4g2aGae/HK6AF",
+                    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikils&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikils (page does not exist)\">Mikils</a>",
+                    "imageLicense": "CC BY-SA 4.0",
+                    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                    "__typename": "Species"
+                },
+                "count": 1,
+                "breakdown": {
+                    "unlikely": 0,
+                    "uncertain": 0,
+                    "veryLikely": 0,
+                    "almostCertain": 1,
+                    "__typename": "SpeciesCountBreakdown"
+                },
+                "averageProbability": null,
+                "__typename": "SpeciesCount",
+                "lastDetection": {
+                    "id": "12515536637",
+                    "timestamp": "2026-11-28T07:49:34+01:00",
+                    "score": 8.17183308501869,
+                    "probability": 0.3574446737766266,
+                    "confidence": 0.83,
+                    "certainty": "almost_certain",
+                    "voteUrl": "https://app.birdweather.com/detections/1795848574-12515536637-25704/vote",
+                    "flagUrl": "https://app.birdweather.com/detections/1795848574-12515536637-25704/flag",
+                    "station": {
+                        "id": "25704",
+                        "name": "BirdNET-Pi - karancssag",
+                        "type": "birdnetpi",
+                        "audioUrl": null,
+                        "videoUrl": null,
+                        "__typename": "Station"
+                    },
+                    "soundscape": {
+                        "timestamp": "2026-11-28T07:49:34+01:00",
+                        "url": "https://media.birdweather.com/soundscapes/25704/25704-20261128-064934.flac",
                         "duration": 3,
                         "startTime": 0,
                         "endTime": 3,
